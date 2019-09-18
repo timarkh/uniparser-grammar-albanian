@@ -16964,7 +16964,7 @@
  stem: fytyruar.|fytyruar.
  gramm: A
  paradigm: adj-2-2
- trans_en: of definite shape, designed, pictured
+ trans_en: of definite shape: designed, pictured
 
 -lexeme
  lex: fytyrëgjatë

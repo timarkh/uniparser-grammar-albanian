@@ -42416,9 +42416,9 @@
 -lexeme
  lex: vesit
  stem: vesit.//vesis.|vesit.
- gramm: V,vt,vi
+ gramm: V
  paradigm: mat
- trans_en: dew, drizzle
+ trans_en: (vi, vt) dew, drizzle
 
 -lexeme
  lex: veson
@@ -42543,9 +42543,9 @@
 -lexeme
  lex: vetëdrejtoj
  stem: vetëdrejto.|vetëdrejtua.|vetëdrejtu.
- gramm: V,vt,vi
+ gramm: V
  paradigm: lexoj
- trans_en: govern oneself
+ trans_en: (vt, vi) govern oneself
 
 -lexeme
  lex: vetëflijohem
