@@ -418,6 +418,13 @@
  trans_en: Elbasan (town, county)
 
 -lexeme
+ lex: Elisabetë
+ stem: elisabeta.|elisabetë.//elisabettë.|elisabet.
+ gramm: NOUN,f,anim
+ paradigm: 3a
+ trans_en: Elisabeth
+
+-lexeme
  lex: Ersekë
  stem: erseka.|ersekë.|ersek.
  gramm: NOUN,f,inanim
@@ -455,6 +462,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: Europe
+
+-lexeme
+ lex: Evë
+ stem: eva.|evë.|ev.
+ gramm: NOUN,f,anim
+ paradigm: 3a
+ trans_en: Eva
 
 -lexeme
  lex: Faik
@@ -507,6 +521,13 @@
  paradigm: 1b
  paradigm: 5b
  trans_en: Frashëri (surname)
+
+-lexeme
+ lex: Gavrill
+ stem: gavrillë.|gavrill.
+ gramm: NOUN,m,anim
+ paradigm: 1a
+ trans_en: Gabriel
 
 -lexeme
  lex: Gavrillovska
@@ -633,6 +654,13 @@
  gramm: NOUN,m,anim
  paradigm: 1b
  trans_en: Gruevski (surname)
+
+-lexeme
+ lex: Grëgor
+ stem: grëgorë.|grëgor.
+ gramm: NOUN,m,anim
+ paradigm: 1a
+ trans_en: Gregory
 
 -lexeme
  lex: Hajri
@@ -830,6 +858,13 @@
  trans_en: Ismailović (surname)
 
 -lexeme
+ lex: Isus
+ stem: isusë.|isus.//isuj.
+ gramm: NOUN,m,anim
+ paradigm: 1a
+ trans_en: Jesus
+
+-lexeme
  lex: Itali
  stem: itali.|itali.
  gramm: NOUN,f,inanim
@@ -924,6 +959,13 @@
  gramm: NOUN,f,inanim
  paradigm: 3d
  trans_en: California
+
+-lexeme
+ lex: Kalvar
+ stem: kalvarë.|kalvar.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ trans_en: Calvary
 
 -lexeme
  lex: Kanada
@@ -1151,6 +1193,14 @@
 -lexeme
  lex: Krisht
  stem: krishtë.//krishta.|krisht.
+ gramm: NOUN,m,anim
+ paradigm: 1a
+ paradigm: 5a
+ trans_en: Christ
+
+-lexeme
+ lex: Krisht
+ stem: krishtë.//krishta.|krisht.//krish.//krisht.//krish.
  gramm: NOUN,m,anim
  paradigm: 1a
  paradigm: 5a
@@ -1401,6 +1451,13 @@
  trans_en: Myzeqe (region)
 
 -lexeme
+ lex: Mëri
+ stem: mëri.//mërí.|mëri.//mërí.
+ gramm: NOUN,f,anim
+ paradigm: 3d
+ trans_en: Maria (female name)
+
+-lexeme
  lex: Nedellkovska
  stem: nedellkovskaë.|nedellkovska.//nedelkovska.|nedellkovsk.//nedelkovsk.
  gramm: NOUN,f,anim
@@ -1479,6 +1536,14 @@
  trans_en: Panovski (surname)
 
 -lexeme
+ lex: Papë
+ stem: papa.|papë.|pap.//papp.
+ gramm: NOUN,m,anim
+ paradigm: 3a
+ paradigm: 5a
+ trans_en: Pope
+
+-lexeme
  lex: Pashasanxhak
  stem: pashasanxhaqe.|pashasanxhak.
  gramm: NOUN,mf,inanim
@@ -1506,6 +1571,13 @@
  gramm: NOUN,f,inanim
  paradigm: 3a
  trans_en: Peza (town southwest of Tirana)
+
+-lexeme
+ lex: Pilat
+ stem: pilatë.|pilat.|pila.
+ gramm: NOUN,m,anim
+ paradigm: 1a
+ trans_en: Pilate
 
 -lexeme
  lex: Platon
@@ -1800,6 +1872,13 @@
  gramm: NOUN,m,anim
  paradigm: 1b
  trans_en: Ristevski (surname)
+
+-lexeme
+ lex: Romë
+ stem: roma.|romë.|rom.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ trans_en: Roma
 
 -lexeme
  lex: Romë
@@ -4084,6 +4163,14 @@
  trans_en: aphorism
 
 -lexeme
+ lex: aformi
+ stem: aformi.|aformi.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ trans_en: cause
+
+-lexeme
  lex: afresk
  stem: afreske.|afresk.
  gramm: NOUN,mf,inanim
@@ -5713,6 +5800,13 @@
  trans_en: native
 
 -lexeme
+ lex: anastisurë
+ stem: anastisurë.|anastisurë.|anastisur.|anastisur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: resurrection
+
+-lexeme
  lex: anatomi
  stem: anatomi.|anatomi.
  gramm: NOUN,f,inanim
@@ -6596,6 +6690,13 @@
  trans_en: apocalypse
 
 -lexeme
+ lex: apolips
+ stem: apolipsë.|apolips.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ trans_en: modesty, discretion
+
+-lexeme
  lex: apologjet
  stem: apologjetë.|apologjet.
  gramm: NOUN,m,anim
@@ -6626,6 +6727,22 @@
  paradigm: 3b
  paradigm: 5a
  trans_en: female native of Apollonia
+
+-lexeme
+ lex: apomoni
+ stem: apomoni.|apomoni.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ trans_en: patience
+
+-lexeme
+ lex: apostol
+ stem: apostolë.|apostol.|apostol.
+ lexref: apostull
+ gramm: NOUN,m,anim
+ paradigm: 5c-1
+ trans_en: apostle
 
 -lexeme
  lex: apostrof
@@ -6840,6 +6957,13 @@
  paradigm: 3d
  paradigm: 5b
  trans_en: future events
+
+-lexeme
+ lex: ardhurë
+ stem: ardhurë.|ardhurë.|ardhur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: arrival
 
 -lexeme
  lex: ardhës
@@ -7814,6 +7938,13 @@
  trans_en: arable land
 
 -lexeme
+ lex: arësierë
+ stem: arësierë.|arësierë.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: repentance
+
+-lexeme
  lex: arësim
  stem: arësime.|arësim.
  gramm: NOUN,mf,inanim,nonst
@@ -8717,6 +8848,15 @@
  trans_en: Austrian woman
 
 -lexeme
+ lex: autar
+ stem: autarë.|autar.
+ lexref: altar
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 1a
+ paradigm: 5a
+ trans_en: altar
+
+-lexeme
  lex: autarki
  stem: autarki.|autarki.
  gramm: NOUN,f,inanim
@@ -9595,6 +9735,13 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: Bayram
+
+-lexeme
+ lex: bajturë
+ stem: bajturë.|bajturë.|bajtur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: carrying
 
 -lexeme
  lex: bajukë
@@ -10702,16 +10849,16 @@
 
 -lexeme
  lex: barasditë
- stem: barasditë.|barasditë.|barasdit.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: barasdita.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: equinox
 
 -lexeme
  lex: barasditë
- stem: barasdita.
- gramm: NOUN,f,inanim,nonst
+ stem: barasditë.|barasditë.|barasdit.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: equinox
 
@@ -12622,6 +12769,13 @@
  trans_en: wide wool belt
 
 -lexeme
+ lex: be
+ stem: be.|be.|bej.
+ gramm: NOUN,f,inanim
+ paradigm: 3c
+ trans_en: oath; vow, pledge, swearing; testimony
+
+-lexeme
  lex: befasi
  stem: befasi.|befasi.
  gramm: NOUN,f,inanim
@@ -13058,16 +13212,16 @@
 
 -lexeme
  lex: bimë
- stem: bimë.|bimë.|bim.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: bima.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: plant
 
 -lexeme
  lex: bimë
- stem: bima.
- gramm: NOUN,f,inanim,nonst
+ stem: bimë.|bimë.|bim.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: plant
 
@@ -13253,7 +13407,7 @@
 
 -lexeme
  lex: bir
- stem: bij.|bir.
+ stem: bij.//bilj.|bir.
  gramm: NOUN,m,anim
  paradigm: 1a
  paradigm: 5b
@@ -13306,6 +13460,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: beer
+
+-lexeme
+ lex: birrë
+ stem: birrë.|birrë.|birr.
+ gramm: NOUN,m,anim,nonst
+ paradigm: 1b
+ trans_en: son
 
 -lexeme
  lex: birucë
@@ -13968,16 +14129,16 @@
 
 -lexeme
  lex: bjeshkë
- stem: bjeshkë.|bjeshkë.|bjeshk.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: bjeshka.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: highland, mountain pasture
 
 -lexeme
  lex: bjeshkë
- stem: bjeshka.
- gramm: NOUN,f,inanim,nonst
+ stem: bjeshkë.|bjeshkë.|bjeshk.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: highland, mountain pasture
 
@@ -14196,16 +14357,16 @@
 
 -lexeme
  lex: bletë
- stem: bletë.|bletë.|blet.
- gramm: NOUN,f,anim
- paradigm: 3a
+ stem: bleta.
+ gramm: NOUN,f,anim,nonst
  paradigm: 5a
  trans_en: bee
 
 -lexeme
  lex: bletë
- stem: bleta.
- gramm: NOUN,f,anim,nonst
+ stem: bletë.|bletë.|blet.
+ gramm: NOUN,f,anim
+ paradigm: 3a
  paradigm: 5a
  trans_en: bee
 
@@ -14323,16 +14484,16 @@
 
 -lexeme
  lex: blloçkëlopë
- stem: blloçkëlopë.|blloçkëlopë.|blloçkëlop.
- gramm: NOUN,f,anim
- paradigm: 3a
+ stem: blloçkëlopa.
+ gramm: NOUN,f,anim,nonst
  paradigm: 5a
  trans_en: European green toad (Bufo viridis)
 
 -lexeme
  lex: blloçkëlopë
- stem: blloçkëlopa.
- gramm: NOUN,f,anim,nonst
+ stem: blloçkëlopë.|blloçkëlopë.|blloçkëlop.
+ gramm: NOUN,f,anim
+ paradigm: 3a
  paradigm: 5a
  trans_en: European green toad (Bufo viridis)
 
@@ -17503,16 +17664,16 @@
 
 -lexeme
  lex: buzë
- stem: buzë.|buzë.|buz.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: buza.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: lip; edge; waterside; steep
 
 -lexeme
  lex: buzë
- stem: buza.
- gramm: NOUN,f,inanim,nonst
+ stem: buzë.|buzë.|buz.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: lip; edge; waterside; steep
 
@@ -17810,6 +17971,14 @@
  paradigm: 2a
  paradigm: 5a
  trans_en: bracelet
+
+-lexeme
+ lex: bëme
+ stem: bëme.|bëme.|bëmej.
+ gramm: NOUN,f,inanim
+ paradigm: 3c
+ paradigm: 5a
+ trans_en: deed
 
 -lexeme
  lex: bëmirës
@@ -20144,16 +20313,16 @@
 
 -lexeme
  lex: dallgë
- stem: dallgë.|dallgë.|dallg.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: dallga.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: wave
 
 -lexeme
  lex: dallgë
- stem: dallga.
- gramm: NOUN,f,inanim,nonst
+ stem: dallgë.|dallgë.|dallg.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: wave
 
@@ -20660,6 +20829,13 @@
  trans_en: female lover
 
 -lexeme
+ lex: dashurë
+ stem: dashurë.|dashurë.|dashur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: love; charity
+
+-lexeme
  lex: dasi
  stem: dasi.|dasi.
  gramm: NOUN,f,anim
@@ -21074,6 +21250,13 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: dean's office
+
+-lexeme
+ lex: dekatinë
+ stem: dekatina.|dekatinë.|dekatin.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ trans_en: tithe
 
 -lexeme
  lex: deklaratë
@@ -22739,6 +22922,14 @@
  trans_en: rake
 
 -lexeme
+ lex: dhëmburë
+ stem: dhëmbura.|dhëmburë.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ paradigm: 5a
+ trans_en: pain, torment
+
+-lexeme
  lex: dhëmbës
  stem: dhëmbës.|dhëmbës.
  gramm: NOUN,m,inanim
@@ -23598,6 +23789,15 @@
  trans_en: disciple
 
 -lexeme
+ lex: dishipull
+ stem: dishipulj.|dishipull.
+ lexref: dishepull
+ gramm: NOUN,m,anim
+ paradigm: 1a
+ paradigm: 5f
+ trans_en: disciple
+
+-lexeme
  lex: dishtë
  stem: dishta.|dishtë.|disht.
  gramm: NOUN,f,inanim
@@ -23913,17 +24113,24 @@
  trans_en: knowledge
 
 -lexeme
- lex: ditë
- stem: ditë.|ditë.|dit.
- gramm: NOUN,f,inanim
- paradigm: 3a
- paradigm: 5a
- trans_en: day
+ lex: diturë
+ stem: diturë.|diturë.|ditur.|ditur.|ditur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: science; knowledge
 
 -lexeme
  lex: ditë
  stem: dita.
  gramm: NOUN,f,inanim,nonst
+ paradigm: 5a
+ trans_en: day
+
+-lexeme
+ lex: ditë
+ stem: ditë.|ditë.|dit.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: day
 
@@ -24222,6 +24429,21 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: disintegration
+
+-lexeme
+ lex: djafuar
+ stem: djafuara.|djafuar.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ trans_en: usefulness
+
+-lexeme
+ lex: djaljas
+ stem: djaljas.|djaljas.
+ gramm: NOUN,m,anim
+ paradigm: 1a
+ paradigm: 5c
+ trans_en: devil
 
 -lexeme
  lex: djall
@@ -25448,6 +25670,13 @@
 
 -lexeme
  lex: dre
+ stem: dre.|dre.
+ gramm: NOUN,f,inanim
+ paradigm: 3c
+ trans_en: fear
+
+-lexeme
+ lex: dre
  stem: drerë.|dre.|drer.
  gramm: NOUN,m,anim
  paradigm: 1b
@@ -26547,6 +26776,13 @@
  trans_en: appearance, phenomenon
 
 -lexeme
+ lex: dukurë
+ stem: dukuarë.//dukurë.|dukuarë.//dukurë.|dukuar.//dukur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: presentation; theophany
+
+-lexeme
  lex: dukë
  stem: duka.|dukë.|duk.
  gramm: NOUN,f,inanim
@@ -26680,6 +26916,14 @@
  paradigm: 3d
  paradigm: 5b
  trans_en: endurance, patience
+
+-lexeme
+ lex: durëtiljë
+ stem: durëtiljë.//dhurëtiljë.|durëtiljë.//dhurëtiljë.|durëtilj.//dhurëtilj.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ paradigm: 5a
+ trans_en: gift, donation
 
 -lexeme
  lex: dush
@@ -27532,6 +27776,22 @@
  trans_en: female lover, admirer
 
 -lexeme
+ lex: dëtirë
+ stem: dëtira.|dëtirë.
+ lexref: detyrë
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3a
+ trans_en: duty, debt
+
+-lexeme
+ lex: dëtirës
+ stem: dëtirës.|dëtirës.
+ gramm: NOUN,m,anim
+ paradigm: 1a
+ paradigm: 5c
+ trans_en: debtor
+
+-lexeme
  lex: ecje
  stem: ecje.|ecje.|ecjej.|ecj.
  gramm: NOUN,f,inanim
@@ -27712,6 +27972,13 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: screen adaptation
+
+-lexeme
+ lex: eksijsis
+ stem: eksijsisë.|eksijsis.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ trans_en: demonstration; exposure
 
 -lexeme
  lex: ekskluzivitet
@@ -27954,6 +28221,13 @@
  trans_en: existence
 
 -lexeme
+ lex: elejmosin
+ stem: elejmosina.|elejmosin.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ trans_en: mercy
+
+-lexeme
  lex: elektorat
  stem: elektorate.|elektorat.
  gramm: NOUN,mf,inanim
@@ -28015,6 +28289,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: elite
+
+-lexeme
+ lex: elpidë
+ stem: elpida.|elpidë.|elpid.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ trans_en: hope
 
 -lexeme
  lex: emancipim
@@ -28128,6 +28409,14 @@
  trans_en: emotionality
 
 -lexeme
+ lex: emë
+ stem: emë.|emë.|em.
+ gramm: NOUN,f,anim,nonst
+ lexref: ëmë
+ paradigm: 3a
+ trans_en: mother
+
+-lexeme
  lex: emën
  stem: emna.|emën.|emn.//emën.
  gramm: NOUN,m,inanim,Gheg
@@ -28166,6 +28455,15 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: designation, denomination
+
+-lexeme
+ lex: emërë
+ stem: emërë.|emërë.|emër.
+ lexref: emër
+ gramm: NOUN,m,inanim
+ paradigm: 1b
+ paradigm: 5c-1
+ trans_en: name; noun
 
 -lexeme
  lex: enciklopedi
@@ -29620,6 +29918,13 @@
  gramm: NOUN,n,inanim
  paradigm: 4d
  trans_en: pardon
+
+-lexeme
+ lex: falurë
+ stem: falurë.|falurë.|falur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: annunciation
 
 -lexeme
  lex: falë
@@ -31157,6 +31462,13 @@
  trans_en: elephant
 
 -lexeme
+ lex: filakosmë
+ stem: filakosmë.|filakosmë.|filakosm.
+ gramm: NOUN,m,anim
+ paradigm: 5c-1
+ trans_en: prisoner
+
+-lexeme
  lex: filan
  stem: filanë.|filan.
  gramm: NOUN,m,anim
@@ -32488,16 +32800,16 @@
 
 -lexeme
  lex: fletë
- stem: fletë.|fletë.|flet.
- gramm: NOUN,f,inanim
+ stem: fleta.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 3a
  paradigm: 5a
  trans_en: leaf; sheet, page; wing
 
 -lexeme
  lex: fletë
- stem: fleta.
- gramm: NOUN,f,inanim,nonst
+ stem: fletë.|fletë.|flet.
+ gramm: NOUN,f,inanim
  paradigm: 3a
  paradigm: 5a
  trans_en: leaf; sheet, page; wing
@@ -33533,9 +33845,10 @@
 
 -lexeme
  lex: fqinj
- stem: fqinjë.|fqinj.
+ stem: fqinjë.|fqinj.//fqinjë.
  gramm: NOUN,m,anim
  paradigm: 1a
+ paradigm: 3c
  paradigm: 5a
  trans_en: neighbour
 
@@ -34800,16 +35113,16 @@
 
 -lexeme
  lex: fundjavë
- stem: fundjavë.|fundjavë.|fundjav.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: fundjava.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: weekend
 
 -lexeme
  lex: fundjavë
- stem: fundjava.
- gramm: NOUN,f,inanim,nonst
+ stem: fundjavë.|fundjavë.|fundjav.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: weekend
 
@@ -37567,17 +37880,11 @@
 
 -lexeme
  lex: gjallë
- stem: gjallë.|gjallë.
- gramm: NOUN,n,inanim
- paradigm: 4a
- trans_en: life
-
--lexeme
- lex: gjallë
  stem: gjallë.|gjallë.|gjall.
  gramm: NOUN,m,inanim
  paradigm: 1b
  paradigm: 5a
+ paradigm: 5b
  trans_en: living being, the living
 
 -lexeme
@@ -38109,6 +38416,13 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: rooster
+
+-lexeme
+ lex: gjellë
+ stem: gjella.|gjellë.|gjell.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ trans_en: life
 
 -lexeme
  lex: gjellë
@@ -38900,6 +39214,14 @@
  trans_en: giant
 
 -lexeme
+ lex: gjik
+ stem: gjiqe.|gjik.
+ lexref: gjyq
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 1a
+ trans_en: trial
+
+-lexeme
  lex: gjilanas
  stem: gjilanas.|gjilanas.
  gramm: NOUN,m,anim
@@ -39461,16 +39783,16 @@
 
 -lexeme
  lex: gjuhë
- stem: gjuhë.|gjuhë.|gjuh.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: gjuha.//gjuhëra.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: tongue; language
 
 -lexeme
  lex: gjuhë
- stem: gjuha.//gjuhëra.
- gramm: NOUN,f,inanim,nonst
+ stem: gjuhë.|gjuhë.|gjuh.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: tongue; language
 
@@ -39491,16 +39813,16 @@
 
 -lexeme
  lex: gjuhëlopë
- stem: gjuhëlopë.|gjuhëlopë.|gjuhëlop.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: gjuhëlopa.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: bugloss (Anchusa officinalis)
 
 -lexeme
  lex: gjuhëlopë
- stem: gjuhëlopa.
- gramm: NOUN,f,inanim,nonst
+ stem: gjuhëlopë.|gjuhëlopë.|gjuhëlop.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: bugloss (Anchusa officinalis)
 
@@ -39664,16 +39986,16 @@
 
 -lexeme
  lex: gjurmë
- stem: gjurmë.|gjurmë.|gjurm.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: gjurma.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: track, trace
 
 -lexeme
  lex: gjurmë
- stem: gjurma.
- gramm: NOUN,f,inanim,nonst
+ stem: gjurmë.|gjurmë.|gjurm.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: track, trace
 
@@ -40362,6 +40684,13 @@
  trans_en: gladiator
 
 -lexeme
+ lex: glarë
+ stem: glarë.|glarë.|glar.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: similarity; likeness
+
+-lexeme
  lex: glasë
  stem: glasë.|glasë.|glas.
  gramm: NOUN,f,inanim
@@ -40497,12 +40826,29 @@
  trans_en: globalism
 
 -lexeme
+ lex: gluhë
+ stem: gluhë.|gluhë.|gluh.
+ lexref: gjuhë
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3a
+ paradigm: 5a
+ trans_en: tongue; language
+
+-lexeme
  lex: glukozë
  stem: glukoza.|glukozë.|glukoz.
  gramm: NOUN,f,inanim
  paradigm: 3a
  paradigm: 5a
  trans_en: glucose
+
+-lexeme
+ lex: glëmb
+ stem: glëmba.|glëmb.
+ lexref: gjemb
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 5a
+ trans_en: thorn
 
 -lexeme
  lex: gnoseologji
@@ -41001,6 +41347,15 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: juniper
+
+-lexeme
+ lex: golë
+ stem: golë.//goljë.|golë.//goljë.|gol.//golj.
+ lexref: gojë
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3a
+ paradigm: 5a
+ trans_en: mouth
 
 -lexeme
  lex: gomar
@@ -42269,15 +42624,8 @@
  gramm: NOUN,f,anim
  paradigm: 3a
  paradigm: 5b
+ paradigm: 5a
  trans_en: woman; wife
-
--lexeme
- lex: grua
- stem: gra.|grua.|gruaj.
- gramm: NOUN,f,anim
- paradigm: 3e
- paradigm: 5b
- trans_en: woman
 
 -lexeme
  lex: gruar
@@ -42875,6 +43223,14 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: outer covering, shell
+
+-lexeme
+ lex: gujdes
+ stem: gujdesë.|gujdes.
+ lexref: kujdes
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 1a
+ trans_en: care, attention
 
 -lexeme
  lex: gujerm
@@ -46443,16 +46799,16 @@
 
 -lexeme
  lex: hekurudhë
- stem: hekurudhë.|hekurudhë.|hekurudh.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: hekurudha.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: railroad
 
 -lexeme
  lex: hekurudhë
- stem: hekurudha.
- gramm: NOUN,f,inanim,nonst
+ stem: hekurudhë.|hekurudhë.|hekurudh.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: railroad
 
@@ -46877,6 +47233,13 @@
  paradigm: 3b
  paradigm: 5a
  trans_en: testicles
+
+-lexeme
+ lex: heredhespinë
+ stem: heredhespina.|heredhespinë.|heredhespin.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ trans_en: Salve Regina
 
 -lexeme
  lex: heretik
@@ -47889,6 +48252,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: hypothesis
+
+-lexeme
+ lex: hipurë
+ stem: hipurë.|hipurë.|hipur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: ascension; lifting up
 
 -lexeme
  lex: hipës
@@ -49404,6 +49774,14 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: full moon
+
+-lexeme
+ lex: hírrë
+ stem: hírra.|hírrë.
+ lexref: lodër
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3a
+ trans_en: kindness, sake; heavenly grace
 
 -lexeme
  lex: ibret
@@ -52219,6 +52597,14 @@
  trans_en: incision; recording
 
 -lexeme
+ lex: inëzot
+ stem: tënëzotëra.|inëzot.|tënëzo.|tinëzot.//tinzot.//tinézot.|sinëzot.
+ gramm: NOUN,m,anim
+ paradigm: inezot
+ paradigm: 5a
+ trans_en: God, Our Lord
+
+-lexeme
  lex: ipekakuanë
  stem: ipekakuana.|ipekakuanë.|ipekakuan.
  gramm: NOUN,f,inanim
@@ -53613,6 +53999,14 @@
  trans_en: bed, mattress
 
 -lexeme
+ lex: jatri
+ stem: jatri.|jatri.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ trans_en: healing; curing
+
+-lexeme
  lex: javore
  stem: javore.|javore.|javorej.|javorj.
  gramm: NOUN,f,inanim
@@ -53622,16 +54016,16 @@
 
 -lexeme
  lex: javë
- stem: javë.|javë.|jav.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: java.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: week
 
 -lexeme
  lex: javë
- stem: java.
- gramm: NOUN,f,inanim,nonst
+ stem: javë.|javë.|jav.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: week
 
@@ -56876,6 +57270,14 @@
  gramm: NOUN,m,inanim
  paradigm: 2a
  trans_en: cambric
+
+-lexeme
+ lex: kambë
+ stem: kambë.|kambë.|kamb.
+ lexref: këmbë
+ gramm: NOUN,f,inanim
+ paradigm: 5a
+ trans_en: leg; foot
 
 -lexeme
  lex: kame
@@ -60860,6 +61262,13 @@
  trans_en: sty on eyelid
 
 -lexeme
+ lex: kathartir
+ stem: kathartira.|kathartir.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ trans_en: purgatory
+
+-lexeme
  lex: kathedër
  stem: kathedra.|kathedër.|kathedr.
  gramm: NOUN,f,inanim
@@ -63616,6 +64025,15 @@
  trans_en: handle, crank
 
 -lexeme
+ lex: klishë
+ stem: klisha.|klishë.|klish.
+ lexref: kishë
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3a
+ paradigm: 5a
+ trans_en: church
+
+-lexeme
  lex: klisyrë
  stem: klisyra.|klisyrë.|klisyr.
  gramm: NOUN,f,inanim
@@ -63956,6 +64374,14 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: cover, lid; shutter
+
+-lexeme
+ lex: klënë
+ stem: klënë.|klënë.
+ gramm: NOUN,n,inanim
+ paradigm: 4b
+ paradigm: 5b
+ trans_en: perfection
 
 -lexeme
  lex: kmesë
@@ -64445,16 +64871,16 @@
 
 -lexeme
  lex: kohë
- stem: kohë.|kohë.|koh.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: koha.//kohëra.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: time; weather
 
 -lexeme
  lex: kohë
- stem: koha.//kohëra.
- gramm: NOUN,f,inanim,nonst
+ stem: kohë.|kohë.|koh.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: time; weather
 
@@ -67280,6 +67706,14 @@
  trans_en: conifers (Coniferae)
 
 -lexeme
+ lex: konismë
+ stem: konismë.|konismë.|konism.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ paradigm: 5a
+ trans_en: icon
+
+-lexeme
  lex: koniunksion
  stem: koniunksione.|koniunksion.
  gramm: NOUN,mf,inanim
@@ -68718,6 +69152,14 @@
  trans_en: common dill (Anethum graveolens)
 
 -lexeme
+ lex: kopështë
+ stem: kopështë.|kopështë.|kopësht.|kopësht.
+ lexref: kopsht
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 1b
+ trans_en: garden
+
+-lexeme
  lex: koqe
  stem: koqe.|koqe.|koqej.|koqj.
  gramm: NOUN,f,inanim
@@ -70104,6 +70546,13 @@
  trans_en: bone
 
 -lexeme
+ lex: kosm
+ stem: kosm.|kosm.|kosmi.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ trans_en: world; people
+
+-lexeme
  lex: kosore
  stem: kosore.|kosore.|kosorej.|kosorj.
  gramm: NOUN,f,inanim
@@ -70915,6 +71364,14 @@
  trans_en: dry and bare land; rocky soil
 
 -lexeme
+ lex: krahë
+ stem: krahë.|krah.
+ lexref: krah
+ gramm: NOUN,n,inanim
+ paradigm: 4a-1
+ trans_en: arm
+
+-lexeme
  lex: krahëdrejtë
  stem: krahëdrejtë.
  gramm: NOUN,m,anim
@@ -71539,7 +71996,7 @@
 
 -lexeme
  lex: kreshmë
- stem: kreshma.|kreshmë.|kreshm.
+ stem: kreshma.//kreshmë.|kreshmë.|kreshm.
  gramm: NOUN,f,inanim
  paradigm: 3a
  paradigm: 5a
@@ -71745,6 +72202,14 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: mudhole
+
+-lexeme
+ lex: krie
+ stem: krerë.|krie.
+ gramm: NOUN,n,inanim,nonst
+ lexref: krye
+ paradigm: 4b
+ trans_en: head; mind; beginning; river source
 
 -lexeme
  lex: krifshë
@@ -72097,6 +72562,14 @@
  trans_en: salting
 
 -lexeme
+ lex: kriq
+ stem: kriq.|kriq.
+ lexref: kryq
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3c
+ trans_en: cross
+
+-lexeme
  lex: krir
  stem: krira.|krir.
  gramm: NOUN,m,inanim
@@ -72119,6 +72592,14 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: Christianity
+
+-lexeme
+ lex: krishterë
+ stem: krishterë.|krishterë.|krishter.
+ gramm: NOUN,m,anim
+ paradigm: 1b
+ paradigm: 5a
+ trans_en: Christian
 
 -lexeme
  lex: krishtlindje
@@ -74078,16 +74559,16 @@
 
 -lexeme
  lex: kryeradhë
- stem: kryeradhë.|kryeradhë.|kryeradh.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: kryeradha.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: headline
 
 -lexeme
  lex: kryeradhë
- stem: kryeradha.
- gramm: NOUN,f,inanim,nonst
+ stem: kryeradhë.|kryeradhë.|kryeradh.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: headline
 
@@ -74197,16 +74678,16 @@
 
 -lexeme
  lex: kryeshkallë
- stem: kryeshkallë.|kryeshkallë.|kryeshkall.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: kryeshkalla.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: top of the stairs
 
 -lexeme
  lex: kryeshkallë
- stem: kryeshkalla.
- gramm: NOUN,f,inanim,nonst
+ stem: kryeshkallë.|kryeshkallë.|kryeshkall.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: top of the stairs
 
@@ -74705,6 +75186,15 @@
  trans_en: haircomb
 
 -lexeme
+ lex: krëmte
+ stem: krëmte.|krëmte.|krëmtej.|krëmtj.
+ lexref: kremte
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3b
+ paradigm: 5a
+ trans_en: religious holiday, holy day
+
+-lexeme
  lex: krënd
  stem: krënde.|krënd.
  gramm: NOUN,mf,inanim
@@ -74737,12 +75227,28 @@
  trans_en: area thick with dry bush
 
 -lexeme
+ lex: krështerë
+ stem: krështerë.|krështerë.|krështer.
+ lexref: krishterë
+ gramm: NOUN,m,anim,nonst
+ paradigm: 1b
+ paradigm: 5b
+ trans_en: Christian
+
+-lexeme
  lex: ksant
  stem: ksantë.|ksant.
  gramm: NOUN,m,inanim
  paradigm: 1a
  paradigm: 5a
  trans_en: cocklebur (Xanthium)
+
+-lexeme
+ lex: ksemologisurë
+ stem: ksemologisurë.|ksemologisurë.|ksemologisur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: confession
 
 -lexeme
  lex: ksenofob
@@ -74799,6 +75305,14 @@
  paradigm: 3f
  paradigm: 5a
  trans_en: long-haired nymph of rivers/lakes
+
+-lexeme
+ lex: kshill
+ stem: kshilla.|kshill.//kshil.
+ lexref: këshill
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 1a
+ trans_en: advise, counsel
 
 -lexeme
  lex: kshtarpë
@@ -75690,6 +76204,13 @@
  trans_en: crane (Grus grus)
 
 -lexeme
+ lex: kujtes
+ stem: kujtes.|kujtes.
+ gramm: NOUN,m,inanim
+ paradigm: 5c
+ trans_en: attention
+
+-lexeme
  lex: kujtesë
  stem: kujtesa.|kujtesë.|kujtes.
  gramm: NOUN,f,inanim
@@ -76432,6 +76953,15 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: coulomb
+
+-lexeme
+ lex: kulonë
+ stem: kulona.|kulonë.|kulon.
+ lexref: kolonë
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3a
+ paradigm: 5a
+ trans_en: column
 
 -lexeme
  lex: kulotës
@@ -77756,6 +78286,13 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: picket posted as a guard
+
+-lexeme
+ lex: kunkim
+ stem: kunkime.|kunkim.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ trans_en: communion; sacrament
 
 -lexeme
  lex: kunup
@@ -79274,16 +79811,16 @@
 
 -lexeme
  lex: këmbëlopë
- stem: këmbëlopë.|këmbëlopë.|këmbëlop.
- gramm: NOUN,f,anim
- paradigm: 3a
+ stem: këmbëlopa.
+ gramm: NOUN,f,anim,nonst
  paradigm: 5a
  trans_en: eagle
 
 -lexeme
  lex: këmbëlopë
- stem: këmbëlopa.
- gramm: NOUN,f,anim,nonst
+ stem: këmbëlopë.|këmbëlopë.|këmbëlop.
+ gramm: NOUN,f,anim
+ paradigm: 3a
  paradigm: 5a
  trans_en: eagle
 
@@ -79849,16 +80386,16 @@
 
 -lexeme
  lex: këngë
- stem: këngë.|këngë.|këng.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: kënga.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: song, canto
 
 -lexeme
  lex: këngë
- stem: kënga.
- gramm: NOUN,f,inanim,nonst
+ stem: këngë.|këngë.|këng.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: song, canto
 
@@ -79928,16 +80465,16 @@
 
 -lexeme
  lex: këpucë
- stem: këpucë.|këpucë.|këpuc.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: këpuca.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: shoe; agent's fee
 
 -lexeme
  lex: këpucë
- stem: këpuca.
- gramm: NOUN,f,inanim,nonst
+ stem: këpucë.|këpucë.|këpuc.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: shoe; agent's fee
 
@@ -83353,6 +83890,14 @@
  trans_en: caress, flattery
 
 -lexeme
+ lex: lefteri
+ stem: lefteri.|lefteri.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ trans_en: moderation
+
+-lexeme
  lex: legalizim
  stem: legalizime.|legalizim.
  gramm: NOUN,mf,inanim
@@ -83948,6 +84493,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: thin mud; grime
+
+-lexeme
+ lex: lerë
+ stem: lerë.|lerë.
+ gramm: NOUN,n,inanim
+ paradigm: 4b
+ trans_en: birth
 
 -lexeme
  lex: lesh
@@ -85059,6 +85611,14 @@
  trans_en: maliciousness
 
 -lexeme
+ lex: lihudi
+ stem: lihudi.|lihudi.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ trans_en: gluttony
+
+-lexeme
  lex: lijim
  stem: lijime.|lijim.
  gramm: NOUN,mf,inanim
@@ -85471,6 +86031,14 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: corpse; remains
+
+-lexeme
+ lex: lipësi
+ stem: lipësi.//lipisi.|lipësi.//lipisi.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ trans_en: pity
 
 -lexeme
  lex: liq
@@ -86556,6 +87124,13 @@
  trans_en: sort; variety
 
 -lexeme
+ lex: llojasurë
+ stem: llojasurë.|llojasurë.|llojasur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: examination
+
+-lexeme
  lex: llojllojshmëri
  stem: llojllojshmëri.|llojllojshmëri.
  gramm: NOUN,f,inanim
@@ -86570,6 +87145,13 @@
  paradigm: 3d
  paradigm: 5b
  trans_en: diversity, variety
+
+-lexeme
+ lex: llojsmo
+ stem: llojsmo.|llojsmo.//loismo.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ trans_en: mind, intellect
 
 -lexeme
  lex: llokajë
@@ -86986,6 +87568,14 @@
  trans_en: amusement, game
 
 -lexeme
+ lex: lodrë
+ stem: lodra.|lodrë.
+ lexref: lodër
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3a
+ trans_en: toy; game
+
+-lexeme
  lex: lodër
  stem: lodra.|lodër.|lodr.
  gramm: NOUN,f,inanim
@@ -87072,6 +87662,14 @@
  paradigm: 3d
  paradigm: 5b
  trans_en: loud wailing and mourning
+
+-lexeme
+ lex: loj
+ stem: loje.|loj.
+ lexref: lloj
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 5a
+ trans_en: sort; variety
 
 -lexeme
  lex: lojbë
@@ -87298,16 +87896,16 @@
 
 -lexeme
  lex: lopë
- stem: lopë.|lopë.|lop.
- gramm: NOUN,f,anim
- paradigm: 3a
+ stem: lopa.
+ gramm: NOUN,f,anim,nonst
  paradigm: 5a
  trans_en: cow
 
 -lexeme
  lex: lopë
- stem: lopa.
- gramm: NOUN,f,anim,nonst
+ stem: lopë.|lopë.|lop.
+ gramm: NOUN,f,anim
+ paradigm: 3a
  paradigm: 5a
  trans_en: cow
 
@@ -87356,6 +87954,13 @@
  gramm: NOUN,m,inanim
  paradigm: 1a
  paradigm: 5e
+ trans_en: tear
+
+-lexeme
+ lex: lot
+ stem: lote.
+ gramm: NOUN,m,inanim
+ paradigm: 5a
  trans_en: tear
 
 -lexeme
@@ -88696,6 +89301,13 @@
 
 -lexeme
  lex: lume
+ stem: lume.|lume.|lumej.
+ gramm: NOUN,f,inanim
+ paradigm: 5a
+ trans_en: beatitude
+
+-lexeme
+ lex: lume
  stem: lume.|lume.|lumej.|lumj.
  gramm: NOUN,f,inanim
  paradigm: 3b
@@ -89379,6 +89991,15 @@
  paradigm: 3b
  paradigm: 5a
  trans_en: blinding light, glare
+
+-lexeme
+ lex: lëfdi
+ stem: lefdi.//lëfdi.|lefdi.//lëfdi.
+ lexref: lavdi
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3d
+ paradigm: 5b
+ trans_en: glory
 
 -lexeme
  lex: lëfore
@@ -90211,6 +90832,13 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: lauding, praising
+
+-lexeme
+ lex: lëvduame
+ stem: lëvduame.|lëvduame.|lëvduamej.
+ gramm: NOUN,f,inanim
+ paradigm: 5a
+ trans_en: glory
 
 -lexeme
  lex: lëvere
@@ -93018,6 +93646,13 @@
  trans_en: maternity hospital
 
 -lexeme
+ lex: math
+ stem: math.|math.
+ gramm: NOUN,n,inanim
+ paradigm: 4b
+ trans_en: pride
+
+-lexeme
  lex: matinë
  stem: matina.|matinë.|matin.
  gramm: NOUN,f,inanim
@@ -93400,6 +94035,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: patch
+
+-lexeme
+ lex: mbaqëruam
+ stem: mbaqëruamë.|mbaqëruam.|mbaqëruam.
+ gramm: NOUN,m,anim
+ paradigm: 5c-1
+ trans_en: peaceful person
 
 -lexeme
  lex: mbaresë
@@ -93791,16 +94433,16 @@
 
 -lexeme
  lex: mbikohë
- stem: mbikohë.|mbikohë.|mbikoh.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: mbikoha.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: overtime work
 
 -lexeme
  lex: mbikohë
- stem: mbikoha.
- gramm: NOUN,f,inanim,nonst
+ stem: mbikohë.|mbikohë.|mbikoh.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: overtime work
 
@@ -94575,6 +95217,21 @@
  trans_en: evening
 
 -lexeme
+ lex: mbsuam
+ stem: mbsuam.|mbsuam.
+ gramm: NOUN,m,anim
+ paradigm: 1a
+ trans_en: disciple
+
+-lexeme
+ lex: mbsuame
+ stem: mbsuame.|mbsuame.|mbsuamej.
+ gramm: NOUN,f,inanim
+ paradigm: 3c
+ paradigm: 5a
+ trans_en: doctrine
+
+-lexeme
  lex: mbufatje
  stem: mbufatje.|mbufatje.|mbufatjej.|mbufatj.
  gramm: NOUN,f,inanim
@@ -94777,6 +95434,13 @@
  trans_en: necessity; urgency
 
 -lexeme
+ lex: mbëljedhurë
+ stem: mbëljedhurë.//mbeljedhurë.|mbëljedhurë.//mbeljedhurë.|mbëljedhur.//mbeljedhur.|mbëljedhur.//mbeljedhur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: congregation
+
+-lexeme
  lex: mbëltim
  stem: mbëltime.|mbëltim.
  gramm: NOUN,mf,inanim
@@ -94886,6 +95550,13 @@
  paradigm: 3b
  paradigm: 5a
  trans_en: cover, wrappage
+
+-lexeme
+ lex: mbëshuarë
+ stem: mbëshuarë.|mbëshuarë.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: load
 
 -lexeme
  lex: medalje
@@ -95120,6 +95791,13 @@
  paradigm: 3b
  paradigm: 5a
  trans_en: exhaust
+
+-lexeme
+ lex: mekjem
+ stem: mekjemë.|mekjem.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ trans_en: fornication
 
 -lexeme
  lex: meksikan
@@ -96077,16 +96755,16 @@
 
 -lexeme
  lex: mesditë
- stem: mesditë.|mesditë.|mesdit.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: mesdita.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: midday, noon
 
 -lexeme
  lex: mesditë
- stem: mesdita.
- gramm: NOUN,f,inanim,nonst
+ stem: mesditë.|mesditë.|mesdit.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: midday, noon
 
@@ -96266,16 +96944,16 @@
 
 -lexeme
  lex: meskohë
- stem: meskohë.|meskohë.|meskoh.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: meskoha.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: interlude
 
 -lexeme
  lex: meskohë
- stem: meskoha.
- gramm: NOUN,f,inanim,nonst
+ stem: meskohë.|meskohë.|meskoh.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: interlude
 
@@ -96422,6 +97100,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: metaphor
+
+-lexeme
+ lex: metainosurë
+ stem: metainosurë.|metainosurë.|metainosur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: penance
 
 -lexeme
  lex: metakarp
@@ -98251,6 +98936,13 @@
  trans_en: anointment ceremony
 
 -lexeme
+ lex: mirosurë
+ stem: mirosurë.|mirosurë.|mirosur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: confirmation, chrism
+
+-lexeme
  lex: mirrë
  stem: mirra.|mirrë.|mirr.
  gramm: NOUN,f,inanim
@@ -98824,6 +99516,14 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: mystification
+
+-lexeme
+ lex: mistir
+ stem: mistirje.//mistirie.//mistire.|mistir.
+ gramm: NOUN,mf,inanim
+ paradigm: 1a
+ paradigm: 5a
+ trans_en: mystery, sacrament
 
 -lexeme
  lex: mistrec
@@ -99845,6 +100545,13 @@
  trans_en: go-between, intermediary
 
 -lexeme
+ lex: mjestrë
+ stem: mjestra.|mjestrë.|mjestr.
+ gramm: NOUN,m,anim
+ paradigm: 1b
+ trans_en: master
+
+-lexeme
  lex: mjet
  stem: mjete.|mjet.
  gramm: NOUN,mf,inanim
@@ -99893,6 +100600,14 @@
 
 -lexeme
  lex: mjezditë
+ stem: mjezdita.
+ gramm: NOUN,f,inanim,nonst
+ lexref: mesditë
+ paradigm: 5a
+ trans_en: midday, noon
+
+-lexeme
+ lex: mjezditë
  stem: mjezditë.|mjezditë.|mjezdit.
  gramm: NOUN,f,inanim,nonst
  lexref: mesditë
@@ -99901,12 +100616,27 @@
  trans_en: midday, noon
 
 -lexeme
- lex: mjezditë
- stem: mjezdita.
- gramm: NOUN,f,inanim,nonst
- lexref: mesditë
+ lex: mkat
+ stem: mkatë.|mkat.|mkat.|mkatë.|mkat.|mkatj.
+ gramm: NOUN,f,inanim
+ paradigm: 3c-1
+ paradigm: 5b
+ trans_en: sin
+
+-lexeme
+ lex: mkatëruam
+ stem: mkatëruamë.|mkatëruam.|mkatëruam.
+ gramm: NOUN,m,anim
+ paradigm: 5c-1
+ trans_en: sinner
+
+-lexeme
+ lex: mkatëtor
+ stem: mkatëtorë.|mkatëtor.
+ gramm: NOUN,m,anim
+ paradigm: 1a
  paradigm: 5a
- trans_en: midday, noon
+ trans_en: sinner
 
 -lexeme
  lex: mkryecim
@@ -101447,6 +102177,14 @@
  gramm: NOUN,f,inanim
  paradigm: 3a
  paradigm: 5a
+ trans_en: death
+
+-lexeme
+ lex: mortë
+ stem: morta.|mortë.|mor.|mortë.
+ lexref: mort
+ gramm: NOUN,f,inanim
+ paradigm: 3c-1
  trans_en: death
 
 -lexeme
@@ -109451,6 +110189,13 @@
  trans_en: forgiveness, pardon; indulgence
 
 -lexeme
+ lex: ndlëguashim
+ stem: ndlëguashim.|ndlëguashim.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: prudence
+
+-lexeme
  lex: ndodhi
  stem: ndodhi.|ndodhi.
  gramm: NOUN,f,inanim
@@ -109937,6 +110682,13 @@
  trans_en: forgiveness; indulgence
 
 -lexeme
+ lex: ndëljesë
+ stem: ndëljesë.|ndëljesë.|ndëljes.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ trans_en: remission of sins
+
+-lexeme
  lex: ndënjtje
  stem: ndënjtje.|ndënjtje.|ndënjtjej.|ndënjtj.
  gramm: NOUN,f,inanim
@@ -110082,16 +110834,16 @@
 
 -lexeme
  lex: ndërkohë
- stem: ndërkohë.|ndërkohë.|ndërkoh.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: ndërkoha.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: between time
 
 -lexeme
  lex: ndërkohë
- stem: ndërkoha.
- gramm: NOUN,f,inanim,nonst
+ stem: ndërkohë.|ndërkohë.|ndërkoh.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: between time
 
@@ -110448,16 +111200,16 @@
 
 -lexeme
  lex: ndërradhë
- stem: ndërradhë.|ndërradhë.|ndërradh.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: ndërradha.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: interline spacing
 
 -lexeme
  lex: ndërradhë
- stem: ndërradha.
- gramm: NOUN,f,inanim,nonst
+ stem: ndërradhë.|ndërradhë.|ndërradh.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: interline spacing
 
@@ -112426,6 +113178,13 @@
  trans_en: something frozen
 
 -lexeme
+ lex: ngriqësuarë
+ stem: ngriqësuarë.|ngriqësuarë.|ngriqësuar.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: crucifixion
+
+-lexeme
  lex: ngrirje
  stem: ngrirje.|ngrirje.|ngrirjej.|ngrirj.
  gramm: NOUN,f,inanim
@@ -113765,6 +114524,13 @@
  trans_en: law, legal code
 
 -lexeme
+ lex: nom
+ stem: nomë.|nom.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ trans_en: law
+
+-lexeme
  lex: nomad
  stem: nomadë.|nomad.
  gramm: NOUN,m,anim
@@ -114899,16 +115665,16 @@
 
 -lexeme
  lex: nënbuzë
- stem: nënbuzë.|nënbuzë.|nënbuz.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: nënbuza.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: curb strap on a bridle
 
 -lexeme
  lex: nënbuzë
- stem: nënbuza.
- gramm: NOUN,f,inanim,nonst
+ stem: nënbuzë.|nënbuzë.|nënbuz.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: curb strap on a bridle
 
@@ -116325,6 +117091,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: workshop, repair shop
+
+-lexeme
+ lex: ofqiel
+ stem: ofqielë.|ofqiel.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ trans_en: extreme unction, Last Rites
 
 -lexeme
  lex: ofrim
@@ -119018,6 +119791,14 @@
  trans_en: female payer
 
 -lexeme
+ lex: pagj
+ stem: pagjë.|pagj.
+ lexref: paqe
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 1a
+ trans_en: peace
+
+-lexeme
  lex: pagjakësi
  stem: pagjakësi.|pagjakësi.
  gramm: NOUN,f,inanim
@@ -119605,6 +120386,14 @@
  paradigm: 3b
  paradigm: 5a
  trans_en: incuriosity
+
+-lexeme
+ lex: pakzim
+ stem: pakzim.|pakzim.
+ lexref: pagëzim
+ gramm: NOUN,m,anim
+ paradigm: 1a
+ trans_en: baptism
 
 -lexeme
  lex: pakë
@@ -120280,16 +121069,16 @@
 
 -lexeme
  lex: palë
- stem: palë.|palë.|pal.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: pala.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: pair, couple
 
 -lexeme
  lex: palë
- stem: pala.
- gramm: NOUN,f,inanim,nonst
+ stem: palë.|palë.|pal.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: pair, couple
 
@@ -120784,6 +121573,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: open-heeled house slipper
+
+-lexeme
+ lex: pandohi
+ stem: pandohi.|pandohi.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ trans_en: hope
 
 -lexeme
  lex: pandomë
@@ -122138,6 +122934,14 @@
  trans_en: paradise
 
 -lexeme
+ lex: parakalesi
+ stem: parakalesi.|parakalesi.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ trans_en: prayer
+
+-lexeme
  lex: parakalim
  stem: parakalime.|parakalim.
  gramm: NOUN,mf,inanim
@@ -122372,16 +123176,16 @@
 
 -lexeme
  lex: paramesditë
- stem: paramesditë.|paramesditë.|paramesdit.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: paramesdita.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: forenoon
 
 -lexeme
  lex: paramesditë
- stem: paramesdita.
- gramm: NOUN,f,inanim,nonst
+ stem: paramesditë.|paramesditë.|paramesdit.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: forenoon
 
@@ -122552,6 +123356,13 @@
  paradigm: 1a
  paradigm: 5c
  trans_en: omasum
+
+-lexeme
+ lex: paraponesi
+ stem: paraponesi.
+ gramm: NOUN,f,inanim
+ paradigm: 5b
+ trans_en: mercy
 
 -lexeme
  lex: parapris
@@ -124051,7 +124862,7 @@
 
 -lexeme
  lex: pashkë
- stem: pashka.|pashkë.|pashk.
+ stem: pashkë.|pashkë.|pashk.
  gramm: NOUN,f,inanim
  paradigm: 3a
  paradigm: 5a
@@ -124362,16 +125173,16 @@
 
 -lexeme
  lex: paspjesë
- stem: paspjesë.|paspjesë.|paspjes.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: paspjesa.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: analogy, counterpart
 
 -lexeme
  lex: paspjesë
- stem: paspjesa.
- gramm: NOUN,f,inanim,nonst
+ stem: paspjesë.|paspjesë.|paspjes.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: analogy, counterpart
 
@@ -124798,6 +125609,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: crutch; hasty repair/patch
+
+-lexeme
+ lex: paterimo
+ stem: paterimo.|paterimo.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ trans_en: Our Father
 
 -lexeme
  lex: patetikë
@@ -126311,16 +127129,16 @@
 
 -lexeme
  lex: pemë
- stem: pemë.|pemë.|pem.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: pema.//pemëra.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: fruit tree
 
 -lexeme
  lex: pemë
- stem: pema.//pemëra.
- gramm: NOUN,f,inanim,nonst
+ stem: pemë.|pemë.|pem.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: fruit tree
 
@@ -129477,6 +130295,15 @@
  trans_en: lever
 
 -lexeme
+ lex: piligrin
+ stem: piligrin.|piligrin.
+ lexref: pelegrin
+ gramm: NOUN,m,anim,nonst
+ paradigm: 1a
+ paradigm: 5b
+ trans_en: pilgrim
+
+-lexeme
  lex: pilikor
  stem: pilikore.|pilikor.
  gramm: NOUN,mf,inanim
@@ -130105,6 +130932,14 @@
  trans_en: drunkard
 
 -lexeme
+ lex: pirasmo
+ stem: pirasmo.|pirasmo.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ paradigm: 5b
+ trans_en: temptation
+
+-lexeme
  lex: pirat
  stem: piratë.|pirat.
  gramm: NOUN,m,anim
@@ -130569,6 +131404,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: European fire salamander, spotted salamander (Salamandra salamandra)
+
+-lexeme
+ lex: pistevo
+ stem: pistevo.|pistevo.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ trans_en: I believe
 
 -lexeme
  lex: pistil
@@ -131353,16 +132195,16 @@
 
 -lexeme
  lex: pjesë
- stem: pjesë.|pjesë.|pjes.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: pjesa.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: part
 
 -lexeme
  lex: pjesë
- stem: pjesa.
- gramm: NOUN,f,inanim,nonst
+ stem: pjesë.|pjesë.|pjes.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: part
 
@@ -133268,6 +134110,13 @@
  trans_en: pneumonia
 
 -lexeme
+ lex: pnevmatiko
+ stem: pnevmatiko.|pnevmatiko.
+ gramm: NOUN,m,anim
+ paradigm: 1a
+ trans_en: confessor, spiritual father
+
+-lexeme
  lex: pobratinë
  stem: pobratina.|pobratinë.|pobratin.
  gramm: NOUN,f,inanim
@@ -134484,6 +135333,14 @@
  paradigm: 3d
  paradigm: 5b
  trans_en: travertine
+
+-lexeme
+ lex: porni
+ stem: porni.|porni.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ trans_en: lust
 
 -lexeme
  lex: porno
@@ -136593,6 +137450,22 @@
  paradigm: 3b
  paradigm: 5a
  trans_en: dignity, decorum
+
+-lexeme
+ lex: prepsurë
+ stem: prepsura.|prepsurë.|prepsur.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ paradigm: 5a
+ trans_en: merit; gratitude
+
+-lexeme
+ lex: prepsëtor
+ stem: prepsëtorë.|prepsëtor.
+ gramm: NOUN,m,anim
+ paradigm: 1a
+ paradigm: 5a
+ trans_en: worthy, deserving person
 
 -lexeme
  lex: prerje
@@ -139325,6 +140198,14 @@
  trans_en: horsehair brush used to sweep crumbs from the table
 
 -lexeme
+ lex: prëmte
+ stem: prëmte.|prëmte.
+ lexref: premte
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3d
+ trans_en: Friday
+
+-lexeme
  lex: prëmullzë
  stem: prëmullza.|prëmullzë.|prëmullz.
  gramm: NOUN,f,inanim
@@ -139853,6 +140734,14 @@
  paradigm: 3b
  paradigm: 5a
  trans_en: shopping
+
+-lexeme
+ lex: psuarë
+ stem: psuarë.|psuarë.|psuar.|psuar.|psuar.|psuar.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ paradigm: 5b
+ trans_en: offence; passion
 
 -lexeme
  lex: puanson
@@ -141128,16 +142017,16 @@
 
 -lexeme
  lex: pushkë
- stem: pushkë.|pushkë.|pushk.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: pushka.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: rifle; gun
 
 -lexeme
  lex: pushkë
- stem: pushka.
- gramm: NOUN,f,inanim,nonst
+ stem: pushkë.|pushkë.|pushk.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: rifle; gun
 
@@ -143131,14 +144020,6 @@
 
 -lexeme
  lex: përgjigje
- stem: përgjigje.|përgjigje.|përgjigjej.|përgjigj.//përgjigjj.
- gramm: NOUN,f,inanim
- paradigm: 3b
- paradigm: 5a
- trans_en: answer
-
--lexeme
- lex: përgjigje
  stem: përgjigje.|përgjigje.|përgjigjej.|përgjigj.
  gramm: NOUN,f,inanim
  paradigm: 3b
@@ -143146,6 +144027,14 @@
  trans_en: answer, response
  -deriv: mos-noun-f-3b-5a
   trans_en: non-response
+
+-lexeme
+ lex: përgjigje
+ stem: përgjigje.|përgjigje.|përgjigjej.|përgjigj.//përgjigjj.
+ gramm: NOUN,f,inanim
+ paradigm: 3b
+ paradigm: 5a
+ trans_en: answer
 
 -lexeme
  lex: përgjigjës
@@ -144604,16 +145493,16 @@
 
 -lexeme
  lex: përpjesë
- stem: përpjesë.|përpjesë.|përpjes.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: përpjesa.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: proportion; distribution
 
 -lexeme
  lex: përpjesë
- stem: përpjesa.
- gramm: NOUN,f,inanim,nonst
+ stem: përpjesë.|përpjesë.|përpjes.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: proportion; distribution
 
@@ -146044,6 +146933,13 @@
  paradigm: 3b
  paradigm: 5a
  trans_en: forcing to leave
+
+-lexeme
+ lex: përzënë
+ stem: përzëna.|përzënë.|përzën.
+ gramm: NOUN,n,inanim
+ paradigm: 5a
+ trans_en: persecution
 
 -lexeme
  lex: përç
@@ -148958,6 +149854,15 @@
  trans_en: palate
 
 -lexeme
+ lex: qiellë
+ stem: qiell.|qiellë.|qiell.|qiell.
+ lexref: qiell
+ gramm: NOUN,f,inanim
+ paradigm: 3c-1
+ paradigm: 5b
+ trans_en: sky
+
+-lexeme
  lex: qift
  stem: qifte.|qift.
  gramm: NOUN,mf,anim/inanim
@@ -149229,6 +150134,14 @@
  paradigm: 3f
  paradigm: 5a
  trans_en: Dictycaulosis
+
+-lexeme
+ lex: qin
+ stem: qin.|qin.
+ lexref: qind
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 1a
+ trans_en: hundred
 
 -lexeme
  lex: qind
@@ -151328,16 +152241,16 @@
 
 -lexeme
  lex: radhë
- stem: radhë.|radhë.|radh.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: radha.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: row, tier, rank; queue; order; instance
 
 -lexeme
  lex: radhë
- stem: radha.
- gramm: NOUN,f,inanim,nonst
+ stem: radhë.|radhë.|radh.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: row, tier, rank; queue; order; instance
 
@@ -151765,6 +152678,14 @@
  trans_en: ewe with horns
 
 -lexeme
+ lex: rah
+ stem: rahë.|rah.|rah.
+ lexref: rrah
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 2a
+ trans_en: clearing; open area
+
+-lexeme
  lex: rahani
  stem: rahani.|rahani.
  gramm: NOUN,f,inanim
@@ -151787,6 +152708,13 @@
  paradigm: 3b
  paradigm: 5a
  trans_en: female inhabitant of Rahovec
+
+-lexeme
+ lex: rahurë
+ stem: rahurë.|rahurë.|rahur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: flagellation
 
 -lexeme
  lex: raja
@@ -152139,6 +153067,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: rattling noise, clatter
+
+-lexeme
+ lex: rarë
+ stem: rarë.|rarë.
+ gramm: NOUN,n,inanim
+ paradigm: 4b
+ trans_en: verberation
 
 -lexeme
  lex: ras
@@ -154061,6 +154996,14 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: wood louse, sow bug (Oniscus asellus)
+
+-lexeme
+ lex: rerë
+ stem: rera.|rerë.|rer.
+ lexref: rërë
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3a
+ trans_en: sand
 
 -lexeme
  lex: resedace
@@ -160471,16 +161414,16 @@
 
 -lexeme
  lex: rrugë
- stem: rrugë.|rrugë.|rrug.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: rruga.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: road, street, path; trip, journey
 
 -lexeme
  lex: rrugë
- stem: rruga.
- gramm: NOUN,f,inanim,nonst
+ stem: rrugë.|rrugë.|rrug.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: road, street, path; trip, journey
 
@@ -161900,16 +162843,16 @@
 
 -lexeme
  lex: rrënjë
- stem: rrënjë.|rrënjë.|rrënj.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: rrënja.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: root
 
 -lexeme
  lex: rrënjë
- stem: rrënja.
- gramm: NOUN,f,inanim,nonst
+ stem: rrënjë.|rrënjë.|rrënj.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: root
 
@@ -164419,6 +165362,13 @@
  trans_en: ringworm tick
 
 -lexeme
+ lex: sarkosurë
+ stem: sarkosurë.|sarkosurë.|sarkosur.|sarkosur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: incarnation
+
+-lexeme
  lex: sarkë
  stem: sarka.|sarkë.|sark.
  gramm: NOUN,f,inanim
@@ -164672,6 +165622,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: lead pellet, shrapnel; shot sinker
+
+-lexeme
+ lex: sbuamë
+ stem: sbuamë.|sbuamë.|sbuam.
+ gramm: NOUN,n,inanim
+ paradigm: 1b
+ trans_en: exile
 
 -lexeme
  lex: seancë
@@ -167186,6 +168143,13 @@
 
 -lexeme
  lex: sharë
+ stem: shara.|sharë.|shar.
+ gramm: NOUN,n,inanim
+ paradigm: 5a
+ trans_en: injury
+
+-lexeme
+ lex: sharë
  stem: sharë.|sharë.|shar.
  gramm: NOUN,n,inanim
  paradigm: 4c
@@ -167834,6 +168798,15 @@
  trans_en:
 
 -lexeme
+ lex: shemull
+ stem: shemuj.|shemull.|shemulli.
+ lexref: shembull
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 1a
+ paradigm: 5a
+ trans_en: example
+
+-lexeme
  lex: shemë
  stem: shema.|shemë.|shem.
  gramm: NOUN,f,inanim
@@ -167880,6 +168853,14 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: feeling of delight
+
+-lexeme
+ lex: shengj
+ stem: shengjë.|shengj.
+ lexref: shenjë
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 1a
+ trans_en: sign
 
 -lexeme
  lex: shenishan
@@ -169508,16 +170489,16 @@
 
 -lexeme
  lex: shkallë
- stem: shkallë.|shkallë.|shkall.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: shkalla.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: ladder; stairway; scale; degree
 
 -lexeme
  lex: shkallë
- stem: shkalla.
- gramm: NOUN,f,inanim,nonst
+ stem: shkallë.|shkallë.|shkall.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: ladder; stairway; scale; degree
 
@@ -173224,7 +174205,7 @@
 
 -lexeme
  lex: shpirt
- stem: shpirtra.//shpirtëra.|shpirt.
+ stem: shpirtra.//shpirtëra.|shpirt.|shpirti.
  gramm: NOUN,mf,inanim
  paradigm: 1a
  paradigm: 5a
@@ -176651,6 +177632,13 @@
  trans_en: expensive, costly thing
 
 -lexeme
+ lex: shtrejtë
+ stem: shtrejtë.|shtrejtë.
+ gramm: NOUN,n,inanim
+ paradigm: 4b
+ trans_en: greed
+
+-lexeme
  lex: shtrejtësirë
  stem: shtrejtësira.|shtrejtësirë.|shtrejtësir.
  gramm: NOUN,f,inanim
@@ -179190,6 +180178,14 @@
  trans_en: sage (Salvia)
 
 -lexeme
+ lex: shërbes
+ stem: shërbise.//shërbisse.//shërbisë.|shërbes.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ paradigm: 5a
+ trans_en: thing; deed, work
+
+-lexeme
  lex: shërbesë
  stem: shërbesa.|shërbesë.|shërbes.
  gramm: NOUN,f,inanim
@@ -179220,6 +180216,14 @@
  paradigm: 1a
  paradigm: 5c
  trans_en: attendant, servant; janitor
+
+-lexeme
+ lex: shërbëtirë
+ stem: shërbëtira.|shërbëtirë.|shërbëtir.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ paradigm: 5a
+ trans_en: service; servitude
 
 -lexeme
  lex: shërbëtor
@@ -179299,6 +180303,15 @@
  gramm: NOUN,f,inanim
  paradigm: 3c
  trans_en: si, B
+
+-lexeme
+ lex: si
+ stem: si.|si.|sir.//sin.
+ lexref: sy
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 1b
+ paradigm: 5b
+ trans_en: eye
 
 -lexeme
  lex: siberian
@@ -179972,6 +180985,13 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: synod
+
+-lexeme
+ lex: sinodepsurë
+ stem: sinodepsurë.|sinodepsurë.|sinodepsur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: visitation
 
 -lexeme
  lex: sinodh
@@ -183276,6 +184296,13 @@
  trans_en: finish, end
 
 -lexeme
+ lex: sosurë
+ stem: sosurë.|sosurë.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: purpose
+
+-lexeme
  lex: sosë
  stem: sosa.|sosë.|sos.
  gramm: NOUN,f,inanim
@@ -185649,16 +186676,16 @@
 
 -lexeme
  lex: stinë
- stem: stinë.|stinë.|stin.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: stina.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: season (of the year)
 
 -lexeme
  lex: stinë
- stem: stina.
- gramm: NOUN,f,inanim,nonst
+ stem: stinë.|stinë.|stin.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: season (of the year)
 
@@ -188742,6 +189769,7 @@
  gramm: NOUN,m,anim
  paradigm: 1b
  paradigm: 5a
+ paradigm: 5b
  trans_en: ailing/sick person
 
 -lexeme
@@ -189291,6 +190319,13 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: misfortune; wrong, sin
+
+-lexeme
+ lex: taksurë
+ stem: taksura.|taksurë.|taksur.
+ gramm: NOUN,f,inanim
+ paradigm: 5a
+ trans_en: promise
 
 -lexeme
  lex: taksë
@@ -193087,6 +194122,13 @@
  trans_en: sourness, acidity
 
 -lexeme
+ lex: tharëtë
+ stem: tharëtë.|tharëtë.|tharët.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: wrath
+
+-lexeme
  lex: thashetheme
  stem: thashetheme.|thashetheme.|thashethemej.|thashethemj.
  gramm: NOUN,f,inanim
@@ -193317,6 +194359,13 @@
  trans_en: kernel; clove; cotyledon
 
 -lexeme
+ lex: thelimë
+ stem: thelimë.|thelimë.|thelim.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ trans_en: will
+
+-lexeme
  lex: thelli
  stem: thelli.|thelli.
  gramm: NOUN,f,inanim
@@ -193499,6 +194548,20 @@
  paradigm: 3d
  paradigm: 5b
  trans_en: theory
+
+-lexeme
+ lex: theotita
+ stem: theotita.|theotita.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ trans_en: deity, divinity; Godhead
+
+-lexeme
+ lex: theotoqe
+ stem: theotoqe.|theotoqe.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ trans_en: Ave Maria
 
 -lexeme
  lex: thep
@@ -194039,16 +195102,16 @@
 
 -lexeme
  lex: thithëlopë
- stem: thithëlopë.|thithëlopë.|thithëlop.
- gramm: NOUN,f,anim
- paradigm: 3a
+ stem: thithëlopa.
+ gramm: NOUN,f,anim,nonst
  paradigm: 5a
  trans_en: common toad (Bufo bufo)
 
 -lexeme
  lex: thithëlopë
- stem: thithëlopa.
- gramm: NOUN,f,anim,nonst
+ stem: thithëlopë.|thithëlopë.|thithëlop.
+ gramm: NOUN,f,anim
+ paradigm: 3a
  paradigm: 5a
  trans_en: common toad (Bufo bufo)
 
@@ -201307,16 +202370,16 @@
 
 -lexeme
  lex: udhë
- stem: udhë.|udhë.|udh.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: udha.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: path; road
 
 -lexeme
  lex: udhë
- stem: udha.
- gramm: NOUN,f,inanim,nonst
+ stem: udhë.|udhë.|udh.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: path; road
 
@@ -202894,6 +203957,13 @@
  trans_en: delivery receipt
 
 -lexeme
+ lex: urdhëre
+ stem: urdhëre.
+ gramm: NOUN,f,inanim
+ paradigm: 5a
+ trans_en: precept
+
+-lexeme
  lex: urdhëresë
  stem: urdhëresa.|urdhëresë.|urdhëres.
  gramm: NOUN,f,inanim
@@ -202980,6 +204050,15 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: transfer order
+
+-lexeme
+ lex: urdhërë
+ stem: urdhërë.|urdhërë.|urdhër.|urdhër.
+ lexref: urdhër
+ gramm: NOUN,m,inanim
+ paradigm: 1b
+ paradigm: 5c-1
+ trans_en: order; command
 
 -lexeme
  lex: urdi
@@ -203253,6 +204332,14 @@
  trans_en: wise person
 
 -lexeme
+ lex: urte
+ stem: urtë.|urte.|urtej.
+ gramm: NOUN,f,inanim
+ paradigm: 3b
+ paradigm: 5b
+ trans_en: wisdom
+
+-lexeme
  lex: urth
  stem: urthe.|urth.
  gramm: NOUN,m,inanim
@@ -203298,6 +204385,13 @@
  paradigm: 3a
  paradigm: 5a
  trans_en: wild strawberry
+
+-lexeme
+ lex: urtë
+ stem: urtë.|urtë.
+ gramm: NOUN,n,inanim
+ paradigm: 5b
+ trans_en: virtue
 
 -lexeme
  lex: urtësi
@@ -203978,6 +205072,13 @@
  paradigm: 2a
  paradigm: 5b
  trans_en: ford; path through a field
+
+-lexeme
+ lex: vabëk
+ stem: vabëgj.|vabëk.
+ gramm: NOUN,m,anim
+ paradigm: 5f
+ trans_en: poor
 
 -lexeme
  lex: vabëzi
@@ -204883,6 +205984,13 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: Annunciation Day (March 25)
+
+-lexeme
+ lex: vangjeljë
+ stem: vangjelja.|vangjeljë.|vangjelj.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ trans_en: gospel
 
 -lexeme
  lex: vangë
@@ -210894,6 +212002,13 @@
  trans_en: virginity
 
 -lexeme
+ lex: virgjërë
+ stem: virgjëra.|virgjërë.|virgjër.
+ gramm: NOUN,f,anim
+ paradigm: 3a
+ trans_en: virgin
+
+-lexeme
  lex: virok
  stem: virokë.|virok.
  gramm: NOUN,m,inanim
@@ -212076,6 +213191,14 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: shoot, sprout
+
+-lexeme
+ lex: vlavie
+ stem: vlavie.|vlavie.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ trans_en: devotion, dignity
 
 -lexeme
  lex: vlefshmëri
@@ -213827,6 +214950,14 @@
  trans_en: vulgarizing
 
 -lexeme
+ lex: vuli
+ stem: vuli.|vuli.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ trans_en: desire
+
+-lexeme
  lex: vulla
  stem: vullanj.|vulla.|vullan.
  gramm: NOUN,m,inanim
@@ -214500,6 +215631,13 @@
  trans_en: placement, installation
 
 -lexeme
+ lex: vënë
+ stem: vënë.|vënë.
+ gramm: NOUN,n,inanim
+ paradigm: 4b
+ trans_en: laying
+
+-lexeme
  lex: vërcak
  stem: vërcakë.|vërcak.
  gramm: NOUN,m,inanim
@@ -214770,6 +215908,13 @@
  paradigm: 3b
  paradigm: 5a
  trans_en: revolution, rotation
+
+-lexeme
+ lex: vërtitë
+ stem: vërtitë.|vërtitë.|vërtit.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ trans_en: virtue; fortitude
 
 -lexeme
  lex: vërtyt
@@ -215770,6 +216915,13 @@
  paradigm: 1a
  paradigm: 5a
  trans_en: money paid to band member for providing wedding music
+
+-lexeme
+ lex: xheshurë
+ stem: xheshurë.|xheshurë.|xheshur.
+ gramm: NOUN,m,anim
+ paradigm: 5c-1
+ trans_en: undressed, naked person
 
 -lexeme
  lex: xhet
@@ -218379,6 +219531,13 @@
  paradigm: 2a
  paradigm: 5a
  trans_en: rough unfinished board
+
+-lexeme
+ lex: zdjergurë
+ stem: zdjergurë.|zdjergurë.|zdjergur.|zdjergur.
+ gramm: NOUN,n,inanim
+ paradigm: 4f
+ trans_en: childbirth
 
 -lexeme
  lex: zdrale
@@ -222101,16 +223260,16 @@
 
 -lexeme
  lex: zorrë
- stem: zorrë.|zorrë.|zorr.
- gramm: NOUN,f,inanim
- paradigm: 3a
+ stem: zorra.
+ gramm: NOUN,f,inanim,nonst
  paradigm: 5a
  trans_en: intestine; hose
 
 -lexeme
  lex: zorrë
- stem: zorra.
- gramm: NOUN,f,inanim,nonst
+ stem: zorrë.|zorrë.|zorr.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
  paradigm: 5a
  trans_en: intestine; hose
 
@@ -222805,6 +223964,14 @@
  paradigm: 3b
  paradigm: 5a
  trans_en: spokeswoman
+
+-lexeme
+ lex: zëmerë
+ stem: zëmera.|zëmerë.|zëmer.
+ lexref: zemër
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3a
+ trans_en: heart
 
 -lexeme
  lex: zëmër
@@ -226530,4 +227697,13 @@
  paradigm: 3b
  paradigm: 5a
  trans_en: female dreamer
+
+-lexeme
+ lex: ëngjëll
+ stem: ëngjëj.//ëngjëlj.|ëngjëll.
+ lexref: engjëll
+ gramm: NOUN,m,anim,nonst
+ paradigm: 1a
+ paradigm: 5a
+ trans_en: angel
 

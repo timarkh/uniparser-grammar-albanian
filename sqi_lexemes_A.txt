@@ -4640,8 +4640,24 @@
  trans_en: of the Bektashi sect
 
 -lexeme
+ lex: bekuam
+ stem: bekuam.|bekuam.
+ lexref: bekuar
+ gramm: A
+ paradigm: adj-1-2
+ trans_en: blessed, consecrated
+
+-lexeme
  lex: bekuar
  stem: bekuar.|bekuar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: blessed, consecrated
+
+-lexeme
+ lex: bekuarë
+ stem: bekuarë.|bekuar.
+ lexref: bekuar
  gramm: A
  paradigm: adj-2-2
  trans_en: blessed, consecrated
@@ -8656,6 +8672,14 @@
  trans_en: datable
 
 -lexeme
+ lex: dbuam
+ stem: dbuam.|dbuam.
+ lexref: dëbuar
+ gramm: A
+ paradigm: adj-1-2
+ trans_en: banished
+
+-lexeme
  lex: debutues
  stem: debutues.|debutues.
  gramm: A
@@ -9811,6 +9835,14 @@
  trans_en: dental
 
 -lexeme
+ lex: dhëmburë
+ stem: dhëmburë.|dhëmbur.
+ lexref: dhembshëm
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: painful
+
+-lexeme
  lex: dhëmbëbardhë
  stem: dhëmbëbardhë.|dhëmbëbardh.
  gramm: A
@@ -10047,6 +10079,14 @@
  gramm: A
  paradigm: adj-3-1
  trans_en: diametric
+
+-lexeme
+ lex: diathëtë
+ stem: diathëtë.|diathët.
+ lexref: djathtë
+ gramm: A
+ paradigm: adj-2-1
+ trans_en: right, right-side
 
 -lexeme
  lex: dibran
@@ -16827,6 +16867,14 @@
  trans_en: plenipotentiary
 
 -lexeme
+ lex: fuqishim
+ stem: fuqishim.|fuqishëm.|fuqishm.
+ lexref: fuqishëm
+ gramm: A
+ paradigm: adj-1-2
+ trans_en: powerful
+
+-lexeme
  lex: fuqishëm
  stem: fuqishëm.|fuqishm.
  gramm: A
@@ -19263,6 +19311,14 @@
  trans_en: wealthy, rich
 
 -lexeme
+ lex: glatë
+ stem: glatë.|glat.
+ lexref: gjatë
+ gramm: A
+ paradigm: adj-2-1
+ trans_en: long, tall
+
+-lexeme
  lex: gligorovian
  stem: gligorovian.
  gramm: A
@@ -21520,6 +21576,13 @@
  trans_en: poison-emitting
 
 -lexeme
+ lex: helmuam
+ stem: helmuam.|helmuam.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: saddened; pained
+
+-lexeme
  lex: helmuar
  stem: helmuar.|helmuar.
  gramm: A
@@ -22087,6 +22150,13 @@
  trans_en: light gray
 
 -lexeme
+ lex: hiruam
+ stem: hiruam.|hiruam.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: very plesant; amiable
+
+-lexeme
  lex: histerik
  stem: histerik.
  gramm: A
@@ -22218,6 +22288,13 @@
  gramm: A
  paradigm: adj-1-2-a
  trans_en: in a sudden surge / burst
+
+-lexeme
+ lex: hri
+ stem: hri.
+ gramm: A
+ paradigm: unchangeable
+ trans_en: necessary
 
 -lexeme
  lex: huadhënës
@@ -25883,6 +25960,14 @@
  trans_en: categorical
 
 -lexeme
+ lex: katholikë
+ stem: katholikë.
+ lexref: katolik
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: Catholic
+
+-lexeme
  lex: katil
  stem: katil.
  gramm: A
@@ -26395,7 +26480,7 @@
 
 -lexeme
  lex: keq
- stem: keq.|keqe.|keqij.|keqija.|keqinj.
+ stem: keq.|keqe.|keqij.|keqija.//keqia.|keqinj.
  gramm: A
  paradigm: keq
  trans_en: bad
@@ -28717,6 +28802,14 @@
  gramm: A
  paradigm: adj-2-2
  trans_en: crossed
+
+-lexeme
+ lex: krështerë
+ stem: krështerë.|krështer.
+ lexref: krishterë
+ gramm: A
+ paradigm: adj-2-1
+ trans_en: Christian
 
 -lexeme
  lex: ksenofob
@@ -31057,6 +31150,13 @@
  trans_en: pampered, coddled
 
 -lexeme
+ lex: le
+ stem: le.|le.
+ gramm: A
+ paradigm: adj-2-1
+ trans_en: venial
+
+-lexeme
  lex: lebetitshëm
  stem: lebetitshëm.|lebetitshm.
  gramm: A
@@ -32172,6 +32272,14 @@
  trans_en: licensing
 
 -lexeme
+ lex: ljipsurë
+ stem: ljipsurë.|ljipsur.
+ lexref: bekuar
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: pitiful
+
+-lexeme
  lex: llacaman
  stem: llacaman.
  gramm: A
@@ -33213,6 +33321,14 @@
  gramm: A
  paradigm: adj-1-2
  trans_en: blinding
+
+-lexeme
+ lex: lëfduam
+ stem: lëfduam.|lëfduam.
+ lexref: lëvduar
+ gramm: A
+ paradigm: adj-1-2
+ trans_en: praised
 
 -lexeme
  lex: lëkundshëm
@@ -34410,6 +34526,14 @@
  gramm: A
  paradigm: adj-3-2
  trans_en: material and technical
+
+-lexeme
+ lex: math
+ stem: math.|mëdhe.|mbëdhenj.
+ lexref: madh
+ gramm: A
+ paradigm: madh
+ trans_en: big
 
 -lexeme
  lex: matjan
@@ -38825,6 +38949,13 @@
  gramm: A
  paradigm: madh
  trans_en: rest-in-peace, blessed
+
+-lexeme
+ lex: ndlëguashim
+ stem: ndlëguashim.|ndlëguashëm.|ndlëguashm.
+ gramm: A
+ paradigm: adj-1-2
+ trans_en: knowing
 
 -lexeme
  lex: ndodhur
@@ -44740,6 +44871,14 @@
  trans_en: small in quantity / number
 
 -lexeme
+ lex: pakë
+ stem: pakë.|pak.
+ lexref: pakët
+ gramm: A
+ paradigm: adj-2-1
+ trans_en: small in quantity / number
+
+-lexeme
  lex: pakëmbyeshëm
  stem: pakëmbyeshëm.|pakëmbyeshm.
  gramm: A
@@ -47438,6 +47577,13 @@
  trans_en: foreseen, anticipated
 
 -lexeme
+ lex: paraponesm
+ stem: paraponesm.|paraponesm.
+ gramm: A
+ paradigm: adj-1-4
+ trans_en: merciful
+
+-lexeme
  lex: paraprak
  stem: paraprak.
  gramm: A
@@ -49818,6 +49964,14 @@
  trans_en: lasting / taking five centuries
 
 -lexeme
+ lex: pesët
+ stem: pesët.|pesët.
+ lexref: pestë
+ gramm: A
+ paradigm: adj-1-2
+ trans_en: fifth
+
+-lexeme
  lex: pesëtonësh
  stem: pesëtonësh.|pesëtonësh.
  gramm: A
@@ -50322,6 +50476,13 @@
  gramm: A
  paradigm: adj-2-2
  trans_en: ostentatiously overdressed
+
+-lexeme
+ lex: pistepsm
+ stem: pistepsën.|pistepsm.
+ gramm: A
+ paradigm: adj-1-4
+ trans_en: faithful
 
 -lexeme
  lex: pistë
@@ -53497,6 +53658,14 @@
  stem: përditshëm.|përditshm.
  gramm: A
  paradigm: adj-1-2-a
+ trans_en: daily; everyday
+
+-lexeme
+ lex: përditëshim
+ stem: përditëshim.|përditëshëm.|përditëshm.
+ lexref: përditshëm
+ gramm: A
+ paradigm: adj-1-2
  trans_en: daily; everyday
 
 -lexeme
@@ -60537,6 +60706,14 @@
  trans_en: roan; with rosy cheeks
 
 -lexeme
+ lex: shejt
+ stem: shejt.|shejt.
+ lexref: shenjtë
+ gramm: A
+ paradigm: zi
+ trans_en: saint
+
+-lexeme
  lex: shekullar
  stem: shekullar.
  gramm: A
@@ -64026,6 +64203,14 @@
  trans_en: billowing
 
 -lexeme
+ lex: shtëmënkëtë
+ stem: shtëmënkëtë.|shtëmënkët.
+ lexref: djathtë
+ gramm: A
+ paradigm: adj-2-1
+ trans_en: left, left-side
+
+-lexeme
  lex: shtëngër
  stem: shtëngër.|shtëngr.
  gramm: A
@@ -65004,6 +65189,13 @@
  gramm: A
  paradigm: adj-2-2
  trans_en: ugly
+
+-lexeme
+ lex: shën
+ stem: shën.
+ gramm: A
+ paradigm: unchangeable
+ trans_en: saint, holy
 
 -lexeme
  lex: shëndetdhënës
@@ -66040,6 +66232,13 @@
  gramm: A
  paradigm: adj-3-1
  trans_en: with dark eyes and eyebrows; with dark patches
+
+-lexeme
+ lex: sosm
+ stem: sosm.|sosm.
+ gramm: A
+ paradigm: adj-1-4
+ trans_en: finite
 
 -lexeme
  lex: sotpërsotshëm
@@ -69096,6 +69295,13 @@
  trans_en: tyrannical
 
 -lexeme
+ lex: tiranism
+ stem: tiranism.
+ gramm: A
+ paradigm: adj-1-4
+ trans_en: tribulated
+
+-lexeme
  lex: titanik
  stem: titanik.
  gramm: A
@@ -71634,6 +71840,14 @@
  trans_en: imperative
 
 -lexeme
+ lex: urdhëruam
+ stem: urdhëruam.|urdhëruam.
+ lexref: urdhëruar
+ gramm: A
+ paradigm: adj-1-2
+ trans_en: commanded
+
+-lexeme
  lex: urdhëruar
  stem: urdhëruar.|urdhëruar.
  gramm: A
@@ -71788,6 +72002,13 @@
  trans_en: hungry
 
 -lexeme
+ lex: urëtë
+ stem: urëtë.
+ gramm: A
+ paradigm: adj-2-1
+ trans_en: hungry
+
+-lexeme
  lex: ushqimor
  stem: ushqimor.
  gramm: A
@@ -71898,6 +72119,13 @@
  gramm: A
  paradigm: adj-3-1
  trans_en: utopian
+
+-lexeme
+ lex: vabëk
+ stem: vabëk.
+ gramm: A
+ paradigm: adj-3-2
+ trans_en: poor
 
 -lexeme
  lex: vaditës
@@ -73746,6 +73974,14 @@
  gramm: A
  paradigm: adj-1-2
  trans_en: self-denying
+
+-lexeme
+ lex: vetëmë
+ stem: vetëmë.
+ lexref: vetëm
+ gramm: A
+ paradigm: adj-1-4
+ trans_en: single; only
 
 -lexeme
  lex: vetëndezës
@@ -79089,6 +79325,14 @@
  gramm: A
  paradigm: adj-2-2
  trans_en: reduced in swelling
+
+-lexeme
+ lex: ëmblë
+ stem: ëmblë.
+ lexref: ëmbël
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: sweet
 
 -lexeme
  lex: ëmbël

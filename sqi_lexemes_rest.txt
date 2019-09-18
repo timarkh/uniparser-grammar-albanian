@@ -237,6 +237,13 @@
  trans_en: expresses a request; requests pardon or mercy: oh please!
 
 -lexeme
+ lex: amin
+ stem: amin.
+ gramm: INTJ
+ paradigm: unchangeable
+ trans_en: amen
+
+-lexeme
  lex: amësisht
  stem: amësisht.
  gramm: ADV
@@ -301,7 +308,7 @@
 
 -lexeme
  lex: andej
- stem: andej.
+ stem: andej.//andei.
  gramm: ADV
  paradigm: unchangeable
  trans_en: that way
@@ -895,7 +902,7 @@
 
 -lexeme
  lex: ata
- stem: ata.|atyre.|ata.//ta.|asish.//sish.//syresh.//tyre.|atyne.|tyne.
+ stem: ata.|atyre.//atire.|ata.//ta.|asish.//sish.//syresh.//tyre.//siresh.//tire.|atyne.//atine.|tyne.//tine.
  gramm: PRO,3,pl,m
  paradigm: pers-pro-3-sg-pl
  trans_en: they (male)
@@ -930,7 +937,7 @@
 
 -lexeme
  lex: ato
- stem: ato.|atyre.//atyne.|ato.//to.|asosh.//sosh.//syresh.//tyre.//tyne.
+ stem: ato.|atyre.//atyne.//atine.//atire.|ato.//to.|asosh.//sosh.//syresh.//tyre.//tyne.//siresh.//tire.//tine.
  gramm: PRO,3,pl,f
  paradigm: pers-pro-3-sg-pl
  trans_en: they (female)
@@ -1715,6 +1722,13 @@
  trans_en: superficially
 
 -lexeme
+ lex: cili
+ stem: cil.
+ gramm: PRO
+ paradigm: dem-pro-cili
+ trans_en: which, who, which of
+
+-lexeme
  lex: cilido
  stem: cil.do
  gramm: PRO
@@ -2250,6 +2264,14 @@
  trans_en: some place or other
 
 -lexeme
+ lex: dimbëdhjetë
+ stem: dimbëdhjetë.|dimbëdhjet.
+ lexref: dymbëdhjetë
+ gramm: NUM
+ paradigm: num
+ trans_en: twelve
+
+-lexeme
  lex: dimrit
  stem: dimrit.
  gramm: ADV
@@ -2265,7 +2287,7 @@
 
 -lexeme
  lex: disa
- stem: disa.
+ stem: disa.//dica.
  gramm: PRO
  paradigm: det-pro
  trans_en: several
@@ -2889,6 +2911,13 @@
  trans_en: hey!
 
 -lexeme
+ lex: ej
+ stem: ej.
+ gramm: PART
+ paradigm: unchangeable
+ trans_en: yes
+
+-lexeme
  lex: ekonomikisht
  stem: ekonomikisht.
  gramm: ADV
@@ -2985,6 +3014,13 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: on an empty stomach, sober
+
+-lexeme
+ lex: et
+ stem: et.
+ gramm: CONJ,nonst
+ paradigm: unchangeable
+ trans_en: and
 
 -lexeme
  lex: etnikisht
@@ -5358,6 +5394,13 @@
  trans_en: oh sure! wait a minute!
 
 -lexeme
+ lex: hënjë
+ stem: hënjë.
+ gramm: PART
+ paradigm: unchangeable
+ trans_en: here! there! take this!; now then; this very
+
+-lexeme
  lex: i
  stem: i.
  gramm: CLIT_PRO,acc_3pl
@@ -5540,6 +5583,13 @@
  trans_en: either, or
 
 -lexeme
+ lex: ja
+ stem: ja.
+ gramm: PART
+ paradigm: unchangeable
+ trans_en: here! there! take this!; now then; this very
+
+-lexeme
  lex: japonezçe
  stem: japonezçe.
  gramm: ADV
@@ -5610,6 +5660,14 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: kind of a game
+
+-lexeme
+ lex: jetër
+ stem: jetër.|jetër.|jetër.
+ gramm: PRO,nonst
+ lexref: tjetër
+ paradigm: indef-pro-tjetër
+ trans_en: other, another
 
 -lexeme
  lex: jo
@@ -5736,6 +5794,13 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: in squatting position
+
+-lexeme
+ lex: kaha
+ stem: kaha.
+ gramm: PR,with_nom,nonst
+ paradigm: unchangeable
+ trans_en: from; toward
 
 -lexeme
  lex: kaherë
@@ -6174,13 +6239,6 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: in Celtic
-
--lexeme
- lex: keq
- stem: keq.
- gramm: ADV
- paradigm: unchangeable
- trans_en: badly, ill
 
 -lexeme
  lex: kiamet
@@ -6752,7 +6810,7 @@
 
 -lexeme
  lex: kundër
- stem: kundër.
+ stem: kundër.//kundrë.
  gramm: PR,with_abl
  paradigm: unchangeable
  trans_en: against
@@ -6970,7 +7028,7 @@
 
 -lexeme
  lex: ky
- stem: ky.|këtij.//kësi.|këtë.//ket.|kjo.|kësaj.//këso.|këta.|këtyre.//kësi.//kësish.|këto.|këtyre.//këso.//kësosh.|këtyne.
+ stem: ky.|këtij.//kësi.|këtë.//ket.//ktë.|kjo.|kësaj.//këso.|këta.|këtyre.//kësi.//kësish.|këto.|këtyre.//këso.//kësosh.|këtyne.
  gramm: PRO
  paradigm: dem-pro-sg-pl
  trans_en: this
@@ -7572,6 +7630,13 @@
  trans_en: in a deluxe manner
 
 -lexeme
+ lex: lumtë
+ stem: lumtë.
+ gramm: PART
+ paradigm: unchangeable
+ trans_en: may be blessed
+
+-lexeme
  lex: lumë
  stem: lumë.
  gramm: ADV
@@ -7833,8 +7898,8 @@
 
 -lexeme
  lex: mbi
- stem: mbi.
- gramm: PR,with_acc
+ stem: mbi
+ gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: over
 
@@ -7945,9 +8010,24 @@
  trans_en: in a sitting position
 
 -lexeme
+ lex: mbë
+ stem: mbë.//mb.
+ lexref: mbi
+ gramm: PR,with_acc,with_loc,nonst
+ paradigm: unchangeable
+ trans_en: on, upon
+
+-lexeme
+ lex: mbëdhjetë
+ stem: mbëdhjetë.
+ gramm: FORM
+ paradigm: unchangeable
+ trans_en: -and-ten (10)
+
+-lexeme
  lex: me
- stem: me.
- gramm: PR,with_acc
+ stem: me
+ gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: with
 
@@ -8015,6 +8095,13 @@
  trans_en: with dificulty
 
 -lexeme
+ lex: menatet
+ stem: menatet.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: in the morning; next morning
+
+-lexeme
  lex: mendje-mendje
  stem: mendje-mendje.
  gramm: ADV
@@ -8055,6 +8142,13 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: at once, at the same time
+
+-lexeme
+ lex: mentë
+ stem: mentë.
+ gramm: PART
+ paradigm: unchangeable
+ trans_en: more
 
 -lexeme
  lex: meqense
@@ -8483,7 +8577,7 @@
 
 -lexeme
  lex: më
- stem: më.
+ stem: më.//meë.
  gramm: PART
  paradigm: unchangeable
  trans_en: more
@@ -8623,17 +8717,10 @@
 
 -lexeme
  lex: na
- stem: na.
- gramm: CLIT_PRO,acc_1pl
+ stem: na.//n.
+ gramm: CLIT-PRO,dat_1pl
  paradigm: unchangeable
  trans_en: us
-
--lexeme
- lex: na
- stem: na.
- gramm: CLIT_PRO,dat_1pl
- paradigm: unchangeable
- trans_en: (to/for/of) us
 
 -lexeme
  lex: na
@@ -8641,6 +8728,13 @@
  gramm: INTJ
  paradigm: unchangeable
  trans_en: here! take this!
+
+-lexeme
+ lex: nani
+ stem: nani.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: now, presently 
 
 -lexeme
  lex: natyrisht
@@ -8665,10 +8759,9 @@
 
 -lexeme
  lex: ndaj
- stem: ndaj.
- gramm: PR,with_acc_or_abl
+ stem: ndaj
+ gramm: PR,with_acc,with_abl
  paradigm: unchangeable
- trans_en: toward, in respect to
 
 -lexeme
  lex: ndajnate
@@ -8861,6 +8954,14 @@
  trans_en: otherwise
 
 -lexeme
+ lex: ndrë
+ stem: ndrë
+ lexref: ndër
+ gramm: PR,with_acc,with_loc,nonst
+ paradigm: unchangeable
+ trans_en: between; among, amidst, in; throughout
+
+-lexeme
  lex: ndyras
  stem: ndyras.
  gramm: ADV
@@ -8903,6 +9004,14 @@
  trans_en: differently
 
 -lexeme
+ lex: ndë
+ stem: ndë.//nd.
+ lexref: në
+ gramm: PR,with_acc,with_loc,nonst
+ paradigm: unchangeable
+ trans_en: in; on
+
+-lexeme
  lex: ndën
  stem: ndën.
  gramm: PREP
@@ -8911,9 +9020,17 @@
  trans_en: under
 
 -lexeme
+ lex: ndënë
+ stem: ndënë.
+ lexref: nën
+ gramm: PR,with_acc,with_loc,nonst
+ paradigm: unchangeable
+ trans_en: under
+
+-lexeme
  lex: ndër
- stem: ndër.
- gramm: PR,with_acc
+ stem: ndër
+ gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: among
 
@@ -9493,6 +9610,14 @@
  trans_en: cordially, politely
 
 -lexeme
+ lex: nji
+ stem: nji.
+ lexref: një
+ gramm: NUM,nonst
+ paradigm: unchangeable
+ trans_en: one
+
+-lexeme
  lex: njiky
  stem: njiky.|njikëtij.//njikësi.|njikëtë.//njiket.|njikjo.|njikësaj.//njikëso.|njikëta.|njikëtyre.//njikësi.//njikësish.//njikëtyne.|njikëto.|njikëtyre.//njikëso.//njikësosh.//njikëtyne.
  gramm: PRO,dial
@@ -9507,12 +9632,26 @@
  trans_en: fraudulently
 
 -lexeme
+ lex: njish
+ stem: njish.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: but
+
+-lexeme
  lex: njitash
  stem: njitash.
  lexref: njëtash
  gramm: ADV,nonst
  paradigm: unchangeable
  trans_en: right now
+
+-lexeme
+ lex: njize
+ stem: njize.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: likely; easily
 
 -lexeme
  lex: një
@@ -9805,6 +9944,13 @@
  trans_en: in the arms
 
 -lexeme
+ lex: nkriq
+ stem: nkriq.//ngriq.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: on the cross
+
+-lexeme
  lex: nominalisht
  stem: nominalisht.
  gramm: ADV
@@ -9842,6 +9988,14 @@
 -lexeme
  lex: nukë
  stem: nukë.
+ gramm: PART,nonst
+ paradigm: unchangeable
+ trans_en: negative particle
+
+-lexeme
+ lex: nukë
+ stem: nukë.//nëkë.
+ lexref: nuk
  gramm: PART,nonst
  paradigm: unchangeable
  trans_en: negative particle
@@ -9911,8 +10065,8 @@
 
 -lexeme
  lex: në
- stem: në.
- gramm: PR,with_acc
+ stem: në
+ gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: in; on
 
@@ -9925,10 +10079,10 @@
 
 -lexeme
  lex: nën
- stem: nën.
- gramm: PR,with_acc
+ stem: nën
+ gramm: PR,with_acc,with_loc
  paradigm: unchangeable
- trans_en: Under
+ trans_en: under
 
 -lexeme
  lex: nëntë
@@ -9953,8 +10107,8 @@
 
 -lexeme
  lex: nëpër
- stem: nëpër.
- gramm: PR,with_acc
+ stem: nëpër
+ gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: among
 
@@ -10157,21 +10311,21 @@
 -lexeme
  lex: pa
  stem: pa.
+ gramm: FORM
+ paradigm: unchangeable
+ trans_en: non-
+
+-lexeme
+ lex: pa
+ stem: pa.
  gramm: INTJ
  paradigm: unchangeable
  trans_en: whew! boy! well now!
 
 -lexeme
  lex: pa
- stem: pa.
- gramm: PART
- paradigm: unchangeable
- trans_en: so how about (before an imperative)
-
--lexeme
- lex: pa
- stem: pa.
- gramm: PR,with_acc
+ stem: pa
+ gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: without
 
@@ -10946,6 +11100,14 @@
  trans_en: grudgingly, regretfully
 
 -lexeme
+ lex: per
+ stem: per.//pr.
+ lexref: për
+ gramm: PR,with_acc,with_abl,with_loc,nonst
+ paradigm: unchangeable
+ trans_en: for, about
+
+-lexeme
  lex: periodikisht
  stem: periodikisht.
  gramm: ADV
@@ -11446,6 +11608,13 @@
  trans_en: yet, on the other hand
 
 -lexeme
+ lex: porsi
+ stem: porsi.
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_en: just like; according to
+
+-lexeme
  lex: portugalisht
  stem: portugalisht.
  gramm: ADV
@@ -11853,8 +12022,8 @@
 
 -lexeme
  lex: për
- stem: për.
- gramm: PR,with_acc_or_abl
+ stem: për
+ gramm: PR,with_acc,with_abl,with_loc
  paradigm: unchangeable
  trans_en: for, about
 
@@ -12322,8 +12491,8 @@
 
 -lexeme
  lex: përmbi
- stem: përmbi.
- gramm: PR,with_acc
+ stem: përmbi
+ gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: over
 
@@ -13133,6 +13302,13 @@
  trans_en: quietly, calmly
 
 -lexeme
+ lex: qidh
+ stem: qidh.
+ gramm: FORM
+ paradigm: unchangeable
+ trans_en: -any
+
+-lexeme
  lex: qiqër
  stem: qiqër.
  gramm: ADV
@@ -13145,6 +13321,14 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: rearin up, standing erect
+
+-lexeme
+ lex: qish
+ stem: qish.
+ lexref: qysh
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: how; whatever
 
 -lexeme
  lex: qoftë
@@ -13327,6 +13511,13 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: a short time ago, a little while ago
+
+-lexeme
+ lex: qëruarë
+ stem: qëruarë.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: fully, totally
 
 -lexeme
  lex: qëtherthi
@@ -15909,7 +16100,7 @@
 
 -lexeme
  lex: tij
- stem: tij.
+ stem: tij.//tijh.
  gramm: PRO
  paradigm: poss-pro-3-sg-m
  trans_en: (of) his, its; him, it
@@ -15961,6 +16152,13 @@
  stem: tjetër.|tjer.|tjetr.
  gramm: PRO
  paradigm: indef-pro-tjetër
+ trans_en: other, another
+
+-lexeme
+ lex: tjetër
+ stem: tjetër.//jetër.|tjer.|tjetr.
+ gramm: PRO
+ paradigm: indf-pro-tjetër
  trans_en: other, another
 
 -lexeme
@@ -16253,7 +16451,7 @@
 
 -lexeme
  lex: tre
- stem: tre.|tri.
+ stem: tre.|tri.//trii.
  gramm: NUM
  paradigm: num-3
  trans_en: three
@@ -16516,7 +16714,7 @@
 
 -lexeme
  lex: tyre
- stem: tyre.//tyne.|tyr.//tyn.
+ stem: tyre.//tyne.//tire.|tyr.//tyn.//tir.
  gramm: PRO
  paradigm: poss-pro-3-pl
  trans_en: of theirs, their; them
@@ -17228,7 +17426,7 @@
 
 -lexeme
  lex: vete
- stem: vet.
+ stem: vet.//vetëh.
  gramm: PRO
  paradigm: refl-pro
  trans_en: self, oneself
@@ -17869,7 +18067,7 @@
 
 -lexeme
  lex: ynë
- stem: tanë.|ton.|yn.//ton.//jon.|jon.|ton.//tën.|ton.//tin.|ton.//sin.|son.//san.
+ stem: tanë.|ton.//on.|yn.//in.//ton.//jon.|jon.|ton.//tën.//ën.|ton.//tin.|ton.//sin.|son.//san.
  gramm: PRO
  paradigm: poss-pro-1-pl
  trans_en: our, ours
@@ -17890,7 +18088,7 @@
 
 -lexeme
  lex: yt
- stem: tu.|yt.//tënd.//jot.|tënd.|tënd.//tit.|tënd.//sit.|sat.//tënd.|sat.//tënd.//sot.|tët.|tyt.//tit.|tyt.//sit.|jot.|tët.|sat.
+ stem: tu.|yt.//it.//tënd.//jot.|tënd.|tënd.//tit.|tënd.//sit.|sat.//tënd.|sat.//tënd.//sot.|tët.//ët.|tyt.//tit.|tyt.//sit.|jot.|tët.|sat.
  gramm: PRO
  paradigm: poss-pro-2-sg
  trans_en: your (thy), yours (thine)
@@ -18050,6 +18248,13 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: with (a) yearning heart
+
+-lexeme
+ lex: zet
+ stem: zet.
+ gramm: FORM
+ paradigm: unchangeable
+ trans_en: -ten (10)
 
 -lexeme
  lex: zgjeshur
@@ -18468,7 +18673,7 @@
 
 -lexeme
  lex: çdo
- stem: çdo.
+ stem: çdo.//çado.
  gramm: PRO
  paradigm: unchangeable
  trans_en: any, every, each
@@ -18665,6 +18870,22 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: spouting
+
+-lexeme
+ lex: çë
+ stem: çë.
+ lexref: që
+ gramm: CONJ,nonst
+ paradigm: unchangeable
+ trans_en: that; which, who
+
+-lexeme
+ lex: çë
+ stem: çë.
+ lexref: ç
+ gramm: PRO,nonst
+ paradigm: unchangeable
+ trans_en: what
 
 -lexeme
  lex: ë
