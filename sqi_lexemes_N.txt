@@ -22387,7 +22387,7 @@
 
 -lexeme
  lex: dhe
- stem: dhera.|dhe.
+ stem: dhera.|dhe.|dhe.
  gramm: NOUN,m,inanim
  paradigm: 2a
  paradigm: 5b
@@ -24432,10 +24432,10 @@
 
 -lexeme
  lex: djafuar
- stem: djafuara.|djafuar.
+ stem: djafuara.|djafuar.|djafuar.
  gramm: NOUN,m,inanim
  paradigm: 1a
- trans_en: usefulness
+ transl_en: usefulness
 
 -lexeme
  lex: djaljas
@@ -26919,11 +26919,11 @@
 
 -lexeme
  lex: durëtiljë
- stem: durëtiljë.//dhurëtiljë.|durëtiljë.//dhurëtiljë.|durëtilj.//dhurëtilj.
+ stem: durëtiljë.//dhurëtiljë.//dorëtiljë.|durëtiljë.//dhurëtiljë.//dorëtiljë.|durëtilj.//dhurëtilj.//dorëtilj.
  gramm: NOUN,f,inanim
  paradigm: 3a
  paradigm: 5a
- trans_en: gift, donation
+ transl_en: gift, donation
 
 -lexeme
  lex: dush
@@ -42620,9 +42620,9 @@
 
 -lexeme
  lex: grua
- stem: gra.|grua.|gruaj.
+ stem: gra.|grua.|gruaj.|gruaj.
  gramm: NOUN,f,anim
- paradigm: 3a
+ paradigm: 3b
  paradigm: 5b
  paradigm: 5a
  trans_en: woman; wife
@@ -75227,11 +75227,11 @@
  trans_en: area thick with dry bush
 
 -lexeme
- lex: krështerë
- stem: krështerë.|krështerë.|krështer.
+ lex: krështe
+ stem: krështe.|krështe.
  lexref: krishterë
  gramm: NOUN,m,anim,nonst
- paradigm: 1b
+ paradigm: 2a
  paradigm: 5b
  trans_en: Christian
 
@@ -75245,10 +75245,10 @@
 
 -lexeme
  lex: ksemologisurë
- stem: ksemologisurë.|ksemologisurë.|ksemologisur.
+ stem: ksemologisurë.//ksemolojsurë.|ksemologisurë.//ksemolojsurë.|ksemologisur.//ksemolojsur.
  gramm: NOUN,n,inanim
  paradigm: 4f
- trans_en: confession
+ transl_en: confession
 
 -lexeme
  lex: ksenofob
@@ -78750,7 +78750,7 @@
 
 -lexeme
  lex: kurm
- stem: kurme.|kurm.
+ stem: kurme.|kurm.|kurm.
  gramm: NOUN,mf,inanim
  paradigm: 1a
  paradigm: 5a
@@ -90835,10 +90835,10 @@
 
 -lexeme
  lex: lëvduame
- stem: lëvduame.|lëvduame.|lëvduamej.
+ stem: lëvduame.//lëfduame.|lëvduame.//lëfduame.|lëvduamej.//lëfduamej.
  gramm: NOUN,f,inanim
  paradigm: 5a
- trans_en: glory
+ transl_en: glory
 
 -lexeme
  lex: lëvere
@@ -95225,11 +95225,11 @@
 
 -lexeme
  lex: mbsuame
- stem: mbsuame.|mbsuame.|mbsuamej.
+ stem: mbsuame.//mbësuame.|mbsuame.//mbësuame.|mbsuamej.//mbësuamej.
  gramm: NOUN,f,inanim
  paradigm: 3c
  paradigm: 5a
- trans_en: doctrine
+ transl_en: doctrine
 
 -lexeme
  lex: mbufatje
@@ -96683,7 +96683,7 @@
 
 -lexeme
  lex: mes
- stem: mese.|mes.
+ stem: mese.|mes.|mes.
  gramm: NOUN,mf,inanim
  paradigm: 1a
  paradigm: 5a
@@ -99519,7 +99519,7 @@
 
 -lexeme
  lex: mistir
- stem: mistirje.//mistirie.//mistire.|mistir.
+ stem: mistirje.//mistirie.//mistire.|mistir.|mistir.
  gramm: NOUN,mf,inanim
  paradigm: 1a
  paradigm: 5a
@@ -100624,8 +100624,8 @@
  trans_en: sin
 
 -lexeme
- lex: mkatëruam
- stem: mkatëruamë.|mkatëruam.|mkatëruam.
+ lex: mkateruam
+ stem: mkateruamë.|mkateruam.|mkateruam.
  gramm: NOUN,m,anim
  paradigm: 5c-1
  trans_en: sinner
@@ -109764,7 +109764,7 @@
 
 -lexeme
  lex: nder
- stem: ndere.|nder.
+ stem: ndere.|nder.|nder.
  gramm: NOUN,mf,inanim
  paradigm: 1a
  paradigm: 5a
@@ -114517,7 +114517,7 @@
 
 -lexeme
  lex: nom
- stem: nome.|nom.
+ stem: nome.|nom.|nom.
  gramm: NOUN,mf,inanim
  paradigm: 1a
  paradigm: 5a
@@ -120389,7 +120389,7 @@
 
 -lexeme
  lex: pakzim
- stem: pakzim.|pakzim.
+ stem: pakzim.|pakzim.|pakzim.
  lexref: pagëzim
  gramm: NOUN,m,anim
  paradigm: 1a
