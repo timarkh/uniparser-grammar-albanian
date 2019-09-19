@@ -4082,7 +4082,7 @@
   gramm: nom
  -flex: <1>.
   gramm: gen_dat
- -flex: <1>.
+ -flex: <1>.ve
   gramm: gen_dat,nonst
  -flex: <4>.
   gramm: gen_dat,nonst
@@ -5285,11 +5285,15 @@
 -paradigm: ptcp-2
  -flex: .r
   gramm: ptcp
-
+ -flex: .rë
+  gramm: ptcp,nonst
+  
 -paradigm: ptcp-3
  -flex: .ur
   gramm: ptcp
  -flex: .urë
+  gramm: ptcp,nonst
+ -flex: .rë
   gramm: ptcp,nonst
  -flex: .un
   gramm: ptcp,Gheg
