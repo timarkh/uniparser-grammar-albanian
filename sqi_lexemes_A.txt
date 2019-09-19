@@ -26480,7 +26480,7 @@
 
 -lexeme
  lex: keq
- stem: keq.|keqe.|keqij.|keqija.//keqia.|keqinj.
+ stem: keq.|keqe.|këqij.//këqi.|këqija.//këqia.|këqinj.
  gramm: A
  paradigm: keq
  trans_en: bad
