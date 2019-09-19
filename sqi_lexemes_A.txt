@@ -50479,7 +50479,7 @@
 
 -lexeme
  lex: pistepsm
- stem: pistepsën.|pistepsm.
+ stem: pistepsën.//pistepsm.|pistepsm.
  gramm: A
  paradigm: adj-1-4
  trans_en: faithful
@@ -60707,7 +60707,7 @@
 
 -lexeme
  lex: shejt
- stem: shejt.|shejt.
+ stem: shejt.|shejt.|shejt.|shejte.//shejtë.
  lexref: shenjtë
  gramm: A
  paradigm: zi
