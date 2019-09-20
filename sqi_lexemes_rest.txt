@@ -7898,7 +7898,7 @@
 
 -lexeme
  lex: mbi
- stem: mbi
+ stem: mbi.
  gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: over
@@ -8026,7 +8026,7 @@
 
 -lexeme
  lex: me
- stem: me
+ stem: me.
  gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: with
@@ -8759,7 +8759,7 @@
 
 -lexeme
  lex: ndaj
- stem: ndaj
+ stem: ndaj.
  gramm: PR,with_acc,with_abl
  paradigm: unchangeable
 
@@ -8955,7 +8955,7 @@
 
 -lexeme
  lex: ndrë
- stem: ndrë
+ stem: ndrë.
  lexref: ndër
  gramm: PR,with_acc,with_loc,nonst
  paradigm: unchangeable
@@ -9029,7 +9029,7 @@
 
 -lexeme
  lex: ndër
- stem: ndër
+ stem: ndër.
  gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: among
@@ -10065,7 +10065,7 @@
 
 -lexeme
  lex: në
- stem: në
+ stem: në.
  gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: in; on
@@ -10079,7 +10079,7 @@
 
 -lexeme
  lex: nën
- stem: nën
+ stem: nën.
  gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: under
@@ -10107,7 +10107,7 @@
 
 -lexeme
  lex: nëpër
- stem: nëpër
+ stem: nëpër.
  gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: among
@@ -10324,7 +10324,7 @@
 
 -lexeme
  lex: pa
- stem: pa
+ stem: pa.
  gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: without
@@ -12022,7 +12022,7 @@
 
 -lexeme
  lex: për
- stem: për
+ stem: për.
  gramm: PR,with_acc,with_abl,with_loc
  paradigm: unchangeable
  trans_en: for, about
@@ -12491,7 +12491,7 @@
 
 -lexeme
  lex: përmbi
- stem: përmbi
+ stem: përmbi.
  gramm: PR,with_acc,with_loc
  paradigm: unchangeable
  trans_en: over
@@ -15246,7 +15246,7 @@
 
 -lexeme
  lex: simbas
- stem: simbas
+ stem: simbas.
  gramm: PR,with_abl
  paradigm: unchangeable
  trans_en: according to

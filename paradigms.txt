@@ -5073,6 +5073,7 @@
   gramm: 1,sg,pres,ind,act,nonst
  -flex: .ënj
   gramm: 1,sg,pres,ind,act,nonst
+
 -paradigm: pres-ind-act-1-sg-b
  -flex: .
   gramm: 1,sg,pres,ind,act
@@ -5108,11 +5109,13 @@
   gramm: 3,pl,pres,ind,act,nonst
  -flex: .njënë
   gramm: 3,pl,pres,ind,act
+
 -paradigm: pres-ind-act-1-3-pl-b
  -flex: .më
   gramm: 1,pl,pres,ind,act
  -flex: .në
   gramm: 3,pl,pres,ind,act
+
 -paradigm: pres-ind-act-1-3-pl-b-old
  -flex: .ëmë
   gramm: 1,pl,pres,ind,act
@@ -5412,9 +5415,11 @@
   gramm: 1,sg,aor,ind,act
  -flex: .
   gramm: 3,sg,aor,ind,act
+
 -paradigm: aor-ind-act-2-sg
  -flex: .
   gramm: 2,sg,aor,ind,act
+
 -paradigm: aor-ind-act-pl-a
  -flex: .më
   gramm: 1,pl,aor,ind,act
@@ -6655,6 +6660,7 @@
  -flex: <1>.<.>
   gramm: 
   paradigm: aor-ind-act-1-2-sg
+
 -paradigm: vij
  -flex: <0>.<.>
   gramm: 
