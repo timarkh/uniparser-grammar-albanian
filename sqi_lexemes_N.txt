@@ -48270,7 +48270,7 @@
 
 -lexeme
  lex: hir
- stem: hire.|hir.
+ stem: hire.|hir.|hir.
  gramm: NOUN,mf,inanim
  paradigm: 1a
  paradigm: 5a
@@ -52598,7 +52598,7 @@
 
 -lexeme
  lex: inëzot
- stem: tënëzotëra.|inëzot.|tënëzo.|tinëzot.//tinzot.//tinézot.|sinëzot.
+ stem: tënëzotëra.|inëzot.|tënëzo.|tinëzot.//tinzot.//tinezot.|sinëzot.
  gramm: NOUN,m,anim
  paradigm: inezot
  paradigm: 5a
@@ -75245,7 +75245,7 @@
 
 -lexeme
  lex: ksemologisurë
- stem: ksemologisurë.//ksemolojsurë.|ksemologisurë.//ksemolojsurë.|ksemologisur.//ksemolojsur.
+ stem: ksemologisurë.//ksemolojisurë.//ksemolojsurë.|ksemologisurë.//ksemolojisurë.//ksemolojsurë.|ksemologisur.//ksemolojisur.//ksemolojsur.|ksemologisur.//ksemolojisur.//ksemolojsur.|ksemologisur.//ksemolojisur.//ksemolojsur.|ksemologisur.//ksemolojisur.//ksemolojsur.
  gramm: NOUN,n,inanim
  paradigm: 4f
  transl_en: confession
@@ -78750,7 +78750,7 @@
 
 -lexeme
  lex: kurm
- stem: kurme.|kurm.|kurm.
+ stem: kurme.|kurm.//kurmi.|kurm.
  gramm: NOUN,mf,inanim
  paradigm: 1a
  paradigm: 5a
@@ -85373,9 +85373,10 @@
 
 -lexeme
  lex: ligj
- stem: ligje.|ligj.
+ stem: ligje.|ligj.|ligj.
  gramm: NOUN,mf,inanim
  paradigm: 1a
+ paradigm: 3a
  paradigm: 5a
  trans_en: law
 
@@ -90837,6 +90838,7 @@
  lex: lëvduame
  stem: lëvduame.//lëfduame.|lëvduame.//lëfduame.|lëvduamej.//lëfduamej.
  gramm: NOUN,f,inanim
+ paradigm: 3c
  paradigm: 5a
  transl_en: glory
 

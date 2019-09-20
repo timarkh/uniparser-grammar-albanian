@@ -4039,7 +4039,7 @@
 
 -lexeme
  lex: barkkeq
- stem: barkkeq.|barkkeqe.|barkkeqij.|barkkeqija.
+ stem: barkkeq.|barkkeqe.|barkkëqij.|barkkëqija.|barkkëqinj.
  gramm: A
  paradigm: keq
  trans_en: malicious, evil
@@ -4881,7 +4881,7 @@
 
 -lexeme
  lex: besëkeq
- stem: besëkeq.|besëkeqe.|besëkeqij.|besëkeqija.
+ stem: besëkeq.|besëkeqe.|besëkëqij.|besëkëqija.|besëkëqinj.
  gramm: A
  paradigm: keq
  trans_en: untrustworthy, perfidious
@@ -8561,7 +8561,7 @@
 
 -lexeme
  lex: dashakeq
- stem: dashakeq.|dashakeqe.|dashakeqij.|dashakeqija.
+ stem: dashakeq.|dashakeqe.|dashakëqij.|dashakëqija.
  gramm: A
  paradigm: keq
  trans_en: malevolent, hostile
@@ -10146,7 +10146,7 @@
 
 -lexeme
  lex: dijekeq
- stem: dijekeq.|dijekeqe.|dijekeqij.|dijekeqija.
+ stem: dijekeq.|dijekeqe.|dijekëqij.|dijekëqija.
  gramm: A
  paradigm: keq
  trans_en: evil-intentioned
@@ -10994,7 +10994,7 @@
 
 -lexeme
  lex: dorëkeq
- stem: dorëkeq.|dorëkeqe.|dorëkeqij.|dorëkeqija.
+ stem: dorëkeq.|dorëkeqe.|dorëkëqij.|dorëkëqija.
  gramm: A
  paradigm: keq
  trans_en: unlucky
@@ -14943,7 +14943,7 @@
 
 -lexeme
  lex: fatkeq
- stem: fatkeq.|fatkeqe.|fatkeqij.|fatkeqija.
+ stem: fatkeq.|fatkeqe.|fatkëqij.|fatkëqija.
  gramm: A
  paradigm: keq
  trans_en: unfortunate
@@ -15650,7 +15650,7 @@
 
 -lexeme
  lex: fjalëkeq
- stem: fjalëkeq.|fjalëkeqe.|fjalëkeqij.|fjalëkeqija.
+ stem: fjalëkeq.|fjalëkeqe.|fjalëkëqij.|fjalëkëqija.
  gramm: A
  paradigm: keq
  trans_en: that speaks ill of others
@@ -16476,7 +16476,7 @@
 
 -lexeme
  lex: frikakeq
- stem: frikakeq.|frikakeqe.|frikakeqij.|frikakeqija.
+ stem: frikakeq.|frikakeqe.|frikakëqij.|frikakëqija.
  gramm: A
  paradigm: keq
  trans_en: easily frightened
@@ -17569,7 +17569,7 @@
 
 -lexeme
  lex: gjakkeq
- stem: gjakkeq.|gjakkeqe.|gjakkeqij.|gjakkeqija.|gjakkeqinj.
+ stem: gjakkeq.|gjakkeqe.|gjakkëqij.|gjakkëqija.|gjakkëqinj.
  gramm: A
  paradigm: keq
  trans_en: unsociable; hot-tempered
@@ -19446,7 +19446,7 @@
 
 -lexeme
  lex: gojëkeq
- stem: gojëkeq.|gojëkeqe.|gojëkeqij.|gojëkeqija.
+ stem: gojëkeq.|gojëkeqe.|gojëkëqij.|gojëkëqija.|gojëkëqinj.
  gramm: A
  paradigm: keq
  trans_en: slanderous, blasphemous
@@ -20982,7 +20982,7 @@
 
 -lexeme
  lex: hajekeq
- stem: hajekeq.|hajekeqe.|hajekeqij.|hajekeqija.
+ stem: hajekeq.|hajekeqe.|hajekëqij.|hajekëqija.
  gramm: A
  paradigm: keq
  trans_en: not hungry, with no appetite
@@ -21045,7 +21045,7 @@
 
 -lexeme
  lex: hallkeq
- stem: hallkeq.|hallkeqe.|hallkeqij.|hallkeqija.
+ stem: hallkeq.|hallkeqe.|hallkëqij.|hallkëqija.|hallkëqinj.
  gramm: A
  paradigm: keq
  trans_en: having serious problems, in deep trouble
@@ -21472,7 +21472,7 @@
 
 -lexeme
  lex: hekakeq
- stem: hekakeq.|hekakeqe.|hekakeqij.|hekakeqija.
+ stem: hekakeq.|hekakeqe.|hekakëqij.|hekakëqija.|hekakëqinj.
  gramm: A
  paradigm: keq
  trans_en: long-suffering, wretched
@@ -21920,7 +21920,7 @@
 
 -lexeme
  lex: hijekeq
- stem: hijekeq.|hijekeqe.|hijekeqij.|hijekeqija.
+ stem: hijekeq.|hijekeqe.|hijekëqij.|hijekëqija.|hijekëqinj.
  gramm: A
  paradigm: keq
  trans_en: casting a dark shadow
@@ -25492,7 +25492,7 @@
 
 -lexeme
  lex: kallëkeq
- stem: kallëkeq.|kallëkeqe.|kallëkeqij.|kallëkeqija.
+ stem: kallëkeq.|kallëkeqe.|kallëkëqij.|kallëkëqija.|kallëkëqinj.
  gramm: A
  paradigm: keq
  trans_en: inciting others to argue / dispute
@@ -26480,7 +26480,7 @@
 
 -lexeme
  lex: keq
- stem: keq.|keqe.|këqij.//këqi.|këqija.//këqia.|këqinj.
+ stem: keq.|keqe.|këqij.//këqi.//keqij.//keqi.|këqija.//këqia.//keqija.//keqia.|këqinj.//keqinj.
  gramm: A
  paradigm: keq
  trans_en: bad
@@ -35525,7 +35525,7 @@
 
 -lexeme
  lex: mendjekeq
- stem: mendjekeq.|mendjekeqe.|mendjekeqij.|mendjekeqija.
+ stem: mendjekeq.|mendjekeqe.|mendjekëqij.|mendjekëqija.|mendjekëqinj.
  gramm: A
  paradigm: keq
  trans_en: malevolent
@@ -38896,7 +38896,7 @@
 
 -lexeme
  lex: ndjellakeq
- stem: ndjellakeq.|ndjellakeqe.|ndjellakeqij.|ndjellakeqija.
+ stem: ndjellakeq.|ndjellakeqe.|ndjellakëqij.|ndjellakëqija.|ndjellakëqinj.
  gramm: A
  paradigm: keq
  trans_en: of bad omen, ominous; pessimistic
@@ -39169,7 +39169,7 @@
 
 -lexeme
  lex: ndysëkeq
- stem: ndysëkeq.|ndysëkeqe.|ndysëkeqij.|ndysëkeqija.
+ stem: ndysëkeq.|ndysëkeqe.|ndysëkëqij.|ndysëkëqija.|ndysëkëqinj.
  gramm: A
  paradigm: keq
  trans_en: touchy, easily offended
@@ -40584,7 +40584,7 @@
 
 -lexeme
  lex: ngrënëkeq
- stem: ngrënëkeq.|ngrënëkeqe.|ngrënëkeqij.|ngrënëkeqija.
+ stem: ngrënëkeq.|ngrënëkeqe.|ngrënëkëqij.|ngrënëkëqija.|ngrënëkëqinj.
  gramm: A
  paradigm: keq
  trans_en: with no appetite
@@ -42412,7 +42412,7 @@
 
 -lexeme
  lex: ogurkeq
- stem: ogurkeq.|ogurkeqe.|ogurkeqij.|ogurkeqija.
+ stem: ogurkeq.|ogurkeqe.|ogurkëqij.|ogurkëqija.|ogurkëqinj.
  gramm: A
  paradigm: keq
  trans_en: boding ill
@@ -42741,7 +42741,7 @@
 
 -lexeme
  lex: orëkeq
- stem: orëkeq.|orëkeqe.|orëkeqij.|orëkeqija.
+ stem: orëkeq.|orëkeqe.|orëkëqij.|orëkëqija.|orëkëqinj.
  gramm: A
  paradigm: keq
  trans_en: unlucky
@@ -48915,7 +48915,7 @@
 
 -lexeme
  lex: patëkeq
- stem: patëkeq.|patëkeqe.|patëkeqij.|patëkeqija.|patëkeqinj.
+ stem: patëkeq.|patëkeqe.|patëkëqij.|patëkëqija.|patëkëqinj.
  gramm: A
  paradigm: keq
  trans_en: not hungry, with no appetite
@@ -50577,7 +50577,7 @@
 
 -lexeme
  lex: pjerrakeq
- stem: pjerrakeq.|pjerrakeqe.|pjerrakeqij.|pjerrakeqija.|pjerrakeqinj.
+ stem: pjerrakeq.|pjerrakeqe.|pjerrakëqij.|pjerrakëqija.|pjerrakëqinj.
  gramm: A
  paradigm: keq
  trans_en: evil-minded
@@ -52995,7 +52995,7 @@
 
 -lexeme
  lex: punëkeq
- stem: punëkeq.|punëkeqe.|punëkeqij.|punëkeqija.|punëkeqinj.
+ stem: punëkeq.|punëkeqe.|punëkëqij.|punëkëqija.|punëkëqinj.
  gramm: A
  paradigm: keq
  trans_en: evil
@@ -57474,7 +57474,7 @@
 
 -lexeme
  lex: resëkeq
- stem: resëkeq.|resëkeqe.|resëkeqij.|resëkeqija.|resëkeqinj.
+ stem: resëkeq.|resëkeqe.|resëkëqij.|resëkëqija.|resëkëqinj.
  gramm: A
  paradigm: keq
  trans_en: spitefully envious
@@ -62425,7 +62425,7 @@
 
 -lexeme
  lex: shpirtkeq
- stem: shpirtkeq.|shpirtkeqe.|shpirtkeqij.|shpirtkeqija.|shpirtkeqinj.
+ stem: shpirtkeq.|shpirtkeqe.|shpirtkëqij.|shpirtkëqija.|shpirtkëqinj.
  gramm: A
  paradigm: keq
  trans_en: malevolent
@@ -63833,7 +63833,7 @@
 
 -lexeme
  lex: shtiekeq
- stem: shtiekeq.|shtiekeqe.|shtiekeqij.|shtiekeqija.|shtiekeqinj.
+ stem: shtiekeq.|shtiekeqe.|shtiekëqij.|shtiekëqija.|shtiekëqinj.
  gramm: A
  paradigm: keq
  trans_en: bad-mouthing
@@ -63847,7 +63847,7 @@
 
 -lexeme
  lex: shtijkeq
- stem: shtijkeq.|shtijkeqe.|shtijkeqij.|shtijkeqija.|shtijkeqinj.
+ stem: shtijkeq.|shtijkeqe.|shtijkëqij.|shtijkëqija.|shtijkëqinj.
  gramm: A
  paradigm: keq
  trans_en: defamatory
@@ -63910,7 +63910,7 @@
 
 -lexeme
  lex: shtjerakeq
- stem: shtjerakeq.|shtjerakeqe.|shtjerakeqij.|shtjerakeqija.|shtjerakeqinj.
+ stem: shtjerakeq.|shtjerakeqe.|shtjerakëqij.|shtjerakëqija.|shtjerakëqinj.
  gramm: A
  paradigm: keq
  trans_en: bad-mouthing
@@ -66060,7 +66060,7 @@
 
 -lexeme
  lex: smirëkeq
- stem: smirëkeq.|smirëkeqe.|smirëkeqij.|smirëkeqija.|smirëkeqinj.
+ stem: smirëkeq.|smirëkeqe.|smirëkëqij.|smirëkëqija.|smirëkëqinj.
  gramm: A
  paradigm: keq
  trans_en: envious
@@ -67264,7 +67264,7 @@
 
 -lexeme
  lex: sykeq
- stem: sykeq.|sykeqe.|sykeqij.|sykeqija.|sykeqinj.
+ stem: sykeq.|sykeqe.|sykëqij.|sykëqija.|sykëqinj.
  gramm: A
  paradigm: keq
  trans_en: with the evil eye; envious
@@ -73480,7 +73480,7 @@
 
 -lexeme
  lex: veskeq
- stem: veskeq.|veskeqe.|veskeqij.|veskeqija.|veskeqinj.
+ stem: veskeq.|veskeqe.|veskëqij.|veskëqija.|veskëqinj.
  gramm: A
  paradigm: keq
  trans_en: having bad vices
@@ -75582,7 +75582,7 @@
 
 -lexeme
  lex: vërtetë
- stem: vërtetë.|vërtet.
+ stem: vërtetë.//vertetë.|vërtet.//vertet.
  gramm: A
  paradigm: adj-2-1
  trans_en: true
@@ -76716,7 +76716,7 @@
 
 -lexeme
  lex: zemërkeq
- stem: zemërkeq.|zemërkeqe.|zemërkeqij.|zemërkeqija.|zemërkeqinj.
+ stem: zemërkeq.|zemërkeqe.|zemërkëqij.|zemërkëqija.|zemërkëqinj.
  gramm: A
  paradigm: keq
  trans_en: deeply malicious
@@ -77879,7 +77879,7 @@
 
 -lexeme
  lex: zikeq
- stem: zikeq.|zikeqe.|zikeqij.|zikeqija.|zikeqinj.
+ stem: zikeq.|zikeqe.|zikëqij.|zikëqija.|zikëqinj.
  gramm: A
  paradigm: keq
  trans_en: strved, hungry

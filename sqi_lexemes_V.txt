@@ -175,6 +175,13 @@
  trans_en: gain proficiency/mastery
 
 -lexeme
+ lex: agjëroj
+ stem: agjëro.|agjërua.|agjëru.
+ gramm: V,vi
+ paradigm: lexoj
+ trans_en: fast
+
+-lexeme
  lex: aglomeroj
  stem: aglomero.|aglomerua.|aglomeru.
  gramm: V,vt
@@ -3706,6 +3713,13 @@
  trans_en: become, get; turn into; ripen; appear; happen, occur
 
 -lexeme
+ lex: bëj
+ stem: bë.|bër.
+ gramm: V,vt,vi
+ paradigm: bëj
+ trans_en: make, produce (vt); do; earn; prepare; act (vi); be worth; appear, pretend to be; (impers) it is permitted
+
+-lexeme
  lex: bërdas
  stem: bërdas.|bërdet.|bërdit.//bërdis.|bërdit.
  gramm: V,vi,nonst
@@ -6380,6 +6394,13 @@
 -lexeme
  lex: duroj
  stem: duro.|durua.|duru.
+ gramm: V,vt,vi
+ paradigm: lexoj
+ trans_en: endure; tolerate; resist damage from (vt); be patient; last; be postponable
+
+-lexeme
+ lex: duroj
+ stem: duro.|durua.|duru.
  gramm: V,med
  paradigm: lexoj-1
  trans_en: (3 pers., with negation) (in)tolerable
@@ -6516,6 +6537,13 @@
  gramm: V,med
  paradigm: kthej-1
  trans_en: reveal oneself; prove to be
+
+-lexeme
+ lex: dëftoj
+ stem: dëfto.|dëftua.|dëftu.
+ gramm: V,vt
+ paradigm: lexoj
+ trans_en: indicate, reveal; display, show; tell
 
 -lexeme
  lex: dëftoj
@@ -11195,6 +11223,13 @@
 -lexeme
  lex: ha
  stem: ha.|ngrën.|hëngr.//hangr.|hëngër.//hangër.
+ gramm: V,vt
+ paradigm: ha
+ trans_en: eat; erode, corrode; bite; mumble; itch; spend, cost, waste; get hit; endure, accept; understand, comprehend (vt); eat, feed oneself; lean (vi)
+
+-lexeme
+ lex: ha
+ stem: ha.|ngrën.|hëngr.//hangr.|hëngër.//hangër.
  gramm: V,med
  paradigm: ha-1
  trans_en: be edible/eatable; be agreeable; to become worn/eaten away gradually; quarrel, argue
@@ -11961,6 +11996,13 @@
  gramm: V,vi
  paradigm: hap
  trans_en: leap, spring, lunge; rush, attack
+
+-lexeme
+ lex: huaj
+ stem: hua.|hu.|huajt.
+ gramm: V,vt
+ paradigm: ruaj
+ trans_en: lend; borrow
 
 -lexeme
  lex: huaj
@@ -15693,6 +15735,13 @@
 -lexeme
  lex: kujtoj
  stem: kujto.|kujtua.|kujtu.
+ gramm: V,vt,vi
+ paradigm: lexoj
+ trans_en: remember; remind, bring to mind (vt); think, form an opinion, get an impression (vi)
+
+-lexeme
+ lex: kujtoj
+ stem: kujto.|kujtua.|kujtu.
  gramm: V,med
  paradigm: lexoj-1
  trans_en: remember, recall
@@ -15949,6 +15998,13 @@
  gramm: V,vi
  paradigm: lexoj
  trans_en: curse, swear
+
+-lexeme
+ lex: kungoj
+ stem: kungo.|kungua.|kungu.
+ gramm: V,vt
+ paradigm: lexoj
+ trans_en: give communion
 
 -lexeme
  lex: kungoj
@@ -17698,6 +17754,13 @@
 -lexeme
  lex: liroj
  stem: liro.|lirua.|liru.
+ gramm: V,vt
+ paradigm: lexoj
+ trans_en: free, liberate; release, let go; radiate; discharge (from service); clear (a place); allow 
+
+-lexeme
+ lex: liroj
+ stem: liro.|lirua.|liru.
  gramm: V,med
  paradigm: lexoj-1
  trans_en: gain freedom; be discharged from service or prison
@@ -19192,6 +19255,13 @@
  gramm: V,vt
  paradigm: mat
  trans_en: skim
+
+-lexeme
+ lex: mbaj
+ stem: mba.|mbajt.
+ gramm: V,vt
+ paradigm: brej
+ trans_en: hold, contain; keep, maintain, support; keep to; hold off; deliver/give [a lecture/speech/lesson, report]; bear, carry
 
 -lexeme
  lex: mbaj
@@ -21352,6 +21422,13 @@
  gramm: V,med
  paradigm: hap-1
  trans_en: be able, can; be capable; be possible; be allowed; wrestle, struggle
+
+-lexeme
+ lex: mundoj
+ stem: mundo.|mundua.|mundu.
+ gramm: V,vt
+ paradigm: lexoj
+ trans_en: demand great effort of, tire out; torment
 
 -lexeme
  lex: mundoj
@@ -43539,6 +43616,14 @@
 -lexeme
  lex: vlej
  stem: vle.|vlejt.
+ gramm: V,vi
+ paradigm: brej
+ trans_en: be worth
+
+-lexeme
+ lex: veljej
+ stem: velje.|veljejt.
+ lexref: vlej
  gramm: V,vi
  paradigm: brej
  trans_en: be worth
