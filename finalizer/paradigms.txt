@@ -5104,11 +5104,15 @@
  -flex: .jm
   gramm: 1,pl,pres,ind,act,nonst
  -flex: .njëmë
-  gramm: 1,pl,pres,ind,act
+  gramm: 1,pl,pres,ind,act,nonst
+ -flex: .ënjëmë
+  gramm: 1,pl,pres,ind,act,nonst
  -flex: .jn
   gramm: 3,pl,pres,ind,act,nonst
  -flex: .njënë
-  gramm: 3,pl,pres,ind,act
+  gramm: 3,pl,pres,ind,act,nonst
+ -flex: .ënjënë
+  gramm: 3,pl,pres,ind,act,nonst
 
 -paradigm: pres-ind-act-1-3-pl-b
  -flex: .më
@@ -7812,6 +7816,9 @@
  -flex: <5>.<.>
   gramm: 
   paradigm: aor-ind-act-2-sg
+ -flex: <6>.<.>
+  gramm: 
+  paradigm: imper-act-sg-b-consonant
 -paradigm: pi
  -flex: <0>.<.>
   gramm: 
@@ -8098,6 +8105,7 @@
   paradigm: aor-ind-act-3-sg-c
   paradigm: aor-ind-act-pl-a
   paradigm: aor-ind-pass
+  paradigm: ptcp-1
  -flex: <4>.<.>
   gramm: 
   paradigm: aor-ind-act-2-sg
