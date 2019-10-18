@@ -1,13 +1,12 @@
 import re
 import os
 
-rxDiacritics = re.compile('[ӥӧӵӟӝёӱ]')
+rxDiacritics = re.compile('[ëç]')
 rxDiaPartsStem = re.compile('( stem:)( *[^\r\n]+)')
 rxDiaPartsFlex = re.compile('(-flex:)( *[^\r\n]+)')
 rxStemVariants = re.compile('[^ |/]+')
 rxFlexVariants = re.compile('[^ /]+')
-dictDiacritics = {'ӥ': 'и', 'ӧ': 'о', 'ӝ': 'ж',
-                  'ӟ': 'з', 'ӵ': 'ч', 'ё': 'е', 'ӱ': 'у'}
+dictDiacritics = {'ë': 'e', 'ç': 'c'}
 
 
 def collect_lemmata():

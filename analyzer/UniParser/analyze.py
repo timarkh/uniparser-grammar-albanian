@@ -33,7 +33,7 @@ def analyze(freqListFile, paradigmFile, lexFile, lexRulesFile,
             freqListSeparator='\t', glossing=True,
             parsingMethod='fst', partialCompile=True,
             minFlexLen=4, maxCompileTime=60):
-    t1 = time.clock()
+    t1 = time.time()
     g = grammar.Grammar(verbose=verboseGrammar)
     grammar.Grammar.PARTIAL_COMPILE = partialCompile
     grammar.Grammar.MIN_FLEX_LENGTH = minFlexLen
@@ -59,15 +59,15 @@ def analyze(freqListFile, paradigmFile, lexFile, lexRulesFile,
     print(g.load_clitics(cliticFiles), 'clitics loaded.')
     print(g.load_bad_analyses(delAnaFiles), 'bad analyses loaded.')
     g.compile_all()
-    print('Paradigms and lexemes loaded and compiled in', time.clock() - t1, 'seconds.')
+    print('Paradigms and lexemes loaded and compiled in', time.time() - t1, 'seconds.')
     print('\n\n**** Starting parser... ****\n')
-    t1 = time.clock()
+    t1 = time.time()
     m = morph_parser.Parser(verbose=parserVerbosity, parsingMethod=parsingMethod)
     m.fill_stems()
     if parsingMethod == 'fst':
         m.fill_affixes()
-    print('Parser initialized in', time.clock() - t1, 'seconds.')
-    t1 = time.clock()
+    print('Parser initialized in', time.time() - t1, 'seconds.')
+    t1 = time.time()
 
     # m.verbose = 1
     # m.parse('doməx', printOut=True)
@@ -97,7 +97,8 @@ def analyze(freqListFile, paradigmFile, lexFile, lexRulesFile,
                                             glossing=glossing,
                                             maxLines=10000000000)
     print('Frequency list processed,', parsedRate * 100, '% tokens parsed.')
-    print('Average speed:', nTokens / (time.clock() - t1), 'tokens per second.')
+    print('Average speed:', nTokens / (time.time() - t1), 'tokens per second.')
+
 
 if __name__ == '__main__':
     paradigmFile = '../paradigms.txt'
