@@ -3,6 +3,8 @@ uniparser-grammar-albanian
 
 This is a formalized description of standard Albanian morphology, which also includes a number of dialectal and historical elements. The description is carried out in the UniParser format and involves a description of the inflection (paradigms.txt) and a grammatical dictionary (sqi_lexemes_XXX.txt files). The dictionary contains descriptions of individual lexemes, each of which is accompanied by information about its stem, its part-of-speech tag and some other grammatical information, its inflectional type (paradigm), and English translation.
 
+## How to use
+
 This description can be used for morphological analysis of Albanian texts in the following ways:
 
 1. The ``wordlists`` directory contains annotated frequency list of tokens based on the Albanian corpus (about 20 million words of contemporary texts), which contains 125,500 unique tokens (case-insensitive). The simplest solution is to use this analyzed wordlist for analyzing your texts. The recall of the analyzer on the corpus texts is about 93% and the corpus is sufficiently large, so if you use the wordlist, the recall on your texts is likely to be around 90% as well. Additionally, this directory includes a list of tokens the analyzer did not recognize.
@@ -11,4 +13,6 @@ This description can be used for morphological analysis of Albanian texts in the
 
 3. Finally, you are free to convert/adapt the description to whatever kind of morphological analysis you prefer to use.
 
+## License
 
+The software is distributed under MIT license (see LICENSE.md).
