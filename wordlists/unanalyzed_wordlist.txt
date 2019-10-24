@@ -7944,7 +7944,6 @@ sensibilizuese
 shehi
 shenbergu
 shikueshmërisë
-shpjet
 shtimje
 shtyer
 siliqi
@@ -33242,7 +33241,6 @@ shpis
 shpje
 shpjeguara
 shprem
-shpërgjum
 shqetesuar
 shqiptaro-sllav
 shqiptaromadh
@@ -52977,7 +52975,6 @@ postmodernja
 postmodernës
 postmoisiut
 postriba
-postum
 postverbal
 postènani
 postë-telekomi
@@ -84364,7 +84361,6 @@ shpirtëror"
 shpirtërore-kulturore
 shpirtërores'
 shpjejnë
-shpjetë
 shpk-ja
 shpk-në
 shplante
@@ -84391,7 +84387,6 @@ shpupuriste
 shpëndërën
 shpërblimet-bonuset
 shpërdhea
-shpërgjumi
 shpërndërruar
 shpërngulëse
 shpërpjestim
@@ -89617,6 +89612,7 @@ zv/presidentin
 zv/presidentja
 zv/trajneri
 zvagruar
+zvaritur
 zvarritshme
 zvarritura
 zvarrëzvarrë
@@ -198355,7 +198351,6 @@ shpjeguarit
 shpjereni
 shpjerjani
 shpjeti
-shpjetka
 shpjetuar
 shpjeturazi
 shpjetësi
@@ -198495,10 +198490,6 @@ shpërfytyrmit
 shpërfytyruese
 shpërfëtyrohej
 shpërgenj
-shpërgjumej
-shpërgjumen
-shpërgjumje
-shpërgjumnin
 shpërhundësimin
 shpërkujdesje
 shpërkujdesjes
@@ -218419,7 +218410,6 @@ zilkash
 zilkë
 zilkës
 zilpahut
-zim
 zimbabe
 zimbabve"
 zimbabvea
@@ -218909,6 +218899,7 @@ zvargjen
 zvargëta
 zvarishti
 zvarishtit
+zvariste
 zvarqa
 zvarrimën
 zvarriset
