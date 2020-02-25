@@ -12,6 +12,7 @@ dictDiacritics = {'ë': 'e', 'ç': 'c'}
 def collect_lemmata():
     lemmata = ''
     lexrules = ''
+    derivations = ''
     for fname in os.listdir('..'):
         if fname.endswith('.txt') and fname.startswith('sqi_lexemes'):
             f = open(os.path.join('..', fname), 'r', encoding='utf-8-sig')
@@ -21,11 +22,15 @@ def collect_lemmata():
             f = open(os.path.join('..', fname), 'r', encoding='utf-8-sig')
             lexrules += f.read() + '\n'
             f.close()
+        elif fname.endswith('.txt') and fname.startswith('sqi_derivations'):
+            f = open(os.path.join('..', fname), 'r', encoding='utf-8-sig')
+            derivations += f.read() + '\n'
+            f.close()
     lemmataSet = set(re.findall('-lexeme\n(?: [^\r\n]*\n)+', lemmata, flags=re.DOTALL))
     # lemmata = '\n'.join(sorted(list(lemmataSet),
     #                            key=lambda l: (re.search('gramm: *([^\r\n]*)', l).group(1), l)))
     lemmata = '\n'.join(sorted(list(lemmataSet)))
-    return lemmata, lexrules
+    return lemmata, lexrules, derivations
 
 
 def collect_paradigms():
@@ -76,7 +81,7 @@ def main():
     rules to lexical_rules.txt. Create separate versions of
     relevant files for diacriticless texts.
     """
-    lemmata, lexrules = collect_lemmata()
+    lemmata, lexrules, derivations = collect_lemmata()
     paradigms = collect_paradigms()
     fOutLemmata = open('lexemes.txt', 'w', encoding='utf-8')
     fOutLemmata.write(lemmata)
@@ -88,6 +93,9 @@ def main():
     fOutParadigms = open('paradigms.txt', 'w', encoding='utf-8')
     fOutParadigms.write(paradigms)
     fOutParadigms.close()
+    fOutDerivations = open('derivations.txt', 'w', encoding='utf-8')
+    fOutDerivations.write(derivations)
+    fOutDerivations.close()
 
 
 if __name__ == '__main__':

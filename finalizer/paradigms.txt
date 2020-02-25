@@ -5875,6 +5875,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
+ deriv-link: N-im
 
 -paradigm: lexoj-1
  -flex: <0>.<.>
