@@ -632,7 +632,7 @@
 -lexeme
  lex: asgjë
  stem: asgjë.
- gramm: PRO,indf
+ gramm: PRO,indef
  paradigm: det-pro
  trans_en: nothing
 
@@ -752,7 +752,7 @@
 -lexeme
  lex: askurrgjë
  stem: askurrgjë.
- gramm: PRO,indf
+ gramm: PRO,indef
  paradigm: det-pro
  trans_en: nothing
 
@@ -5184,14 +5184,14 @@
 -lexeme
  lex: hiçasgjë
  stem: hiçasgjë.
- gramm: PRO,indf
+ gramm: PRO,indef
  paradigm: det-pro
  trans_en: nothing
 
 -lexeme
  lex: hiçgjë
  stem: hiçgjë.
- gramm: PRO,indf
+ gramm: PRO,indef
  paradigm: det-pro
  trans_en: nothing
 
@@ -5564,14 +5564,14 @@
 -lexeme
  lex: iu
  stem: iu.//ju.
- gramm: PART,CLIT-PRO,dat_3pl
+ gramm: PART,CLIT_PRO,dat_3pl
  paradigm: unchangeable
  trans_en: (to/for/of) them + reflexive particle
 
 -lexeme
  lex: iu
  stem: iu.//ju.
- gramm: PART,CLIT-PRO,dat_3sg
+ gramm: PART,CLIT_PRO,dat_3sg
  paradigm: unchangeable
  trans_en: (to/for/of) him/her/it + reflexive particle
 
@@ -6910,7 +6910,7 @@
 -lexeme
  lex: kurrgjë
  stem: kurrgjë.
- gramm: PRO,indf
+ gramm: PRO,indef
  paradigm: det-pro
  trans_en: nothing
 
@@ -8427,7 +8427,7 @@
 -lexeme
  lex: mosgjë
  stem: mosgjë.
- gramm: PRO,indf
+ gramm: PRO,indef
  paradigm: det-pro
  trans_en: nothing
 
@@ -8718,7 +8718,7 @@
 -lexeme
  lex: na
  stem: na.//n.
- gramm: CLIT-PRO,dat_1pl
+ gramm: CLIT_PRO,dat_1pl
  paradigm: unchangeable
  trans_en: us
 
@@ -15079,7 +15079,7 @@
 -lexeme
  lex: shumëkush
  stem: shumëkush.|shumëkujt.|shumëkë.
- gramm: PRO,indf
+ gramm: PRO,indef
  paradigm: pers-pro-3-sg-pl
  trans_en: many
 

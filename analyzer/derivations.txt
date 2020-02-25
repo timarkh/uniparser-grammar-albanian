@@ -3,4 +3,4 @@
  stem: <3>[.]ime.|<0>[.]im.
  paradigm: 1a
  paradigm: 5a
- gramm: N,nmlz,mf,inanim
+ gramm: NOUN,nmlz,mf,inanim
