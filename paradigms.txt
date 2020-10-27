@@ -5863,7 +5863,6 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: pres-opt-act-a
  -flex: <2>.<.>
   gramm: 
   paradigm: ptcp-3
