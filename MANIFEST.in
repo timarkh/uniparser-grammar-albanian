@@ -1,0 +1,4 @@
+include uniparser_albanian/data_strict/*.txt
+include uniparser_albanian/data_nodiacritics/*.txt
+include uniparser_albanian/data_strict/*.cg3
+include uniparser_albanian/data_nodiacritics/*.cg3
