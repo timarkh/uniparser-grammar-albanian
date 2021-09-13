@@ -5593,115 +5593,115 @@
 
 -paradigm: IO_clitics_consonant
  -flex: .më.
-  gramm: LEX:më:gen_dat_1sg
+  gramm: LEX:më:CLIT_PRO;gen_dat_1sg
  -flex: .më.
-  gramm: LEX:më:acc_1sg
+  gramm: LEX:më:CLIT_PRO;acc_1sg
  -flex: .ma.
-  gramm: LEX:ma:gen_dat_1sg:acc_3sg
+  gramm: LEX:ma:CLIT_PRO;gen_dat_1sg;acc_3sg
  -flex: .mi.
-  gramm: LEX:mi:gen_dat_1sg:acc_3pl
+  gramm: LEX:mi:CLIT_PRO;gen_dat_1sg;acc_3pl
  -flex: .e.
-  gramm: LEX:e:acc_3sg
+  gramm: LEX:e:CLIT_PRO;acc_3sg
  -flex: .i.
-  gramm: LEX:i:gen_dat_3sg
+  gramm: LEX:i:CLIT_PRO;gen_dat_3sg
  -flex: .na.
-  gramm: LEX:na:gen_dat_1pl
+  gramm: LEX:na:CLIT_PRO;gen_dat_1pl
  -flex: .na.
-  gramm: LEX:na:acc_1pl
+  gramm: LEX:na:CLIT_PRO;acc_1pl
  -flex: .u.
-  gramm: LEX:u:gen_dat_3pl
+  gramm: LEX:u:CLIT_PRO;gen_dat_3pl
  -flex: .i.
-  gramm: LEX:i:acc_3pl
+  gramm: LEX:i:CLIT_PRO;acc_3pl
  -flex: .ua.
-  gramm: LEX:ua:gen_dat_3pl:acc_3sg
+  gramm: LEX:ua:CLIT_PRO;gen_dat_3pl;acc_3sg
  -flex: .ua.
-  gramm: LEX:ua:gen_dat_3pl:acc_3pl
+  gramm: LEX:ua:CLIT_PRO;gen_dat_3pl;acc_3pl
  -flex: .ja.
-  gramm: LEX:ia:gen_dat_3sg:acc_3sg
+  gramm: LEX:ia:CLIT_PRO;gen_dat_3sg;acc_3sg
 
 -paradigm: IO_clitics_consonant_final
  -flex: .më
-  gramm: LEX:më:gen_dat_1sg
+  gramm: LEX:më:CLIT_PRO;gen_dat_1sg
  -flex: .më
-  gramm: LEX:më:acc_1sg
+  gramm: LEX:më:CLIT_PRO;acc_1sg
  -flex: .ma
-  gramm: LEX:ma:gen_dat_1sg:acc_3sg
+  gramm: LEX:ma:CLIT_PRO;gen_dat_1sg;acc_3sg
  -flex: .mi
-  gramm: LEX:mi:gen_dat_1sg:acc_3pl
+  gramm: LEX:mi:CLIT_PRO;gen_dat_1sg;acc_3pl
  -flex: .e
-  gramm: LEX:e:acc_3sg
+  gramm: LEX:e:CLIT_PRO;acc_3sg
  -flex: .i
-  gramm: LEX:i:gen_dat_3sg
+  gramm: LEX:i:CLIT_PRO;gen_dat_3sg
  -flex: .na
-  gramm: LEX:na:gen_dat_1pl
+  gramm: LEX:na:CLIT_PRO;gen_dat_1pl
  -flex: .na
-  gramm: LEX:na:acc_1pl
+  gramm: LEX:na:CLIT_PRO;acc_1pl
  -flex: .u
-  gramm: LEX:u:gen_dat_3pl
+  gramm: LEX:u:CLIT_PRO;gen_dat_3pl
  -flex: .i
-  gramm: LEX:i:acc_3pl
+  gramm: LEX:i:CLIT_PRO;acc_3pl
  -flex: .ua
-  gramm: LEX:ua:gen_dat_3pl:acc_3sg
+  gramm: LEX:ua:CLIT_PRO;gen_dat_3pl;acc_3sg
  -flex: .ua
-  gramm: LEX:ua:gen_dat_3pl:acc_3pl
+  gramm: LEX:ua:CLIT_PRO;gen_dat_3pl;acc_3pl
  -flex: .ja
-  gramm: LEX:ia:gen_dat_3sg:acc_3sg
+  gramm: LEX:ia:CLIT_PRO;gen_dat_3sg;acc_3sg
 
 -paradigm: IO_clitics_vowel
  -flex: .më.
-  gramm: LEX:më:gen_dat_1sg
+  gramm: LEX:më:CLIT_PRO;gen_dat_1sg
  -flex: .më.
-  gramm: LEX:më:acc_1sg
+  gramm: LEX:më:CLIT_PRO;acc_1sg
  -flex: .ma.
-  gramm: LEX:ma:gen_dat_1sg:acc_3sg
+  gramm: LEX:ma:CLIT_PRO;gen_dat_1sg;acc_3sg
  -flex: .mi.
-  gramm: LEX:mi:gen_dat_1sg:acc_3pl
+  gramm: LEX:mi:CLIT_PRO;gen_dat_1sg;acc_3pl
  -flex: .je.
-  gramm: LEX:e:acc_3sg
+  gramm: LEX:e:CLIT_PRO;acc_3sg
  -flex: .ji.
-  gramm: LEX:i:gen_dat_3sg
+  gramm: LEX:i:CLIT_PRO;gen_dat_3sg
  -flex: .na.
-  gramm: LEX:na:gen_dat_1pl
+  gramm: LEX:na:CLIT_PRO;gen_dat_1pl
  -flex: .na.
-  gramm: LEX:na:acc_1pl
+  gramm: LEX:na:CLIT_PRO;acc_1pl
  -flex: .ju.
-  gramm: LEX:u:gen_dat_3pl
+  gramm: LEX:u:CLIT_PRO;gen_dat_3pl
  -flex: .ji.
-  gramm: LEX:i:acc_3pl
+  gramm: LEX:i:CLIT_PRO;acc_3pl
  -flex: .jua.
-  gramm: LEX:ua:gen_dat_3pl:acc_3sg
+  gramm: LEX:ua:CLIT_PRO;gen_dat_3pl;acc_3sg
  -flex: .jua.
-  gramm: LEX:ua:gen_dat_3pl:acc_3pl
+  gramm: LEX:ua:CLIT_PRO;gen_dat_3pl;acc_3pl
  -flex: .ja.
-  gramm: LEX:ia:gen_dat_3sg:acc_3sg
+  gramm: LEX:ia:CLIT_PRO;gen_dat_3sg;acc_3sg
 
 -paradigm: IO_clitics_vowel_final
  -flex: .më
-  gramm: LEX:më:gen_dat_1sg
+  gramm: LEX:më:CLIT_PRO;gen_dat_1sg
  -flex: .më
-  gramm: LEX:më:acc_1sg
+  gramm: LEX:më:CLIT_PRO;acc_1sg
  -flex: .ma
-  gramm: LEX:ma:gen_dat_1sg:acc_3sg
+  gramm: LEX:ma:CLIT_PRO;gen_dat_1sg;acc_3sg
  -flex: .mi
-  gramm: LEX:mi:gen_dat_1sg:acc_3pl
+  gramm: LEX:mi:CLIT_PRO;gen_dat_1sg;acc_3pl
  -flex: .je
-  gramm: LEX:e:acc_3sg
+  gramm: LEX:e:CLIT_PRO;acc_3sg
  -flex: .ji
-  gramm: LEX:i:gen_dat_3sg
+  gramm: LEX:i:CLIT_PRO;gen_dat_3sg
  -flex: .na
-  gramm: LEX:na:gen_dat_1pl
+  gramm: LEX:na:CLIT_PRO;gen_dat_1pl
  -flex: .na
-  gramm: LEX:na:acc_1pl
+  gramm: LEX:na:CLIT_PRO;acc_1pl
  -flex: .ju
-  gramm: LEX:u:gen_dat_3pl
+  gramm: LEX:u:CLIT_PRO;gen_dat_3pl
  -flex: .ji
-  gramm: LEX:i:acc_3pl
+  gramm: LEX:i:CLIT_PRO;acc_3pl
  -flex: .jua
-  gramm: LEX:ua:gen_dat_3pl:acc_3sg
+  gramm: LEX:ua:CLIT_PRO;gen_dat_3pl;acc_3sg
  -flex: .jua
-  gramm: LEX:ua:gen_dat_3pl:acc_3pl
+  gramm: LEX:ua:CLIT_PRO;gen_dat_3pl;acc_3pl
  -flex: .ja
-  gramm: LEX:ia:gen_dat_3sg:acc_3sg
+  gramm: LEX:ia:CLIT_PRO;gen_dat_3sg;acc_3sg
 
 -paradigm: laj
  -flex: <0>.<.>

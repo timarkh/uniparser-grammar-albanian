@@ -7,10 +7,6 @@ import re
 
 
 class AlbanianAnalyzer(Analyzer):
-    rxClitProTagXML = re.compile('(<ana lex="[^"]*" gr="[^"]*),LEX:([^:]+):([^,."]+)([^"]*"[^>]*></ana>)')
-    rxClitProTagStandalone = re.compile('^LEX:([^:]+):([^,."]+)$')
-    rxGrammColon = re.compile('(gr="[^"]*):')
-
     def __init__(self, mode='strict', verbose_grammar=False):
         """
         Initialize the analyzer by reading the grammar files.
@@ -32,51 +28,7 @@ class AlbanianAnalyzer(Analyzer):
              as_file(files(self.dirName) / 'bad_analyses.txt') as self.delAnaFile:
             self.load_grammar()
 
-    def insert_clitics(self, words, format='xml'):
-        """
-        Remove LEX:xxx:yyy (intraclitics) tags from the analyses and create
-        separate analyses for them. Work recursively if words is a list. Return
-        processed words.
-        This is an Albanian-specific postprocessing function.
-        TODO: Complete and move to uniparser-morph.
-        """
-        if format not in ('xml', 'json'):
-            return words
-        if format == 'xml':
-            if type(words) == list:
-                for i in range(len(words)):
-                    words[i] = self.insert_clitics(words[i], format=format)
-                return words
-            elif type(words) == str:
-                words = self.rxClitProTagXML.sub('<ana lex="\\2" gr="CLIT_PRO,\\3"></ana>\\1\\4', words)
-                words = self.rxGrammColon.sub('\\1,', words)
-                return words
-        elif format == 'json':
-            if type(words) != list or len(words) <= 0:
-                return words
-            if any(type(w) != dict for w in words):
-                for i in range(len(words)):
-                    words[i] = self.insert_clitics(words[i], format=format)
-                return words
-            cliticAnalyses = []
-            for ana in words:
-                if 'gramm' not in ana:
-                    continue
-                for tag in ana['gramm']:
-                    m = self.rxClitProTagStandalone.search(tag)
-                    if m is not None:
-                        newAna = {
-                            'lemma': m.group(1),
-                            'gramm': ['CLIT_PRO'] + m.group(2).split(',')
-                        }
-                        cliticAnalyses.append(newAna)
-                ana['gramm'] = [tag for tag in ana['gramm']
-                                if self.rxClitProTagStandalone.search(tag) is None]
-                ana['gramm'] += cliticAnalyses
-            return words
-        return words
-
-    def analyze_words(self, words, format=None): #, disambiguate=False):
+    def analyze_words(self, words, format=None, disambiguate=False):
         """
         Analyze a single word or a (possibly nested) list of words. Return either a list of
         analyses (all possible analyses of the word) or a nested list of lists
@@ -96,6 +48,7 @@ class AlbanianAnalyzer(Analyzer):
 
 if __name__ == '__main__':
     a = AlbanianAnalyzer()
+    # Check clitics
     analyses = a.analyze_words('ndodhi')
     for ana in analyses:
         print(ana.wf, ana.lemma, ana.gramm, ana.gloss)
@@ -105,3 +58,15 @@ if __name__ == '__main__':
     for ana in analyses:
         print(ana)
 
+    # Check sentences
+    analyses = a.analyze_words([['i'], ['Të', 'dua', '.']],
+                               format='xml')
+    for ana in analyses:
+        print(ana)
+    analyses = a.analyze_words([['i'], ['Të', 'dua', '.']],
+                               format='conll')
+    print(analyses)
+    analyses = a.analyze_words(['Morfologjinë', [['i'], ['Të', 'dua', '.']]],
+                               format='json')
+    for ana in analyses:
+        print(ana)

@@ -1,6 +1,0 @@
--deriv-type: N-im
- lex: <3>[.]im
- stem: <3>[.]ime.|<0>[.]im.
- paradigm: 1a
- paradigm: 5a
- gramm: NOUN,nmlz,mf,inanim

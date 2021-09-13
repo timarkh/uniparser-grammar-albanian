@@ -15421,7 +15421,8 @@
  lex: hutoj
  stem: huto.|hutua.|hutu.|hut.
  gramm: V,vt
- paradigm: bewilder, confuse; stun, dazzle; deceive
+ paradigm: lexoj
+ transl_en: bewilder, confuse; stun, dazzle; deceive
 
 -lexeme
  lex: hutrrohem

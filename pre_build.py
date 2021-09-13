@@ -135,4 +135,4 @@ def parse_wordlists():
 
 if __name__ == '__main__':
     prepare_files()
-    # parse_wordlists()
+    parse_wordlists()
