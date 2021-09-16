@@ -5309,14 +5309,6 @@
  trans_en: with sudden force
 
 -lexeme
- lex: hu
- stem: hunj.|hu.|hur.
- gramm: ΝOUN,m,inanim
- paradigm: 1b
- paradigm: 5b
- trans_en: wooden post; fencepost, stake, pole
-
--lexeme
  lex: huajthi
  stem: huajthi.
  gramm: ADV

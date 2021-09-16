@@ -227709,3 +227709,10 @@
  paradigm: 5a
  trans_en: angel
 
+-lexeme
+ lex: hu
+ stem: hunj.|hu.|hur.
+ gramm: NOUN,m,inanim
+ paradigm: 1b
+ paradigm: 5b
+ trans_en: wooden post; fencepost, stake, pole
