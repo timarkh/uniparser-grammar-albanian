@@ -62684,3 +62684,59 @@
  gramm: V,med
  paradigm: hap-1
  trans_en: swell up, become bloated; be fed up
+
+-lexeme
+ lex: dizinfektoj
+ stem: dizinfekto.|dizinfektua.
+ gramm: V,nonst
+ paradigm: mësoj
+ transl_en: disinfect
+
+-lexeme
+ lex: validoj
+ stem: valido.|validua.
+ gramm: V,nonst
+ paradigm: mësoj
+ transl_en: validate
+
+-lexeme
+ lex: hospitalizoj
+ stem: hospitalizo.|hospitalizua.
+ gramm: V
+ paradigm: mësoj
+ transl_en: hospitalize
+
+-lexeme
+ lex: vetëizoloj
+ stem: vetëizolo.|vetëizolua.
+ gramm: V,nonst
+ paradigm: mësoj
+ transl_en: self-isolate
+
+-lexeme
+ lex: vetëkarantinoj
+ stem: vetëkarantino.|vetëkarantinua.
+ gramm: V
+ paradigm: mësoj
+ transl_en: self-quarantine
+
+-lexeme
+ lex: vetkarantinoj
+ stem: vetkarantino.|vetkarantinua.
+ gramm: V,nonst
+ paradigm: mësoj
+ transl_en: self-quarantine
+
+-lexeme
+ lex: karantifikoj
+ stem: karantifiko.|karantifikua.
+ gramm: V
+ paradigm: mësoj
+ transl_en: quarantine
+
+-lexeme
+ lex: karantinoj
+ stem: karantino.|karantinua.
+ gramm: V
+ paradigm: mësoj
+ transl_en: quarantine
