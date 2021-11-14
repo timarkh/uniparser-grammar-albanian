@@ -79440,16 +79440,225 @@
  trans_en: swollen
 
 -lexeme
- lex:dhembjemadh
+ lex: dhembjemadh
  stem: dhembjemadh.|dhembjemadhe.|dhembjemëdhenj.|dhembjemëdha.
  gramm: A
  paradigm: madh
  trans_en: deeply suffering
 
 -lexeme
- lex:durimmadh
+ lex: durimmadh
  stem: durimmadh.|durimmadhe.|durimmëdhenj.|durimmëdha.
  gramm: A
  paradigm: madh
  trans_en: very patient
 
+-lexeme
+ lex: antikovid
+ stem: antikovid.
+ gramm: A
+ paradigm: adj-3-1
+ transl_en: antiCovid
+
+-lexeme
+ lex: anticovid
+ stem: anticovid.
+ gramm: A,nonst
+ paradigm: adj-3-1
+ transl_en: antiCovid
+
+-lexeme
+ lex: pandemik
+ stem: pandemik.
+ gramm: A
+ paradigm: adj-3-2
+ transl_en: pandemic
+
+-lexeme
+ lex: epidemiologjik
+ stem: epidemiologjik.
+ gramm: A
+ paradigm: adj-3-2
+ transl_en: epidemiological
+
+-lexeme
+ lex: dizinfektuar
+ stem: dizinfektuar.|dizinfektuar.
+ gramm: A,nonst
+ paradigm: adj-2-2
+ transl_en: disinfected
+
+-lexeme
+ lex: dizinfektues
+ stem: dizinfektues.|dizinfektues.
+ gramm: A,nonst
+ paradigm: adj-1-2
+ transl_en: disinfectant
+
+-lexeme
+ lex: ekzaminuar
+ stem: ekzaminuar.|ekzaminuar.
+ gramm: A
+ paradigm: adj-2-2
+ transl_en: examined, analyzed
+
+-lexeme
+ lex: respirator
+ stem: respirator.
+ gramm: A
+ paradigm: adj-3-1
+ transl_en: respiratory
+
+-lexeme
+ lex: jetëshpëtues
+ stem: jetëshpëtues.|jetëshpëtues.
+ gramm: A
+ paradigm: adj-1-2
+ transl_en: lifesaving
+
+-lexeme
+ lex: biomjekësor
+ stem: biomjekësor.
+ gramm: A
+ paradigm: adj-3-1
+ transl_en: biomedical
+
+-lexeme
+ lex: biomjekues
+ stem: biomjekues.|biomjekues.
+ gramm: A
+ paradigm: adj-1-2
+ transl_en: biomedical
+
+-lexeme
+ lex: vetizoluar
+ stem: vetizoluar.|vetizoluar.
+ gramm: A
+ paradigm: adj-2-2
+ transl_en: self-isolated
+
+-lexeme
+ lex: vetizolues
+ stem: vetizolues.|vetizolues.
+ gramm: A
+ paradigm: adj-1-2
+ transl_en: self-isolating
+
+-lexeme
+ lex: vetëizoluar
+ stem: vetëizoluar.|vetëizoluar.
+ gramm: A,nonst
+ paradigm: adj-2-2
+ transl_en: self-isolated
+
+-lexeme
+ lex: vetëizolues
+ stem: vetëizolues.|vetëizolues.
+ gramm: A,nonst
+ paradigm: adj-1-2
+ transl_en: self-isolating
+
+-lexeme
+ lex: vetizoluar
+ stem: vetizoluar.|vetizoluar.
+ gramm: A
+ paradigm: adj-2-2
+ transl_en: self-isolated
+
+-lexeme
+ lex: vetizolues
+ stem: vetizolues.|vetizolues.
+ gramm: A
+ paradigm: adj-1-2
+ transl_en: self-isolating
+
+-lexeme
+ lex: vetëkarantinuar
+ stem: vetëkarantinuar.|vetëkarantinuar.
+ gramm: A
+ paradigm: adj-2-2
+ transl_en: self-quarantined
+
+-lexeme
+ lex: vetëkarantinues
+ stem: vetëkarantinues.|vetëkarantinues.
+ gramm: A
+ paradigm: adj-1-2
+ transl_en: self-quarantining
+
+-lexeme
+ lex: vetkarantinuar
+ stem: vetkarantinuar.|vetkarantinuar.
+ gramm: A,nonst
+ paradigm: adj-2-2
+ transl_en: self-quarantined
+
+-lexeme
+ lex: vetkarantinues
+ stem: vetkarantinues.|vetkarantinues.
+ gramm: A,nonst
+ paradigm: adj-1-2
+ transl_en: self-quarantining
+
+-lexeme
+ lex: karantinuar
+ stem: karantinuar.|karantinuar.
+ gramm: A
+ paradigm: adj-2-2
+ transl_en: quarantined
+
+-lexeme
+ lex: karantinues
+ stem: karantinues.|karantinues.
+ gramm: A
+ paradigm: adj-1-2
+ transl_en: quarantining
+
+-lexeme
+ lex: imunitar
+ stem: imunitar.
+ gramm: A
+ paradigm: adj-3-1
+ transl_en: immune
+
+-lexeme
+ lex: asimptomatik
+ stem: asimptomatik.
+ gramm: A
+ paradigm: adj-3-2
+ transl_en: asymptomatic
+
+-lexeme
+ lex: hospitalizuar
+ stem: hospitalizuar.|hospitalizuar.
+ gramm: A
+ paradigm: adj-2-2
+ transl_en: hospitalized
+
+-lexeme
+ lex: hospitalizues
+ stem: hospitalizues.|hospitalizues.
+ gramm: A
+ paradigm: adj-1-2
+ transl_en: hospitalizing
+
+-lexeme
+ lex: positiv
+ stem: positiv.
+ gramm: A,nonst
+ paradigm: adj-3-1
+ transl_en: positive
+
+-lexeme
+ lex: raportuar
+ stem: raportuar.|raportuar.
+ gramm: A
+ paradigm: adj-2-2
+ transl_en: reported
+
+-lexeme
+ lex: kardiovaskular
+ stem: kardiovaskular.
+ gramm: A
+ paradigm: adj-3-1
+ transl_en: cardiovascular
