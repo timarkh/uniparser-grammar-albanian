@@ -227716,3 +227716,378 @@
  paradigm: 1b
  paradigm: 5b
  trans_en: wooden post; fencepost, stake, pole
+
+-lexeme
+ lex: koronavirus
+ stem: koronaviruse.|koronavirus.
+ gramm: NOUN,m/f,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: coronavirus
+
+-lexeme
+ lex: coronavirus
+ stem: coronaviruse.|coronavirus.
+ gramm: NOUN,m/f,inanim,nonst
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: coronavirus
+
+-lexeme
+ lex: koronavirus
+ stem: koronavirusë.
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 5a
+ transl_en: coronavirus
+
+-lexeme
+ lex: coronavirus
+ stem: coronavirusë.
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 5a
+ transl_en: coronavirus
+
+-lexeme
+ lex: kovid
+ stem: kovide.|kovid.
+ gramm: NOUN,m/f,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: COVID (coronavirus disease)
+
+-lexeme
+ lex: kovid
+ stem: kovidë.//kovida.
+ gramm: NOUN,m,inanim
+ paradigm: 5a
+ transl_en: COVID (coronavirus disease)
+
+-lexeme
+ lex: covid
+ stem: covide.|covid.
+ gramm: NOUN,m/f,inanim,nonst
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: COVID (coronavirus disease)
+
+-lexeme
+ lex: covid
+ stem: covidë.//covida.|covid.
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 5a
+ transl_en: COVID (coronavirus disease)
+
+-lexeme
+ lex: kovidiot
+ stem: kovidiotë.|kovidiot.
+ gramm: NOUN,m,anim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: covidiot
+
+-lexeme
+ lex: kovidiote
+ stem: kovidiote.|kovidiote.|kovidiotej.|kovidiotj.
+ gramm: NOUN,f,anim
+ paradigm: 3b
+ paradigm: 5a
+ transl_en: female covidiot
+
+-lexeme
+ lex: covidiot
+ stem: covidiotë.|covidiot.
+ gramm: NOUN,m,anim,nonst
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: covidiot
+
+-lexeme
+ lex: covidiote
+ stem: covidiote.|covidiote.|covidiotej.|covidiotj.
+ gramm: NOUN,f,anim,nonst
+ paradigm: 3b
+ paradigm: 5a
+ transl_en: female covidiot
+
+-lexeme
+ lex: kovidioti
+ stem: kovidioti.|kovidioti.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ transl_en: covidiocy
+
+-lexeme
+ lex: covidioti
+ stem: covidioti.|covidioti.
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3d
+ transl_en: covidiocy
+
+-lexeme
+ lex: pandemi
+ stem: pandemi.|pandemi.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ transl_en: pandemic
+
+-lexeme
+ lex: epidemiolog
+ stem: epidemiologë.|epidemiolog.
+ gramm: NOUN,m,anim
+ paradigm: 2a
+ paradigm: 5a
+ transl_en: epidemiologist
+
+-lexeme
+ lex: epidemiologe
+ stem: epidemiologe.|epidemiologe.|epidemiologej.|epidemiologj.
+ gramm: NOUN,f,anim
+ paradigm: 3b
+ paradigm: 5a
+ transl_en: female epidemiologist
+
+-lexeme
+ lex: imunolog
+ stem: imunologë.|imunolog.
+ gramm: NOUN,m,anim
+ paradigm: 2a
+ paradigm: 5a
+ transl_en: immunologist
+
+-lexeme
+ lex: imunologe
+ stem: imunologe.|imunologe.|imunologej.|imunologj.
+ gramm: NOUN,f,anim
+ paradigm: 3b
+ paradigm: 5a
+ transl_en: female immunologist
+
+-lexeme
+ lex: pandemicitet
+ stem: pandemicitete.|pandemicitet.
+ gramm: NOUN,m/f,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: pandemicity
+
+-lexeme
+ lex: epidemiologji
+ stem: epidemiologji.|epidemiologji.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ transl_en: epidemiology
+
+-lexeme
+ lex: virologji
+ stem: virologji.|virologji.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ transl_en: virology
+
+-lexeme
+ lex: virusolog
+ stem: virusologë.|virusolog.
+ gramm: NOUN,m,anim
+ paradigm: 2a
+ paradigm: 5a
+ transl_en: virologist
+
+-lexeme
+ lex: virusologe
+ stem: virusologe.|virusologe.|virusologej.|virusologj.
+ gramm: NOUN,f,anim
+ paradigm: 3b
+ paradigm: 5a
+ transl_en: female virologist
+
+-lexeme
+ lex: dizinfektim
+ stem: dizinfektime.|dizinfektim.
+ gramm: NOUN,m/f,inanim,nonst
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: disinfection
+
+-lexeme
+ lex: dizinfektues
+ stem: dizinfektues.|dizinfektues.
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 1a
+ paradigm: 5c
+ transl_en: disinfectioner
+
+-lexeme
+ lex: morbiditet
+ stem: morbiditete.|morbiditet.
+ gramm: NOUN,m/f,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: morbidity
+
+-lexeme
+ lex: komorbiditet
+ stem: komorbiditete.|komorbiditet.
+ gramm: NOUN,m/f,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: comorbidity
+
+-lexeme
+ lex: tampon
+ stem: tampone.|tampon.
+ gramm: NOUN,m/f,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: tampon
+
+-lexeme
+ lex: tampon
+ stem: tampona.//tamponë.
+ gramm: NOUN,m,inanim,nonst
+ paradigm: 5a
+ transl_en: tampon
+
+-lexeme
+ lex: laborator
+ stem: laboratore.
+ gramm: NOUN,m/f,inanim,nonst
+ paradigm: 5a
+ transl_en: laboratory
+
+-lexeme
+ lex: medikament
+ stem: medikamente.|medikament.
+ gramm: NOUN,m/f,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: medicament
+
+-lexeme
+ lex: incidencë
+ stem: incidenca.|incidencë.|incidenc.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ paradigm: 5a
+ transl_en: incidence
+
+-lexeme
+ lex: simptomatologji
+ stem: simptomatologji.|simptomatologji.
+ gramm: NOUN,f,inanim
+ paradigm: 3d
+ paradigm: 5b
+ transl_en: symptomatology
+
+-lexeme
+ lex: hospitalizim
+ stem: hospitalizime.|hospitalizim.
+ gramm: NOUN,m/f,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: hospitalization
+
+-lexeme
+ lex: sindrom
+ stem: sindrome.|sindrom.
+ gramm: NOUN,m/f,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: syndrome
+
+-lexeme
+ lex: sindromë
+ stem: sindroma.|sindromë.|sindrom.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ paradigm: 5a
+ transl_en: syndrome
+
+-lexeme
+ lex: respirator
+ stem: respiratorë.|respirator.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: respirator
+
+-lexeme
+ lex: coronë
+ stem: corona.|coronë.|coron.
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3a
+ paradigm: 5a
+ transl_en: Coronavirus
+
+-lexeme
+ lex: Pfizer
+ stem: pfizerë.|pfizer.
+ gramm: NOUN,m,inanim
+ paradigm: 1a
+ transl_en: Pfizer
+
+-lexeme
+ lex: ekzaminim
+ stem: ekzaminime.|ekzaminim.
+ gramm: NOUN,m/f,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: examination, analysis
+
+-lexeme
+ lex: vetëkarantinë
+ stem: vetëkarantina.|vetëkarantinë.|vetëkarantin.
+ gramm: NOUN,f,inanim
+ paradigm: 3a
+ paradigm: 5a
+ transl_en: self-quarantine
+
+-lexeme
+ lex: vetkarantinë
+ stem: vetkarantina.|vetkarantinë.|vetkarantin.
+ gramm: NOUN,f,inanim,nonst
+ paradigm: 3a
+ paradigm: 5a
+ transl_en: self-quarantine
+
+-lexeme
+ lex: vetizolim
+ stem: vetizolime.|vetizolim.
+ gramm: NOUN,m/f,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: self-isolation
+
+-lexeme
+ lex: vetëizolim
+ stem: vetëizolime.|vetëizolim.
+ gramm: NOUN,m/f,inanim,nonst
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: self-isolation
+
+-lexeme
+ lex: vetkarantinim
+ stem: vetkarantinime.|vetkarantinim.
+ gramm: NOUN,m/f,inanim,nonst
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: self-quarantining
+
+-lexeme
+ lex: vetëkarantinim
+ stem: vetëkarantinime.|vetëkarantinim.
+ gramm: NOUN,m/f,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: self-quarantining
+
+-lexeme
+ lex: karantinim
+ stem: karantinime.|karantinim.
+ gramm: NOUN,m/f,inanim
+ paradigm: 1a
+ paradigm: 5a
+ transl_en: quarantining
