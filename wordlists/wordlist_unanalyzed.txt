@@ -2731,7 +2731,6 @@ edison
 elitare
 elvana
 hoyt
-imunitar
 jens
 listen
 mahmut
@@ -3142,7 +3141,6 @@ ks
 kuçovë
 llambro
 logos
-medikamente
 microsoft
 mitrush
 mjegullën
@@ -3269,7 +3267,6 @@ interpolit
 ipad
 islandës
 izmir
-kardiovaskulare
 keqas
 kgb-
 klosit
@@ -3809,7 +3806,6 @@ ndocaj
 novak
 osbe-odihr
 pierre
-raportuara
 rushiti
 sapozgjedhur
 seriali
@@ -3871,7 +3867,6 @@ korkuti
 kumbaros
 liban
 liverpoolit
-medikamenteve
 mikel
 miqësisht
 munguara
@@ -4894,7 +4889,6 @@ makroekonomik
 margaritën
 mariah
 mavrovë
-medikamentet
 mid
 milimetra
 milloshoski
@@ -5113,7 +5107,6 @@ school
 serialin
 shutkës
 sina
-sindroma
 siq
 smajl
 sponsor
@@ -7226,7 +7219,6 @@ shpërblyese
 shërbëtorja
 sienës
 sinanit
-sindromi
 sociedad
 spot
 starton
@@ -8510,7 +8502,6 @@ përrenjas
 qendrueshme
 radmilla
 ratel
-respiratore
 rexho
 rey
 rikard
@@ -9174,8 +9165,6 @@ egjeut
 egro
 ekipore
 ekosistem
-ekzaminim
-ekzaminimin
 emetimi
 enkel
 esaut
@@ -9322,7 +9311,6 @@ sen
 ser
 seviljes
 shqiptaro-serbe
-sindromën
 sinoptikanët
 task-forcë
 tejembanë
@@ -10757,7 +10745,6 @@ dudushit
 e-maili
 ede
 ekskursioneve
-ekzaminimi
 eleven
 elitarë
 elmaz
@@ -10795,7 +10782,6 @@ hec-et
 hejsek
 hella
 hollanda
-hospitalizuar
 hoxhallari
 hrushovit
 huruglica
@@ -10870,7 +10856,6 @@ makro-
 marjeta
 marseille
 masterplanit
-medikamenti
 medikus
 mensah
 metalla
@@ -12311,7 +12296,6 @@ side
 silvenën
 simiq
 sinai
-sindromë
 singël
 slow
 social-ekonomik
@@ -12689,7 +12673,6 @@ marotta
 marshalli
 martanesh
 mazzari
-medikament
 mediterranea
 mega-
 mehja
@@ -13702,7 +13685,6 @@ efiçencë
 eksod
 eksperimentit
 eksponate
-ekzaminimit
 emery
 emrush
 england
@@ -14530,7 +14512,6 @@ kangën
 kapllanaj
 karapici
 karate
-kardiovaskular
 karioka
 karla
 karpen
@@ -14809,7 +14790,6 @@ shumëkërkuar
 shërbëtoret
 sida-
 sierra
-sindrom
 skuadres
 smartfoni
 sobotka
@@ -15414,7 +15394,6 @@ politizuara
 ponta
 poradec
 porto-
-positive
 postuara
 preferencës
 prezumimit
@@ -16709,7 +16688,6 @@ elmazit
 emiliano
 eminin
 emërtesat
-epidemiologjike
 erenestina
 erinda
 ermalin
@@ -16802,7 +16780,6 @@ ildkpki-së
 iliazi
 iliro-romake
 impenjimeve
-imunitare
 interpol-it
 isaf-
 ish-hotel
@@ -16912,7 +16889,6 @@ kursalit
 kursesi
 kuçuku
 kyrgios
-laboratore
 language
 laurentis
 lazaj
@@ -17177,7 +17153,6 @@ shqipërise
 shtatë-tetë
 shumicen
 shumëherë
-sindromës
 situates
 skiroi
 skodrës
@@ -18824,7 +18799,6 @@ ilham
 imcak
 incest
 incesti
-incidenca
 indro
 interier
 invazive
@@ -19313,7 +19287,6 @@ shëndetë
 sidoqofte
 simpoziumit
 sinaj
-sindromin
 sionin
 siteve
 sjelli
@@ -20522,7 +20495,6 @@ renault-
 renovën
 repetitive
 reprezaljet
-respirator
 rezit
 rica
 rigjejë
@@ -22196,7 +22168,6 @@ verdasco
 veriatlantik
 vertetim
 vetiake
-vetizolimit
 vezhguesit
 vijenac
 vinci
@@ -22645,7 +22616,6 @@ cogito
 communications
 cooperit
 copy-paste
-corona
 crotone-
 daden
 dajç
@@ -28099,7 +28069,6 @@ verstappen
 vertopi
 vesely
 vestervele
-vetizolimi
 vetëdijesohet
 vetëhelmuar
 vetëshpallen
@@ -31974,7 +31943,6 @@ eksponente
 ekspozicionin
 ekstazën
 ekuator
-ekzaminuara
 elas-
 elba
 elegjinë
@@ -38196,7 +38164,6 @@ simpsons
 simultane
 sinaiti
 sindi
-sindrome
 sing
 singaporin
 sinës
@@ -41738,7 +41705,6 @@ këtheva
 köstler
 labile
 labopharma
-laboratoret
 laboviti
 labovën
 labunishtë
@@ -42065,8 +42031,6 @@ medalioni
 medari
 mediatizuar
 medici
-medikamentesh
-medikamentit
 medikamentoz
 mediokri
 medisë
@@ -43159,7 +43123,6 @@ resortit
 respa
 respektojme
 respektuari
-respiratorë
 respublica
 restaurator
 restauratori
@@ -43814,7 +43777,6 @@ taksixhiu
 taksonomia
 taksueshme
 tallonat
-tampon
 tanasheviq
 tangërllëk
 taraboshi
@@ -50983,7 +50945,6 @@ simakun
 simatoviq
 simetrisë
 simsek
-sindromit
 sinedri
 sinergjisë
 sinestezike
@@ -54004,7 +53965,6 @@ bimma
 bimo
 binaj
 binde-bir
-biomjekësore
 biopsisë
 birgitta
 birmaninë
@@ -55459,7 +55419,6 @@ enverian
 enverizmin
 enverucët
 eoliane
-epidemiologjik
 epifani
 epiko-dramatik
 epiko-heroike
@@ -57944,7 +57903,6 @@ korifejtë
 korini
 korinti
 koritnikut
-koronavirusi
 korrado
 korrespodence
 korrespodentët
@@ -58268,7 +58226,6 @@ københavn
 labeouf
 labil
 labinot-fushë
-laboratoreve
 labunishta
 labyrinth
 lacaj
@@ -60235,7 +60192,6 @@ pandalshem
 pandaluar
 pandalë
 pandelejmoni
-pandemik
 pandieshëm
 pandëshkueshmërie
 pandëshkueshmërinë
@@ -62303,7 +62259,6 @@ simultan
 sin-
 sinalkos
 sinaninjtë
-sindromat
 sinergjinë
 singapor-
 singapor-shqipëri
@@ -71803,8 +71758,6 @@ inbox-
 inceneratorin
 incentivuar
 inciativë
-incidencë
-incidencën
 incidental
 incidentalisht
 incinerimi
@@ -80662,7 +80615,6 @@ simpliste
 simply
 simpoziumeve
 simptom
-simptomatologji
 simunoviç
 sin-i
 sina-
@@ -81441,7 +81393,6 @@ tamerlan
 tami
 tamil
 taming
-tampon-
 tanaj
 tanashi
 tandemin
@@ -82658,7 +82609,6 @@ vetemëruar
 veterania
 vetevrasjes
 vethesë
-vetizolim
 vetjet
 vetmeveti
 vetrata
@@ -84119,7 +84069,6 @@ zëvendëskomisarit
 -enforcement
 -england
 -enveristë
--epidemiologjike
 -epiri
 -epiriot
 -eqerem
@@ -90286,7 +90235,6 @@ biologjiko-
 biology
 biomedikal
 biomedikale
-biomjekësor
 biomorfike
 bionda
 bionic
@@ -93903,7 +93851,6 @@ dixhejët
 dixhitalizon
 dixhte
 dizdarevi
-dizinfektimi
 dizinformimi
 dizinformuese
 dizintoksikuese
@@ -95558,7 +95505,6 @@ epibeta
 epidamni
 epidamnin
 epidemine
-epidemiologu
 epiderma
 epifania
 epifanisë
@@ -100781,7 +100727,6 @@ imsicatcher
 imtar
 imtas
 imtësirave
-imunolog
 imunologji
 imunologjik
 imunologjike
@@ -108373,7 +108318,6 @@ medievistikës
 medihaja
 medikal
 medikale
-medikamentin
 mediko-ligjor
 medio
 mediokrish
@@ -109576,8 +109520,6 @@ moratti-t
 morattit
 moraturiumi
 moratës
-morbiditeti
-morbiditetin
 morbilit
 morboze
 mord
@@ -112951,7 +112893,6 @@ pandalshmëri
 pandamë
 pandehnte
 pandelejmon
-pandemisë
 panderprere
 panderprerë
 pandershem
@@ -120712,7 +120653,6 @@ simpathike
 simpatinzant
 simpatizantve
 simplifikativ
-simptomatologjinë
 simptomeve
 simulim-manipulimit
 simuluara
@@ -120733,7 +120673,6 @@ sinatrës
 sindelkovan
 sindh
 sindrit
-sindromave
 sinead
 sinellën
 sinen
@@ -125333,9 +125272,6 @@ vetëharruar
 vetëhelmohet
 vetëhelmua
 vetëidentifikohet
-vetëizolimi
-vetëizolimin
-vetëizolimit
 vetëjustifikim
 vetëkonsiderohet
 vetëkontribut
@@ -129957,7 +129893,6 @@ zürichut
 -imperiale
 -impresive
 -imran
--imunitare
 -in1
 -ina
 -incidentale
@@ -147722,7 +147657,6 @@ asimilacioniste
 asimillohet
 asimillun
 asimin
-asimptomatikë
 asimulua
 asinkritin
 asinkronike
@@ -161504,7 +161438,6 @@ cornyn
 coroditesh
 corogne
 coronae
-corone
 corovode
 corrado
 corraj
@@ -166879,7 +166812,6 @@ dizifektuan
 dizifentues
 diziluzione
 diziluzionit
-dizinfektimin
 dizinformacion
 dizinformacione
 dizinformatore
@@ -172999,11 +172931,7 @@ epidaur
 epidauri
 epidemilog
 epidemin
-epidemiolog
-epidemiologe
 epidemiologjise
-epidemiologësh
-epidemiologëve
 epidemise
 epidemite
 epidemologjike
@@ -190484,8 +190412,6 @@ hospitalet
 hospitalierëve
 hospitaliruarve
 hospitality
-hospitalizim
-hospitalizimin
 hospitalizua
 hospitonte
 hospodarske
@@ -192694,7 +192620,6 @@ imtësirë
 imtësuara
 imu-së
 imulon
-imunitarë
 imunizmit
 imunizuararit
 imuno-
@@ -192807,7 +192732,6 @@ inciativën
 inciativës
 inciatoria
 inciden
-incidencës
 incidendi
 incidenit
 incidentat
@@ -197478,7 +197402,6 @@ jetëses
 jetëshkurtues
 jetëshkurtërt
 jetëshkurtësinë
-jetëshpëtues
 jetësia
 jetësojme
 jetësor-banesës
@@ -201045,9 +200968,7 @@ kardiokirurgjisëpediatrike
 kardiomiopati
 kardiomiopatinë
 kardiovaskualre
-kardiovaskulare-
 kardiovaskulare-siç
-kardiovaskularet
 kardo
 kardoff
 kardri
@@ -205306,7 +205227,6 @@ komoranin
 komoranit
 komoras
 komorat
-komorbiditet
 komordare
 komoros
 komorovska
@@ -207060,7 +206980,6 @@ koronarografia
 koronarografie
 koronarografike
 koronarografinë
-koronavirusin
 koronicë
 koronicën
 koronidës
@@ -239970,9 +239889,6 @@ pandelemonit
 pandeli-
 pandeli-sotiri
 pandelimonit
-pandemia
-pandemike
-pandeminë
 pandentej
 panderhurve
 panderprer
@@ -271261,7 +271177,6 @@ simptaizantë
 simptaizuesit
 simptia
 simptomale
-simptomatologjisë
 simptomologji
 simptonat
 simsilin
@@ -277885,8 +277800,6 @@ tampon-zone
 tampon-zonë
 tamponimin
 tamponzone
-tamponë
-tamponëve
 tamsulosin
 tamtamshëm
 tamtamësh
@@ -288992,9 +288905,7 @@ vetitje
 vetitët
 vetiungut
 vetiy
-vetizolimin
 vetizoloi
-vetizoluese
 vetië
 vetjeje
 vetjes
@@ -289284,8 +289195,6 @@ vetëidentifikohen
 vetëidentifikohesh
 vetëimponuara
 vetëinstitucionet
-vetëizoluar
-vetëizoluese
 vetëje
 vetëkafshuar
 vetëkandidimin
