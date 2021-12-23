@@ -1696,7 +1696,7 @@
 -lexeme
  lex: avit
  stem: avit.//avis.|avit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: approach; endear oneself; come near
 
@@ -1752,14 +1752,14 @@
 -lexeme
  lex: azdis
  stem: azdis.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: run wild; go on a spree; prance
 
 -lexeme
  lex: azdis
  stem: azdis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: stimulate extraordinary growth or development; leave uncontrolled
 
@@ -2565,7 +2565,7 @@
 -lexeme
  lex: beditem
  stem: bedit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: hap-1
  trans_en: make a sudden appearance; pester
 
@@ -2890,7 +2890,7 @@
 -lexeme
  lex: bisedoj
  stem: bisedo.|bisedua.|bisedu.|bised.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Slav
  paradigm: lexoj
  trans_en: converse, negotiate; discuss
 
@@ -2933,14 +2933,14 @@
 -lexeme
  lex: bitis
  stem: bitis.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: be destroyed, be ruined
 
 -lexeme
  lex: bitis
  stem: bitis.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Turk
  paradigm: hap
  transl_en: finish, complete, fulfill; destroy, ruin (vt); come to an end, be decided (vi)
 
@@ -2992,6 +2992,20 @@
  gramm: V,vt
  paradigm: lexoj
  transl_en: make a oblation; dedicate
+
+-lexeme
+ lex: blludis
+ stem: blludit.//blludis.|blludit.
+ gramm: V,vi,Slav
+ paradigm: mat
+ trans_en: wander
+
+-lexeme
+ lex: bogaris
+ stem: bogarit.//bogaris.|bogarit.
+ gramm: V,vi,Slav
+ paradigm: mat
+ trans_en: burn
 
 -lexeme
  lex: blecoj
@@ -3927,21 +3941,21 @@
 -lexeme
  lex: buhat
  stem: buhat.//buhas.|buhat.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: swell, inflate; bore, vex
 
 -lexeme
  lex: buhavit
  stem: buhavit.//buhavis.|buhavit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: swell/puff up; become swollen
 
 -lexeme
  lex: buhavit
  stem: buhavit.//buhavis.|buhavit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  transl_en: swell, inflate; bore, vex
 
@@ -4453,14 +4467,14 @@
 -lexeme
  lex: buças
  stem: buças.|buçet.|buçit.//buçis.|buçit.
- gramm: V,vi
+ gramm: V,vi,Slav
  paradigm: pres-wait
  trans_en: boom; burst out
 
 -lexeme
  lex: buçatem
  stem: buçat.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: hap-1
  trans_en: swell up in one's face or body
 
@@ -4905,6 +4919,13 @@
  trans_en: certify, certificate
 
 -lexeme
+ lex: cenit
+ stem: cenit.//cenis.|cenit.
+ gramm: V,vi,Slav
+ paradigm: mat
+ trans_en: value, estimate
+
+-lexeme
  lex: cesnit
  stem: cesnit.//cesnis.|cesnit.
  gramm: V,vi
@@ -4914,7 +4935,7 @@
 -lexeme
  lex: cfilit
  stem: cfilit.
- gramm: V,med
+ gramm: V,med,Slav
  lexref: sfilit
  paradigm: hap-1
  transl_en: be racked with pain and suffering
@@ -4922,7 +4943,7 @@
 -lexeme
  lex: cfilit
  stem: cfilit.
- gramm: V,vt
+ gramm: V,vt,Slav
  lexref: sfilit
  paradigm: hap
  trans_en: torment, torture
@@ -5346,14 +5367,14 @@
 -lexeme
  lex: cit
  stem: cit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: hap-1
  trans_en: become satiated, get stuffed
 
 -lexeme
  lex: cit
  stem: cit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  transl_en: force, drive, push; satiate
 
@@ -6116,7 +6137,7 @@
 -lexeme
  lex: darovit
  stem: darovit.//darovis.|darovit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: make a present
 
@@ -7042,7 +7063,7 @@
 -lexeme
  lex: dihat
  stem: dihat.//dihas.|dihat.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Slav
  paradigm: mat
  trans_en: pant (vi); inhale deeply (vt)
 
@@ -7423,11 +7444,25 @@
  transl_en: weaken, enfeeble
 
 -lexeme
+ lex: dobis
+ stem: dobis.
+ gramm: V,nonst,vt,Slav
+ paradigm: hap
+ trans_en: win, gain; earn; achieve, acquire; generate (vt); profit, gain benefit (vi)
+
+-lexeme
  lex: doganoj
  stem: dogano.|doganua.|doganu.|dogan.
  gramm: V,vt
  paradigm: lexoj
  trans_en: put through customs inspection
+
+-lexeme
+ lex: doit
+ stem: doit.//dois.|doit.
+ gramm: V,vt,vi,Slav
+ paradigm: mat
+ transl_en: nurse, breastfeed
 
 -lexeme
  lex: doksiasnj
@@ -7635,7 +7670,7 @@
 -lexeme
  lex: dremit
  stem: dremit.//dremis.|dremit.
- gramm: V,vi
+ gramm: V,vi,Slav
  paradigm: mat
  trans_en: feel sleepy, doze, snooze; be at rest
 
@@ -7785,21 +7820,21 @@
 -lexeme
  lex: drobit
  stem: drobit.//drobis.|drobit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: become worn out
 
 -lexeme
  lex: drobit
  stem: drobit.//drobis.|drobit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  transl_en: break down, exhaust, debilitate
 
 -lexeme
  lex: drobolit
  stem: drobolit.//drobolis.|drobolit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: nauseate; jolt; weaken
 
@@ -8035,6 +8070,13 @@
  gramm: V,med
  paradigm: hap-1
  trans_en: appear, make appearance; seem, look like; show off; be obvious
+
+-lexeme
+ lex: durlat
+ stem: durlat.//durlas.|durlat.
+ gramm: V,vi,Slav
+ paradigm: mat
+ transl_en: get infuriated
 
 -lexeme
  lex: duroj
@@ -8637,7 +8679,7 @@
 -lexeme
  lex: eglendisem
  stem: eglendis.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: fool around
 
@@ -10258,7 +10300,7 @@
 -lexeme
  lex: flladit
  stem: flladit.//flladis.|flladit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  transl_en: make cool; refresh
 
@@ -11261,7 +11303,7 @@
 -lexeme
  lex: fërkat
  stem: fërkat.//fërkas.|fërkat.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: eat all up, feast; swallow up; squander, waste
 
@@ -11672,14 +11714,21 @@
  stem: gazit.
  gramm: V,med
  paradigm: hap-1
- trans_en: jest, cheer up
+ trans_en: jest, joke; cheer up
 
 -lexeme
- lex: gazitem
- stem: gazit.
- gramm: V,med
+ lex: glumitem
+ stem: glumit.
+ gramm: V,med,Slav
  paradigm: hap-1
- trans_en: jest, joke; cheer up
+ trans_en: sneer, mock
+
+-lexeme
+ lex: golitem
+ stem: golit.
+ gramm: V,med,Slav
+ paradigm: hap-1
+ trans_en: become naked, bare
 
 -lexeme
  lex: gazmoj
@@ -11708,6 +11757,13 @@
  gramm: V,vt
  paradigm: lexoj
  trans_en: make fun of smb.
+
+-lexeme
+ lex: gletoj
+ stem: gleto.|gletua.|gletu.|glet.
+ gramm: V,vt,Slav
+ paradigm: lexoj
+ trans_en: chisel
 
 -lexeme
  lex: gdhend
@@ -12020,7 +12076,7 @@
 -lexeme
  lex: gjekëtin
  stem: gjekëti.
- gramm: V,vi
+ gramm: V,vi,Slav
  paradigm: laj
  trans_en: rumble, resound
 
@@ -12201,7 +12257,7 @@
 -lexeme
  lex: gjezdis
  stem: gjezdis.
- gramm: V,vi
+ gramm: V,vi,Turk
  paradigm: hap
  trans_en: walk
 
@@ -12539,21 +12595,21 @@
 -lexeme
  lex: godas
  stem: godas.|godet.|godit.//godis.|godit.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Slav
  paradigm: pres-wait
  trans_en: hit, strike (vt); pulsate, beat; strike (of a clock) (vi); (3 sing., impers) it happens (vi)
 
 -lexeme
  lex: godit
  stem: godit.//godis.|godit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: fight, come to blows; come to an agreement; get prettied up
 
 -lexeme
  lex: godit
  stem: godit.//godis.|godit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  transl_en: build, fix, repair; arrange; adorn
 
@@ -12630,7 +12686,7 @@
 -lexeme
  lex: gostit
  stem: gostit.//gostis.|gostit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: regale with food and drink; treat as a guest
 
@@ -12651,7 +12707,7 @@
 -lexeme
  lex: grabit
  stem: grabit.//grabis.|grabit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: seize, snatch; captivate
 
@@ -13332,7 +13388,7 @@
 -lexeme
  lex: gumzhin
  stem: gumzhi.
- gramm: V,nonst,vi
+ gramm: V,nonst,vi,Slav
  lexref: gumëzhin
  paradigm: laj
  trans_en: buzz, hum
@@ -13340,14 +13396,14 @@
 -lexeme
  lex: gumëzhin
  stem: gumëzhi.
- gramm: V,vi
+ gramm: V,vi,Slav
  paradigm: laj
  trans_en: buzz, hum
 
 -lexeme
  lex: gumëzhit
  stem: gumëzhit.
- gramm: V,vi
+ gramm: V,vi,Slav
  paradigm: laj
  trans_en: buzz, hum
 
@@ -13576,14 +13632,14 @@
 -lexeme
  lex: gëlltit
  stem: gëlltit.//gëlltis.|gëlltit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: swallow, gulp; be bearable
 
 -lexeme
  lex: gëlltit
  stem: gëlltit.//gëlltis.|gëlltit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  transl_en: swallow, gulp; endure
 
@@ -13710,14 +13766,14 @@
 -lexeme
  lex: gërdit
  stem: gërdit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: hap-1
  trans_en: feel sick; become nauseate
 
 -lexeme
  lex: gërdit
  stem: gërdit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  transl_en: nauseate
 
@@ -13788,6 +13844,13 @@
  lex: gërhas
  stem: gërhas.|gërhet.|gërhit.//gërhis.|gërhit.|gërha.//gërhit.
  gramm: V,vi
+ paradigm: flas
+ trans_en: snore
+
+-lexeme
+ lex: hërças
+ stem: hërças.|hërçet.|hërçit.//hërçis.|hërçit.|hërça.//hërçit.
+ gramm: V,vi,Slav
  paradigm: flas
  trans_en: snore
 
@@ -14149,14 +14212,14 @@
 -lexeme
  lex: habit
  stem: habit.//habis.|habit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: be surprised, be amazed; wonder about; be confused
 
 -lexeme
  lex: habit
  stem: habit.//habis.|habit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  transl_en: surprize, amaze; confuse, bewilder
 
@@ -14282,14 +14345,14 @@
 -lexeme
  lex: hallakat
  stem: hallakat.//hallakas.|hallakat.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: get scattered, be dispersed; busy oneself with trivia
 
 -lexeme
  lex: hallakat
  stem: hallakat.//hallakas.|hallakat.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  transl_en: scatter, disperse, spread; mess up
 
@@ -15050,7 +15113,7 @@
 -lexeme
  lex: hitat
  stem: hitat.//hitas.|hitat.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: urge on, hurry
 
@@ -15222,14 +15285,14 @@
 -lexeme
  lex: hukat
  stem: hukat.//hukas.|hukat.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: huff and puff with fatigue; yawn and sigh sleepily
 
 -lexeme
  lex: hukat
  stem: hukat.//hukas.|hukat.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Slav
  paradigm: mat
  transl_en: breathe warm air on; cast a spell on (vt); huff; yell (vi)
 
@@ -15543,7 +15606,7 @@
 -lexeme
  lex: ildis
  stem: ildis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: baste
 
@@ -16418,7 +16481,7 @@
 -lexeme
  lex: kadit
  stem: kadit.//kadis.|kadit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: perfume
 
@@ -16668,14 +16731,14 @@
 -lexeme
  lex: kalit
  stem: kalit.//kalis.|kalit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: become tempered/hardened/steeled deeply
 
 -lexeme
  lex: kalit
  stem: kalit.//kalis.|kalit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  transl_en: temper, steel; dress
 
@@ -17392,14 +17455,14 @@
 -lexeme
  lex: katit
  stem: katit.//katis.|katit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: become soft from boiling in a small amount of water; get dim gradually
 
 -lexeme
  lex: katit
  stem: katit.//katis.|katit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  transl_en: tire out, defeat; cook by boiling in a small amount of water
 
@@ -17469,14 +17532,14 @@
 -lexeme
  lex: kaurdis
  stem: kaurdis.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: get by, get along
 
 -lexeme
  lex: kaurdis
  stem: kaurdis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: sauté, roast; manage (to accomplish)
 
@@ -17769,6 +17832,20 @@
  transl_en: classify
 
 -lexeme
+ lex: kleit
+ stem: kleit.//kleis.|kleit.
+ gramm: V,vt,Slav
+ paradigm: mat
+ trans_en: burn slowly, smolder
+
+-lexeme
+ lex: klepit
+ stem: klepit.//klepis.|klepit.
+ gramm: V,vt,Slav
+ paradigm: mat
+ trans_en: blink, wink, twinkle
+
+-lexeme
  lex: klikoj
  stem: kliko.|klikua.|kliku.|klik.
  gramm: V,vt
@@ -17827,7 +17904,7 @@
 -lexeme
  lex: klloçit
  stem: klloçis.//klloçit.|klloçit.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Slav
  paradigm: mat
  trans_en: brood
 
@@ -17877,7 +17954,7 @@
 -lexeme
  lex: kobit
  stem: kobit.//kobis.|kobit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: pilfer; betray
 
@@ -18101,21 +18178,21 @@
 -lexeme
  lex: kolovatem
  stem: kolovat.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: hap-1
  trans_en: nod off from weakness, get extremely tired
 
 -lexeme
  lex: kolovit
  stem: kolovit.//kolovis.|kolovit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: swing; sway
 
 -lexeme
  lex: kolovit
  stem: kolovit.//kolovis.|kolovit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  transl_en: swing
 
@@ -18567,14 +18644,14 @@
 -lexeme
  lex: korit
  stem: korit.//koris.|korit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: fall into disgrace
 
 -lexeme
  lex: korit
  stem: korit.//koris.|korit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  transl_en: shame, dishonor, disgrace
 
@@ -18672,7 +18749,7 @@
 -lexeme
  lex: kosit
  stem: kosit.//kosis.|kosit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: mow, reap with a scythe
 
@@ -18828,7 +18905,7 @@
 -lexeme
  lex: krashtit
  stem: krashtit.//krashtis.|krashtit.
- gramm: V,vt
+ gramm: V,vt,Slav
  lexref: krasit
  paradigm: mat
  trans_en: prune, lop off, trim; decimate
@@ -18836,14 +18913,14 @@
 -lexeme
  lex: krasit
  stem: krasit.//krasis.|krasit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: prune, lop off, trim; decimate
 
 -lexeme
  lex: krastit
  stem: krastit.//krastis.|krastit.
- gramm: V,vt
+ gramm: V,vt,Slav
  lexref: krasit
  paradigm: mat
  trans_en: prune, lop off, trim; decimate
@@ -20103,7 +20180,7 @@
 -lexeme
  lex: kurdhis
  stem: kurdhis.
- gramm: V,med
+ gramm: V,med,Turk
  lexref: kurdis
  paradigm: hap-1
  trans_en: start talking in a rush without a pause
@@ -20111,7 +20188,7 @@
 -lexeme
  lex: kurdhis
  stem: kurdhis.
- gramm: V,vt
+ gramm: V,vt,Turk
  lexref: kurdis
  paradigm: hap
  transl_en: wind up, tune; contrive; fix up
@@ -20119,16 +20196,23 @@
 -lexeme
  lex: kurdis
  stem: kurdis.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: start talking in a rush without a pause
 
 -lexeme
  lex: kurdis
  stem: kurdis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: wind up, tune; contrive; fix up
+
+-lexeme
+ lex: kuris
+ stem: kuris.
+ gramm: V,vi,Slav
+ paradigm: hap
+ transl_en: dry wood near fireplace
 
 -lexeme
  lex: kurishtoj
@@ -20686,14 +20770,14 @@
 -lexeme
  lex: kërcas
  stem: kërcas.|kërcet.|kërcit.//kërcis.|kërcit.
- gramm: V,vi
+ gramm: V,vi,Slav
  paradigm: pres-wait
  trans_en: crack, crash, crackle; set off; break out
 
 -lexeme
  lex: kërcej
  stem: kërce.|kërcye.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Slav
  paradigm: kthej
  trans_en: leap (vi); frisk, gambol; dance; put in quickly (vt)
 
@@ -20785,23 +20869,23 @@
 -lexeme
  lex: kërpij
  stem: kërpi.
- gramm: V,vi
+ gramm: V,vi,Slav
  paradigm: laj
- trans_en: eat a snack with (alcoholic) drink
+ trans_en: patch; eat a snack with (alcoholic) drink
 
 -lexeme
  lex: kërpit
  stem: kërpit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: hap-1
  trans_en: eat a lot; get fat; get well, recover
 
 -lexeme
  lex: kërpit
  stem: kërpit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
- transl_en: eat all up; fix up
+ transl_en: eat all up; patch; fix up
 
 -lexeme
  lex: kërpush
@@ -25177,14 +25261,14 @@
 -lexeme
  lex: mbufat
  stem: mbufat.//mbufas.|mbufat.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: swell up; (of dough) rise 
 
 -lexeme
  lex: mbufat
  stem: mbufat.//mbufas.|mbufat.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  transl_en: puff up; stuff
 
@@ -44061,14 +44145,14 @@
 -lexeme
  lex: sfilit
  stem: sfilit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: hap-1
  transl_en: be racked with pain and suffering
 
 -lexeme
  lex: sfilit
  stem: sfilit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  trans_en: torment, torture
 
@@ -49739,7 +49823,7 @@
 
 -lexeme
  lex: shëndit
- stem: shëndit.//shëndis.|shëtit.
+ stem: shëndit.//shëndis.|shëndit.
  gramm: V,nonst,vi
  lexref: shëtit
  paradigm: mat
@@ -51909,14 +51993,14 @@
 -lexeme
  lex: telendis
  stem: telendis.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  transl_en: feel humiliation, be publicly humiliated
 
 -lexeme
  lex: telendis
  stem: telendis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: shame, humiliate; insult seriously; suffocate
 
@@ -52084,14 +52168,14 @@
 -lexeme
  lex: terezit
  stem: terezit.//terezis.|terezit.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: mat-1
  transl_en: think before acting; plan one's actions
 
 -lexeme
  lex: terezit
  stem: terezit.//terezis.|terezit.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: mat
  trans_en: balance, weigh; aim at
 
@@ -61006,7 +61090,7 @@
 -lexeme
  lex: çepkat
  stem: çepkat.//çepkas.|çepkat.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: disentangle; touch, brush, graze; rifle
 
@@ -62478,7 +62562,7 @@
 -lexeme
  lex: çudit
  stem: çudit.//çudis.|çudit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: be amazed/surprised; find strange; be astonished
 
@@ -62532,6 +62616,13 @@
  trans_en: couple, join; clink, tap; open
 
 -lexeme
+ lex: çulit
+ stem: çulit.//çulis.|çulit.
+ gramm: V,vt,Slav
+ paradigm: mat
+ trans_en: keep one's ears open, prick one's ears
+
+-lexeme
  lex: çupit
  stem: çupit.//çupis.|çupit.
  gramm: V,vt
@@ -62555,7 +62646,7 @@
 -lexeme
  lex: çurlikoj
  stem: çurliko.|çurlikua.|çurliku.|çurlik.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: twirp, twitter
 
