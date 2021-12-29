@@ -10282,9 +10282,16 @@
 -lexeme
  lex: okoll
  stem: okoll.
- gramm: ADV
+ gramm: ADV,Slav
  paradigm: unchangeable
  trans_en: around
+
+-lexeme
+ lex: opet
+ stem: opet.
+ gramm: ADV,Slav
+ paradigm: unchangeable
+ trans_en: again
 
 -lexeme
  lex: operacionalisht
@@ -18181,6 +18188,13 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: as usual; usually, customarily
+
+-lexeme
+ lex: zapat
+ stem: zapat.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: very cold
 
 -lexeme
  lex: zaten

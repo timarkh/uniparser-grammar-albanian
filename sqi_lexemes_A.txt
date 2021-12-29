@@ -10813,7 +10813,7 @@
 -lexeme
  lex: dobët
  stem: dobët.|dobt.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2-a
  trans_en: weak
 
@@ -32560,6 +32560,13 @@
  trans_en: foolish, stupid
 
 -lexeme
+ lex: llog
+ stem: llog.
+ gramm: A,Slav
+ paradigm: adj-3-1
+ trans_en: paralyzed
+
+-lexeme
  lex: llogaridhënës
  stem: llogaridhënës.|llogaridhënës.
  gramm: A
@@ -34671,7 +34678,7 @@
 -lexeme
  lex: mazhë
  stem: mazhë.|mazh.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: with a dark brown head
 
@@ -46582,6 +46589,27 @@
  trans_en: impoverished, poor
 
 -lexeme
+ lex: papeçatur
+ stem: papeçatur.|papeçatur.
+ gramm: A,Slav
+ paradigm: adj-2-2
+ trans_en: unspotted; spotless, unstained
+
+-lexeme
+ lex: papeçatun
+ stem: papeçatun.|papeçatun.
+ gramm: A,Gheg,Slav
+ paradigm: adj-2-2
+ trans_en: unspotted; spotless, unstained
+
+-lexeme
+ lex: papeçatshëm
+ stem: papeçatshëm.|papeçatshm.
+ gramm: A,Slav
+ paradigm: adj-1-2-a
+ trans_en: unspotted; spotless, unstained
+
+-lexeme
  lex: papemë
  stem: papemë.|papem.
  gramm: A
@@ -51190,6 +51218,13 @@
  gramm: A
  paradigm: adj-1-2
  trans_en: entering a debate
+
+-lexeme
+ lex: polëzhan
+ stem: polëzhan.
+ gramm: A,Slav
+ paradigm: adj-3-1
+ trans_en: weak
 
 -lexeme
  lex: policentrist
@@ -60729,7 +60764,7 @@
 -lexeme
  lex: sharan
  stem: sharan.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: marked bu dark spots
 
@@ -67272,7 +67307,7 @@
 -lexeme
  lex: surmë
  stem: surmë.|surm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-1
  trans_en: dark gray
 
@@ -74959,7 +74994,7 @@
 -lexeme
  lex: vobektë
  stem: vobektë.|vobekt.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: poor
 
