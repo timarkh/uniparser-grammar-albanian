@@ -1403,7 +1403,7 @@
  stem: arëso.|arësua.|arësu.|arës.
  gramm: V,vt
  paradigm: lexoj
- trans_en: chase / drive away
+ trans_en: chase/drive away
 
 -lexeme
  lex: asfaltoj
@@ -1852,14 +1852,14 @@
 -lexeme
  lex: bakëroj
  stem: bakëro.|bakërua.|bakëru.|bakër.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: plate with copper
 
 -lexeme
  lex: bakërosem
  stem: bakëros.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: get copper poisoning; lose tinning and expose the copper
 
@@ -2467,28 +2467,28 @@
 -lexeme
  lex: batallis
  stem: batallis.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: go out of commission/use
 
 -lexeme
  lex: batallis
  stem: batallis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: leave fallow; take out of commission, use
 
 -lexeme
  lex: batalloj
  stem: batallo.|batallua.|batallu.|batall.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  trans_en: go out of commission/use
 
 -lexeme
  lex: batalloj
  stem: batallo.|batallua.|batallu.|batall.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  transl_en: leave fallow; take out of commission, use
 
@@ -2730,7 +2730,7 @@
  stem: beso.|besua.|besu.|bes.
  gramm: V,vt,vi
  paradigm: lexoj
- transl_en: believe (vt); be / become a believer (vi)
+ transl_en: believe (vt); be/become a believer (vi)
 
 -lexeme
  lex: bet
@@ -2758,7 +2758,7 @@
  stem: betono.|betonua.|betonu.|beton.
  gramm: V,vt
  paradigm: lexoj
- trans_en: fill / line / reinforce with concrete
+ trans_en: fill/line/reinforce with concrete
 
 -lexeme
  lex: bezdis
@@ -3295,33 +3295,33 @@
  stem: brambulli.|brambullit.
  gramm: V,vi
  paradigm: arrij
- trans_en: make a crackling / pitter-pattering sound; make a lot of noise
+ trans_en: make a crackling/pitter-pattering sound; make a lot of noise
 
 -lexeme
  lex: brambulloj
  stem: brambullo.|brambullua.|brambullu.|brambull.
  gramm: V,vi
  paradigm: lexoj
- trans_en: make a crackling / pitter-pattering sound
+ trans_en: make a crackling/pitter-pattering sound
 
 -lexeme
  lex: branis
  stem: branis.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  trans_en: harrow, rake; drag; slow down, prolong; harrass, annoy, bother
 
 -lexeme
  lex: branoj
  stem: brano.|branua.|branu.|bran.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: harrow, rake
 
 -lexeme
  lex: branovit
  stem: branovit.//branovis.|branovit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  trans_en: harrow
 
@@ -3335,14 +3335,14 @@
 -lexeme
  lex: bravos
  stem: bravos.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  trans_en: lock up
 
 -lexeme
  lex: brazdoj
  stem: brazdo.|brazdua.|brazdu.|brazd.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: cultivate soil
 
@@ -3384,14 +3384,14 @@
 -lexeme
  lex: bregëzoj
  stem: bregëzo.|bregëzua.|bregëzu.|bregëz.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  trans_en: be vacant, be empty; remain with nothing
 
 -lexeme
  lex: bregëzoj
  stem: bregëzo.|bregëzua.|bregëzu.|bregëz.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  transl_en: land a boat or ship
 
@@ -3453,10 +3453,9 @@
  transl_en: trouble, grieve, afflict
 
 -lexeme
- lex: brenoj
+ lex: branoj
  stem: breno.|brenua.|brenu.|bren.
- gramm: V,nonst,vt
- lexref: branoj
+ gramm: V,nonst,vt,Slav
  paradigm: lexoj
  trans_en: harrow, rake
 
@@ -3750,7 +3749,7 @@
  stem: brumules.|brumulet.|brumulit.//brumulis.|brumulit.
  gramm: V,vt
  paradigm: pres-wait
- trans_en: add shortening / fat to
+ trans_en: add shortening/fat to
 
 -lexeme
  lex: brumëzoj
@@ -3905,14 +3904,14 @@
 -lexeme
  lex: budallallos
  stem: budallallos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: go crazy, lose one's mind
 
 -lexeme
  lex: budallallos
  stem: budallallos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: make stupid; drive crazy, annoy
 
@@ -3997,37 +3996,35 @@
 -lexeme
  lex: bujaroj
  stem: bujaro.|bujarua.|bujaru.|bujar.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: ennoble
 
 -lexeme
- lex: bujarsoj
+ lex: bujaroj
  stem: bujarso.|bujarsua.|bujarsu.|bujars.
- gramm: V,nonst,vt
- lexref: bujaroj
+ gramm: V,nonst,vt,Slav
  paradigm: lexoj
  trans_en: ennoble
 
 -lexeme
- lex: bujis
+ lex: buis
  stem: bujis.|bujis.//bujit.
  gramm: V,nonst,vi
- lexref: buis
  paradigm: mat
  trans_en: ooze, drip; well up; swarm, teem; tingle, feel numb
 
 -lexeme
  lex: bujkrobëroj
  stem: bujkrobëro.|bujkrobërua.|bujkrobëru.|bujkrobër.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  trans_en: become a serf
 
 -lexeme
  lex: bujkrobëroj
  stem: bujkrobëro.|bujkrobërua.|bujkrobëru.|bujkrobër.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  transl_en: make into a serf
 
@@ -4392,7 +4389,7 @@
  stem: burrëro.|burrërua.|burrëru.|burrër.
  gramm: V,vt
  paradigm: lexoj
- transl_en: make into a man, reach / raise to manhood
+ transl_en: make into a man, reach/raise to manhood
 
 -lexeme
  lex: bushtroj
@@ -4654,7 +4651,7 @@
  stem: cakos.
  gramm: V,vt
  paradigm: hap
- trans_en: pack / stuff full; nab red-handed
+ trans_en: pack/stuff full; nab red-handed
 
 -lexeme
  lex: caktoj
@@ -4967,7 +4964,7 @@
  stem: cfynos.
  gramm: V,vt
  paradigm: hap
- trans_en: insert a wedge / peg
+ trans_en: insert a wedge/peg
 
 -lexeme
  lex: cianizoj
@@ -5735,7 +5732,7 @@
  stem: curras.|curret.|currit.//curris.|currit.
  gramm: V,vt
  paradigm: pres-wait
- trans_en: eat / drink greedily
+ trans_en: eat/drink greedily
 
 -lexeme
  lex: curroj
@@ -5749,7 +5746,7 @@
  stem: currufjas.
  gramm: V,med
  paradigm: hap-1
- trans_en: make / become dotty; confuse
+ trans_en: make/become dotty; confuse
 
 -lexeme
  lex: cus
@@ -6008,14 +6005,14 @@
 -lexeme
  lex: dallgëzoj
  stem: dallgëzo.|dallgëzua.|dallgëzu.|dallgëz.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  trans_en: get wavy; spread in waves
 
 -lexeme
  lex: dallgëzoj
  stem: dallgëzo.|dallgëzua.|dallgëzu.|dallgëz.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Turk
  paradigm: lexoj
  transl_en: be wavy (vi); make wavy (vt)
 
@@ -6036,7 +6033,7 @@
 -lexeme
  lex: daltoj
  stem: dalto.|daltua.|daltu.|dalt.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: chisel, sculpt, engrave
 
@@ -6057,28 +6054,28 @@
 -lexeme
  lex: damkoj
  stem: damko.|damkua.|damku.|damk.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: mark, brand, stamp
 
 -lexeme
  lex: damkos
  stem: damkos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: mark, brand, stamp
 
 -lexeme
  lex: damllos
  stem: damllos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: suffer a stroke; fall down in a faint
 
 -lexeme
  lex: damllos
  stem: damllos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: paralyze, stun; beat senseless
 
@@ -6314,7 +6311,7 @@
  stem: degdis.
  gramm: V,vt
  paradigm: hap
- transl_en: deport; pass / hand along
+ transl_en: deport; pass/hand along
 
 -lexeme
  lex: degjeneroj
@@ -6496,7 +6493,7 @@
 -lexeme
  lex: delendis
  stem: delendis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: slander, libel; corrupt
 
@@ -6524,14 +6521,14 @@
 -lexeme
  lex: dembelos
  stem: dembelos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: get lazy
 
 -lexeme
  lex: dembelos
  stem: dembelos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: make lazy
 
@@ -6715,7 +6712,7 @@
 -lexeme
  lex: dertoj
  stem: derto.|dertua.|dertu.|dert.
- gramm: V,vi
+ gramm: V,vi,Turk
  paradigm: lexoj
  trans_en: talk about one's troubles
 
@@ -7320,7 +7317,7 @@
  stem: djallëzo.|djallëzua.|djallëzu.|djallëz.
  gramm: V,vt,vi
  paradigm: lexoj
- transl_en: inspire deviltry, corrupt (vt); act deceptively / devilishly (vi)
+ transl_en: inspire deviltry, corrupt (vt); act deceptively/devilishly (vi)
 
 -lexeme
  lex: djeg
@@ -7416,21 +7413,21 @@
 -lexeme
  lex: dobësoj
  stem: dobëso.|dobësua.|dobësu.|dobës.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  trans_en: grow weaker, become emaciated
 
 -lexeme
  lex: dobësoj
  stem: dobëso.|dobësua.|dobësu.|dobës.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  transl_en: weaken, enfeeble
 
 -lexeme
  lex: dobëtoj
  stem: dobëto.|dobëtua.|dobëtu.|dobët.
- gramm: V,nonst,med
+ gramm: V,nonst,med,Slav
  lexref: dobësoj
  paradigm: lexoj-1
  trans_en: grow weaker, become emaciated
@@ -7438,7 +7435,7 @@
 -lexeme
  lex: dobëtoj
  stem: dobëto.|dobëtua.|dobëtu.|dobët.
- gramm: V,nonst,vt
+ gramm: V,nonst,vt,Slav
  lexref: dobësoj
  paradigm: lexoj
  transl_en: weaken, enfeeble
@@ -7467,7 +7464,7 @@
 -lexeme
  lex: doksiasnj
  stem: doksias.
- gramm: V,vt
+ gramm: V,vt,Greek
  paradigm: hap
  trans_en: glorify
 
@@ -7532,7 +7529,7 @@
  stem: dorëzano.|dorëzanua.|dorëzanu.|dorëzan.
  gramm: V,vt
  paradigm: lexoj
- transl_en: stand behind / act as a guarantor
+ transl_en: stand behind/act as a guarantor
 
 -lexeme
  lex: dorëzoj
@@ -7700,7 +7697,7 @@
  stem: dreqno.|dreqnua.|dreqnu.|dreqn.
  gramm: V,vt
  paradigm: lexoj
- transl_en: inspire deviltry, corrupt; act deceptively / devilishly
+ transl_en: inspire deviltry, corrupt; act deceptively/devilishly
 
 -lexeme
  lex: dreqos
@@ -7843,7 +7840,7 @@
  stem: drogo.|drogua.|drogu.|drog.
  gramm: V,med
  paradigm: lexoj-1
- trans_en: take / use a narcotic drug
+ trans_en: take/use a narcotic drug
 
 -lexeme
  lex: dromcoj
@@ -8023,7 +8020,7 @@
 -lexeme
  lex: dufohet
  stem: dufo.|dufua.|dufu.|duf.
- gramm: V,vi
+ gramm: V,vi,Slav
  paradigm: lexoj-1
  trans_en: get enraged, get in a huff
 
@@ -8193,7 +8190,7 @@
 -lexeme
  lex: dyshemetis
  stem: dyshemetis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: lay flooring
 
@@ -8244,7 +8241,7 @@
  stem: dyzo.|dyzua.|dyzu.|dyz.
  gramm: V,vt,vi
  paradigm: lexoj
- transl_en: hesitate, waver (vi); double in size / amount, repeat (vt)
+ transl_en: hesitate, waver (vi); double in size/amount, repeat (vt)
 
 -lexeme
  lex: dëboj
@@ -8552,28 +8549,28 @@
 -lexeme
  lex: dërstil
  stem: dërstil.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: hap-1
  trans_en: acquire the characteristics of fulled cloth
 
 -lexeme
  lex: dërstil
  stem: dërstil.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  transl_en: full
 
 -lexeme
  lex: dërstiloj
  stem: dërstilo.|dërstilua.|dërstilu.|dërstil.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  trans_en: acquire the characteristics of fulled cloth
 
 -lexeme
  lex: dërstiloj
  stem: dërstilo.|dërstilua.|dërstilu.|dërstil.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  transl_en: full
 
@@ -9375,7 +9372,7 @@
 -lexeme
  lex: falltoj
  stem: fallto.|falltua.|falltu.|fallt.
- gramm: V,vi
+ gramm: V,vi,Turk
  paradigm: lexoj
  trans_en: soothsay, tell fortunes
 
@@ -9839,7 +9836,7 @@
 -lexeme
  lex: filizon
  stem: filizo.|filizua.|filizu.|filiz.
- gramm: V,vi
+ gramm: V,vi,Turk
  paradigm: lexoj
  trans_en: sprout
 
@@ -10293,7 +10290,7 @@
 -lexeme
  lex: flladit
  stem: flladit.//flladis.|flladit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: get cooler; become refreshed
 
@@ -10349,7 +10346,7 @@
 -lexeme
  lex: fodullosem
  stem: fodullos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: get conceited, swagger
 
@@ -11592,14 +11589,14 @@
 -lexeme
  lex: gargarit
  stem: gargarit.//gargaris.|gargarit.
- gramm: V,vi
+ gramm: V,vi,Turk
  paradigm: mat
  trans_en: gargle, croak; prattle
 
 -lexeme
  lex: gargat
  stem: gargat.//gargas.|gargat.
- gramm: V,vi
+ gramm: V,vi,Turk
  paradigm: mat
  trans_en: gargle, croak; prattle
 
@@ -12301,14 +12298,14 @@
 -lexeme
  lex: gjobit
  stem: gjobit.//gjobis.|gjobit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: fine, penalize
 
 -lexeme
  lex: gjoboj
  stem: gjobo.|gjobua.|gjobu.|gjob.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: fine, penalize
 
@@ -12317,7 +12314,7 @@
  stem: gjollit.
  gramm: V,med
  paradigm: hap-1
- trans_en: lose hair / wool
+ trans_en: lose hair/wool
 
 -lexeme
  lex: gjuaj
@@ -12693,14 +12690,14 @@
 -lexeme
  lex: gozhdoj
  stem: gozhdo.|gozhdua.|gozhdu.|gozhd.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  trans_en: be required to stay in one place for a long time
 
 -lexeme
  lex: gozhdoj
  stem: gozhdo.|gozhdua.|gozhdu.|gozhd.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  transl_en: nail, fasten; shoe (a horse)
 
@@ -12714,7 +12711,7 @@
 -lexeme
  lex: grabuloj
  stem: grabulo.|grabulua.|grabulu.|grabul.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: rake
 
@@ -12812,14 +12809,14 @@
 -lexeme
  lex: grazhdoj
  stem: grazhdo.|grazhdua.|grazhdu.|grazhd.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  trans_en: gorge oneself with food
 
 -lexeme
  lex: grazhdoj
  stem: grazhdo.|grazhdua.|grazhdu.|grazhd.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  transl_en: give fodder
 
@@ -12833,14 +12830,14 @@
 -lexeme
  lex: grebis
  stem: grebis.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  trans_en: rake, scratch
 
 -lexeme
  lex: greboj
  stem: grebo.|grebua.|grebu.|greb.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: rake, scratch
 
@@ -13892,14 +13889,14 @@
 -lexeme
  lex: gërmadhoj
  stem: gërmadho.|gërmadhua.|gërmadhu.|gërmadh.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: ruin
 
 -lexeme
  lex: gërmadhos
  stem: gërmadhos.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  trans_en: ruin
 
@@ -14198,7 +14195,7 @@
 -lexeme
  lex: haberdis
  stem: haberdis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: inform
 
@@ -14254,7 +14251,7 @@
 -lexeme
  lex: hajnoj
  stem: hajno.|hajnua.|hajnu.|hajn.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: rob
 
@@ -14282,14 +14279,14 @@
 -lexeme
  lex: hakmerrem
  stem: hakmarr.|hakmerr.|hakmir.|hakmor.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: marr
  trans_en: get even, retaliate; to take vengeance for a blood wrong; take revenge, avenge oneself
 
 -lexeme
  lex: hakoj
  stem: hako.|hakua.|haku.|hak.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: pay for work done
 
@@ -14359,28 +14356,28 @@
 -lexeme
  lex: hallalloj
  stem: hallallo.|hallallua.|hallallu.|hallall.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  trans_en: take one's final leave
 
 -lexeme
  lex: hallalloj
  stem: hallallo.|hallallua.|hallallu.|hallall.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  transl_en: forgive
 
 -lexeme
  lex: hallallos
  stem: hallallos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: take one's final leave
 
 -lexeme
  lex: hallallos
  stem: hallallos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: forgive
 
@@ -14422,7 +14419,7 @@
 -lexeme
  lex: hallkoj
  stem: hallko.|hallkua.|hallku.|hallk.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: link with a ring
 
@@ -14619,7 +14616,7 @@
 -lexeme
  lex: harmanizoj
  stem: harmanizo.|harmanizua.|harmanizu.|harmaniz.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: blend
 
@@ -14696,14 +14693,14 @@
 -lexeme
  lex: harxhoj
  stem: harxho.|harxhua.|harxhu.|harxh.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  trans_en: expend, spend
 
 -lexeme
  lex: harxhoj
  stem: harxho.|harxhua.|harxhu.|harxh.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  transl_en: expend, spend; cost someone money
 
@@ -14738,7 +14735,7 @@
 -lexeme
  lex: hatëroj
  stem: hatëro.|hatërua.|hatëru.|hatër.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: show bias toward; satisfy
 
@@ -14750,9 +14747,9 @@
  trans_en: oppress with sultry heat
 
 -lexeme
- lex: hazdisem
+ lex: hazdis
  stem: hazdis.
- gramm: V,med
+ gramm: V,med,Turk
  lexref: azdis
  paradigm: hap-1
  trans_en: run wild; go on a spree
@@ -15143,14 +15140,14 @@
 -lexeme
  lex: hokoj
  stem: hoko.|hokua.|hoku.|hok.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  trans_en: be kidding around
 
 -lexeme
  lex: hokoj
  stem: hoko.|hokua.|hoku.|hok.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Turk
  paradigm: lexoj
  transl_en: be kidding (vi); kid, tease (vt)
 
@@ -15185,14 +15182,14 @@
 -lexeme
  lex: horroj
  stem: horro.|horrua.|horru.|horr.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  trans_en: suffer humiliation
 
 -lexeme
  lex: horroj
  stem: horro.|horrua.|horru.|horr.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  transl_en: humiliate
 
@@ -15213,14 +15210,14 @@
 -lexeme
  lex: huaj
  stem: hua.|hu.|huajt.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: ruaj-1
  trans_en: take a loan
 
 -lexeme
  lex: huaj
  stem: hua.|hu.|huajt.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: ruaj
  trans_en: lend; borrow
 
@@ -15241,7 +15238,7 @@
 -lexeme
  lex: huazoj
  stem: huazo.|huazua.|huazu.|huaz.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: take on loan, borrow
 
@@ -15255,7 +15252,7 @@
 -lexeme
  lex: huej
  stem: hue.|hu.|huejt.
- gramm: V,nonst,Gheg,med
+ gramm: V,nonst,Gheg,med,Slav
  lexref: huaj
  paradigm: ruaj-1
  trans_en: take a loan
@@ -15263,7 +15260,7 @@
 -lexeme
  lex: huej
  stem: hue.|hu.|huejt.
- gramm: V,nonst,Gheg,vt
+ gramm: V,nonst,Gheg,vt,Slav
  lexref: huaj
  paradigm: ruej
  trans_en: lend, borrow
@@ -15739,14 +15736,14 @@
 -lexeme
  lex: inatos
  stem: inatos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: lose one's temper/patience; rage
 
 -lexeme
  lex: inatos
  stem: inatos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: make mad, rile
 
@@ -16117,7 +16114,7 @@
 -lexeme
  lex: iskroj
  stem: iskro.|iskrua.|iskru.|iskr.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: sparkle
 
@@ -16247,7 +16244,7 @@
  stem: jermo.|jermua.|jermu.|jerm.
  gramm: V,vi
  paradigm: lexoj
- trans_en: be / become delirious, rave
+ trans_en: be/become delirious, rave
 
 -lexeme
  lex: jeshiloj
@@ -16787,14 +16784,14 @@
 -lexeme
  lex: kallajis
  stem: kallajis.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: get all dirty
 
 -lexeme
  lex: kallajis
  stem: kallajis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: tin, tinplate; make all dirty
 
@@ -16808,7 +16805,7 @@
 -lexeme
  lex: kalldrëmoj
  stem: kalldrëmo.|kalldrëmua.|kalldrëmu.|kalldrëm.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Turk
  paradigm: lexoj
  trans_en: pave with cobblestone
 
@@ -16822,14 +16819,14 @@
 -lexeme
  lex: kallkanos
  stem: kallkanos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: become ice; freeze to death
 
 -lexeme
  lex: kallkanos
  stem: kallkanos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: turn to ice; cause to freeze to death
 
@@ -16880,14 +16877,14 @@
  stem: kaltëro.|kaltërua.|kaltëru.|kaltër.
  gramm: V,vt,vi
  paradigm: lexoj
- transl_en: be blue (vi); make / paint blue (vt)
+ transl_en: be blue (vi); make/paint blue (vt)
 
 -lexeme
  lex: kaltërtoj
  stem: kaltërto.|kaltërtua.|kaltërtu.|kaltërt.
  gramm: V,vt,vi
  paradigm: lexoj
- trans_en: be blue (vi); make / paint blue (vt)
+ trans_en: be blue (vi); make/paint blue (vt)
 
 -lexeme
  lex: kalëroj
@@ -17413,7 +17410,7 @@
 -lexeme
  lex: kasnecoj
  stem: kasneco.|kasnecua.|kasnecu.|kasnec.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: proclaim, announce
 
@@ -17469,21 +17466,21 @@
 -lexeme
  lex: katranoj
  stem: katrano.|katranua.|katranu.|katran.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
- trans_en: coat with tar / pitch
+ trans_en: coat with tar/pitch
 
 -lexeme
  lex: katranos
  stem: katranos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: get very dirty; get screwed up
 
 -lexeme
  lex: katranos
  stem: katranos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: coat with tar/pitch; make dirty, soil
 
@@ -17546,14 +17543,14 @@
 -lexeme
  lex: kaverdis
  stem: kaverdis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: sauté, roast; manage (to accomplish)
 
 -lexeme
  lex: kavërdis
  stem: kavërdis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: sauté, roast; manage (to accomplish)
 
@@ -17897,7 +17894,7 @@
 -lexeme
  lex: kllapurit
  stem: kllapurit.//kllapuris.|kllapurit.
- gramm: V,vi
+ gramm: V,vi,Slav
  paradigm: mat
  trans_en: rant, talk deliriously
 
@@ -17911,14 +17908,14 @@
 -lexeme
  lex: klluk
  stem: klluk.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Slav
  paradigm: beh
  trans_en: brood
 
 -lexeme
  lex: kllukas
  stem: kllukas.|klluket.|kllukit.//kllukis.|kllukit.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Slav
  paradigm: pres-wait
  trans_en: brood
 
@@ -17947,42 +17944,42 @@
 -lexeme
  lex: kobashit
  stem: kobashit.//kobashis.|kobashit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: pilfer; betray
 
 -lexeme
  lex: kobit
  stem: kobit.//kobis.|kobit.
- gramm: V,vt,Slav
+ gramm: V,vt,Slav,Slav
  paradigm: mat
  trans_en: pilfer; betray
 
 -lexeme
  lex: koboj
  stem: kobo.|kobua.|kobu.|kob.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: fool, deceive, dupe
 
 -lexeme
  lex: kodifikoj
  stem: kodifiko.|kodifikua.|kodifiku.|kodifik.
- gramm: V,vt
+ gramm: V,vt,inter
  paradigm: lexoj
  trans_en: codify
 
 -lexeme
  lex: kodoj
  stem: kodo.|kodua.|kodu.|kod.
- gramm: V,vt
+ gramm: V,vt,inter
  paradigm: lexoj
  trans_en: encode
 
 -lexeme
  lex: koincidoj
  stem: koincido.|koincidua.|koincidu.|koincid.
- gramm: V,vt
+ gramm: V,vt,inter
  paradigm: lexoj
  trans_en: coincide
 
@@ -18096,7 +18093,7 @@
  stem: kolaudo.|kolaudua.|kolaudu.|kolaud.
  gramm: V,vt
  paradigm: lexoj
- trans_en: check / try out before using / selling
+ trans_en: check/try out before using/selling
 
 -lexeme
  lex: koleksionoj
@@ -18129,7 +18126,7 @@
 -lexeme
  lex: kollaris
  stem: kollaris.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: stiffen with starch
 
@@ -18199,21 +18196,21 @@
 -lexeme
  lex: komandoj
  stem: komando.|komandua.|komandu.|komand.
- gramm: V,vt
+ gramm: V,vt,inter
  paradigm: lexoj
  trans_en: command, head
 
 -lexeme
  lex: kombinoj
  stem: kombino.|kombinua.|kombinu.|kombin.
- gramm: V,vt
+ gramm: V,vt,inter
  paradigm: lexoj
  trans_en: combine; coordinate
 
 -lexeme
  lex: kombëtarizoj
  stem: kombëtarizo.|kombëtarizua.|kombëtarizu.|kombëtariz.
- gramm: V,med
+ gramm: V,med,inter
  paradigm: lexoj-1
  trans_en: take on ethnic characteristics
 
@@ -18993,7 +18990,7 @@
  stem: kreno.|krenua.|krenu.|kren.
  gramm: V,med
  paradigm: lexoj-1
- trans_en: take / feel pride, feel proud; brag, boast
+ trans_en: take/feel pride, feel proud; brag, boast
 
 -lexeme
  lex: krepatoj
@@ -19755,13 +19752,6 @@
  transl_en: curve into the shape of arch
 
 -lexeme
- lex: kukoj
- stem: kuko.|kukua.|kuku.|kuk.
- gramm: V,vt
- paradigm: lexoj
- trans_en: curve into the shape of arch
-
--lexeme
  lex: kukumal
  stem: kukumal.
  gramm: V,vt
@@ -20061,7 +20051,7 @@
  stem: kungo.|kungua.|kungu.|kung.
  gramm: V,vt,vi
  paradigm: lexoj
- transl_en: give / receive communion
+ transl_en: give/receive communion
 
 -lexeme
  lex: kunjas
@@ -20240,7 +20230,7 @@
  stem: kurmo.|kurmua.|kurmu.|kurm.
  gramm: V,vt
  paradigm: lexoj
- trans_en: cut into slices / pieces
+ trans_en: cut into slices/pieces
 
 -lexeme
  lex: kurmëzoj
@@ -20450,28 +20440,28 @@
 -lexeme
  lex: kyç
  stem: kyç.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: hap-1
  trans_en: lock oneself in
 
 -lexeme
  lex: kyç
  stem: kyç.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  transl_en: lock up
 
 -lexeme
  lex: kyçit
  stem: kyçit.//kyçis.|kyçit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: lock up
 
 -lexeme
  lex: kyços
  stem: kyços.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  trans_en: lock up
 
@@ -20913,7 +20903,7 @@
  stem: kërrnjot.
  gramm: V,med
  paradigm: hap-1
- trans_en: get infected with farcy / glanders; doze off and snore
+ trans_en: get infected with farcy/glanders; doze off and snore
 
 -lexeme
  lex: kërrus
@@ -21287,14 +21277,14 @@
 -lexeme
  lex: lakmoj
  stem: lakmo.|lakmua.|lakmu.|lakm.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  trans_en: get a sudden craving for
 
 -lexeme
  lex: lakmoj
  stem: lakmo.|lakmua.|lakmu.|lakm.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Slav
  paradigm: lexoj
  transl_en: be greedy; have a passion for; covet
 
@@ -21816,7 +21806,7 @@
  stem: lebros.
  gramm: V,med
  paradigm: hap-1
- trans_en: become afflicted with mastitis / garget; get scabies
+ trans_en: become afflicted with mastitis/garget; get scabies
 
 -lexeme
  lex: leckos
@@ -21870,21 +21860,21 @@
 -lexeme
  lex: legalizoj
  stem: legalizo.|legalizua.|legalizu.|legaliz.
- gramm: V,vt
+ gramm: V,vt,inter
  paradigm: lexoj
  trans_en: legalize
 
 -lexeme
  lex: legjitimoj
  stem: legjitimo.|legjitimua.|legjitimu.|legjitim.
- gramm: V,vt
+ gramm: V,vt,inter
  paradigm: lexoj
  trans_en: legitimate
 
 -lexeme
  lex: legjitivizoj
  stem: legjitivizo.|legjitivizua.|legjitivizu.|legjitiviz.
- gramm: V,vt
+ gramm: V,vt,inter
  paradigm: lexoj
  trans_en: legitimize
 
@@ -22138,14 +22128,14 @@
 -lexeme
  lex: lezetoj
  stem: lezeto.|lezetua.|lezetu.|lezet.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  trans_en: gain good flavor; become good-looking
 
 -lexeme
  lex: lezetoj
  stem: lezeto.|lezetua.|lezetu.|lezet.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  transl_en: flavor; make good-looking
 
@@ -22536,14 +22526,14 @@
 -lexeme
  lex: llafos
  stem: llafos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: speak together, chat
 
 -lexeme
  lex: llafos
  stem: llafos.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Turk
  paradigm: hap
  transl_en: chat, talk (vi); discuss (vt)
 
@@ -22854,7 +22844,7 @@
 -lexeme
  lex: llokoqit
  stem: llokoqit.//llokoqis.|llokoqit.
- gramm: V,med
+ gramm: V,med,Slav
  lexref: llokoçit
  paradigm: mat-1
  trans_en: churn; slosh, splash
@@ -22862,7 +22852,7 @@
 -lexeme
  lex: llokoqit
  stem: llokoqit.//llokoqis.|llokoqit.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Slav
  lexref: llokoçit
  paradigm: mat
  transl_en: churn up (vt); slosh, churn (vi)
@@ -22870,21 +22860,21 @@
 -lexeme
  lex: llokotit
  stem: llokotit.//llokotis.|llokotit.
- gramm: V,vi
+ gramm: V,vi,Slav
  paradigm: mat
  trans_en: gurgle
 
 -lexeme
  lex: llokoçit
  stem: llokoçit.//llokoçis.|llokoçit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  trans_en: churn; slosh, splash
 
 -lexeme
  lex: llokoçit
  stem: llokoçit.//llokoçis.|llokoçit.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Slav
  paradigm: mat
  transl_en: churn up (vt); slosh, churn (vi)
 
@@ -23577,7 +23567,7 @@
  stem: lëkuq.
  gramm: V,vt,vi
  paradigm: hap
- transl_en: give / have a reddish tinge; blush
+ transl_en: give/have a reddish tinge; blush
 
 -lexeme
  lex: lëkurem
@@ -24031,7 +24021,7 @@
 -lexeme
  lex: mahit
  stem: mahit.//mahis.|mahit.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Turk
  paradigm: mat
  trans_en: make fun of (vt); infame; joke around; fester (vi)
 
@@ -24073,7 +24063,7 @@
 -lexeme
  lex: majmunis
  stem: majmunis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: ape, mock
 
@@ -24456,21 +24446,21 @@
 -lexeme
  lex: matufeps
  stem: matufeps.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: make dotty; confuse
 
 -lexeme
  lex: matufos
  stem: matufos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: become dotty, become senile
 
 -lexeme
  lex: matufos
  stem: matufos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: make dotty; confuse
 
@@ -24505,7 +24495,7 @@
 -lexeme
  lex: mazit
  stem: mazit.//mazis.|mazit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: skim
 
@@ -25738,14 +25728,14 @@
 -lexeme
  lex: merakos
  stem: merakos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: feel worried; care
 
 -lexeme
  lex: merakos
  stem: merakos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  transl_en: trouble, sadden
 
@@ -26317,14 +26307,14 @@
 -lexeme
  lex: mitoj
  stem: mito.|mitua.|mitu.|mit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: corrupt, bribe
 
 -lexeme
  lex: mitos
  stem: mitos.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  trans_en: corrupt, bribe
 
@@ -26761,14 +26751,14 @@
 -lexeme
  lex: moçalizoj
  stem: moçalizo.|moçalizua.|moçalizu.|moçaliz.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  trans_en: become a swamp
 
 -lexeme
  lex: moçalizoj
  stem: moçalizo.|moçalizua.|moçalizu.|moçaliz.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  transl_en: make into a swamp
 
@@ -29270,7 +29260,7 @@
 -lexeme
  lex: nevojitem
  stem: nevojit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: hap-1
  trans_en: be necessary, be needed
 
@@ -31047,14 +31037,14 @@
 -lexeme
  lex: nozulloj
  stem: nozullo.|nozullua.|nozullu.|nozull.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  trans_en: lay up provisions
 
 -lexeme
  lex: nozulloj
  stem: nozullo.|nozullua.|nozullu.|nozull.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  transl_en: supply with food
 
@@ -31599,21 +31589,21 @@
 -lexeme
  lex: orendis
  stem: orendis.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  trans_en: furnish
 
 -lexeme
  lex: organizoj
  stem: organizo.|organizua.|organizu.|organiz.
- gramm: V,med
+ gramm: V,med,inter
  paradigm: lexoj-1
  trans_en: become organized; join an organization
 
 -lexeme
  lex: organizoj
  stem: organizo.|organizua.|organizu.|organiz.
- gramm: V,vt
+ gramm: V,vt,inter
  paradigm: lexoj
  transl_en: organize
 
@@ -31698,7 +31688,7 @@
 -lexeme
  lex: paftëzoj
  stem: paftëzo.|paftëzua.|paftëzu.|paftëz.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: make into thin plate
 
@@ -32706,7 +32696,7 @@
 -lexeme
  lex: pastërmoj
  stem: pastërmo.|pastërmua.|pastërmu.|pastërm.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: smoke
 
@@ -32979,14 +32969,14 @@
 -lexeme
  lex: petoj
  stem: peto.|petua.|petu.|pet.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  transl_en: become thin and drawn
 
 -lexeme
  lex: petoj
  stem: peto.|petua.|petu.|pet.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: roll out into a sheet
 
@@ -33797,14 +33787,14 @@
 -lexeme
  lex: plaçkit
  stem: plaçkit.//plaçkis.|plaçkit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: rob
 
 -lexeme
  lex: plaçkëroj
  stem: plaçkëro.|plaçkërua.|plaçkëru.|plaçkër.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: rob
 
@@ -33881,21 +33871,21 @@
 -lexeme
  lex: pleshtitem
  stem: pleshtit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: hap-1
  trans_en: pick off fleas
 
 -lexeme
  lex: pleshtoj
  stem: pleshto.|pleshtua.|pleshtu.|plesht.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  transl_en: pick off fleas
 
 -lexeme
  lex: pleshtoj
  stem: pleshto.|pleshtua.|pleshtu.|plesht.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: pick off fleas
 
@@ -34015,7 +34005,7 @@
 -lexeme
  lex: plugoj
  stem: plugo.|plugua.|plugu.|plug.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: plow
 
@@ -34694,7 +34684,7 @@
  stem: pres.|pret.|prit.//pris.|pre.|prit.
  gramm: V,med
  paradigm: vras
- transl_en: get gashed / lacerated; end, halt; intersect
+ transl_en: get gashed/lacerated; end, halt; intersect
 
 -lexeme
  lex: pres
@@ -35557,14 +35547,14 @@
 -lexeme
  lex: pushkatoj
  stem: pushkato.|pushkatua.|pushkatu.|pushkat.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: execute by firing squad
 
 -lexeme
  lex: pushkzoj
  stem: pushkzo.|pushkzua.|pushkzu.|pushkz.
- gramm: V,vt
+ gramm: V,vt,slav
  paradigm: lexoj
  trans_en: shoot, fire
 
@@ -37493,7 +37483,7 @@
  stem: përmbles.|përmblet.|përmblit.//përmblis.|përmblit.
  gramm: V,vt
  paradigm: pres-wait
- trans_en: add shortening / fat to
+ trans_en: add shortening/fat to
 
 -lexeme
  lex: përmbush
@@ -39342,7 +39332,7 @@
 -lexeme
  lex: përçit
  stem: përçis.//përçit.|përçit.
- gramm: V,med,Slav
+ gramm: V,med,Slav,Slav
  paradigm: mat-1
  transl_en: get pregnant; rut
 
@@ -39663,21 +39653,21 @@
 -lexeme
  lex: qederos
  stem: qederos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  transl_en: experience harm; worry, grieve
 
 -lexeme
  lex: qederos
  stem: qederos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
- trans_en: afflict
+ trans_en: harm
 
 -lexeme
  lex: qefinos
  stem: qefinos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: wrap in a shroud
 
@@ -39707,7 +39697,7 @@
  stem: qelbëso.|qelbësua.|qelbësu.|qelbës.
  gramm: V,med
  paradigm: lexoj-1
- transl_en: become filthy / putrid
+ transl_en: become filthy/putrid
 
 -lexeme
  lex: qelbësoj
@@ -39904,21 +39894,21 @@
 -lexeme
  lex: qestis
  stem: qestis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: deride, mock
 
 -lexeme
  lex: qesëndis
  stem: qesëndis.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  transl_en: deride, mock
 
 -lexeme
  lex: qesëndis
  stem: qesëndis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: deride, mock
 
@@ -40150,21 +40140,21 @@
 -lexeme
  lex: qoros
  stem: qoros.
- gramm: V,vt
+ gramm: V,vt,nonst,Turk
  paradigm: hap
  trans_en: blind
 
 -lexeme
  lex: qorroj
  stem: qorro.|qorrua.|qorru.|qorr.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  transl_en: go blind; darken, veil over
 
 -lexeme
  lex: qorroj
  stem: qorro.|qorrua.|qorru.|qorr.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: blind
 
@@ -40217,7 +40207,7 @@
  stem: qos.
  gramm: V,med
  paradigm: hap-1
- transl_en: be left beardless / barefaced; (3rd pers.) it works out all right
+ transl_en: be left beardless/barefaced; (3rd pers.) it works out all right
 
 -lexeme
  lex: qos
@@ -40813,14 +40803,14 @@
 -lexeme
  lex: rehatoj
  stem: rehato.|rehatua.|rehatu.|rehat.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  transl_en: become comfortable; find peace and comfort
 
 -lexeme
  lex: rehatoj
  stem: rehato.|rehatua.|rehatu.|rehat.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: calm, take care of
 
@@ -40949,14 +40939,14 @@
 -lexeme
  lex: rendoj
  stem: rendo.|rendua.|rendu.|rend.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  transl_en: line up
 
 -lexeme
  lex: rendoj
  stem: rendo.|rendua.|rendu.|rend.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: put in a row
 
@@ -42188,14 +42178,14 @@
 -lexeme
  lex: robit
  stem: robit.//robis.|robit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  transl_en: slave away, work like a slave; get worn out
 
 -lexeme
  lex: robit
  stem: robit.//robis.|robit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: rob, enslave
 
@@ -42209,28 +42199,28 @@
 -lexeme
  lex: robtis
  stem: robtis.
- gramm: V,vi
+ gramm: V,vi,Slav
  paradigm: hap
  trans_en: work like a slave
 
 -lexeme
  lex: robtoj
  stem: robto.|robtua.|robtu.|robt.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  transl_en: slave away, work like a slave; get worn out
 
 -lexeme
  lex: robtoj
  stem: robto.|robtua.|robtu.|robt.
- gramm: V,vi
+ gramm: V,vi,Slav
  paradigm: lexoj
  trans_en: work like a slave
 
 -lexeme
  lex: robëroj
  stem: robëro.|robërua.|robëru.|robër.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: enslave
 
@@ -42256,9 +42246,10 @@
  trans_en: live; survive; reside, dwell
 
 -lexeme
- lex: roit
+ lex: rojit
  stem: rojis.//rojit.|rojit.
  gramm: V,vi,nonst,Slav
+ lexref: roit
  paradigm: mat
  trans_en: swarm
 
@@ -42286,14 +42277,14 @@
 -lexeme
  lex: rrafshoj
  stem: rrafsho.|rrafshua.|rrafshu.|rrafsh.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  transl_en: become level/flat/smooth
 
 -lexeme
  lex: rrafshoj
  stem: rrafsho.|rrafshua.|rrafshu.|rrafsh.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: flatten, level
 
@@ -43654,7 +43645,7 @@
 -lexeme
  lex: rudëzoj
  stem: rudëzo.|rudëzua.|rudëzu.|rudëz.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: gain better quality of wool by crossbreeding
 
@@ -43834,7 +43825,7 @@
 -lexeme
  lex: sajdis
  stem: sajdis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: treat hospitably
 
@@ -44023,7 +44014,7 @@
 -lexeme
  lex: savanos
  stem: savanos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: enshroud
 
@@ -44177,7 +44168,7 @@
 -lexeme
  lex: sevdallisem
  stem: sevdallis.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: fall in love
 
@@ -44359,14 +44350,14 @@
 -lexeme
  lex: shamatoj
  stem: shamato.|shamatua.|shamatu.|shamat.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  transl_en: quarrel noisily; squabble
 
 -lexeme
  lex: shamatoj
  stem: shamato.|shamatua.|shamatu.|shamat.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: cause to quarrel
 
@@ -44667,35 +44658,35 @@
 -lexeme
  lex: sheqeroj
  stem: sheqero.|sheqerua.|sheqeru.|sheqer.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  transl_en: turn to sugar
 
 -lexeme
  lex: sheqeroj
  stem: sheqero.|sheqerua.|sheqeru.|sheqer.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: add sugar
 
 -lexeme
  lex: sheqeros
  stem: sheqeros.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  transl_en: become crystallized into sugar
 
 -lexeme
  lex: sheqeros
  stem: sheqeros.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: cover with sugar
 
 -lexeme
  lex: sherbetoj
  stem: sherbeto.|sherbetua.|sherbetu.|sherbet.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: pour sugar syrup on
 
@@ -45863,7 +45854,7 @@
  stem: shkreh.
  gramm: V,med
  paradigm: beh-1
- transl_en: be released / fired / set off; burst out
+ transl_en: be released/fired/set off; burst out
 
 -lexeme
  lex: shkreh
@@ -45877,7 +45868,7 @@
  stem: shkrep.
  gramm: V,med
  paradigm: hap-1
- transl_en: be triggered / released; fire automatically; collide
+ transl_en: be triggered/released; fire automatically; collide
 
 -lexeme
  lex: shkrep
@@ -46177,7 +46168,7 @@
  stem: shkualifiko.|shkualifikua.|shkualifiku.|shkualifik.
  gramm: V,med
  paradigm: lexoj-1
- transl_en: lose one's certification / license
+ transl_en: lose one's certification/license
 
 -lexeme
  lex: shkualifikoj
@@ -47891,7 +47882,7 @@
  stem: shpërfytyro.|shpërfytyrua.|shpërfytyru.|shpërfytyr.
  gramm: V,med
  paradigm: lexoj-1
- transl_en: become transformed / distorted
+ transl_en: become transformed/distorted
 
 -lexeme
  lex: shpërfytyroj
@@ -49503,9 +49494,16 @@
 -lexeme
  lex: shuk
  stem: shuk.
+ gramm: V,vt,Slav
+ paradigm: beh
+ trans_en: wad up, lump into a ball
+
+-lexeme
+ lex: shuk
+ stem: shuk.
  gramm: V,vt
  paradigm: beh
- trans_en: wad up, lump into a ball; knock down; shake, jolt
+ trans_en: knock down; shake, jolt
 
 -lexeme
  lex: shukat
@@ -50359,14 +50357,14 @@
 -lexeme
  lex: skutem
  stem: skut.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: hap-1
  trans_en: hide out
 
 -lexeme
  lex: skutloj
  stem: skutlo.|skutlua.|skutlu.|skutl.
- gramm: V,nonst,vt
+ gramm: V,nonst,vt,Slav
  lexref: skutëloj
  paradigm: lexoj
  trans_en: stash away
@@ -50381,7 +50379,7 @@
 -lexeme
  lex: skutëloj
  stem: skutëlo.|skutëlua.|skutëlu.|skutël.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: stash away
 
@@ -51099,14 +51097,14 @@
 -lexeme
  lex: strehoj
  stem: streho.|strehua.|strehu.|streh.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  transl_en: find shelter; take refuge
 
 -lexeme
  lex: strehoj
  stem: streho.|strehua.|strehu.|streh.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: shelter
 
@@ -51120,7 +51118,7 @@
 -lexeme
  lex: strugoj
  stem: strugo.|strugua.|strugu.|strug.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: plane
 
@@ -51377,14 +51375,14 @@
 -lexeme
  lex: stërvit
  stem: stërvit.//stërvis.|stërvit.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: mat-1
  transl_en: undergo training; exercise, drill
 
 -lexeme
  lex: stërvit
  stem: stërvit.//stërvis.|stërvit.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: mat
  trans_en: train by drilling
 
@@ -51567,7 +51565,7 @@
 -lexeme
  lex: suvatoj
  stem: suvato.|suvatua.|suvatu.|suvat.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: apply plaster
 
@@ -51585,7 +51583,7 @@
  gramm: V,nonst,vt
  lexref: zvjerdh
  paradigm: heq
- trans_en: wean; chill smb's feelings / desire; prune extra roots and sprouts
+ trans_en: wean; chill smb's feelings/desire; prune extra roots and sprouts
 
 -lexeme
  lex: syllit
@@ -51604,14 +51602,14 @@
 -lexeme
  lex: syrdis
  stem: syrdis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: banish, exile
 
 -lexeme
  lex: syrgjynos
  stem: syrgjynos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: banish, exile
 
@@ -51639,14 +51637,14 @@
 -lexeme
  lex: sëkëlldis
  stem: sëkëlldis.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  transl_en: worry; feel upset
 
 -lexeme
  lex: sëkëlldis
  stem: sëkëlldis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: worry, trouble; upset
 
@@ -51821,14 +51819,14 @@
 -lexeme
  lex: tallazoj
  stem: tallazo.|tallazua.|tallazu.|tallaz.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  transl_en: have big waves; shake back and forth
 
 -lexeme
  lex: tallazoj
  stem: tallazo.|tallazua.|tallazu.|tallaz.
- gramm: V,vi
+ gramm: V,vi,Turk
  paradigm: lexoj
  trans_en: have big waves
 
@@ -51842,14 +51840,14 @@
 -lexeme
  lex: tapos
  stem: tapos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  transl_en: be sealed tight
 
 -lexeme
  lex: tapos
  stem: tapos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: plug, bung; seal up
 
@@ -51905,14 +51903,14 @@
 -lexeme
  lex: tavanis
  stem: tavanis.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: make a ceiling
 
 -lexeme
  lex: tavanoj
  stem: tavano.|tavanua.|tavanu.|tavan.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: make a ceiling
 
@@ -52012,7 +52010,7 @@
  stem: tek.
  gramm: V,med
  paradigm: hap-1
- trans_en: (impers) feels like having / doing smth; has a whim
+ trans_en: (impers) feels like having/doing smth; has a whim
 
 -lexeme
  lex: teket
@@ -52129,14 +52127,14 @@
 -lexeme
  lex: temjanis
  stem: temjanis.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  trans_en: cense
 
 -lexeme
  lex: temjanos
  stem: temjanos.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: hap
  trans_en: cense
 
@@ -53079,7 +53077,7 @@
 -lexeme
  lex: togëzoj
  stem: togëzo.|togëzua.|togëzu.|togëz.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: pile up
 
@@ -53135,7 +53133,7 @@
 -lexeme
  lex: topalloj
  stem: topallo.|topallua.|topallu.|topall.
- gramm: V,vi
+ gramm: V,vi,Turk
  paradigm: lexoj
  trans_en: limp
 
@@ -53262,7 +53260,7 @@
 -lexeme
  lex: tragëzoj
  stem: tragëzo.|tragëzua.|tragëzu.|tragëz.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: trace
 
@@ -53855,14 +53853,14 @@
 -lexeme
  lex: trupoj
  stem: trupo.|trupua.|trupu.|trup.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: cut off the branches
 
 -lexeme
  lex: trupësoj
  stem: trupëso.|trupësua.|trupësu.|trupës.
- gramm: V,nonst,med
+ gramm: V,nonst,med,Slav
  lexref: trupëzoj
  paradigm: lexoj-1
  transl_en: take concrete form, become embodied
@@ -53870,7 +53868,7 @@
 -lexeme
  lex: trupësoj
  stem: trupëso.|trupësua.|trupësu.|trupës.
- gramm: V,nonst,vt
+ gramm: V,nonst,vt,Slav
  lexref: trupëzoj
  paradigm: lexoj
  trans_en: embody; incorporate
@@ -53878,14 +53876,14 @@
 -lexeme
  lex: trupëzoj
  stem: trupëzo.|trupëzua.|trupëzu.|trupëz.
- gramm: V,med
+ gramm: V,med,Slav
  paradigm: lexoj-1
  transl_en: take concrete form, become embodied
 
 -lexeme
  lex: trupëzoj
  stem: trupëzo.|trupëzua.|trupëzu.|trupëz.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: embody, incorporate
 
@@ -54324,7 +54322,7 @@
  stem: tëhedh.|tëhidh.|tëhodh.
  gramm: V,med
  paradigm: heq-1
- trans_en: (impers) feels like having / doing smth; has a whim
+ trans_en: (impers) feels like having/doing smth; has a whim
 
 -lexeme
  lex: tëhillem
@@ -54596,14 +54594,14 @@
 -lexeme
  lex: ujdis
  stem: ujdis.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  transl_en: get into good shape, be sitting pretty; make peace
 
 -lexeme
  lex: ujdis
  stem: ujdis.
- gramm: V,vt,vi
+ gramm: V,vt,vi,Turk
  paradigm: hap
  trans_en: fix, repair (vt); adorn; come to an agreement (vi); be suitable
 
@@ -54774,7 +54772,7 @@
  stem: urit.
  gramm: V,med
  paradigm: hap-1
- trans_en: be / get hungry
+ trans_en: be/get hungry
 
 -lexeme
  lex: uroj
@@ -55153,7 +55151,7 @@
  stem: vardis.
  gramm: V,med
  paradigm: hap-1
- trans_en: importune, keep after / at
+ trans_en: importune, keep after/at
 
 -lexeme
  lex: vardoj
@@ -55223,7 +55221,7 @@
  stem: vargëto.|vargëtua.|vargëtu.|vargët.
  gramm: V,vt,vi
  paradigm: lexoj
- trans_en: chain together (vt); make / form a chain (vi)
+ trans_en: chain together (vt); make/form a chain (vi)
 
 -lexeme
  lex: vargëzoj
@@ -55352,7 +55350,7 @@
  gramm: V,nonst,vt,vi
  lexref: vejëroj
  paradigm: lexoj
- trans_en: remain a widow / widower (vt); widow (vi)
+ trans_en: remain a widow/widower (vt); widow (vi)
 
 -lexeme
  lex: vejëroj
@@ -55366,7 +55364,7 @@
  stem: vejëro.|vejërua.|vejëru.|vejër.
  gramm: V,vt,vi
  paradigm: lexoj
- trans_en: remain a widow / widower (vt); widow (vi)
+ trans_en: remain a widow/widower (vt); widow (vi)
 
 -lexeme
  lex: vel
@@ -56021,7 +56019,7 @@
  stem: vetëqua.|vetëqu.|vetëquajt.
  gramm: V,vt
  paradigm: ruaj
- trans_en: call a name / term on one's own authority
+ trans_en: call a name/term on one's own authority
 
 -lexeme
  lex: vetëquej
@@ -56029,7 +56027,7 @@
  gramm: V,nonst,vt
  lexref: vetëquaj
  paradigm: ruej
- trans_en: call a name / term on one's own authority
+ trans_en: call a name/term on one's own authority
 
 -lexeme
  lex: vetëregjistroj
@@ -57442,7 +57440,7 @@
 -lexeme
  lex: xhamëzohet
  stem: xhamëzo.|xhamëzua.|xhamëzu.|xhamëz.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  trans_en: become hard and brittle
 
@@ -57470,7 +57468,7 @@
 -lexeme
  lex: xhindos
  stem: xhindos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: drive mad
 
@@ -57684,7 +57682,7 @@
 -lexeme
  lex: zakonoj
  stem: zakono.|zakonua.|zakonu.|zakon.
- gramm: V,vt
+ gramm: V,vt,Slav
  paradigm: lexoj
  trans_en: accustom
 
@@ -57726,7 +57724,7 @@
 -lexeme
  lex: zaptoj
  stem: zapto.|zaptua.|zaptu.|zapt.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: occupy; capture, grab
 
@@ -58380,7 +58378,7 @@
  stem: zdrëm.
  gramm: V,med
  paradigm: hap-1
- trans_en: get sores from a chafing burden; lose paint / plaster in places
+ trans_en: get sores from a chafing burden; lose paint/plaster in places
 
 -lexeme
  lex: zdërgjahem
@@ -58430,7 +58428,7 @@
 -lexeme
  lex: zeheroj
  stem: zehero.|zeherua.|zeheru.|zeher.
- gramm: V,vi
+ gramm: V,vi,Turk
  paradigm: lexoj
  trans_en: poison
 
@@ -58650,14 +58648,14 @@
  stem: zgjebos.
  gramm: V,med
  paradigm: hap-1
- transl_en: get scabies / mange
+ transl_en: get scabies/mange
 
 -lexeme
  lex: zgjebos
  stem: zgjebos.
  gramm: V,vt
  paradigm: hap
- trans_en: infect with scabies / mange
+ trans_en: infect with scabies/mange
 
 -lexeme
  lex: zgjedh
@@ -59023,7 +59021,7 @@
  stem: zhaparit.//zhaparis.|zhaparit.
  gramm: V,vt
  paradigm: mat
- trans_en: scald / sear / burn the skin; wither with dry heat; wrinkle
+ trans_en: scald/sear/burn the skin; wither with dry heat; wrinkle
 
 -lexeme
  lex: zhapit
@@ -59555,14 +59553,14 @@
  stem: zhgardho.|zhgardhua.|zhgardhu.|zhgardh.
  gramm: V,med
  paradigm: lexoj-1
- transl_en: (vt) take apart / away the fence
+ transl_en: (vt) take apart/away the fence
 
 -lexeme
  lex: zhgardhoj
  stem: zhgardho.|zhgardhua.|zhgardhu.|zhgardh.
  gramm: V,vt
  paradigm: lexoj
- trans_en: take apart / away the fence
+ trans_en: take apart/away the fence
 
 -lexeme
  lex: zhgjakësoj
@@ -59817,7 +59815,7 @@
  stem: zhulat.//zhulas.|zhulat.
  gramm: V,vt
  paradigm: mat
- trans_en: pound into flexibility; push / plunge under water; stuff with food
+ trans_en: pound into flexibility; push/plunge under water; stuff with food
 
 -lexeme
  lex: zhulos
@@ -60120,7 +60118,7 @@
  stem: zie.|zi.|zje.
  gramm: V,med
  paradigm: ndiej-1
- transl_en: quarrel, fight; hold on; become friends / relatives; begin, start; (of dough) rise
+ transl_en: quarrel, fight; hold on; become friends/relatives; begin, start; (of dough) rise
 
 -lexeme
  lex: ziej
@@ -60274,14 +60272,14 @@
 -lexeme
  lex: zorit
  stem: zorit.//zoris.|zorit.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: mat-1
  transl_en: get into a tough situation
 
 -lexeme
  lex: zorit
  stem: zorit.//zoris.|zorit.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: mat
  trans_en: make things tough
 
@@ -60409,7 +60407,7 @@
  stem: zverdho.|zverdhua.|zverdhu.|zverdh.
  gramm: V,vt
  paradigm: lexoj
- trans_en: make yellow / brown
+ trans_en: make yellow/brown
 
 -lexeme
  lex: zverëtit
@@ -60472,7 +60470,7 @@
  stem: zvjerdh.|zvirdh.|zvordh.
  gramm: V,vt
  paradigm: heq
- trans_en: wean; chill smb's feelings / desire; prune extra roots and sprouts
+ trans_en: wean; chill smb's feelings/desire; prune extra roots and sprouts
 
 -lexeme
  lex: zvogëloj
@@ -60493,7 +60491,7 @@
  stem: zymne.|zymnye.
  gramm: V,vt
  paradigm: kthej
- trans_en: darken, make look gloomy / somber
+ trans_en: darken, make look gloomy/somber
 
 -lexeme
  lex: zymtoj
@@ -60507,7 +60505,7 @@
  stem: zymto.|zymtua.|zymtu.|zymt.
  gramm: V,vt
  paradigm: lexoj
- trans_en: darken, make look gloomy / somber
+ trans_en: darken, make look gloomy/somber
 
 -lexeme
  lex: zyrtarizoj
@@ -60636,12 +60634,12 @@
  stem: çakulis.
  gramm: V,vt
  paradigm: hap
- trans_en: roll / flatten out
+ trans_en: roll/flatten out
 
 -lexeme
  lex: çakëlloj
  stem: çakëllo.|çakëllua.|çakëllu.|çakëll.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: shape with an adze
 
@@ -60720,7 +60718,7 @@
 -lexeme
  lex: çap
  stem: çap.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: set off, go; pace, step
 
@@ -61100,7 +61098,7 @@
 -lexeme
  lex: çelikos
  stem: çelikos.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: temper; strengthen
 
@@ -61114,7 +61112,7 @@
 -lexeme
  lex: çelnikos
  stem: çelnikos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: steel, harden
 
@@ -61198,7 +61196,7 @@
 -lexeme
  lex: çetoj
  stem: çeto.|çetua.|çetu.|çet.
- gramm: V,vi
+ gramm: V,vi,Slav
  paradigm: lexoj
  trans_en: make a sortie, go out on a raid
 
@@ -61346,21 +61344,21 @@
 -lexeme
  lex: çiftoj
  stem: çifto.|çiftua.|çiftu.|çift.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  trans_en: pair up; mate
 
 -lexeme
  lex: çiftos
  stem: çiftos.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: hap
  trans_en: mate
 
 -lexeme
  lex: çiftëzoj
  stem: çiftëzo.|çiftëzua.|çiftëzu.|çiftëz.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: lexoj-1
  trans_en: pair up; mate
 
@@ -61416,7 +61414,7 @@
 -lexeme
  lex: çilem
  stem: çil.
- gramm: V,med
+ gramm: V,med,Turk
  paradigm: hap-1
  trans_en: fade, grow gray
 
@@ -61593,7 +61591,7 @@
  gramm: V,nonst,med
  lexref: shkreh
  paradigm: beh-1
- transl_en: be released / fired / set off; burst out
+ transl_en: be released/fired/set off; burst out
 
 -lexeme
  lex: çkreh
@@ -61609,7 +61607,7 @@
  gramm: V,nonst,med
  lexref: shkrep
  paradigm: hap-1
- transl_en: be triggered / released; fire automatically; collide
+ transl_en: be triggered/released; fire automatically; collide
 
 -lexeme
  lex: çkrep
@@ -62188,7 +62186,7 @@
 -lexeme
  lex: çobanoj
  stem: çobano.|çobanua.|çobanu.|çoban.
- gramm: V,vt
+ gramm: V,vt,Turk
  paradigm: lexoj
  trans_en: tend livestock
 

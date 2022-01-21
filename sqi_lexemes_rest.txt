@@ -694,8 +694,8 @@
  trans_en: openly
 
 -lexeme
- lex: ashkla-ahkla
- stem: ashkla-ahkla.
+ lex: ashkla-ashkla
+ stem: ashkla-ashkla.
  gramm: ADV
  paradigm: unchangeable
  trans_en: in small pieces
@@ -1527,7 +1527,7 @@
 -lexeme
  lex: bujarisht
  stem: bujarisht.
- gramm: ADV
+ gramm: ADV,Slav
  paradigm: unchangeable
  trans_en: nobly; generously
 
@@ -1588,9 +1588,8 @@
  trans_en: with a smile
 
 -lexeme
- lex: buzangaz
+ lex: buzagaz
  stem: buzangaz.
- lexref: buzagaz
  gramm: ADV,nonst
  paradigm: unchangeable
  trans_en: with a smile
@@ -5669,7 +5668,7 @@
 -lexeme
  lex: jashtëzakonisht
  stem: jashtëzakonisht.
- gramm: ADV
+ gramm: ADV,Slav
  paradigm: unchangeable
  trans_en: extraordinarily, unusually
 
@@ -7862,7 +7861,7 @@
 -lexeme
  lex: mashalla
  stem: mashalla.
- gramm: INTJ
+ gramm: INTJ,Turk
  paradigm: unchangeable
  trans_en: bless God! knock on wood!
 
@@ -16769,7 +16768,7 @@
 -lexeme
  lex: turçe
  stem: turçe.
- gramm: ADV
+ gramm: ADV,Turk
  paradigm: unchangeable
  trans_en: in the Turkish manner
 
@@ -18185,7 +18184,7 @@
 -lexeme
  lex: zakonisht
  stem: zakonisht.
- gramm: ADV
+ gramm: ADV,Slav
  paradigm: unchangeable
  trans_en: as usual; usually, customarily
 
@@ -18956,7 +18955,7 @@
 -lexeme
  lex: çuditërisht
  stem: çuditërisht.
- gramm: ADV
+ gramm: ADV,Slav
  paradigm: unchangeable
  trans_en: surprisingly, very
 

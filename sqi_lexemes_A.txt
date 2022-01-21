@@ -2732,7 +2732,7 @@
  stem: athinas.|athinas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Athens
+ trans_en: of/from Athens
 
 -lexeme
  lex: athtësuar
@@ -3110,7 +3110,7 @@
  stem: avullosh.
  gramm: A
  paradigm: adj-3-1
- trans_en: warm and giving off vapour / steam
+ trans_en: warm and giving off vapour/steam
 
 -lexeme
  lex: avullt
@@ -3138,7 +3138,7 @@
  stem: avullues.|avullues.
  gramm: A
  paradigm: adj-1-2
- trans_en: giving off vapour / steam for the heat
+ trans_en: giving off vapour/steam for the heat
 
 -lexeme
  lex: avullueshëm
@@ -3157,7 +3157,7 @@
 -lexeme
  lex: azdisur
  stem: azdisur.|azdisur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: uncontrollable; unrestrained
 
@@ -3227,9 +3227,9 @@
 -lexeme
  lex: bajamtë
  stem: bajamtë.|bajamt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
- trans_en: made of / with almonds
+ trans_en: made of/with almonds
 
 -lexeme
  lex: bajat
@@ -3255,7 +3255,7 @@
 -lexeme
  lex: bajrak
  stem: bajrak.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-2
  trans_en: tall and handsome
 
@@ -3283,28 +3283,28 @@
 -lexeme
  lex: bakërmbajtës
  stem: bakërmbajtës.|bakërmbajtës.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2
  trans_en: cupriferous, copper-bearing
 
 -lexeme
  lex: bakëror
  stem: bakëror.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: containing copper, made of copper
 
 -lexeme
  lex: bakërosur
  stem: bakërosur.|bakërosur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: with bare copper exposed
 
 -lexeme
  lex: bakërt
  stem: bakërt.|bakërt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: made of copper; copper-colored
 
@@ -3383,7 +3383,7 @@
  stem: ballshiot.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Ballsh
+ trans_en: of/from Ballsh
 
 -lexeme
  lex: ballukecjap
@@ -3670,7 +3670,7 @@
  stem: baltë.|balt.
  gramm: A
  paradigm: adj-2-1
- trans_en: made of clay / mud
+ trans_en: made of clay/mud
 
 -lexeme
  lex: balë
@@ -4329,7 +4329,7 @@
  stem: bashkëkombës.|bashkëkombës.
  gramm: A
  paradigm: adj-1-2
- trans_en: from the same country / nation, compatriotic
+ trans_en: from the same country/nation, compatriotic
 
 -lexeme
  lex: bashkëkoordinuar
@@ -4621,14 +4621,14 @@
 -lexeme
  lex: begator
  stem: begator.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: rich, wealthy
 
 -lexeme
  lex: begatshëm
  stem: begatshëm.|begatshm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: rich, wealthy
 
@@ -4656,7 +4656,7 @@
 -lexeme
  lex: beharor
  stem: beharor.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: summery, suitable for summer
 
@@ -4670,7 +4670,7 @@
 -lexeme
  lex: bektashian
  stem: bektashian.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: of the Bektashi sect
 
@@ -4700,14 +4700,14 @@
 -lexeme
  lex: belaqar
  stem: belaqar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: bothersome, obnoxious, pestering
 
 -lexeme
  lex: belaçor
  stem: belaçor.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: bothersome, obnoxious, pestering
 
@@ -4828,7 +4828,7 @@
  stem: beratas.|beratas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Berat
+ trans_en: of/from Berat
 
 -lexeme
  lex: berbecul
@@ -4840,7 +4840,7 @@
 -lexeme
  lex: bereqetshëm
  stem: bereqetshëm.|bereqetshm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2-a
  trans_en: fruitful, successful
 
@@ -5050,7 +5050,7 @@
 -lexeme
  lex: beztë
  stem: beztë.|bezt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: made of cotton baize
 
@@ -5092,14 +5092,14 @@
 -lexeme
  lex: bilur
  stem: bilur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: clean and clear
 
 -lexeme
  lex: bilurtë
  stem: bilurtë.|bilurt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: made of crystal, porcelain
 
@@ -5673,14 +5673,14 @@
 -lexeme
  lex: bojalli
  stem: bojalli.|bojallie.|bojallinj.|bojallie.|bojallesh.
- gramm: A
+ gramm: A,Turk
  paradigm: inatçi
  trans_en: multicolored; tall and handsome
 
 -lexeme
  lex: bojargjend
  stem: bojargjend.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: silver in color
 
@@ -5694,63 +5694,63 @@
 -lexeme
  lex: bojuthull
  stem: bojuthull.|bojuthull.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: vinegar-red in color
 
 -lexeme
  lex: bojëfinjë
  stem: bojëfinjë.|bojëfinj.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: lye-colored
 
 -lexeme
  lex: bojëgjak
  stem: bojëgjak.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-2
  trans_en: blood-red
 
 -lexeme
  lex: bojëgrurë
  stem: bojëgrurë.|bojëgrur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: wheat-colored
 
 -lexeme
  lex: bojëgështenjë
  stem: bojëgështenjë.|bojëgështenj.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: chestnut brown
 
 -lexeme
  lex: bojëhurmë
  stem: bojëhurmë.|bojëhurm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: persimmon in color
 
 -lexeme
  lex: bojëjeshil
  stem: bojëjeshil.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: green-colored
 
 -lexeme
  lex: bojëkashtë
  stem: bojëkashtë.|bojëkasht.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: straw-colored
 
 -lexeme
  lex: bojëlimon
  stem: bojëlimon.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: lemon-colored, yellow
 
@@ -5764,28 +5764,28 @@
 -lexeme
  lex: bojëmish
  stem: bojëmish.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: vinegar red in color, "mish color"
 
 -lexeme
  lex: bojëmjaltë
  stem: bojëmjaltë.|bojëmjalt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: honey-colored
 
 -lexeme
  lex: bojëportokall
  stem: bojëportokall.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: orange-colored
 
 -lexeme
  lex: bojëshegë
  stem: bojëshegë.|bojësheg.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1-a
  trans_en: pomegranate-colored
 
@@ -5799,28 +5799,28 @@
 -lexeme
  lex: bojëshpatëz
  stem: bojëshpatëz.|bojëshpatëz.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: cornflower-colored
 
 -lexeme
  lex: bojëtjegull
  stem: bojëtjegull.|bojëtjegull.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: tile-colored
 
 -lexeme
  lex: bojëtrëndafil
  stem: bojëtrëndafil.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: rose-colored, pink
 
 -lexeme
  lex: bojëçelik
  stem: bojëçelik.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-2
  trans_en: steel in color, grey
 
@@ -5969,7 +5969,7 @@
 -lexeme
  lex: bostanor
  stem: bostanor.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: of or pertaining to gourd-like plants
 
@@ -6706,7 +6706,7 @@
 -lexeme
  lex: budalla
  stem: budalla.|budallaqe.|budallenj.|budallaqe.|budallaq.
- gramm: A
+ gramm: A,Turk
  paradigm: budalla
  trans_en: stupid
 
@@ -6755,21 +6755,21 @@
 -lexeme
  lex: bujar
  stem: bujar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: generous, noble
 
 -lexeme
  lex: bujkrobëror
  stem: bujkrobëror.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: pertaining to serfdom
 
 -lexeme
  lex: bujkrobërues
  stem: bujkrobërues.|bujkrobërues.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: pertaining to serfdom
 
@@ -7339,7 +7339,7 @@
  stem: buzështrembër.|buzështrembr.
  gramm: A
  paradigm: adj-2-2
- trans_en: having crooked / lopsided lips
+ trans_en: having crooked/lopsided lips
 
 -lexeme
  lex: buzëtharë
@@ -7638,7 +7638,7 @@
 -lexeme
  lex: caran
  stem: caran.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: hard as rock, stone-hard
 
@@ -8221,7 +8221,7 @@
  stem: copëtues.|copëtues.
  gramm: A
  paradigm: adj-1-2
- trans_en: for crushing / breaking into pieces
+ trans_en: for crushing/breaking into pieces
 
 -lexeme
  lex: copëzuar
@@ -8270,7 +8270,7 @@
  stem: cukëlan.
  gramm: A
  paradigm: adj-3-1
- trans_en: whose fleece / coat has bare patches
+ trans_en: whose fleece/coat has bare patches
 
 -lexeme
  lex: culan
@@ -8576,14 +8576,14 @@
 -lexeme
  lex: damkosur
  stem: damkosur.|damkosur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
- trans_en: arked
+ trans_en: marked, branded, stamped
 
 -lexeme
  lex: damllosur
  stem: damllosur.|damllosur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: suffering from stroke
 
@@ -9069,7 +9069,7 @@
  stem: delvinjot.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Delvina
+ trans_en: of/from Delvina
 
 -lexeme
  lex: demagogjik
@@ -9102,7 +9102,7 @@
 -lexeme
  lex: dembelosur
  stem: dembelosur.|dembelosur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: having gotten lazy
 
@@ -9510,7 +9510,7 @@
  stem: devollit.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Devoll
+ trans_en: of/from Devoll
 
 -lexeme
  lex: devotshëm
@@ -9769,7 +9769,7 @@
  stem: dhjetëlekësh.|dhjetëlekësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: worth / costing ten leks
+ trans_en: worth/costing ten leks
 
 -lexeme
  lex: dhjetëlitërsh
@@ -9790,7 +9790,7 @@
  stem: dhjetëmuajsh.|dhjetëmuajsh.
  gramm: A
  paradigm: adj-1-5
- trans_en: ten months long / old
+ trans_en: ten months long/old
 
 -lexeme
  lex: dhjetëmujor
@@ -10156,7 +10156,7 @@
  stem: dibran.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Dibra
+ trans_en: of/from Dibra
 
 -lexeme
  lex: didaktik
@@ -10542,7 +10542,7 @@
  stem: ditor.
  gramm: A
  paradigm: adj-3-1
- trans_en: pertaining to a day or daytime; _ days old / long
+ trans_en: pertaining to a day or daytime; _ days old/long
 
 -lexeme
  lex: ditshëm
@@ -10792,21 +10792,21 @@
 -lexeme
  lex: dobiprurës
  stem: dobiprurës.|dobiprurës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: beneficial
 
 -lexeme
  lex: dobishëm
  stem: dobishëm.|dobishm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: beneficial
 
 -lexeme
  lex: dobësuar
  stem: dobësuar.|dobësuar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: becoming progressively weaker
 
@@ -11466,7 +11466,7 @@
  stem: drekëhershëm.|drekëhershm.
  gramm: A
  paradigm: adj-1-2-a
- trans_en: of lunchtime / dinnertime
+ trans_en: of lunchtime/dinnertime
 
 -lexeme
  lex: drenazhuar
@@ -11480,14 +11480,14 @@
  stem: drenicak.
  gramm: A
  paradigm: adj-3-2
- trans_en: of / from Drenica
+ trans_en: of/from Drenica
 
 -lexeme
  lex: drenicas
  stem: drenicas.|drenicas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Drenica
+ trans_en: of/from Drenica
 
 -lexeme
  lex: drenuar
@@ -11725,7 +11725,7 @@
  stem: dropullit.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Dropulli
+ trans_en: of/from Dropulli
 
 -lexeme
  lex: druajtur
@@ -11886,7 +11886,7 @@
  stem: dukagjinas.|dukagjinas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Dukagjin
+ trans_en: of/from Dukagjin
 
 -lexeme
  lex: dukal
@@ -11921,7 +11921,7 @@
  stem: dumrejas.|dumrejas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Dumre
+ trans_en: of/from Dumre
 
 -lexeme
  lex: dungë
@@ -11956,7 +11956,7 @@
  stem: durrsak.
  gramm: A
  paradigm: adj-3-2
- trans_en: of / from Durrës
+ trans_en: of/from Durrës
 
 -lexeme
  lex: duruar
@@ -12096,7 +12096,7 @@
  stem: dydhëmbësh.|dydhëmbësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: having two teeth / tines / prongs
+ trans_en: having two teeth/tines/prongs
 
 -lexeme
  lex: dydirekësh
@@ -12117,7 +12117,7 @@
  stem: dyditësh.|dyditësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: two-day long / old
+ trans_en: two-day long/old
 
 -lexeme
  lex: dyfaqshëm
@@ -12159,12 +12159,12 @@
  stem: dyfazësh.|dyfazësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: in / of two fazes
+ trans_en: in/of two fazes
 
 -lexeme
  lex: dyfekshuar
  stem: dyfekshuar.|dyfekshuar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: incapable of self-defense
 
@@ -12432,7 +12432,7 @@
  stem: dyllojësh.|dyllojësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: of two sorts / kinds
+ trans_en: of two sorts/kinds
 
 -lexeme
  lex: dyllor
@@ -12712,7 +12712,7 @@
  stem: dyskudësh.|dyskudësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: worth / costing two escudo
+ trans_en: worth/costing two escudo
 
 -lexeme
  lex: dysor
@@ -12775,7 +12775,7 @@
  stem: dytrajtësh.|dytrajtësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: having two forms / shapes
+ trans_en: having two forms/shapes
 
 -lexeme
  lex: dytë
@@ -13151,14 +13151,14 @@
 -lexeme
  lex: dërstiluar
  stem: dërstiluar.|dërstiluar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: fulled
 
 -lexeme
  lex: dërstilur
  stem: dërstilur.|dërstilur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: fulled
 
@@ -13335,7 +13335,7 @@
  stem: egjiptas.|egjiptas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Egypt
+ trans_en: of/from Egypt
 
 -lexeme
  lex: egjiptian
@@ -13643,7 +13643,7 @@
  stem: elbasanas.|elbasanas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Elbasan
+ trans_en: of/from Elbasan
 
 -lexeme
  lex: elbtë
@@ -14014,14 +14014,14 @@
  stem: epirot.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Epirus
+ trans_en: of/from Epirus
 
 -lexeme
  lex: epirotas
  stem: epirotas.|epirotas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Epirus
+ trans_en: of/from Epirus
 
 -lexeme
  lex: epror
@@ -14243,14 +14243,14 @@
 -lexeme
  lex: esnaf
  stem: esnaf.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: honest
 
 -lexeme
  lex: esnafor
  stem: esnafor.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: of or pertaining to guilds
 
@@ -14818,7 +14818,7 @@
 -lexeme
  lex: farfurinjtë
  stem: farfurinjtë.|farfurinjt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: made of porcelain
 
@@ -14967,7 +14967,7 @@
  stem: farëzi.|farëzez.|farëzinj.|farëzeza.
  gramm: A
  paradigm: zi
- trans_en: with dark-colored / black seeds
+ trans_en: with dark-colored/black seeds
 
 -lexeme
  lex: fashist
@@ -15156,7 +15156,7 @@
  stem: ferizajas.|ferizajas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Ferizaj
+ trans_en: of/from Ferizaj
 
 -lexeme
  lex: fermentuar
@@ -15182,14 +15182,14 @@
 -lexeme
  lex: festekuq
  stem: festekuq.|festekuq.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-3
  trans_en: wearing a red fez
 
 -lexeme
  lex: festemënjanë
  stem: festemënjanë.|festemënjan.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: wearing a fez askew
 
@@ -15233,7 +15233,7 @@
  stem: fierak.
  gramm: A
  paradigm: adj-3-2
- trans_en: of / from Fieri
+ trans_en: of/from Fieri
 
 -lexeme
  lex: figurativ
@@ -15343,7 +15343,7 @@
 -lexeme
  lex: fildishtë
  stem: fildishtë.|fildisht.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: of or like ivory
 
@@ -16043,14 +16043,14 @@
 -lexeme
  lex: flladitës
  stem: flladitës.|flladitës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: cooling, refreshing
 
 -lexeme
  lex: flladshëm
  stem: flladshëm.|flladshm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: cooling, refreshing
 
@@ -16855,7 +16855,7 @@
 -lexeme
  lex: fukara
  stem: fukara.|fukara.|fukarenj.|fukara.|fukaresh.
- gramm: A
+ gramm: A,Turk
  paradigm: fukara
  trans_en: poor
 
@@ -16885,7 +16885,7 @@
  stem: fundor.
  gramm: A
  paradigm: adj-3-1
- trans_en: located in the end / bottom
+ trans_en: located in the end/bottom
 
 -lexeme
  lex: fundosur
@@ -17355,7 +17355,7 @@
  stem: ganez.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Ghana
+ trans_en: of/from Ghana
 
 -lexeme
  lex: gangrenor
@@ -17416,14 +17416,14 @@
 -lexeme
  lex: gazepqar
  stem: gazepqar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: causing suffering and sadness; pessimistic
 
 -lexeme
  lex: gazepshëm
  stem: gazepshëm.|gazepshm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2-a
  trans_en: painful
 
@@ -17530,7 +17530,7 @@
  stem: gegë.|geg.
  gramm: A
  paradigm: gege
- trans_en: of / from Gegeria
+ trans_en: of/from Gegeria
 
 -lexeme
  lex: geman
@@ -17684,7 +17684,7 @@
  stem: gjakovar.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Gjakova
+ trans_en: of/from Gjakova
 
 -lexeme
  lex: gjakpirës
@@ -17880,7 +17880,7 @@
  stem: gjashtëdhjetëmijëfrangësh.|gjashtëdhjetëmijëfrangësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: worth / costing 60 000 francs
+ trans_en: worth/costing 60 000 francs
 
 -lexeme
  lex: gjashtëdhjetëvjeçar
@@ -17894,14 +17894,14 @@
  stem: gjashtëditor.
  gramm: A
  paradigm: adj-3-1
- trans_en: six-day old / long
+ trans_en: six-day old/long
 
 -lexeme
  lex: gjashtëditësh
  stem: gjashtëditësh.|gjashtëditësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: six-day old / long
+ trans_en: six-day old/long
 
 -lexeme
  lex: gjashtëkatësh
@@ -17971,7 +17971,7 @@
  stem: gjashtëmuajsh.|gjashtëmuajsh.
  gramm: A
  paradigm: adj-1-5
- trans_en: six months long / old
+ trans_en: six months long/old
 
 -lexeme
  lex: gjashtëmujor
@@ -18020,7 +18020,7 @@
  stem: gjashtëvjeçar.
  gramm: A
  paradigm: adj-3-1
- trans_en: six years old / long
+ trans_en: six years old/long
 
 -lexeme
  lex: gjasshëm
@@ -18286,7 +18286,7 @@
  stem: gjeorgjian.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Georgia
+ trans_en: of/from Georgia
 
 -lexeme
  lex: gjeratëhershëm
@@ -18494,7 +18494,7 @@
 -lexeme
  lex: gjezdisur
  stem: gjezdisur.|gjezdisur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: having a walk
 
@@ -18531,7 +18531,7 @@
  stem: gjilanas.|gjilanas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Gjilan
+ trans_en: of/from Gjilan
 
 -lexeme
  lex: gjilpëror
@@ -18587,7 +18587,7 @@
  stem: gjirokastrit.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Gjirokastra
+ trans_en: of/from Gjirokastra
 
 -lexeme
  lex: gjithanshëm
@@ -19119,7 +19119,7 @@
  stem: gjysmar.
  gramm: A
  paradigm: adj-3-1
- trans_en: hals as much as expected / usual
+ trans_en: hals as much as expected/usual
 
 -lexeme
  lex: gjysmatar
@@ -19771,7 +19771,7 @@
  stem: gorar.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Gora
+ trans_en: of/from Gora
 
 -lexeme
  lex: gorrictë
@@ -19790,28 +19790,28 @@
 -lexeme
  lex: gozhduar
  stem: gozhduar.|gozhduar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: nailed; fixed in place
 
 -lexeme
  lex: grabitqar
  stem: grabitqar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: predatory
 
 -lexeme
  lex: grabitës
  stem: grabitës.|grabitës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: predatory
 
 -lexeme
  lex: grabës
  stem: grabës.|grabës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: predatory
 
@@ -19855,7 +19855,7 @@
  stem: gramshak.
  gramm: A
  paradigm: adj-3-2
- trans_en: of / from Gramsh
+ trans_en: of/from Gramsh
 
 -lexeme
  lex: grathë-grathë
@@ -20415,7 +20415,7 @@
  stem: guramel.
  gramm: A
  paradigm: adj-3-1
- trans_en: having a small hard pit / seed
+ trans_en: having a small hard pit/seed
 
 -lexeme
  lex: gurgullues
@@ -20752,7 +20752,7 @@
 -lexeme
  lex: gërbegjerë
  stem: gërbegjerë.|gërbegjer.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: big-hipped
 
@@ -20997,21 +20997,21 @@
 -lexeme
  lex: habermadh
  stem: habermadh.|habermadhe.|habermëdhenj.|habermëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
  trans_en: blabbermouth
 
 -lexeme
  lex: habertar
  stem: habertar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: spreading the news around, blabbermouth
 
 -lexeme
  lex: haberzi
  stem: haberzi.|haberzez.|haberzinj.|haberzeza.
- gramm: A
+ gramm: A,Turk
  paradigm: zi
  trans_en: whose death has just been announced
 
@@ -21032,14 +21032,14 @@
 -lexeme
  lex: hafif
  stem: hafif.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: thin and drawn; light in weight
 
 -lexeme
  lex: hairtë
  stem: hairtë.|hairt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: causing happiness and success
 
@@ -21060,7 +21060,7 @@
 -lexeme
  lex: hakmarrës
  stem: hakmarrës.|hakmarrës.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2
  trans_en: retaliatory; avenging a blood
 
@@ -21088,28 +21088,28 @@
 -lexeme
  lex: hallemadh
  stem: hallemadh.|hallemadhe.|hallemëdhenj.|hallemëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
  trans_en: trouble-laden
 
 -lexeme
  lex: halleshumë
  stem: halleshumë.|halleshum.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: trouble-laden
 
 -lexeme
  lex: hallezi
  stem: hallezi.|hallezez.|hallezinj.|hallezeza.
- gramm: A
+ gramm: A,Turk
  paradigm: zi
  trans_en: beset by many troubles
 
 -lexeme
  lex: hallkeq
  stem: hallkeq.|hallkeqe.|hallkëqij.|hallkëqija.|hallkëqinj.
- gramm: A
+ gramm: A,Turk
  paradigm: keq
  trans_en: having serious problems, in deep trouble
 
@@ -21291,7 +21291,7 @@
 -lexeme
  lex: harbut
  stem: harbut.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: uncouth, common
 
@@ -21305,14 +21305,14 @@
 -lexeme
  lex: hareplotë
  stem: hareplotë.|hareplot.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: joyful, merry
 
 -lexeme
  lex: hareshëm
  stem: hareshëm.|hareshm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2-a
  trans_en: elated; joyful
 
@@ -21438,21 +21438,21 @@
 -lexeme
  lex: harxhuar
  stem: harxhuar.|harxhuar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: used up, spent
 
 -lexeme
  lex: hasetmadh
  stem: hasetmadh.|hasetmadhe.|hasetmëdhenj.|hasetmëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
  trans_en: very envious, green with envy
 
 -lexeme
  lex: hasetqar
  stem: hasetqar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: envious
 
@@ -21466,35 +21466,35 @@
 -lexeme
  lex: hatashëm
  stem: hatashëm.|hatashm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2-a
  trans_en: catastrophic, disastrous
 
 -lexeme
  lex: hatërmadh
  stem: hatërmadh.|hatërmadhe.|hatërmëdhenj.|hatërmëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
  trans_en: willing to go along, agreeable
 
 -lexeme
  lex: hatërmbetur
  stem: hatërmbetur.|hatërmbetur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: touchy; indignant
 
 -lexeme
  lex: hazërtë
  stem: hazërtë.|hazërt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: prepared, ready
 
 -lexeme
  lex: hazërxhevap
  stem: hazërxhevap.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: fast in reply, quick on the comeback
 
@@ -21769,7 +21769,7 @@
  stem: heshtjerëndë.|heshtjerënd.
  gramm: A
  paradigm: adj-2-1
- trans_en: in deep / heavy silence
+ trans_en: in deep/heavy silence
 
 -lexeme
  lex: heshtor
@@ -22007,7 +22007,7 @@
  stem: hijerëndë.|hijerënd.
  gramm: A
  paradigm: adj-2-1
- trans_en: casting a dark / oppressive shadow
+ trans_en: casting a dark/oppressive shadow
 
 -lexeme
  lex: hijeshuar
@@ -22061,21 +22061,21 @@
 -lexeme
  lex: hilemadh
  stem: hilemadh.|hilemadhe.|hilemëdhenj.|hilemëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
  trans_en: very tricky, deceitful
 
 -lexeme
  lex: hileqar
  stem: hileqar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: deceptive, tricky
 
 -lexeme
  lex: hiletar
  stem: hiletar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: deceptive, tricky
 
@@ -22084,7 +22084,7 @@
  stem: himarjot.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Himara
+ trans_en: of/from Himara
 
 -lexeme
  lex: himnizuar
@@ -22243,7 +22243,7 @@
 -lexeme
  lex: hokatar
  stem: hokatar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: kidding, teasing, jocular
 
@@ -22252,7 +22252,7 @@
  stem: holandez.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Holland, Dutch
+ trans_en: of/from Holland, Dutch
 
 -lexeme
  lex: holandishtfolës
@@ -22350,7 +22350,7 @@
  stem: hovshëm.|hovshm.
  gramm: A
  paradigm: adj-1-2-a
- trans_en: in a sudden surge / burst
+ trans_en: in a sudden surge/burst
 
 -lexeme
  lex: hri
@@ -22362,9 +22362,9 @@
 -lexeme
  lex: huadhënës
  stem: huadhënës.|huadhënës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
- trans_en: of or pertaining to a lender / creditor
+ trans_en: of or pertaining to a lender/creditor
 
 -lexeme
  lex: huaj
@@ -22376,21 +22376,21 @@
 -lexeme
  lex: huajtur
  stem: huajtur.|huajtur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: loaned, lent
 
 -lexeme
  lex: huamarrës
  stem: huamarrës.|huamarrës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: borrowing, in debt
 
 -lexeme
  lex: huazuar
  stem: huazuar.|huazuar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: borrowed
 
@@ -22616,7 +22616,7 @@
  stem: hundështrembër.|hundështrembr.
  gramm: A
  paradigm: adj-2-2
- trans_en: having a crooked / lopsided nose
+ trans_en: having a crooked/lopsided nose
 
 -lexeme
  lex: hundështypur
@@ -22644,7 +22644,7 @@
  stem: hungarez.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Hungary
+ trans_en: of/from Hungary
 
 -lexeme
  lex: hungërues
@@ -22672,7 +22672,7 @@
  stem: huqemadh.|huqemadhe.|huqemëdhenj.|huqemëdha.
  gramm: A
  paradigm: madh
- trans_en: having many foibles / peculiarities
+ trans_en: having many foibles/peculiarities
 
 -lexeme
  lex: hurdhiq
@@ -23147,14 +23147,14 @@
 -lexeme
  lex: inatosur
  stem: inatosur.|inatosur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: sore, angry
 
 -lexeme
  lex: inatçi
  stem: inatçi.|inatçie.|inatçinj.|inatçie.|inatçesh.
- gramm: A
+ gramm: A,Turk
  paradigm: inatçi
  trans_en: short-tempered
 
@@ -23833,14 +23833,14 @@
 -lexeme
  lex: jakëmbërthyer
  stem: jakëmbërthyer.|jakëmbërthyer.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: with collar closed; overly meticulous in dress
 
 -lexeme
  lex: jakëzbërthyer
  stem: jakëzbërthyer.|jakëzbërthyer.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: with collar open; careless in dress
 
@@ -23861,7 +23861,7 @@
 -lexeme
  lex: japishëm
  stem: japishëm.|japishm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2-a
  trans_en: fine-looking, handsome
 
@@ -23954,7 +23954,7 @@
  stem: jashtëfisnor.
  gramm: A
  paradigm: adj-3-1
- trans_en: from outside the clan / family
+ trans_en: from outside the clan/family
 
 -lexeme
  lex: jashtëgjinor
@@ -24113,35 +24113,35 @@
 -lexeme
  lex: jeleartë
  stem: jeleartë.|jeleart.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: golden-maned
 
 -lexeme
  lex: jelebardhë
  stem: jelebardhë.|jelebardh.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: having a light-colored mane
 
 -lexeme
  lex: jelegjatë
  stem: jelegjatë.|jelegjat.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: long-maned
 
 -lexeme
  lex: jelekuq
  stem: jelekuq.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-3
  trans_en: having a reddish mane
 
 -lexeme
  lex: jelezi
  stem: jelezi.|jelezez.|jelezinj.|jelezeza.
- gramm: A
+ gramm: A,Turk
  paradigm: zi
  trans_en: having black mane
 
@@ -25164,7 +25164,7 @@
 -lexeme
  lex: kadifenjtë
  stem: kadifenjtë.|kadifenjt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: made of velvet
 
@@ -25178,7 +25178,7 @@
 -lexeme
  lex: kafenjtë
  stem: kafenjtë.|kafenjt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: coffee-colored, brown
 
@@ -25444,14 +25444,14 @@
 -lexeme
  lex: kallajisur
  stem: kallajisur.|kallajisur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: tinned, soldered
 
 -lexeme
  lex: kallajtë
  stem: kallajtë.|kallajt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: made of tin
 
@@ -25465,14 +25465,14 @@
 -lexeme
  lex: kalldrëmor
  stem: kalldrëmor.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: made of cobblestone, cobbly
 
 -lexeme
  lex: kalldrëmtë
  stem: kalldrëmtë.|kalldrëmt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: cobblestone, cobbly
 
@@ -25528,14 +25528,14 @@
 -lexeme
  lex: kallkanosur
  stem: kallkanosur.|kallkanosur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: frozen
 
 -lexeme
  lex: kallkantë
  stem: kallkantë.|kallkant.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: made of ice, icy
 
@@ -25558,7 +25558,7 @@
  stem: kallëkeq.|kallëkeqe.|kallëkëqij.|kallëkëqija.|kallëkëqinj.
  gramm: A
  paradigm: keq
- trans_en: inciting others to argue / dispute
+ trans_en: inciting others to argue/dispute
 
 -lexeme
  lex: kallëzimtar
@@ -26033,7 +26033,7 @@
 -lexeme
  lex: katil
  stem: katil.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: criminal, murderous
 
@@ -26054,14 +26054,14 @@
 -lexeme
  lex: katranosur
  stem: katranosur.|katranosur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: tarred, covered with pitch
 
 -lexeme
  lex: katranuar
  stem: katranuar.|katranuar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: tarred, covered with pitch
 
@@ -26196,7 +26196,7 @@
  stem: katërditësh.|katërditësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: four-day old / long
+ trans_en: four-day old/long
 
 -lexeme
  lex: katërfaqësh
@@ -26418,7 +26418,7 @@
 -lexeme
  lex: katësh
  stem: katësh.|katësh.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-5
  trans_en: _ storey
 
@@ -26432,7 +26432,7 @@
 -lexeme
  lex: kaurdisur
  stem: kaurdisur.|kaurdisur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: roasted
 
@@ -26474,7 +26474,7 @@
 -lexeme
  lex: kaçak
  stem: kaçak.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-2
  trans_en: contraband, illegal
 
@@ -26755,7 +26755,7 @@
 -lexeme
  lex: kobash
  stem: kobash.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: thieving, pilfering
 
@@ -26783,77 +26783,77 @@
 -lexeme
  lex: kockanjar
  stem: kockanjar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: very weak
 
 -lexeme
  lex: kockor
  stem: kockor.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: osseous; of bones
 
 -lexeme
  lex: kockëbutë
  stem: kockëbutë.|kockëbut.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: soft-boned
 
 -lexeme
  lex: kockëdalë
  stem: kockëdalë.|kockëdal.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: rawboned
 
 -lexeme
  lex: kockëfortë
  stem: kockëfortë.|kockëfort.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: having strong bones
 
 -lexeme
  lex: kockëgjerë
  stem: kockëgjerë.|kockëgjer.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: wide-boned
 
 -lexeme
  lex: kockëhollë
  stem: kockëhollë.|kockëholl.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: thin-boned
 
 -lexeme
  lex: kockëmadh
  stem: kockëmadh.|kockëmadhe.|kockëmëdhenj.|kockëmëdha.
- gramm: A
+ gramm: A,Slav
  paradigm: madh
  trans_en: big-boned
 
 -lexeme
  lex: kockëtrashë
  stem: kockëtrashë.|kockëtrash.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: thick-boned
 
 -lexeme
  lex: kockëvogël
  stem: kockëvogël.|kockëvogl.|kockëvegjël.|kockëvegjl.|kockëvogla.
- gramm: A
+ gramm: A,Slav
  paradigm: vogël
  trans_en: small-boned
 
 -lexeme
  lex: kodifikues
  stem: kodifikues.|kodifikues.
- gramm: A
+ gramm: A,inter
  paradigm: adj-1-2
  trans_en: codifying
 
@@ -27287,21 +27287,21 @@
 -lexeme
  lex: kollajshëm
  stem: kollajshëm.|kollajshm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2-a
  trans_en: easy
 
 -lexeme
  lex: kollajtë
  stem: kollajtë.|kollajt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: easy
 
 -lexeme
  lex: kollarisur
  stem: kollarisur.|kollarisur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: starched
 
@@ -27345,19 +27345,19 @@
  stem: kolonjar.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Kolonja
+ trans_en: of/from Kolonja
 
 -lexeme
  lex: kolosal
  stem: kolosal.
- gramm: A
+ gramm: A,inter
  paradigm: adj-3-1
  trans_en: colossal
 
 -lexeme
  lex: kolovatur
  stem: kolovatur.|kolovatur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: weak and exhausted
 
@@ -27996,7 +27996,7 @@
  stem: korfuzan.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Corfu
+ trans_en: of/from Corfu
 
 -lexeme
  lex: korintik
@@ -28080,19 +28080,19 @@
  stem: korçar.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Korça
+ trans_en: of/from Korça
 
 -lexeme
  lex: kositur
  stem: kositur.|kositur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: reaped by scythe, mowed
 
 -lexeme
  lex: kositës
  stem: kositës.|kositës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: used for harvesting
 
@@ -28101,7 +28101,7 @@
  stem: kosovar.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Kosovo
+ trans_en: of/from Kosovo
 
 -lexeme
  lex: kotë
@@ -28204,7 +28204,7 @@
 -lexeme
  lex: krahinor
  stem: krahinor.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: regional, provincial
 
@@ -28379,7 +28379,7 @@
 -lexeme
  lex: kreshnik
  stem: kreshnik.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-2
  trans_en: valiant, valorous
 
@@ -28442,14 +28442,14 @@
 -lexeme
  lex: krifëbardhë
  stem: krifëbardhë.|krifëbardh.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: white-maned
 
 -lexeme
  lex: krifëgjatë
  stem: krifëgjatë.|krifëgjat.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: long-maned
 
@@ -28654,21 +28654,21 @@
  stem: kruspullosur.|kruspullosur.
  gramm: A
  paradigm: adj-2-2
- trans_en: in a pile / heap; curled up
+ trans_en: in a pile/heap; curled up
 
 -lexeme
  lex: kruspulluar
  stem: kruspulluar.|kruspulluar.
  gramm: A
  paradigm: adj-2-2
- trans_en: in a pile / heap; curled up
+ trans_en: in a pile/heap; curled up
 
 -lexeme
  lex: krutan
  stem: krutan.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Kruja
+ trans_en: of/from Kruja
 
 -lexeme
  lex: kryeartë
@@ -28963,7 +28963,7 @@
  stem: kuban.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Cuba
+ trans_en: of/from Cuba
 
 -lexeme
  lex: kubik
@@ -29047,7 +29047,7 @@
  stem: kuksian.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Kukës
+ trans_en: of/from Kukës
 
 -lexeme
  lex: kulartë
@@ -29479,7 +29479,7 @@
 -lexeme
  lex: kurdisur
  stem: kurdisur.|kurdisur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: wound up
 
@@ -29607,7 +29607,7 @@
  stem: kurveleshas.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Kurvelesh
+ trans_en: of/from Kurvelesh
 
 -lexeme
  lex: kushtetor
@@ -29668,14 +29668,14 @@
 -lexeme
  lex: kusuremadh
  stem: kusuremadh.|kusuremadhe.|kusuremëdhenj.|kusuremëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
  trans_en: with lots of worries, unlucky
 
 -lexeme
  lex: kusureshumë
  stem: kusureshumë.|kusureshum.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: long-suffering
 
@@ -29724,7 +29724,7 @@
 -lexeme
  lex: kyçur
  stem: kyçur.|kyçur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: locked; very private
 
@@ -30440,7 +30440,7 @@
  stem: lab.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Labëria
+ trans_en: of/from Labëria
 
 -lexeme
  lex: labeat
@@ -30669,28 +30669,28 @@
 -lexeme
  lex: lakmitar
  stem: lakmitar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: greedy, envious
 
 -lexeme
  lex: lakmuar
  stem: lakmuar.|lakmuar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: inordinately desirable
 
 -lexeme
  lex: lakmues
  stem: lakmues.|lakmues.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: covetous, greedy
 
 -lexeme
  lex: lakmueshëm
  stem: lakmueshëm.|lakmueshm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: inordinately desirable
 
@@ -31701,14 +31701,14 @@
  stem: leshzi.|leshzez.|leshzinj.|leshzeza.
  gramm: A
  paradigm: zi
- trans_en: having black hair / wool
+ trans_en: having black hair/wool
 
 -lexeme
  lex: leskoviqar
  stem: leskoviqar.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Leskovik
+ trans_en: of/from Leskovik
 
 -lexeme
  lex: leskëruar
@@ -31783,21 +31783,21 @@
 -lexeme
  lex: lezetar
  stem: lezetar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: having grace and beauty
 
 -lexeme
  lex: lezetshëm
  stem: lezetshëm.|lezetshm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2-a
  trans_en: delicious; good-looking
 
 -lexeme
  lex: lezeçëm
  stem: lezeçëm.|lezeçm.
- gramm: A,nonst
+ gramm: A,nonst,Turk
  lexref: lezetshëm
  paradigm: adj-1-2-a
  trans_en: delicious; good-looking
@@ -31807,7 +31807,7 @@
  stem: lezhjan.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Lezha
+ trans_en: of/from Lezha
 
 -lexeme
  lex: lezuar
@@ -31856,7 +31856,7 @@
  stem: librazhdas.|librazhdas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Librazhd
+ trans_en: of/from Librazhd
 
 -lexeme
  lex: libror
@@ -32185,7 +32185,7 @@
  stem: lipjanas.|lipjanas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Lipjan
+ trans_en: of/from Lipjan
 
 -lexeme
  lex: liqenor
@@ -32267,7 +32267,7 @@
 -lexeme
  lex: listë
  stem: listë.|list.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: made of oak, oaken
 
@@ -32359,35 +32359,35 @@
 -lexeme
  lex: llafator
  stem: llafator.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: talkative, long-winded
 
 -lexeme
  lex: llafazan
  stem: llafazan.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: talkative, long-winded
 
 -lexeme
  lex: llafemadh
  stem: llafemadh.|llafemadhe.|llafemëdhenj.|llafemëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
  trans_en: talkative, braggart
 
 -lexeme
  lex: llafepakë
  stem: llafepakë.|llafepak.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1-a
  trans_en: of few words
 
 -lexeme
  lex: llafeshumë
  stem: llafeshumë.|llafeshum.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: verbose, very talkative
 
@@ -32555,7 +32555,7 @@
 -lexeme
  lex: llaçkar
  stem: llaçkar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: foolish, stupid
 
@@ -32613,12 +32613,12 @@
  stem: llojor.
  gramm: A
  paradigm: adj-3-1
- trans_en: according to type / kind
+ trans_en: according to type/kind
 
 -lexeme
  lex: llokmëmadh
  stem: llokmëmadh.|llokmëmadhe.|llokmëmëdhenj.|llokmëmëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
  trans_en: voracious profiteer
 
@@ -32837,7 +32837,7 @@
  stem: lojtar.
  gramm: A
  paradigm: adj-3-1
- trans_en: who likes to joke / mock with others
+ trans_en: who likes to joke/mock with others
 
 -lexeme
  lex: lojës
@@ -33117,7 +33117,7 @@
  stem: lumjan.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Luma
+ trans_en: of/from Luma
 
 -lexeme
  lex: lumor
@@ -33180,40 +33180,40 @@
  stem: lunxhiot.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Lunxhëria
+ trans_en: of/from Lunxhëria
 
 -lexeme
  lex: lushnjar
  stem: lushnjar.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Lushnja
+ trans_en: of/from Lushnja
 
 -lexeme
  lex: luspak
  stem: luspak.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-2
  trans_en: scaly, scalelike
 
 -lexeme
  lex: luspargjendtë
  stem: luspargjendtë.|luspargjendt.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: silver-scaled
 
 -lexeme
  lex: luspartë
  stem: luspartë.|luspart.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: golden-scaled
 
 -lexeme
  lex: luspor
  stem: luspor.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: scaly, scalelike
 
@@ -34103,21 +34103,21 @@
 -lexeme
  lex: mahnitshëm
  stem: mahnitshëm.|mahnitshm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: amazing
 
 -lexeme
  lex: mahnitur
  stem: mahnitur.|mahnitur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: amazed
 
 -lexeme
  lex: mahnitës
  stem: mahnitës.|mahnitës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: amazing
 
@@ -34294,7 +34294,7 @@
  stem: mallakastriot.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Mallakastra
+ trans_en: of/from Mallakastra
 
 -lexeme
  lex: mallkuar
@@ -34469,7 +34469,7 @@
  stem: martaneshas.|martaneshas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Martanesh
+ trans_en: of/from Martanesh
 
 -lexeme
  lex: martesor
@@ -34546,7 +34546,7 @@
  stem: masmediatik.
  gramm: A
  paradigm: adj-3-2
- trans_en: related to / of mass media
+ trans_en: related to/of mass media
 
 -lexeme
  lex: masovik
@@ -34610,7 +34610,7 @@
  stem: matjan.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Mat
+ trans_en: of/from Mat
 
 -lexeme
  lex: matrahul
@@ -34629,7 +34629,7 @@
 -lexeme
  lex: matufosur
  stem: matufosur.|matufosur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: in one's dotage; senile
 
@@ -34638,7 +34638,7 @@
  stem: matur.|matur.
  gramm: A
  paradigm: adj-2-2
- trans_en: of a measured / limited amount / size; well-calculated; mature, sober
+ trans_en: of a measured/limited amount/size; well-calculated; mature, sober
 
 -lexeme
  lex: matës
@@ -34659,7 +34659,7 @@
  stem: mavijosur.|mavijosur.
  gramm: A
  paradigm: adj-2-2
- trans_en: of a measured / limited size / amount
+ trans_en: of a measured/limited size/amount
 
 -lexeme
  lex: maxhoritar
@@ -34685,7 +34685,7 @@
 -lexeme
  lex: mazitur
  stem: mazitur.|mazitur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: skimmed; made of skimmed milk
 
@@ -34757,7 +34757,7 @@
  stem: mbathur.|mbathur.
  gramm: A
  paradigm: adj-2-2
- trans_en: wearing legwear / footwear
+ trans_en: wearing legwear/footwear
 
 -lexeme
  lex: mbathës
@@ -35332,7 +35332,7 @@
  stem: mediak.
  gramm: A
  paradigm: adj-3-2
- trans_en: related to / of mass media
+ trans_en: related to/of mass media
 
 -lexeme
  lex: medial
@@ -35346,7 +35346,7 @@
  stem: medial.
  gramm: A
  paradigm: adj-3-1
- trans_en: related to / of mass media
+ trans_en: related to/of mass media
 
 -lexeme
  lex: mediatik
@@ -35360,7 +35360,7 @@
  stem: mediatik.
  gramm: A
  paradigm: adj-3-2
- trans_en: related to / of mass media
+ trans_en: related to/of mass media
 
 -lexeme
  lex: medicinal
@@ -35430,7 +35430,7 @@
  stem: melez.
  gramm: A,Turk
  paradigm: adj-3-1
- trans_en: of mixed race / breed
+ trans_en: of mixed race/breed
 
 -lexeme
  lex: melodik
@@ -35477,7 +35477,7 @@
 -lexeme
  lex: memec
  stem: memec.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: mute, dumb
 
@@ -35820,14 +35820,14 @@
 -lexeme
  lex: merakosur
  stem: merakosur.|merakosur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: worried
 
 -lexeme
  lex: merakshëm
  stem: merakshëm.|merakshm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2-a
  trans_en: given to worrying
 
@@ -36445,21 +36445,21 @@
  stem: mirditas.|mirditas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Mirdita
+ trans_en: of/from Mirdita
 
 -lexeme
  lex: mirditor
  stem: mirditor.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Mirdita
+ trans_en: of/from Mirdita
 
 -lexeme
  lex: mirditor
  stem: mirditor.|mirditor.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Mirdita
+ trans_en: of/from Mirdita
 
 -lexeme
  lex: mirinformuar
@@ -36681,7 +36681,7 @@
 -lexeme
  lex: misërt
  stem: misërt.|misërt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: made of corn
 
@@ -37627,14 +37627,14 @@
 -lexeme
  lex: moçalik
  stem: moçalik.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-2
  trans_en: swampy, boggy
 
 -lexeme
  lex: moçalor
  stem: moçalor.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: swampy, boggy
 
@@ -37756,14 +37756,14 @@
  stem: muajsh.|muajsh.
  gramm: A
  paradigm: adj-1-5
- trans_en: _ months old / long; _ monthly
+ trans_en: _ months old/long; _ monthly
 
 -lexeme
  lex: muajësh
  stem: muajësh.|muajësh.
  gramm: A,nonst
  paradigm: adj-1-5
- trans_en: _ months old / long; _ monthly
+ trans_en: _ months old/long; _ monthly
 
 -lexeme
  lex: muf
@@ -37791,14 +37791,14 @@
  stem: mujorsh.|mujorsh.
  gramm: A,nonst
  paradigm: adj-1-5
- trans_en: _ months old / long; _ monthly
+ trans_en: _ months old/long; _ monthly
 
 -lexeme
  lex: mujorësh
  stem: mujorësh.|mujorësh.
  gramm: A,nonst
  paradigm: adj-1-5
- trans_en: _ months old / long; _ monthly
+ trans_en: _ months old/long; _ monthly
 
 -lexeme
  lex: multietnik
@@ -38035,14 +38035,14 @@
 -lexeme
  lex: mysliman
  stem: mysliman.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: Moslem
 
 -lexeme
  lex: mysylman
  stem: mysylman.
- gramm: A,nonst
+ gramm: A,nonst,Turk
  lexref: mysliman
  paradigm: adj-3-1
  trans_en: Moslem
@@ -38059,7 +38059,7 @@
  stem: myzeqar.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Myzeqe
+ trans_en: of/from Myzeqe
 
 -lexeme
  lex: mëhershëm
@@ -38563,7 +38563,7 @@
  stem: namibian.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Namibia
+ trans_en: of/from Namibia
 
 -lexeme
  lex: namusqar
@@ -38659,21 +38659,21 @@
 -lexeme
  lex: nazemadh
  stem: nazemadh.|nazemadhe.|nazemëdhenj.|nazemëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
  trans_en: finicky, fussy in eating
 
 -lexeme
  lex: nazeqar
  stem: nazeqar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: finicky, picky; fussy
 
 -lexeme
  lex: nazetor
  stem: nazetor.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: mannered, affected
 
@@ -39912,7 +39912,7 @@
 -lexeme
  lex: nepsqar
  stem: nepsqar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: ravenously hungry, greedy
 
@@ -39996,14 +39996,14 @@
 -lexeme
  lex: nevojshëm
  stem: nevojshëm.|nevojshm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: necessary
 
 -lexeme
  lex: nevojtar
  stem: nevojtar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: needy, poor
 
@@ -41098,7 +41098,7 @@
  stem: njëditësh.|njëditësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: one-day old / long
+ trans_en: one-day old/long
 
 -lexeme
  lex: njëfazor
@@ -41294,7 +41294,7 @@
  stem: njëmuajsh.|njëmuajsh.
  gramm: A
  paradigm: adj-1-5
- trans_en: one month old / long; monthly
+ trans_en: one month old/long; monthly
 
 -lexeme
  lex: njëmujor
@@ -41427,7 +41427,7 @@
  stem: njëqindfrangësh.|njëqindfrangësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: worth / costing hundred francs
+ trans_en: worth/costing hundred francs
 
 -lexeme
  lex: njëqindtë
@@ -41686,7 +41686,7 @@
  stem: njëzetvjeçar.
  gramm: A
  paradigm: adj-3-1
- trans_en: twenty-year long / old
+ trans_en: twenty-year long/old
 
 -lexeme
  lex: njëzetë
@@ -42309,7 +42309,7 @@
  stem: nëntëmuajsh.|nëntëmuajsh.
  gramm: A
  paradigm: adj-1-5
- trans_en: nine months long / old
+ trans_en: nine months long/old
 
 -lexeme
  lex: nëntëmujor
@@ -42448,7 +42448,7 @@
 -lexeme
  lex: oborrtar
  stem: oborrtar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: pertaining to a royal court
 
@@ -42483,63 +42483,63 @@
 -lexeme
  lex: ogurbardhë
  stem: ogurbardhë.|ogurbardh.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: boding well
 
 -lexeme
  lex: ogurkeq
  stem: ogurkeq.|ogurkeqe.|ogurkëqij.|ogurkëqija.|ogurkëqinj.
- gramm: A
+ gramm: A,Turk
  paradigm: keq
  trans_en: boding ill
 
 -lexeme
  lex: ogurmbarë
  stem: ogurmbarë.|ogurmbar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: boding well
 
 -lexeme
  lex: ogurmirë
  stem: ogurmirë.|ogurmir.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: boding well
 
 -lexeme
  lex: ogurzi
  stem: ogurzi.|ogurzez.|ogurzinj.|ogurzeza.
- gramm: A
+ gramm: A,Turk
  paradigm: zi
  trans_en: boding ill
 
 -lexeme
  lex: ojnak
  stem: ojnak.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: attempting to be cute
 
 -lexeme
  lex: ojnatar
  stem: ojnatar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: attempting to be cute
 
 -lexeme
  lex: okar
  stem: okar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: using the oke as the unit of weight
 
 -lexeme
  lex: okatar
  stem: okatar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: having a capacity of one oke; hard-drinking
 
@@ -42611,7 +42611,7 @@
  stem: oparak.
  gramm: A
  paradigm: adj-3-2
- trans_en: of / from Opar
+ trans_en: of/from Opar
 
 -lexeme
  lex: operacional
@@ -42651,14 +42651,14 @@
 -lexeme
  lex: opingagrisur
  stem: opingagrisur.|opingagrisur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: with torn moccasins
 
 -lexeme
  lex: oportunist
  stem: oportunist.
- gramm: A
+ gramm: A,inter
  paradigm: adj-3-1
  trans_en: opportunistic
 
@@ -42896,7 +42896,7 @@
 -lexeme
  lex: osman
  stem: osman.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: Ottoman
 
@@ -44263,7 +44263,7 @@
 -lexeme
  lex: pahair
  stem: pahair.|pahair.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-1-a
  trans_en: without utility; of no use
 
@@ -44791,7 +44791,7 @@
  stem: paktë.|pakt.
  gramm: A
  paradigm: adj-2-1
- trans_en: small in quantity / number
+ trans_en: small in quantity/number
 
 -lexeme
  lex: pakualifikuar
@@ -44945,7 +44945,7 @@
  stem: pakë.|pak.
  gramm: A
  paradigm: adj-2-1-a
- trans_en: small in quantity / number
+ trans_en: small in quantity/number
 
 -lexeme
  lex: pakë
@@ -44953,7 +44953,7 @@
  lexref: pakët
  gramm: A
  paradigm: adj-2-1
- trans_en: small in quantity / number
+ trans_en: small in quantity/number
 
 -lexeme
  lex: pakëmbyeshëm
@@ -45135,7 +45135,7 @@
  stem: palcor.
  gramm: A
  paradigm: adj-3-1
- trans_en: of or pertaining to marrow / pith
+ trans_en: of or pertaining to marrow/pith
 
 -lexeme
  lex: palcët
@@ -45897,7 +45897,7 @@
 -lexeme
  lex: panafakë
  stem: panafakë.|panafak.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1-a
  trans_en: unlucky; naughty
 
@@ -46465,7 +46465,7 @@
 -lexeme
  lex: paoreks
  stem: paoreks.
- gramm: A
+ gramm: A,Greek
  paradigm: adj-3-1
  trans_en: without appetite
 
@@ -46479,7 +46479,7 @@
 -lexeme
  lex: paoxhak
  stem: paoxhak.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-2
  trans_en: homeless
 
@@ -46733,7 +46733,7 @@
  stem: paplotësueshëm.|paplotësueshm.
  gramm: A
  paradigm: adj-1-2-a
- trans_en: impossible to satisfy / fulfill
+ trans_en: impossible to satisfy/fulfill
 
 -lexeme
  lex: papluguar
@@ -48706,7 +48706,7 @@
 -lexeme
  lex: pastërvitur
  stem: pastërvitur.|pastërvitur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: inexperienced
 
@@ -49245,14 +49245,14 @@
 -lexeme
  lex: pazakonshëm
  stem: pazakonshëm.|pazakonshm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: unusual
 
 -lexeme
  lex: pazakontë
  stem: pazakontë.|pazakont.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: unusual
 
@@ -49429,7 +49429,7 @@
  stem: pejan.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Peja
+ trans_en: of/from Peja
 
 -lexeme
  lex: pellazg
@@ -49772,7 +49772,7 @@
  stem: pesorësh.|pesorësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: lasting / taking five hours
+ trans_en: lasting/taking five hours
 
 -lexeme
  lex: pestë
@@ -49884,14 +49884,14 @@
  stem: pesëdhjetëvjeçar.
  gramm: A
  paradigm: adj-3-1
- trans_en: lasting / taking fifty years
+ trans_en: lasting/taking fifty years
 
 -lexeme
  lex: pesëditor
  stem: pesëditor.
  gramm: A
  paradigm: adj-3-1
- trans_en: lasting / taking five days
+ trans_en: lasting/taking five days
 
 -lexeme
  lex: pesëditësh
@@ -49926,7 +49926,7 @@
  stem: pesëfrangësh.|pesëfrangësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: worth / costing five francs
+ trans_en: worth/costing five francs
 
 -lexeme
  lex: pesëkatësh
@@ -49975,14 +49975,14 @@
  stem: pesëmbëdhjetëditor.
  gramm: A
  paradigm: adj-3-1
- trans_en: lasting / taking fifteen days
+ trans_en: lasting/taking fifteen days
 
 -lexeme
  lex: pesëmbëdhjetëditësh
  stem: pesëmbëdhjetëditësh.|pesëmbëdhjetëditësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: lasting / taking fifteen days
+ trans_en: lasting/taking fifteen days
 
 -lexeme
  lex: pesëmbëdhjetësh
@@ -50017,7 +50017,7 @@
  stem: pesëmuajsh.|pesëmuajsh.
  gramm: A
  paradigm: adj-1-5
- trans_en: five-month old / long
+ trans_en: five-month old/long
 
 -lexeme
  lex: pesëmujor
@@ -50031,7 +50031,7 @@
  stem: pesëqindfrangësh.|pesëqindfrangësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: worth / costing five hundred francs
+ trans_en: worth/costing five hundred francs
 
 -lexeme
  lex: pesëqindtë
@@ -50059,7 +50059,7 @@
  stem: pesëshekullor.
  gramm: A
  paradigm: adj-3-1
- trans_en: lasting / taking five centuries
+ trans_en: lasting/taking five centuries
 
 -lexeme
  lex: pesët
@@ -50095,7 +50095,7 @@
  stem: pesëvjeçar.
  gramm: A
  paradigm: adj-3-1
- trans_en: five-year old / long
+ trans_en: five-year old/long
 
 -lexeme
  lex: petak
@@ -50149,16 +50149,16 @@
 -lexeme
  lex: petëzak
  stem: petëzak.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-2
  trans_en: thin and flat
 
 -lexeme
  lex: petëzueshëm
  stem: petëzueshëm.|petëzueshm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
- trans_en: capable of being pressed / rolled into sheets
+ trans_en: capable of being pressed/rolled into sheets
 
 -lexeme
  lex: pezmatuar
@@ -50248,7 +50248,7 @@
 -lexeme
  lex: pijanec
  stem: pijanec.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: constantly drunk
 
@@ -50514,21 +50514,21 @@
 -lexeme
  lex: pis
  stem: pis.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: dirty
 
 -lexeme
  lex: pisanik
  stem: pisanik.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-2
  trans_en: dirty
 
 -lexeme
  lex: pishman
  stem: pishman.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: regretful
 
@@ -50585,7 +50585,7 @@
 -lexeme
  lex: pistë
  stem: pistë.|pist.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: dirty
 
@@ -50907,21 +50907,21 @@
 -lexeme
  lex: plaçkitur
  stem: plaçkitur.|plaçkitur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: pillaged
 
 -lexeme
  lex: plaçkitës
  stem: plaçkitës.|plaçkitës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: for looting, robbing
 
 -lexeme
  lex: plaçkueshëm
  stem: plaçkueshëm.|plaçkueshm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: lootable
 
@@ -50956,14 +50956,14 @@
 -lexeme
  lex: pleshtamadh
  stem: pleshtamadh.|pleshtamadhe.|pleshtamëdhenj.|pleshtamëdha.
- gramm: A
+ gramm: A,Slav
  paradigm: madh
  trans_en: covered with fleas
 
 -lexeme
  lex: plevatës
  stem: plevatës.|plevatës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: natatorial
 
@@ -50977,7 +50977,7 @@
 -lexeme
  lex: plloçak
  stem: plloçak.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-2
  trans_en: flat
 
@@ -51161,7 +51161,7 @@
  stem: podgoricas.|podgoricas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Podgorica
+ trans_en: of/from Podgorica
 
 -lexeme
  lex: poetik
@@ -51175,7 +51175,7 @@
  stem: pogradecar.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Pogradec
+ trans_en: of/from Pogradec
 
 -lexeme
  lex: pohor
@@ -51418,7 +51418,7 @@
 -lexeme
  lex: porositur
  stem: porositur.|porositur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: encharged
 
@@ -51525,7 +51525,7 @@
  stem: porsalyer.|porsalyer.
  gramm: A
  paradigm: adj-2-2
- trans_en: newly whitewashed / painted
+ trans_en: newly whitewashed/painted
 
 -lexeme
  lex: porsalëruar
@@ -51546,7 +51546,7 @@
  stem: porsambaruar.|porsambaruar.
  gramm: A
  paradigm: adj-2-2
- trans_en: just finished / ended
+ trans_en: just finished/ended
 
 -lexeme
  lex: porsambjellë
@@ -51796,35 +51796,35 @@
 -lexeme
  lex: poteremadh
  stem: poteremadh.|poteremadhe.|poteremëdhenj.|poteremëdha.
- gramm: A
+ gramm: A,Slav
  paradigm: madh
  trans_en: very noisy
 
 -lexeme
  lex: potershëm
  stem: potershëm.|potershm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: noisy
 
 -lexeme
  lex: poturegrisur
  stem: poturegrisur.|poturegrisur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: poor, worn-out
 
 -lexeme
  lex: poturevarur
  stem: poturevarur.|poturevarur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: slovenly in dress
 
 -lexeme
  lex: potureçjerrë
  stem: potureçjerrë.|potureçjerr.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: poor, worn-out
 
@@ -51866,7 +51866,7 @@
 -lexeme
  lex: pragshuar
  stem: pragshuar.|pragshuar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: completely alone in the world
 
@@ -52083,7 +52083,7 @@
 -lexeme
  lex: prashitës
  stem: prashitës.|prashitës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: used for cultivating
 
@@ -52283,14 +52283,14 @@
  stem: preshevar.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Preshevo
+ trans_en: of/from Preshevo
 
 -lexeme
  lex: preshevas
  stem: preshevas.|preshevas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Preshevo
+ trans_en: of/from Preshevo
 
 -lexeme
  lex: preshtë
@@ -52472,7 +52472,7 @@
  stem: prishtinas.|prishtinas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Prishtina
+ trans_en: of/from Prishtina
 
 -lexeme
  lex: prishur
@@ -52535,7 +52535,7 @@
  stem: prizrenas.|prizrenas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Prizren
+ trans_en: of/from Prizren
 
 -lexeme
  lex: problematik
@@ -52892,7 +52892,7 @@
  stem: prusian.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Prussia
+ trans_en: of/from Prussia
 
 -lexeme
  lex: prëndveror
@@ -53019,7 +53019,7 @@
  stem: pukjan.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Puka
+ trans_en: of/from Puka
 
 -lexeme
  lex: pulitur
@@ -53180,7 +53180,7 @@
  stem: punëthatë.|punëthat.
  gramm: A
  paradigm: adj-2-1
- trans_en: having a little to show for his / her work
+ trans_en: having a little to show for his/her work
 
 -lexeme
  lex: punëtor
@@ -53297,14 +53297,14 @@
 -lexeme
  lex: pushkatar
  stem: pushkatar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: armed with rifles
 
 -lexeme
  lex: pushkatuar
  stem: pushkatuar.|pushkatuar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: executed by firing squad
 
@@ -54597,7 +54597,7 @@
  stem: përmetar.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Permet
+ trans_en: of/from Permet
 
 -lexeme
  lex: përmirësuar
@@ -54919,7 +54919,7 @@
  stem: përpunues.|përpunues.
  gramm: A
  paradigm: adj-1-2
- trans_en: serving to process / improve
+ trans_en: serving to process/improve
 
 -lexeme
  lex: përpunueshëm
@@ -55094,7 +55094,7 @@
  stem: përtejshëm.|përtejshm.
  gramm: A
  paradigm: adj-1-2-a
- trans_en: located beyond / across
+ trans_en: located beyond/across
 
 -lexeme
  lex: përtharë
@@ -55234,7 +55234,7 @@
  stem: përveshur.|përveshur.
  gramm: A
  paradigm: adj-2-2
- trans_en: rolled / tucked up
+ trans_en: rolled/tucked up
 
 -lexeme
  lex: përvetshëm
@@ -55297,7 +55297,7 @@
  stem: përvëluar.|përvëluar.
  gramm: A
  paradigm: adj-2-2
- trans_en: badly burned / parched
+ trans_en: badly burned/parched
 
 -lexeme
  lex: përvëlues
@@ -55757,7 +55757,7 @@
 -lexeme
  lex: qefli
  stem: qefli.|qeflie.|qeflinj.|qeflie.|qeflesh.
- gramm: A,nonst
+ gramm: A,nonst,Turk
  lexref: qejfli
  paradigm: inatçi
  trans_en: fun-loving
@@ -55765,35 +55765,35 @@
 -lexeme
  lex: qejfli
  stem: qejfli.|qejflie.|qejflinj.|qejflie.|qejflesh.
- gramm: A
+ gramm: A,Turk
  paradigm: inatçi
  trans_en: fun-loving
 
 -lexeme
  lex: qejfmbetur
  stem: qejfmbetur.|qejfmbetur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: resentful
 
 -lexeme
  lex: qejfpaprishur
  stem: qejfpaprishur.|qejfpaprishur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: obliging, compliant
 
 -lexeme
  lex: qejfprishur
  stem: qejfprishur.|qejfprishur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: having hurt feelings
 
 -lexeme
  lex: qejfshëm
  stem: qejfshëm.|qejfshm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2-a
  trans_en: pleasant
 
@@ -55863,7 +55863,7 @@
 -lexeme
  lex: qelibartë
  stem: qelibartë.|qelibart.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: made of amber
 
@@ -55975,28 +55975,28 @@
 -lexeme
  lex: qepallor
  stem: qepallor.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: palpebral
 
 -lexeme
  lex: qepallëpërveshur
  stem: qepallëpërveshur.|qepallëpërveshur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: with eyelids rolled up
 
 -lexeme
  lex: qepallërëndë
  stem: qepallërëndë.|qepallërënd.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: with heavy eyelids
 
 -lexeme
  lex: qepallëtrashë
  stem: qepallëtrashë.|qepallëtrash.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: with heavy eyelids
 
@@ -56080,14 +56080,14 @@
 -lexeme
  lex: qeselindur
  stem: qeselindur.|qeselindur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: close with money, vety thrifty
 
 -lexeme
  lex: qesemadh
  stem: qesemadh.|qesemadhe.|qesemëdhenj.|qesemëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
  trans_en: with a big income
 
@@ -56122,7 +56122,7 @@
 -lexeme
  lex: qesëndisës
  stem: qesëndisës.|qesëndisës.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2
  trans_en: derisive
 
@@ -56220,14 +56220,14 @@
 -lexeme
  lex: qibar
  stem: qibar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: persnickety, finickly; snobbish
 
 -lexeme
  lex: qibërtar
  stem: qibërtar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: fastidious, haughty
 
@@ -56267,13 +56267,6 @@
  trans_en: tapering to a point, pointed
 
 -lexeme
- lex: qilimpunues
- stem: qilimpunues.|qilimpunues.
- gramm: A
- paradigm: adj-1-2
- trans_en: involved in rug weaving
-
--lexeme
  lex: qimeartë
  stem: qimeartë.|qimeart.
  gramm: A
@@ -56285,7 +56278,7 @@
  stem: qimeashpër.|qimeashpr.
  gramm: A
  paradigm: adj-2-2
- trans_en: with a coat / fleece of coarse hair / wool
+ trans_en: with a coat/fleece of coarse hair/wool
 
 -lexeme
  lex: qimebardhë
@@ -56306,14 +56299,14 @@
  stem: qimebutë.|qimebut.
  gramm: A
  paradigm: adj-2-1
- trans_en: with a coat / fleece of soft hair / wool
+ trans_en: with a coat/fleece of soft hair/wool
 
 -lexeme
  lex: qimedendur
  stem: qimedendur.|qimedendur.
  gramm: A
  paradigm: adj-2-2
- trans_en: having dense hair / wool
+ trans_en: having dense hair/wool
 
 -lexeme
  lex: qimedredhur
@@ -56376,7 +56369,7 @@
  stem: qimerrallë.|qimerrall.
  gramm: A
  paradigm: adj-2-1
- trans_en: having sparse hair / bristles
+ trans_en: having sparse hair/bristles
 
 -lexeme
  lex: qimerruar
@@ -56523,7 +56516,7 @@
 -lexeme
  lex: qiramarrës
  stem: qiramarrës.|qiramarrës.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2
  trans_en: paying rent, renting
 
@@ -56539,14 +56532,14 @@
  stem: qitur.|qitur.
  gramm: A
  paradigm: adj-2-2
- trans_en: sticking / bulging out; dislocated
+ trans_en: sticking/bulging out; dislocated
 
 -lexeme
  lex: qokatar
  stem: qokatar.
  gramm: A
  paradigm: adj-3-1
- trans_en: taking his / her time and acts in a deliberate and circumspect way
+ trans_en: taking his/her time and acts in a deliberate and circumspect way
 
 -lexeme
  lex: qorr
@@ -56609,14 +56602,14 @@
  stem: qukalos.
  gramm: A
  paradigm: adj-3-1
- trans_en: with a pockmarked / freckled face
+ trans_en: with a pockmarked/freckled face
 
 -lexeme
  lex: qukalosh
  stem: qukalosh.
  gramm: A
  paradigm: adj-3-1
- trans_en: with a pockmarked / freckled face
+ trans_en: with a pockmarked/freckled face
 
 -lexeme
  lex: qukapik
@@ -56630,7 +56623,7 @@
  stem: qukës.|qukës.
  gramm: A
  paradigm: adj-1-2
- trans_en: having a freckled / pockmarked face
+ trans_en: having a freckled/pockmarked face
 
 -lexeme
  lex: qull
@@ -56733,14 +56726,14 @@
 -lexeme
  lex: qyfyremadh
  stem: qyfyremadh.|qyfyremadhe.|qyfyremëdhenj.|qyfyremëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
- trans_en: wise-cracker
+ trans_en: wisecracker
 
 -lexeme
  lex: qymyrguror
  stem: qymyrguror.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: containing coal
 
@@ -57078,7 +57071,7 @@
  stem: rahovecian.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Rahovec
+ trans_en: of/from Rahovec
 
 -lexeme
  lex: rajonal
@@ -57120,7 +57113,7 @@
  stem: ramët.|ramt.
  gramm: A
  paradigm: adj-2-2-a
- trans_en: of copper / brass
+ trans_en: of copper/brass
 
 -lexeme
  lex: ranor
@@ -57412,7 +57405,7 @@
 -lexeme
  lex: rehatshëm
  stem: rehatshëm.|rehatshm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2-a
  trans_en: comfortable, restful
 
@@ -57496,14 +57489,14 @@
 -lexeme
  lex: rendomtë
  stem: rendomtë.|rendomt.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: usual
 
 -lexeme
  lex: rendor
  stem: rendor.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: ordinal
 
@@ -57517,7 +57510,7 @@
 -lexeme
  lex: rendët
  stem: rendët.|rendt.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2-a
  trans_en: usual
 
@@ -58098,42 +58091,42 @@
 -lexeme
  lex: robitur
  stem: robitur.|robitur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: enslaved
 
 -lexeme
  lex: robtisur
  stem: robtisur.|robtisur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: exhausted by hard work
 
 -lexeme
  lex: robtuar
  stem: robtuar.|robtuar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: exhausted by hard work
 
 -lexeme
  lex: robëronjës
  stem: robëronjës.|robëronjës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: enslaving
 
 -lexeme
  lex: robëruar
  stem: robëruar.|robëruar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: enslaved
 
 -lexeme
  lex: robërues
  stem: robërues.|robërues.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: enslaving
 
@@ -58168,7 +58161,7 @@
 -lexeme
  lex: ronitur
  stem: ronitur.|ronitur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: fallen apart
 
@@ -58182,35 +58175,35 @@
 -lexeme
  lex: rrafshinor
  stem: rrafshinor.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: having a flat surface
 
 -lexeme
  lex: rrafshor
  stem: rrafshor.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: level, flat
 
 -lexeme
  lex: rrafshuar
  stem: rrafshuar.|rrafshuar.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: leveled out
 
 -lexeme
  lex: rrafshues
  stem: rrafshues.|rrafshues.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: used for leveling
 
 -lexeme
  lex: rrafshët
  stem: rrafshët.|rrafsht.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2-a
  trans_en: flat
 
@@ -58569,7 +58562,7 @@
 -lexeme
  lex: rrengshor
  stem: rrengshor.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: insidious
 
@@ -58683,7 +58676,7 @@
  stem: rrethpërqarkët.|rrethpërqarkt.
  gramm: A
  paradigm: adj-2-2-a
- trans_en: having a coiled / radiating shape
+ trans_en: having a coiled/radiating shape
 
 -lexeme
  lex: rrethshkruar
@@ -59187,7 +59180,7 @@
  stem: rrufemadh.|rrufemadhe.|rrufemëdhenj.|rrufemëdha.
  gramm: A
  paradigm: madh
- trans_en: struck by lightning / disaster
+ trans_en: struck by lightning/disaster
 
 -lexeme
  lex: rrufeshëm
@@ -59767,16 +59760,16 @@
 -lexeme
  lex: rudak
  stem: rudak.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-2
- trans_en: having soft and curly fleece / hair
+ trans_en: having soft and curly fleece/hair
 
 -lexeme
  lex: rudë
  stem: rudë.|rud.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
- trans_en: having soft and curly fleece / hair
+ trans_en: having soft and curly fleece/hair
 
 -lexeme
  lex: rukë
@@ -59928,7 +59921,7 @@
 -lexeme
  lex: sajdisshëm
  stem: sajdisshëm.|sajdisshm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2-a
  trans_en: hospitable
 
@@ -60224,7 +60217,7 @@
  stem: sarandjot.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Saranda
+ trans_en: of/from Saranda
 
 -lexeme
  lex: sarkastik
@@ -60278,7 +60271,7 @@
 -lexeme
  lex: sedeftë
  stem: sedeftë.|sedeft.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: pearl
 
@@ -60348,21 +60341,21 @@
 -lexeme
  lex: sektorial
  stem: sektorial.
- gramm: A
+ gramm: A,inter
  paradigm: adj-3-1
  trans_en: sectorial
 
 -lexeme
  lex: sekuestruar
  stem: sekuestruar.|sekuestruar.
- gramm: A
+ gramm: A,inter
  paradigm: adj-2-2
  trans_en: sequestrated
 
 -lexeme
  lex: sekuestrueshëm
  stem: sekuestrueshëm.|sekuestrueshm.
- gramm: A
+ gramm: A,inter
  paradigm: adj-1-2-a
  trans_en: sequestrable
  -deriv: pa-adj-1-2-a
@@ -60371,7 +60364,7 @@
 -lexeme
  lex: sekundar
  stem: sekundar.
- gramm: A,nonst
+ gramm: A,nonst,inter
  lexref: sekondar
  paradigm: adj-3-1
  trans_en: secondary
@@ -60379,14 +60372,14 @@
 -lexeme
  lex: seleksionues
  stem: seleksionues.|seleksionues.
- gramm: A
+ gramm: A,inter
  paradigm: adj-1-2
  trans_en: selective
 
 -lexeme
  lex: selektiv
  stem: selektiv.
- gramm: A
+ gramm: A,inter
  paradigm: adj-3-1
  trans_en: selective
 
@@ -60505,7 +60498,7 @@
 -lexeme
  lex: sermtë
  stem: sermtë.|sermt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: silver
 
@@ -60617,7 +60610,7 @@
 -lexeme
  lex: shajaktë
  stem: shajaktë.|shajakt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: made of coarse woven and felted homespun wool fabric
 
@@ -60638,7 +60631,7 @@
 -lexeme
  lex: shakatar
  stem: shakatar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: person who likes jokes
 
@@ -60675,7 +60668,7 @@
  stem: shaljan.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Shala
+ trans_en: of/from Shala
 
 -lexeme
  lex: shallvaregjerë
@@ -60715,21 +60708,21 @@
 -lexeme
  lex: shamibardhë
  stem: shamibardhë.|shamibardh.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: wearing a white kerchief
 
 -lexeme
  lex: shamiverdhë
  stem: shamiverdhë.|shamiverdh.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: wearing a yellow kerchief
 
 -lexeme
  lex: shamizezë
  stem: shamizezë.|shamizez.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: wearing a black kerchief
 
@@ -60746,13 +60739,6 @@
  gramm: A
  paradigm: adj-3-1
  trans_en: very shallow, flat
-
--lexeme
- lex: shaptilografuar
- stem: shaptilografuar.|shaptilografuar.
- gramm: A
- paradigm: adj-2-2
- trans_en: mimeographed
 
 -lexeme
  lex: shaptilografuar
@@ -60914,7 +60900,7 @@
  stem: shenjëshkurtër.|shenjëshkurtr.
  gramm: A
  paradigm: adj-2-2
- trans_en: short of the target / mark
+ trans_en: short of the target/mark
 
 -lexeme
  lex: shenjëtar
@@ -60926,28 +60912,28 @@
 -lexeme
  lex: sheqermbajtës
  stem: sheqermbajtës.|sheqermbajtës.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2
  trans_en: containing sugars
 
 -lexeme
  lex: sheqeror
  stem: sheqeror.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: containing sugars
 
 -lexeme
  lex: sheqerosur
  stem: sheqerosur.|sheqerosur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: sweetened, sugared
 
 -lexeme
  lex: sheqertë
  stem: sheqertë.|sheqert.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: containing or made of sugar
 
@@ -60961,21 +60947,21 @@
 -lexeme
  lex: sherrak
  stem: sherrak.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-2
  trans_en: squabbling, quarrelsome
 
 -lexeme
  lex: sherret
  stem: sherret.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: quarrelsome
 
 -lexeme
  lex: sherrmadh
  stem: sherrmadh.|sherrmadhe.|sherrmëdhenj.|sherrmëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
  trans_en: mischievous
 
@@ -61432,7 +61418,7 @@
  stem: shkodran.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Shkodra
+ trans_en: of/from Shkodra
 
 -lexeme
  lex: shkokëluar
@@ -61488,14 +61474,14 @@
  stem: shkombëtarizuar.|shkombëtarizuar.
  gramm: A
  paradigm: adj-2-2
- trans_en: deprived of national / ethnic identity
+ trans_en: deprived of national/ethnic identity
 
 -lexeme
  lex: shkombëtarizues
  stem: shkombëtarizues.|shkombëtarizues.
  gramm: A
  paradigm: adj-1-2
- trans_en: depriving of national / ethnic identity
+ trans_en: depriving of national/ethnic identity
 
 -lexeme
  lex: shkopsitur
@@ -61537,7 +61523,7 @@
  stem: shkoqës.|shkoqës.
  gramm: A
  paradigm: adj-1-2
- trans_en: used for shelling / hulling grain
+ trans_en: used for shelling/hulling grain
 
 -lexeme
  lex: shkordhur
@@ -61929,7 +61915,7 @@
  stem: shkundur.|shkundur.
  gramm: A
  paradigm: adj-2-2
- trans_en: shaken down / off
+ trans_en: shaken down/off
 
 -lexeme
  lex: shkundës
@@ -62062,7 +62048,7 @@
  stem: shkëputur.|shkëputur.
  gramm: A
  paradigm: adj-2-2
- trans_en: deatched; broken away / off
+ trans_en: deatched; broken away/off
 
 -lexeme
  lex: shkërmoqur
@@ -62302,7 +62288,7 @@
  stem: shpatarak.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Shpat
+ trans_en: of/from Shpat
 
 -lexeme
  lex: shpator
@@ -62771,7 +62757,7 @@
  stem: shpirtçiltër.|shpirtçiltr.
  gramm: A
  paradigm: adj-2-2
- trans_en: having a sincere / frank character
+ trans_en: having a sincere/frank character
 
 -lexeme
  lex: shpirtëror
@@ -63205,7 +63191,7 @@
  stem: shpërvjelë.|shpërvjel.
  gramm: A
  paradigm: adj-2-1
- trans_en: really turned / tucked up
+ trans_en: really turned/tucked up
 
 -lexeme
  lex: shpëtimprurës
@@ -63254,7 +63240,7 @@
  stem: shqepur.|shqepur.
  gramm: A
  paradigm: adj-2-2
- trans_en: apart / open at the seams
+ trans_en: apart/open at the seams
 
 -lexeme
  lex: shqepët
@@ -63352,7 +63338,7 @@
  stem: shqitur.|shqitur.
  gramm: A
  paradigm: adj-2-2
- trans_en: torn, torn off / up
+ trans_en: torn, torn off/up
 
 -lexeme
  lex: shqitës
@@ -63696,35 +63682,35 @@
  stem: shtatëdhjetëedyditësh.|shtatëdhjetëedyditësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: 72-day old / long
+ trans_en: 72-day old/long
 
 -lexeme
  lex: shtatëdhjetëfrangësh
  stem: shtatëdhjetëfrangësh.|shtatëdhjetëfrangësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: worth / costing seventy francs
+ trans_en: worth/costing seventy francs
 
 -lexeme
  lex: shtatëdhjetëvjeçar
  stem: shtatëdhjetëvjeçar.
  gramm: A
  paradigm: adj-3-1
- trans_en: seventy years long / old
+ trans_en: seventy years long/old
 
 -lexeme
  lex: shtatëditor
  stem: shtatëditor.
  gramm: A
  paradigm: adj-3-1
- trans_en: seven-day old / long
+ trans_en: seven-day old/long
 
 -lexeme
  lex: shtatëditësh
  stem: shtatëditësh.|shtatëditësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: seven-day old / long
+ trans_en: seven-day old/long
 
 -lexeme
  lex: shtatëkatësh
@@ -63773,7 +63759,7 @@
  stem: shtatëmujor.
  gramm: A
  paradigm: adj-3-1
- trans_en: seven-month long / old
+ trans_en: seven-month long/old
 
 -lexeme
  lex: shtatëngjyrësh
@@ -63787,7 +63773,7 @@
  stem: shtatëqindfrangësh.|shtatëqindfrangësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: worth / costing seven hundred francs
+ trans_en: worth/costing seven hundred francs
 
 -lexeme
  lex: shtatëqindtë
@@ -63808,7 +63794,7 @@
  stem: shtatëvjeçar.
  gramm: A
  paradigm: adj-3-1
- trans_en: seven years long / old
+ trans_en: seven years long/old
 
 -lexeme
  lex: shtazarak
@@ -63892,7 +63878,7 @@
  stem: shteruar.|shteruar.
  gramm: A
  paradigm: adj-2-2
- trans_en: treated / examined exhaustively
+ trans_en: treated/examined exhaustively
 
 -lexeme
  lex: shterues
@@ -64831,7 +64817,7 @@
  stem: shumëmuajsh.|shumëmuajsh.
  gramm: A
  paradigm: adj-1-5
- trans_en: many months old / long
+ trans_en: many months old/long
 
 -lexeme
  lex: shumëmujor
@@ -65405,7 +65391,7 @@
  stem: shëngjinës.|shëngjinës.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Shëngjin
+ trans_en: of/from Shëngjin
 
 -lexeme
  lex: shënuar
@@ -65802,14 +65788,14 @@
 -lexeme
  lex: situr
  stem: situr.|situr.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: sifted
 
 -lexeme
  lex: sitës
  stem: sitës.|sitës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: sifting, straining
 
@@ -66054,7 +66040,7 @@
 -lexeme
  lex: skopec
  stem: skopec.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: castrated
 
@@ -66070,7 +66056,7 @@
  stem: skraparas.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Skrapar
+ trans_en: of/from Skrapar
 
 -lexeme
  lex: skremuar
@@ -66152,14 +66138,14 @@
 -lexeme
  lex: sllav
  stem: sllav.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: Slavic
 
 -lexeme
  lex: sllavomadh
  stem: sllavomadh.|sllavomadhe.|sllavomëdhenj.|sllavomëdha.
- gramm: A
+ gramm: A,Slav
  paradigm: madh
  trans_en: pertaining to or serving Slavic aspirations to dominate non-Slaves
 
@@ -66264,7 +66250,7 @@
 -lexeme
  lex: soditës
  stem: soditës.|soditës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: studiously watching, observant
 
@@ -66294,7 +66280,7 @@
  stem: sojnik.
  gramm: A
  paradigm: adj-3-2
- trans_en: of good family / stock
+ trans_en: of good family/stock
 
 -lexeme
  lex: sojshëm
@@ -66441,7 +66427,7 @@
  stem: spastrues.|spastrues.
  gramm: A
  paradigm: adj-1-2
- trans_en: serving to clean up / out
+ trans_en: serving to clean up/out
 
 -lexeme
  lex: special
@@ -66929,7 +66915,7 @@
 -lexeme
  lex: strehacak
  stem: strehacak.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-2
  trans_en: wandering around aimlessly
 
@@ -66980,7 +66966,7 @@
  stem: studimor.
  gramm: A
  paradigm: adj-3-1
- trans_en: associated with or devoted to serious / scientific study
+ trans_en: associated with or devoted to serious/scientific study
 
 -lexeme
  lex: studioz
@@ -67015,7 +67001,7 @@
  stem: stërgjatshëm.|stërgjatshm.
  gramm: A
  paradigm: adj-2-1
- trans_en: too long / tall
+ trans_en: too long/tall
 
 -lexeme
  lex: stërgjatë
@@ -67097,14 +67083,14 @@
 -lexeme
  lex: stërvitor
  stem: stërvitor.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: pertaining to or useful for drill/training/practice
 
 -lexeme
  lex: stërvitur
  stem: stërvitur.|stërvitur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: trained
 
@@ -67197,7 +67183,7 @@
  stem: suharekas.|suharekas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Suhareka
+ trans_en: of/from Suhareka
 
 -lexeme
  lex: suksesshëm
@@ -67328,7 +67314,7 @@
 -lexeme
  lex: suvatues
  stem: suvatues.|suvatues.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2
  trans_en: used for plastering
 
@@ -67545,7 +67531,7 @@
 -lexeme
  lex: syrgjynosur
  stem: syrgjynosur.|syrgjynosur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: banished, exiled
 
@@ -67568,7 +67554,7 @@
  stem: syshkëndijë.|syshkëndij.
  gramm: A
  paradigm: adj-2-1
- trans_en: having sparkling / flashing eyes
+ trans_en: having sparkling/flashing eyes
 
 -lexeme
  lex: syshqiponjë
@@ -67678,7 +67664,7 @@
 -lexeme
  lex: taksiratmadh
  stem: taksiratmadh.|taksiratmadhe.|taksiratmëdhenj.|taksiratmëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
  trans_en: really unlucky
 
@@ -67706,7 +67692,7 @@
 -lexeme
  lex: tallazmadh
  stem: tallazmadh.|tallazmadhe.|tallazmëdhenj.|tallazmëdha.
- gramm: A
+ gramm: A,Turk
  paradigm: madh
  trans_en: having big waves
 
@@ -68092,7 +68078,7 @@
 -lexeme
  lex: telaprerës
  stem: telaprerës.|telaprerës.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2
  trans_en: wire-cutting
 
@@ -68127,7 +68113,7 @@
 -lexeme
  lex: telendisur
  stem: telendisur.|telendisur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: humiliated, slundered
 
@@ -68143,14 +68129,14 @@
  stem: televizionik.
  gramm: A
  paradigm: adj-3-2
- trans_en: of / for television
+ trans_en: of/for television
 
 -lexeme
  lex: televiziv
  stem: televiziv.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / for television
+ trans_en: of/for television
 
 -lexeme
  lex: telikosur
@@ -68255,7 +68241,7 @@
  stem: tepelenas.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Tepelena
+ trans_en: of/from Tepelena
 
 -lexeme
  lex: tepruar
@@ -68386,7 +68372,7 @@
 -lexeme
  lex: ters
  stem: ters.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: unlucky
 
@@ -68444,7 +68430,7 @@
  stem: tetovar.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Tetova
+ trans_en: of/from Tetova
 
 -lexeme
  lex: tetë
@@ -68528,7 +68514,7 @@
  stem: tetëditor.
  gramm: A
  paradigm: adj-3-1
- trans_en: eight-day old / long
+ trans_en: eight-day old/long
 
 -lexeme
  lex: tetëkatësh
@@ -68591,14 +68577,14 @@
  stem: tetëmuajsh.|tetëmuajsh.
  gramm: A
  paradigm: adj-1-5
- trans_en: eight-month old / long
+ trans_en: eight-month old/long
 
 -lexeme
  lex: tetëmujor
  stem: tetëmujor.
  gramm: A
  paradigm: adj-3-1
- trans_en: eight-month old / long
+ trans_en: eight-month old/long
 
 -lexeme
  lex: tetëorësh
@@ -68633,7 +68619,7 @@
  stem: tetëvjeçar.
  gramm: A
  paradigm: adj-3-1
- trans_en: eight years old / long
+ trans_en: eight years old/long
 
 -lexeme
  lex: teveqel
@@ -69144,14 +69130,14 @@
  stem: thonjgjatë.|thonjgjat.
  gramm: A
  paradigm: adj-2-1
- trans_en: having long claws / nails
+ trans_en: having long claws/nails
 
 -lexeme
  lex: thonjtë
  stem: thonjtë.|thonjt.
  gramm: A
  paradigm: adj-2-1
- trans_en: having claws / nails
+ trans_en: having claws/nails
 
 -lexeme
  lex: thonëzak
@@ -69284,14 +69270,14 @@
  stem: thëngjillak.
  gramm: A
  paradigm: adj-3-2
- trans_en: of or pertaining to coal / charcoal
+ trans_en: of or pertaining to coal/charcoal
 
 -lexeme
  lex: thëngjillor
  stem: thëngjillor.
  gramm: A
  paradigm: adj-3-1
- trans_en: of or pertaining to coal / charcoal
+ trans_en: of or pertaining to coal/charcoal
 
 -lexeme
  lex: thërrmues
@@ -69432,7 +69418,7 @@
  stem: tiranas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Tirana
+ trans_en: of/from Tirana
 
 -lexeme
  lex: tiranik
@@ -69754,7 +69740,7 @@
  stem: toskë.|tosk.
  gramm: A
  paradigm: gege
- trans_en: of / from Toskëria
+ trans_en: of/from Toskëria
 
 -lexeme
  lex: total
@@ -70168,14 +70154,14 @@
  stem: treditor.
  gramm: A
  paradigm: adj-3-1
- trans_en: three-day old / long
+ trans_en: three-day old/long
 
 -lexeme
  lex: treditësh
  stem: treditësh.|treditësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: three-day old / long
+ trans_en: three-day old/long
 
 -lexeme
  lex: trefaqësh
@@ -70294,7 +70280,7 @@
  stem: trelekësh.|trelekësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: worth / costing three leks
+ trans_en: worth/costing three leks
 
 -lexeme
  lex: trembshëm
@@ -70322,7 +70308,7 @@
  stem: trembëdhjetëditësh.|trembëdhjetëditësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: 13-day old / long
+ trans_en: 13-day old/long
 
 -lexeme
  lex: trembëlak
@@ -70371,21 +70357,21 @@
  stem: tremuajsh.|tremuajsh.
  gramm: A
  paradigm: adj-1-5
- trans_en: three months old / long
+ trans_en: three months old/long
 
 -lexeme
  lex: tremujor
  stem: tremujor.
  gramm: A
  paradigm: adj-3-1
- trans_en: three months old / long
+ trans_en: three months old/long
 
 -lexeme
  lex: tremujorësh
  stem: tremujorësh.|tremujorësh.
  gramm: A,nonst
  paradigm: adj-1-5
- trans_en: three-months old / long; trimonthly
+ trans_en: three-months old/long; trimonthly
 
 -lexeme
  lex: trengjyrësh
@@ -70497,7 +70483,7 @@
  stem: trevjeçar.
  gramm: A
  paradigm: adj-3-1
- trans_en: three years long / old
+ trans_en: three years long/old
 
 -lexeme
  lex: tridhjetedytë
@@ -70574,7 +70560,7 @@
  stem: tridhjetëditësh.|tridhjetëditësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: 30-day old / long
+ trans_en: 30-day old/long
 
 -lexeme
  lex: tridhjetëlekësh
@@ -70588,28 +70574,28 @@
  stem: tridhjetëvjetor.
  gramm: A
  paradigm: adj-3-1
- trans_en: thirty-year old / long
+ trans_en: thirty-year old/long
 
 -lexeme
  lex: tridhjetëvjeçar
  stem: tridhjetëvjeçar.
  gramm: A
  paradigm: adj-3-1
- trans_en: thirty-year old / long
+ trans_en: thirty-year old/long
 
 -lexeme
  lex: triditor
  stem: triditor.
  gramm: A
  paradigm: adj-3-1
- trans_en: three-day old / long
+ trans_en: three-day old/long
 
 -lexeme
  lex: triditësh
  stem: triditësh.|triditësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: three-day old / long
+ trans_en: three-day old/long
 
 -lexeme
  lex: trifazor
@@ -70623,7 +70609,7 @@
  stem: trifrangësh.|trifrangësh.
  gramm: A
  paradigm: adj-1-5
- trans_en: worth / costing three francs
+ trans_en: worth/costing three francs
 
 -lexeme
  lex: trigonometrik
@@ -70836,12 +70822,12 @@
  stem: tropojan.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Tropoja
+ trans_en: of/from Tropoja
 
 -lexeme
  lex: troshitur
  stem: troshitur.|troshitur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: crumbled, broken
 
@@ -70918,112 +70904,112 @@
 -lexeme
  lex: trupak
  stem: trupak.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-2
  trans_en: solid, dense
 
 -lexeme
  lex: trupargjendtë
  stem: trupargjendtë.|trupargjendt.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: having beautiful clean body
 
 -lexeme
  lex: trupbrishtë
  stem: trupbrishtë.|trupbrisht.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: having a frail body
 
 -lexeme
  lex: trupderdhur
  stem: trupderdhur.|trupderdhur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: slender and good-looking
 
 -lexeme
  lex: trupdobët
  stem: trupdobët.|trupdobt.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2-a
  trans_en: having a thin and frail body
 
 -lexeme
  lex: trupdrejtë
  stem: trupdrejtë.|trupdrejt.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: having a well-formed and healthy body
 
 -lexeme
  lex: trupgjatë
  stem: trupgjatë.|trupgjat.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: tall in stature
 
 -lexeme
  lex: truphedhur
  stem: truphedhur.|truphedhur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: tall and good-looking
 
 -lexeme
  lex: truphollë
  stem: truphollë.|trupholl.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: having thin body
 
 -lexeme
  lex: truplidhur
  stem: truplidhur.|truplidhur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: having a nice figure, well-built
 
 -lexeme
  lex: trupmadh
  stem: trupmadh.|trupmadhe.|trupmëdhenj.|trupmëdha.
- gramm: A
+ gramm: A,Slav
  paradigm: madh
  trans_en: large-bodied
 
 -lexeme
  lex: trupmbushur
  stem: trupmbushur.|trupmbushur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: having a plump body
 
 -lexeme
  lex: trupor
  stem: trupor.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: corporal, physical
 
 -lexeme
  lex: truppakët
  stem: truppakët.|truppakt.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2-a
  trans_en: having a thin build, skinny
 
 -lexeme
  lex: trupshkurtër
  stem: trupshkurtër.|trupshkurtr.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: small in stature
 
 -lexeme
  lex: trupvogël
  stem: trupvogël.|trupvogl.|trupvegjël.|trupvegjl.|trupvogla.
- gramm: A
+ gramm: A,Slav
  paradigm: vogël
  trans_en: small-bodied
 
@@ -71107,7 +71093,7 @@
 -lexeme
  lex: tuhaf
  stem: tuhaf.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: eccentric, odd
 
@@ -71310,14 +71296,14 @@
 -lexeme
  lex: turk
  stem: turk.|turq.
- gramm: A
+ gramm: A,Turk
  paradigm: turk
  trans_en: Turkish
 
 -lexeme
  lex: turkoshak
  stem: turkoshak.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-2
  trans_en: dirty Turk(ish); reactionary and cruel
 
@@ -71359,7 +71345,7 @@
 -lexeme
  lex: tutkun
  stem: tutkun.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: noodle-brained
 
@@ -71403,7 +71389,7 @@
  stem: tymues.|tymues.
  gramm: A
  paradigm: adj-1-2
- trans_en: producing cloud / screen of smoke
+ trans_en: producing cloud/screen of smoke
 
 -lexeme
  lex: tytosh
@@ -71632,7 +71618,7 @@
 -lexeme
  lex: ujdisur
  stem: ujdisur.|ujdisur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: in good order, fixed
 
@@ -71697,7 +71683,7 @@
  stem: ujematës.|ujematës.
  gramm: A
  paradigm: adj-1-2
- trans_en: measuring water use / level
+ trans_en: measuring water use/level
 
 -lexeme
  lex: ujëmbajtës
@@ -71725,7 +71711,7 @@
  stem: ujëndarës.|ujëndarës.
  gramm: A
  paradigm: adj-1-2
- trans_en: dividing two water bodies / streams
+ trans_en: dividing two water bodies/streams
 
 -lexeme
  lex: ujëpakë
@@ -71823,14 +71809,14 @@
  stem: ulqinak.
  gramm: A
  paradigm: adj-3-2
- trans_en: of / from Ulcinj
+ trans_en: of/from Ulcinj
 
 -lexeme
  lex: ulqinas
  stem: ulqinas.|ulqinas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Ulcinj
+ trans_en: of/from Ulcinj
 
 -lexeme
  lex: ultratingullor
@@ -72412,7 +72398,7 @@
  stem: vajtur.|vajtur.
  gramm: A
  paradigm: adj-2-2
- trans_en: on its / one's last legs; worn-out
+ trans_en: on its/one's last legs; worn-out
 
 -lexeme
  lex: vajuar
@@ -72468,7 +72454,7 @@
  stem: vakër.|vakr.
  gramm: A
  paradigm: adj-2-2
- trans_en: with dark or dark / spotted feet and muzzle
+ trans_en: with dark or dark/spotted feet and muzzle
 
 -lexeme
  lex: vakët
@@ -72608,7 +72594,7 @@
  stem: varguar.|varguar.
  gramm: A
  paradigm: adj-2-2
- trans_en: arranged one after another in a line / row
+ trans_en: arranged one after another in a line/row
 
 -lexeme
  lex: vargëzuar
@@ -73147,28 +73133,28 @@
  stem: verdhac.
  gramm: A
  paradigm: adj-3-1
- trans_en: with a pallid / sallow complexion
+ trans_en: with a pallid/sallow complexion
 
 -lexeme
  lex: verdhacak
  stem: verdhacak.
  gramm: A
  paradigm: adj-3-2
- trans_en: with a pallid / sallow complexion
+ trans_en: with a pallid/sallow complexion
 
 -lexeme
  lex: verdhacuk
  stem: verdhacuk.
  gramm: A
  paradigm: adj-3-2
- trans_en: with a pallid / sallow complexion
+ trans_en: with a pallid/sallow complexion
 
 -lexeme
  lex: verdhalaq
  stem: verdhalaq.
  gramm: A
  paradigm: adj-3-1
- trans_en: with a pallid / sallow complexion
+ trans_en: with a pallid/sallow complexion
 
 -lexeme
  lex: verdhalash
@@ -73182,7 +73168,7 @@
  stem: verdhaman.
  gramm: A
  paradigm: adj-3-1
- trans_en: with a pallid / sallow complexion
+ trans_en: with a pallid/sallow complexion
 
 -lexeme
  lex: verdhan
@@ -73196,14 +73182,14 @@
  stem: verdhanik.
  gramm: A
  paradigm: adj-3-2
- trans_en: with a pallid / sallow complexion
+ trans_en: with a pallid/sallow complexion
 
 -lexeme
  lex: verdhanjak
  stem: verdhanjak.
  gramm: A
  paradigm: adj-3-2
- trans_en: with a pallid / sallow complexion
+ trans_en: with a pallid/sallow complexion
 
 -lexeme
  lex: verdhash
@@ -73378,7 +73364,7 @@
  stem: verrishtë.|verrisht.
  gramm: A
  paradigm: adj-2-1
- trans_en: of alder wood / trees
+ trans_en: of alder wood/trees
 
 -lexeme
  lex: vertebror
@@ -73427,7 +73413,7 @@
  stem: veshcurr.
  gramm: A
  paradigm: adj-3-1
- trans_en: with cropped / small ears
+ trans_en: with cropped/small ears
 
 -lexeme
  lex: veshgjatë
@@ -73518,7 +73504,7 @@
  stem: veshprerë.|veshprer.
  gramm: A
  paradigm: adj-2-1
- trans_en: with cropped / small ears
+ trans_en: with cropped/small ears
 
 -lexeme
  lex: veshqiqër
@@ -74296,7 +74282,7 @@
  stem: vezhdët.|vezhdt.
  gramm: A
  paradigm: adj-2-2-a
- trans_en: trimmed with decorative braid / ribbon
+ trans_en: trimmed with decorative braid/ribbon
 
 -lexeme
  lex: vezhgonjës
@@ -74387,7 +74373,7 @@
  stem: vidrush.
  gramm: A
  paradigm: adj-3-1
- trans_en: with speckled / motted fur / plumage
+ trans_en: with speckled/motted fur/plumage
 
 -lexeme
  lex: vidulac
@@ -74408,7 +74394,7 @@
  stem: vidush.
  gramm: A
  paradigm: adj-3-1
- trans_en: with speckled / motted fur / plumage
+ trans_en: with speckled/motted fur/plumage
 
 -lexeme
  lex: vietnamez
@@ -74420,21 +74406,21 @@
 -lexeme
  lex: vigan
  stem: vigan.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: giant
 
 -lexeme
  lex: viganor
  stem: viganor.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: gigantic
 
 -lexeme
  lex: viganshëm
  stem: viganshëm.|viganshm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: gigantic
 
@@ -74609,7 +74595,7 @@
 -lexeme
  lex: vishnjak
  stem: vishnjak.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-2
  trans_en: of a dark cherry color
 
@@ -74961,7 +74947,7 @@
  stem: vlonjat.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Vlora
+ trans_en: of/from Vlora
 
 -lexeme
  lex: vluar
@@ -75163,7 +75149,7 @@
 -lexeme
  lex: vozitshëm
  stem: vozitshëm.|vozitshm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: navigable; passable
 
@@ -75814,21 +75800,21 @@
 -lexeme
  lex: xhamor
  stem: xhamor.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: vitreous
 
 -lexeme
  lex: xhamtë
  stem: xhamtë.|xhamt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: made of glass
 
 -lexeme
  lex: xhanan
  stem: xhanan.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: loving and kind
 
@@ -75863,28 +75849,28 @@
 -lexeme
  lex: xhepgrisur
  stem: xhepgrisur.|xhepgrisur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: loose-spending
 
 -lexeme
  lex: xhepshpuar
  stem: xhepshpuar.|xhepshpuar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: loose-spending
 
 -lexeme
  lex: xhepzbrazur
  stem: xhepzbrazur.|xhepzbrazur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: with empty pocket, broke
 
 -lexeme
  lex: xhevahirtë
  stem: xhevahirtë.|xhevahirt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: jewelled
 
@@ -75898,14 +75884,14 @@
 -lexeme
  lex: xhindosur
  stem: xhindosur.|xhindosur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: mad, furious
 
 -lexeme
  lex: xhokëgrisur
  stem: xhokëgrisur.|xhokëgrisur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: poor
 
@@ -75947,7 +75933,7 @@
 -lexeme
  lex: xhuxhumak
  stem: xhuxhumak.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-2
  trans_en: dwarfish
 
@@ -76103,14 +76089,14 @@
  stem: zadrimor.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Zadrima
+ trans_en: of/from Zadrima
 
 -lexeme
  lex: zagorit
  stem: zagorit.
  gramm: A
  paradigm: adj-3-1
- trans_en: of / from Zagoria
+ trans_en: of/from Zagoria
 
 -lexeme
  lex: zagushitës
@@ -76136,28 +76122,28 @@
 -lexeme
  lex: zakonor
  stem: zakonor.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-1
  trans_en: customary
 
 -lexeme
  lex: zakonshëm
  stem: zakonshëm.|zakonshm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: ordinary, usual
 
 -lexeme
  lex: zakontë
  stem: zakontë.|zakont.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-1
  trans_en: ordinary, usual
 
 -lexeme
  lex: zakonët
  stem: zakonët.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2-a
  trans_en: ordinary, usual
 
@@ -76192,7 +76178,7 @@
 -lexeme
  lex: zambakët
  stem: zambakët.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: lily-like
 
@@ -76227,28 +76213,28 @@
 -lexeme
  lex: zaptimtar
  stem: zaptimtar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: occupying
 
 -lexeme
  lex: zaptuar
  stem: zaptuar.|zaptuar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en:  captured; pregnant
 
 -lexeme
  lex: zaptues
  stem: zaptues.|zaptues.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2
  trans_en: occupying
 
 -lexeme
  lex: zararshëm
  stem: zararshëm.|zararshm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2-a
  trans_en: harmful
 
@@ -76348,7 +76334,7 @@
  stem: zbarkuar.|zbarkuar.
  gramm: A
  paradigm: adj-2-2
- trans_en: debarked from the sea / air
+ trans_en: debarked from the sea/air
 
 -lexeme
  lex: zbarkues
@@ -76453,7 +76439,7 @@
  stem: zbrazës.|zbrazës.
  gramm: A
  paradigm: adj-1-2
- trans_en: emptying / pouring out
+ trans_en: emptying/pouring out
 
 -lexeme
  lex: zbrazët
@@ -77097,14 +77083,14 @@
  stem: zeshkaman.
  gramm: A
  paradigm: adj-3-1
- trans_en: with a dark / sallow complexion
+ trans_en: with a dark/sallow complexion
 
 -lexeme
  lex: zeshkan
  stem: zeshkan.
  gramm: A
  paradigm: adj-3-1
- trans_en: with a dark / sallow complexion
+ trans_en: with a dark/sallow complexion
 
 -lexeme
  lex: zeshkët
@@ -77354,7 +77340,7 @@
 -lexeme
  lex: zhabalok
  stem: zhabalok.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-3-2
  trans_en: big-bellied
 
@@ -77384,21 +77370,21 @@
  stem: zhapëhollë.|zhapëholl.
  gramm: A
  paradigm: adj-2-1
- trans_en: having a thin skin / rind
+ trans_en: having a thin skin/rind
 
 -lexeme
  lex: zhapëkuq
  stem: zhapëkuq.
  gramm: A
  paradigm: adj-1-3
- trans_en: having a red outer layer / skin
+ trans_en: having a red outer layer/skin
 
 -lexeme
  lex: zhapëtrashë
  stem: zhapëtrashë.|zhapëtrash.
  gramm: A
  paradigm: adj-2-1
- trans_en: having a thick skin / rind
+ trans_en: having a thick skin/rind
 
 -lexeme
  lex: zhapëverdhë
@@ -77412,7 +77398,7 @@
  stem: zhapëzi.|zhapëzez.|zhapëzinj.|zhapëzeza.
  gramm: A
  paradigm: zi
- trans_en: having a black skin / rind
+ trans_en: having a black skin/rind
 
 -lexeme
  lex: zhardhokor
@@ -77468,7 +77454,7 @@
  stem: zhbrengosur.|zhbrengosur.
  gramm: A
  paradigm: adj-2-2
- trans_en: relieved of worry / troubles
+ trans_en: relieved of worry/troubles
 
 -lexeme
  lex: zhburgosur
@@ -77601,7 +77587,7 @@
  stem: zhgraduar.|zhgraduar.
  gramm: A
  paradigm: adj-2-2
- trans_en: demoted in rank / position
+ trans_en: demoted in rank/position
 
 -lexeme
  lex: zhgrehur
@@ -78015,7 +78001,7 @@
  stem: zijosh.
  gramm: A
  paradigm: adj-3-1
- trans_en: with bronze / brown / dark skin
+ trans_en: with bronze/brown/dark skin
 
 -lexeme
  lex: zijosur
@@ -78069,7 +78055,7 @@
 -lexeme
  lex: zinxhirtë
  stem: zinxhirtë.|zinxhirt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: made of chain; in a chain
 
@@ -78272,7 +78258,7 @@
 -lexeme
  lex: zorshëm
  stem: zorshëm.|zorshm.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-2-a
  trans_en: difficult, hard to do
 
@@ -78307,7 +78293,7 @@
 -lexeme
  lex: zullumqar
  stem: zullumqar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: damaging
 
@@ -78365,14 +78351,14 @@
  stem: zverdhemtë.|zverdhemt.
  gramm: A
  paradigm: adj-2-1
- trans_en: yellowish / brownish; pallid
+ trans_en: yellowish/brownish; pallid
 
 -lexeme
  lex: zverdhemë
  stem: zverdhemë.|zverdhem.
  gramm: A
  paradigm: adj-1-1
- trans_en: yellowish / brownish; pallid
+ trans_en: yellowish/brownish; pallid
 
 -lexeme
  lex: zverdhosh
@@ -78687,7 +78673,7 @@
  stem: çam.
  gramm: A
  paradigm: adj-3-1
- trans_en: of Cham, of / from Çamëria
+ trans_en: of Cham, of/from Çamëria
 
 -lexeme
  lex: çamarrok
@@ -78797,7 +78783,7 @@
 -lexeme
  lex: çastshëm
  stem: çastshëm.|çastshm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: momentary, transitory
 
@@ -78853,35 +78839,35 @@
 -lexeme
  lex: çehrengrysur
  stem: çehrengrysur.|çehrengrysur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: having an ever gloomy facial expression
 
 -lexeme
  lex: çehreprishur
  stem: çehreprishur.|çehreprishur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: having a shattered expression
 
 -lexeme
  lex: çehreverdhë
  stem: çehreverdhë.|çehreverdh.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: pale, wan
 
 -lexeme
  lex: çehrevrarë
  stem: çehrevrarë.|çehrevrar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: sickly looking
 
 -lexeme
  lex: çehrevrenjtur
  stem: çehrevrenjtur.|çehrevrenjtur.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-2
  trans_en: having an ever gloomy facial expression
 
@@ -78916,7 +78902,7 @@
 -lexeme
  lex: çeliktë
  stem: çeliktë.|çelikt.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-2-1
  trans_en: made of steel, steely
 
@@ -78958,7 +78944,7 @@
 -lexeme
  lex: çerekfinal
  stem: çerekfinal.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: quarterfinal
 
@@ -78988,7 +78974,7 @@
  stem: çermenikas.|çermenikas.
  gramm: A
  paradigm: adj-1-2
- trans_en: of / from Çermenika
+ trans_en: of/from Çermenika
 
 -lexeme
  lex: çertifikuar
@@ -79028,28 +79014,28 @@
 -lexeme
  lex: çifligar
  stem: çifligar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: manorial
 
 -lexeme
  lex: çifligaro-borgjez
  stem: çifligaro-borgjez.
- gramm: A
+ gramm: A,Turk,inter
  paradigm: adj-3-1
  trans_en: based on the dominance of the land barons and the bourgeoisie
 
 -lexeme
  lex: çift
  stem: çift.|çift.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-1-1-a
  trans_en: in groups of two; pairwise
 
 -lexeme
  lex: çiftar
  stem: çiftar.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: twinned
 
@@ -79091,21 +79077,21 @@
 -lexeme
  lex: çil
  stem: çil.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: having a gray coat of hair
 
 -lexeme
  lex: çilak
  stem: çilak.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-2
  trans_en: having a gray coat of hair
 
 -lexeme
  lex: çilash
  stem: çilash.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-1
  trans_en: white-haired, grey-haired
 
@@ -79191,7 +79177,7 @@
  stem: çlirët.|çlirt.
  gramm: A
  paradigm: adj-2-2-a
- trans_en: tied / bound loosely, hanging loose
+ trans_en: tied/bound loosely, hanging loose
 
 -lexeme
  lex: çlodhur
@@ -79427,21 +79413,21 @@
 -lexeme
  lex: çudibërës
  stem: çudibërës.|çudibërës.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2
  trans_en: miraculous, magical
 
 -lexeme
  lex: çuditshëm
  stem: çuditshëm.|çuditshm.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-1-2-a
  trans_en: surprising, amazing
 
 -lexeme
  lex: çuditur
  stem: çuditur.|çuditur.
- gramm: A
+ gramm: A,Slav
  paradigm: adj-2-2
  trans_en: amazed, surprised
 
@@ -79462,7 +79448,7 @@
 -lexeme
  lex: çyryk
  stem: çyryk.
- gramm: A
+ gramm: A,Turk
  paradigm: adj-3-2
  trans_en: broken, damaged
 
