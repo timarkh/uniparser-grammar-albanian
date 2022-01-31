@@ -6538,7 +6538,7 @@
  stem: britanik.
  gramm: A
  paradigm: adj-3-2
- trans_en: Britain
+ trans_en: British
 
 -lexeme
  lex: brithyer
