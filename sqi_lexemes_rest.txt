@@ -232,14 +232,14 @@
 -lexeme
  lex: ama
  stem: ama.
- gramm: CONJ,Turk
+ gramm: CONJ,turk
  paradigm: unchangeable
  trans_en: but
 
 -lexeme
  lex: aman
  stem: aman.
- gramm: INTJ,Turk
+ gramm: INTJ,turk
  paradigm: unchangeable
  trans_en: expresses a request; requests pardon or mercy: oh please!
 
@@ -393,7 +393,7 @@
 -lexeme
  lex: angari
  stem: angari.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: unwillingly
 
@@ -689,7 +689,7 @@
 -lexeme
  lex: ashiqare
  stem: ashiqare.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: openly
 
@@ -738,7 +738,7 @@
 -lexeme
  lex: asilloj
  stem: asilloj.
- gramm: PRO
+ gramm: PRO,greek,deriv_greek
  paradigm: unchangeable
  trans_en: such, of that sort
 
@@ -825,7 +825,7 @@
  lex: asnjëfarlloj
  stem: asnjëfarlloj.
  lexref: asnjëfarëlloj
- gramm: PRO
+ gramm: PRO,nonst,greek,deriv_greek
  paradigm: unchangeable
  trans_en: no
 
@@ -839,7 +839,7 @@
 -lexeme
  lex: asnjëfarëlloj
  stem: asnjëfarëlloj.
- gramm: PRO
+ gramm: PRO,greek,deriv_greek
  paradigm: unchangeable
  trans_en: no
 
@@ -1015,7 +1015,7 @@
 -lexeme
  lex: avash
  stem: avash.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: slowly
 
@@ -1029,21 +1029,21 @@
 -lexeme
  lex: açik
  stem: açik.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: clearly, openly
 
 -lexeme
  lex: aferim
  stem: aferim.
- gramm: INTJ,Turk
+ gramm: INTJ,turk
  paradigm: unchangeable
  trans_en: bravo!
 
 -lexeme
  lex: badihava
  stem: badihava.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: gratis, for nothing, very cheap; fruitlessly
 
@@ -1071,14 +1071,14 @@
 -lexeme
  lex: barabar
  stem: barabar.
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: equally, evenly
 
 -lexeme
  lex: barazisht
  stem: barazisht.
- gramm: ADV
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: equally, evenly
 
@@ -1106,7 +1106,7 @@
 -lexeme
  lex: bash
  stem: bash.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: exactly
 
@@ -1162,7 +1162,7 @@
 -lexeme
  lex: batall
  stem: batall.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: idly
 
@@ -1190,14 +1190,14 @@
 -lexeme
  lex: beharisht
  stem: beharisht.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: in a summery fashion
 
 -lexeme
  lex: belas 
  stem: belas.
- gramm: ADV
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: by the waist
 
@@ -1225,14 +1225,14 @@
 -lexeme
  lex: beli
  stem: beli.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: obviously
 
 -lexeme
  lex: bile
  stem: bile.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: in fact; even, indeed; especially
 
@@ -1267,7 +1267,7 @@
 -lexeme
  lex: birinxhi
  stem: birinxhi.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: very well
 
@@ -1337,7 +1337,7 @@
 -lexeme
  lex: boll
  stem: boll.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: adequately
 
@@ -1351,14 +1351,14 @@
 -lexeme
  lex: bosh
  stem: bosh.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: emptily, in vain
 
 -lexeme
  lex: bostançe
  stem: bostançe.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: cultivating the soil separately for each plant
 
@@ -1394,7 +1394,7 @@
 -lexeme
  lex: branë
  stem: branë.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: draggingly
 
@@ -1527,14 +1527,14 @@
 -lexeme
  lex: bujarisht
  stem: bujarisht.
- gramm: ADV,Slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: nobly; generously
 
 -lexeme
  lex: bujrëm
  stem: bujrëm.
- gramm: INTJ
+ gramm: INTJ,turk
  paradigm: unchangeable
  trans_en: please come in! please sit down! have some food!
 
@@ -1947,7 +1947,7 @@
 -lexeme
  lex: dac
  stem: dac.
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: naked, bare
 
@@ -1976,7 +1976,7 @@
 -lexeme
  lex: daltuar
  stem: daltuar.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: chiseled
 
@@ -2011,7 +2011,7 @@
 -lexeme
  lex: darovisht
  stem: darovisht.
- gramm: ADV,Slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: as a gift
 
@@ -2095,14 +2095,14 @@
 -lexeme
  lex: deng
  stem: deng.
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: cram-full, equal
 
 -lexeme
  lex: dengëza
  stem: dengëza.
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: cram-full, equal
 
@@ -2180,7 +2180,7 @@
 -lexeme
  lex: demek
  stem: demek.
- gramm: PART,Turk
+ gramm: PART,turk
  paradigm: unchangeable
  trans_en: so; oh, really?; oh, sure!
 
@@ -2301,7 +2301,7 @@
  lex: dimbëdhjetë
  stem: dimbëdhjetë.|dimbëdhjet.
  lexref: dymbëdhjetë
- gramm: NUM
+ gramm: NUM,nonst
  paradigm: num
  trans_en: twelve
 
@@ -2427,7 +2427,7 @@
 -lexeme
  lex: dobët
  stem: dobët.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: weakly, loosely
 
@@ -2462,14 +2462,14 @@
 -lexeme
  lex: dollapthi
  stem: dollapthi.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: upside down
 
 -lexeme
  lex: dollapçe
  stem: dollapçe.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: upside down
 
@@ -2807,7 +2807,7 @@
 -lexeme
  lex: dyst
  stem: dyst.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: smooth, flat on the ground
 
@@ -2835,14 +2835,14 @@
 -lexeme
  lex: dëng
  stem: dëng.
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: completely full
 
 -lexeme
  lex: dërmon
  stem: dërmon.
- gramm: ADV
+ gramm: ADV,greek
  paradigm: unchangeable
  trans_en: full of holes
 
@@ -2961,7 +2961,7 @@
 -lexeme
  lex: eksiq
  stem: eksiq.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: cf. mangët
 
@@ -3010,7 +3010,7 @@
 -lexeme
  lex: enkas
  stem: enkas.
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: deliberately
 
@@ -3199,7 +3199,7 @@
 -lexeme
  lex: filan
  stem: filan.
- gramm: PART,Turk
+ gramm: PART,turk
  paradigm: unchangeable
  trans_en: a certain _, some unnamed _
 
@@ -3234,14 +3234,14 @@
 -lexeme
  lex: filxhanash
  stem: filxhanash.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: (to play) a shell game with inverted teacups hiding small objects
 
 -lexeme
  lex: filxhanthi
  stem: filxhanthi.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: (to play) a shell game with inverted teacups hiding small objects
 
@@ -3262,14 +3262,14 @@
 -lexeme
  lex: firë
  stem: firë.
- gramm: ADV
+ gramm: ADV,greek
  paradigm: unchangeable
  trans_en: empty
 
 -lexeme
  lex: fishek
  stem: fishek.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: fast as a bullet
 
@@ -3297,14 +3297,14 @@
 -lexeme
  lex: fisnikërisht
  stem: fisnikërisht.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: nobly
 
 -lexeme
  lex: fit
  stem: fit.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: all even
 
@@ -3332,21 +3332,21 @@
 -lexeme
  lex: fjolla-fjolla
  stem: fjolla-fjolla.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: in thick strands
 
 -lexeme
  lex: fjollë
  stem: fjollë.
- gramm: ADV
+ gramm: ADV,greek
  paradigm: unchangeable
  trans_en: in strands
 
 -lexeme
  lex: fjongo
  stem: fjongo.
- gramm: ADV
+ gramm: ADV,greek
  paradigm: unchangeable
  trans_en: loosely tied
 
@@ -3381,7 +3381,7 @@
 -lexeme
  lex: flamuras
  stem: flamuras.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: (to play) a game of capture-the-flag
 
@@ -3416,7 +3416,7 @@
 -lexeme
  lex: fllad
  stem: fllad.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: cool
 
@@ -3718,7 +3718,7 @@
 -lexeme
  lex: fërtele
  stem: fërtele.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: in tatters
 
@@ -3753,7 +3753,7 @@
 -lexeme
  lex: gafil
  stem: gafil.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: by surprise
 
@@ -3837,7 +3837,7 @@
 -lexeme
  lex: gazep
  stem: gazep.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: extremely
 
@@ -3871,7 +3871,7 @@
  trans_en: joyfully
 
 -lexeme
- lex: ghithazi
+ lex: gjithazi
  stem: gjithazi.
  gramm: ADV
  paradigm: unchangeable
@@ -4120,7 +4120,7 @@
  lex: gjithfarlloj
  stem: gjithfarlloj.
  lexref: gjithfarëlloj
- gramm: PRO
+ gramm: PRO,nonst,greek,deriv_greek
  paradigm: unchangeable
  trans_en: every kind of
 
@@ -4134,7 +4134,7 @@
 -lexeme
  lex: gjithfarëlloj
  stem: gjithfarëlloj.
- gramm: PRO
+ gramm: PRO,greek,deriv_greek
  paradigm: unchangeable
  trans_en: every kind of
 
@@ -4326,7 +4326,7 @@
 -lexeme
  lex: gjoja
  stem: gjoja.
- gramm: PART,Turk
+ gramm: PART,turk
  paradigm: unchangeable
  trans_en: supposedly, allegedly
 
@@ -4368,14 +4368,14 @@
 -lexeme
  lex: gjyryk
  stem: gjyryk.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: in a gust
 
 -lexeme
  lex: gjyrykthi
  stem: gjyrykthi.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: in a rush
 
@@ -4537,14 +4537,14 @@
 -lexeme
  lex: gomarazi
  stem: gomarazi.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: on their sides on the ground, equal
 
 -lexeme
  lex: gomarisht
  stem: gomarisht.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: silly
 
@@ -4558,14 +4558,14 @@
 -lexeme
  lex: goxha
  stem: goxha.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: a lot, rather
 
 -lexeme
  lex: grabitas
  stem: grabitas.
- gramm: ADV,Slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: by forcible seizure
 
@@ -4754,7 +4754,7 @@
 -lexeme
  lex: gurrë
  stem: gurrë.
- gramm: ADV
+ gramm: ADV,greek
  paradigm: unchangeable
  trans_en: in a stream
 
@@ -4818,7 +4818,7 @@
 -lexeme
  lex: habitshëm
  stem: habitshëm.
- gramm: ADV,Slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: with surprise
 
@@ -4832,78 +4832,78 @@
 -lexeme
  lex: hajde
  stem: hajde.
- gramm: INTJ,Turk
+ gramm: INTJ,turk
  paradigm: unchangeable
  trans_en: hey now!
 
 -lexeme
  lex: hajdutçe
  stem: hajdutçe.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: like a thief, stealthily
 
 -lexeme
  lex: hajdutërisht
  stem: hajdutërisht.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: like a thief, stealthily
 
 -lexeme
  lex: hajduçe
  stem: hajduçe.
- lexref: hajdutçe
- gramm: ADV,nonst,Turk
+ lexref: hajdutçe,deriv_turk
+ gramm: ADV,nonst,turk
  paradigm: unchangeable
  trans_en: like a thief, stealthily
 
 -lexeme
  lex: hajmedet
  stem: hajmedet.
- gramm: INTJ,Turk
+ gramm: INTJ,turk
  paradigm: unchangeable
  trans_en: woe is me!
 
 -lexeme
  lex: hajt
  stem: hajt.
- gramm: INTJ,Turk
+ gramm: INTJ,turk
  paradigm: unchangeable
  trans_en: hey! let's go!
 
 -lexeme
  lex: hajvançe
  stem: hajvançe.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: like a dumb ox
 
 -lexeme
  lex: hakçe
  stem: hakçe.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: rightfully
 
 -lexeme
  lex: hala
  stem: hala.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: yet, still
 
 -lexeme
  lex: halldupçe
  stem: halldupçe.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: in the manner of Ottoman occupiers
 
 -lexeme
  lex: hamallisht
  stem: hamallisht.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: crudely, hard
 
@@ -4924,7 +4924,7 @@
 -lexeme
  lex: hapadollapa
  stem: hapadollapa.
- gramm: ADV
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: a kind of a game (blindman’s buff)
 
@@ -4994,7 +4994,7 @@
 -lexeme
  lex: hareshëm
  stem: hareshëm.
- gramm: ADV,Turk
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: merrily
 
@@ -5008,35 +5008,35 @@
 -lexeme
  lex: hasha
  stem: hasha.
- gramm: INTJ,Turk
+ gramm: INTJ,turk
  paradigm: unchangeable
  trans_en: expresses doubt or disbelief: like hell!
 
 -lexeme
  lex: hata
  stem: hata.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: very much
 
 -lexeme
  lex: havadan
  stem: havadan.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: in the open air, aimlessly
 
 -lexeme
  lex: hazër
  stem: hazër.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: ready
 
 -lexeme
  lex: hazërxhevap
  stem: hazërxhevap.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: right away
 
@@ -5078,14 +5078,14 @@
 -lexeme
  lex: helbete
  stem: helbete.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: well sure, well of course
 
 -lexeme
  lex: hem
  stem: hem.
- gramm: CONJ,Turk
+ gramm: CONJ,turk
  paradigm: unchangeable
  trans_en: and, also, both
 
@@ -5099,7 +5099,7 @@
 -lexeme
  lex: hergjele
  stem: hergjele.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: in disorderly groups
 
@@ -5211,35 +5211,35 @@
 -lexeme
  lex: hitatshëm
  stem: hitatshëm.
- gramm: ADV,Slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: in a hurry
 
 -lexeme
  lex: hiç
  stem: hiç.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: not at all, never
 
 -lexeme
  lex: hiçasgjë
  stem: hiçasgjë.
- gramm: PRO,indef,Turk
+ gramm: PRO,indef,turk,deriv_turk
  paradigm: det-pro
  trans_en: nothing
 
 -lexeme
  lex: hiçgjë
  stem: hiçgjë.
- gramm: PRO,indef,Turk
+ gramm: PRO,indef,turk,deriv_turk
  paradigm: det-pro
  trans_en: nothing
 
 -lexeme
  lex: hiçgjëfare
  stem: hiçgjëfare.
- gramm: PRO,Turk
+ gramm: PRO,turk,deriv_turk
  paradigm: unchangeable
  trans_en: nothing
 
@@ -5247,21 +5247,21 @@
  lex: hiçgjëkafsh
  stem: hiçgjëkafsh.
  lexref: hiçgjëkafshë
- gramm: PRO,Turk
+ gramm: PRO,turk,deriv_turk
  paradigm: unchangeable
  trans_en: nothing
 
 -lexeme
  lex: hiçgjëkafshë
  stem: hiçgjëkafshë.
- gramm: PRO,Turk
+ gramm: PRO,turk,deriv_turk
  paradigm: unchangeable
  trans_en: nothing
 
 -lexeme
  lex: hiçmosgjë
  stem: hiçmosgjë.
- gramm: PRO,Turk
+ gramm: PRO,turk,deriv_turk
  paradigm: det-pro
  trans_en: nothing
 
@@ -5331,7 +5331,7 @@
 -lexeme
  lex: horras
  stem: horras.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: shamelessly
 
@@ -5366,7 +5366,7 @@
 -lexeme
  lex: huazi
  stem: huazi.
- gramm: ADV,Slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: with mutual exchange
 
@@ -5668,7 +5668,7 @@
 -lexeme
  lex: jashtëzakonisht
  stem: jashtëzakonisht.
- gramm: ADV,Slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: extraordinarily, unusually
 
@@ -5676,21 +5676,21 @@
  lex: javash
  stem: javash.
  lexref: avash
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: slowly
 
 -lexeme
  lex: jazëk
  stem: jazëk.
- gramm: INTJ,Turk
+ gramm: INTJ,turk
  paradigm: unchangeable
  trans_en: shame on you!
 
 -lexeme
  lex: jesirthi
  stem: jesirthi.
- gramm: ADV,Turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: kind of a game
 
@@ -5789,7 +5789,7 @@
 -lexeme
  lex: kaba
  stem: kaba.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: carelessly
 
@@ -5859,7 +5859,7 @@
 -lexeme
  lex: kail
  stem: kail.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: ready to obey/act/accept
 
@@ -6038,7 +6038,7 @@
 -lexeme
  lex: kallëp
  stem: kallëp.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: just as it should be
 
@@ -6066,14 +6066,14 @@
 -lexeme
  lex: kanunisht
  stem: kanunisht.
- gramm: ADV
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: according to the Canon
 
 -lexeme
  lex: kaps
  stem: kaps.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: with difficulty in defecation
 
@@ -6129,35 +6129,35 @@
 -lexeme
  lex: karshi
  stem: karshi.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: opposite
 
 -lexeme
  lex: karvan
  stem: karvan.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: in a long line
 
 -lexeme
  lex: kastan
  stem: kastan.
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: on purpose, especially
 
 -lexeme
  lex: kasten
  stem: kasten.
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: on purpose, especially
 
 -lexeme
  lex: kastile
  stem: kastile.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: on purpose, especially
 
@@ -6283,7 +6283,7 @@
 -lexeme
  lex: kiamet
  stem: kiamet.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: very much
 
@@ -6437,7 +6437,7 @@
 -lexeme
  lex: kollaj
  stem: kollaj.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: easily
 
@@ -6493,7 +6493,7 @@
 -lexeme
  lex: kopanec
  stem: kopanec.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: in swaddling clothes
 
@@ -6577,7 +6577,7 @@
 -lexeme
  lex: kreshnikisht
  stem: kreshnikisht.
- gramm: ADV,Slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: chivalrously
 
@@ -6598,7 +6598,7 @@
 -lexeme
  lex: kruspull
  stem: kruspull.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: contracted into a small space
 
@@ -6802,7 +6802,7 @@
 -lexeme
  lex: kulaç
  stem: kulaç.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: curled up in a ball
 
@@ -7048,21 +7048,21 @@
 -lexeme
  lex: kuturimthi
  stem: kuturimthi.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: off the top of one’s head
 
 -lexeme
  lex: kuturu
  stem: kuturu.
- gramm: ADV
+ gramm: ADV,greek
  paradigm: unchangeable
  trans_en: unselectively, aimlessly
 
 -lexeme
  lex: kuturumthi
  stem: kuturumthi.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: unselectively, aimlessly
 
@@ -7224,7 +7224,7 @@
 -lexeme
  lex: kësilloj
  stem: kësilloj.
- gramm: PRO
+ gramm: PRO,greek,deriv_greek
  paradigm: unchangeable
  trans_en: such, of this sort
 
@@ -7567,7 +7567,7 @@
 -lexeme
  lex: linkthi
  stem: linkthi.
- gramm: ADV
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: briskly, quickly
 
@@ -7602,14 +7602,14 @@
 -lexeme
  lex: litar
  stem: litar.
- gramm: ADV
+ gramm: ADV,greek
  paradigm: unchangeable
  trans_en: very much, heavily
 
 -lexeme
  lex: litarthi
  stem: litarthi.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: (play) a game of jump-rope
 
@@ -7623,21 +7623,21 @@
 -lexeme
  lex: lloj-lloj
  stem: lloj-lloj.
- gramm: PRO
+ gramm: PRO,greek,deriv_greek
  paradigm: unchangeable
  trans_en: all sorts/kinds of
 
 -lexeme
  lex: llonxh
  stem: llonxh.
- gramm: ADV,nonst,Turk
+ gramm: ADV,nonst,turk
  paradigm: unchangeable
  trans_en: with a lot of food and drink; in noisy pandemonium
 
 -lexeme
  lex: llonxhë
  stem: llonxhë.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: with a lot of food and drink; in noisy pandemonium
 
@@ -7721,7 +7721,7 @@
 -lexeme
  lex: magjypthi
  stem: magjypthi.
- gramm: ADV,Slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: in Gipsy-fashion
 
@@ -7861,7 +7861,7 @@
 -lexeme
  lex: mashalla
  stem: mashalla.
- gramm: INTJ,Turk
+ gramm: INTJ,turk
  paradigm: unchangeable
  trans_en: bless God! knock on wood!
 
@@ -8074,14 +8074,14 @@
 -lexeme
  lex: meazallah
  stem: meazallah.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: God forbid
 
 -lexeme
  lex: medet
  stem: medet.
- gramm: INTJ,Turk
+ gramm: INTJ,turk
  paradigm: unchangeable
  trans_en: woe is me! oh god!
 
@@ -8548,28 +8548,28 @@
  lex: muf
  stem: muf.
  lexref: muft
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: without paying, for nothing, by freeloading
 
 -lexeme
  lex: muft
  stem: muft.
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: without paying, for nothing, by freeloading
 
 -lexeme
- lex: muhtë
+ lex: muht
  stem: muht.
- gramm: ADV,nonst
+ gramm: ADV,nonst,turk
  paradigm: unchangeable
  trans_en: free, cheap
 
 -lexeme
  lex: muhtë
  stem: muhtë.
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: free, cheap
 
@@ -8744,7 +8744,7 @@
 -lexeme
  lex: mërzitshëm
  stem: mërzitshëm.
- gramm: ADV,Slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: with boredom
 
@@ -9224,7 +9224,7 @@
 -lexeme
  lex: nevojisht
  stem: nevojisht.
- gramm: ADV
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: in terrible need
 
@@ -9765,16 +9765,16 @@
  trans_en: a certain
 
 -lexeme
- lex: njëfarëlloj
+ lex: njëfarlloj
  stem: njëfarlloj.
- gramm: ADV,nonst
+ gramm: ADV,nonst,greek,deriv_greek
  paradigm: unchangeable
  trans_en: in some way
 
 -lexeme
  lex: njëfarëlloj
  stem: njëfarëlloj.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: in some way
 
@@ -9858,7 +9858,7 @@
 -lexeme
  lex: njëlloj
  stem: njëlloj.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: alike; equally
 
@@ -10281,14 +10281,14 @@
 -lexeme
  lex: okoll
  stem: okoll.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: around
 
 -lexeme
  lex: opet
  stem: opet.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: again
 
@@ -10344,7 +10344,7 @@
 -lexeme
  lex: osh
  stem: osh.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: draggingly
 
@@ -10673,7 +10673,7 @@
 -lexeme
  lex: pamëta
  stem: pamëta.
- gramm: ADV
+ gramm: ADV,deriv_greek
  paradigm: unchangeable
  trans_en: again
 
@@ -10715,14 +10715,14 @@
 -lexeme
  lex: papandehur
  stem: papandehur.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: unexpectedly
 
 -lexeme
  lex: papandehurazi
  stem: papandehurazi.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: unexpectedly
 
@@ -11291,7 +11291,7 @@
 -lexeme
  lex: petë-petë
  stem: petë-petë.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: in thin layers
 
@@ -11411,7 +11411,7 @@
 -lexeme
  lex: pishman
  stem: pishman.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: regretful, sorry
 
@@ -11481,7 +11481,7 @@
 -lexeme
  lex: pleh
  stem: pleh.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: filthy, very
 
@@ -12063,7 +12063,7 @@
 -lexeme
  lex: pushtërisht
  stem: pushtërisht.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: like a womanizing scoundrel
 
@@ -13253,14 +13253,14 @@
 -lexeme
  lex: qefull
  stem: qefull.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: heal and hearty
 
 -lexeme
  lex: qelepir
  stem: qelepir.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: without paying
 
@@ -13302,7 +13302,7 @@
 -lexeme
  lex: qesim
  stem: qesim.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: without measuring
 
@@ -13660,7 +13660,7 @@
 -lexeme
  lex: rehat
  stem: rehat.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: quietly and without anxiety
 
@@ -13702,7 +13702,7 @@
 -lexeme
  lex: revan
  stem: revan.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: at a fast pace
 
@@ -13758,14 +13758,14 @@
 -lexeme
  lex: robrisht
  stem: robrisht.
- gramm: ADV,nonst,Slav
+ gramm: ADV,nonst,slav
  paradigm: unchangeable
  trans_en: in a slave fashion
 
 -lexeme
  lex: robërisht
  stem: robërisht.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: in a slave fashion
 
@@ -13779,7 +13779,7 @@
 -lexeme
  lex: rrafshazi
  stem: rrafshazi.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: at ground level
 
@@ -14229,14 +14229,14 @@
 -lexeme
  lex: rëndom
  stem: rëndom.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: usually
 
 -lexeme
  lex: rëndomthi
  stem: rëndomthi.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: usually
 
@@ -14305,7 +14305,7 @@
 -lexeme
  lex: safi
  stem: safi.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: pure, unadulterated, plain, straight
 
@@ -14326,7 +14326,7 @@
 -lexeme
  lex: sakllam
  stem: sakllam.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: safe and sound
 
@@ -14445,7 +14445,7 @@
 -lexeme
  lex: sefte
  stem: sefte.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: at first
 
@@ -14480,7 +14480,7 @@
 -lexeme
  lex: serbes
  stem: serbes.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: with great pride and courage
 
@@ -14872,14 +14872,14 @@
 -lexeme
  lex: shqenisht
  stem: shqenisht.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: in a Slavic language
 
 -lexeme
  lex: shqerisht
  stem: shqerisht.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: in a Slavic language
 
@@ -15174,7 +15174,7 @@
 -lexeme
  lex: shyqyr
  stem: shyqyr.
- gramm: INTJ,Turk
+ gramm: INTJ,turk
  paradigm: unchangeable
  trans_en: that's lucky! good for smb!
 
@@ -15391,7 +15391,7 @@
 -lexeme
  lex: sitac
  stem: sitac.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: riddled with holes
 
@@ -15692,7 +15692,7 @@
 -lexeme
  lex: tamam
  stem: tamam.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: exactly right, exactly alike
 
@@ -15811,7 +15811,7 @@
 -lexeme
  lex: tebdil
  stem: tebdil.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: in disguise
 
@@ -15881,7 +15881,7 @@
 -lexeme
  lex: tek
  stem: tek.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: singly, alone
 
@@ -15937,7 +15937,7 @@
 -lexeme
  lex: telef
  stem: telef.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: broken-down
 
@@ -15979,14 +15979,14 @@
 -lexeme
  lex: ters
  stem: ters.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: badly, perversely
 
 -lexeme
  lex: teslim
  stem: teslim.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: in safekeeping, in trust, very ill
 
@@ -16399,35 +16399,35 @@
 -lexeme
  lex: top
  stem: top.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: all together in one group
 
 -lexeme
  lex: topahipas
  stem: topahipas.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: (to play) a ball game in which members of one team are mounted on the backs of the others
 
 -lexeme
  lex: topkalorthazi
  stem: topkalorthazi.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: (to play) a ball game
 
 -lexeme
  lex: toptan
  stem: toptan.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: all together
 
 -lexeme
  lex: topthi
  stem: topthi.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: in a ball
 
@@ -16634,21 +16634,21 @@
 -lexeme
  lex: trup
  stem: trup.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: in one body, straight across
 
 -lexeme
  lex: trupazi
  stem: trupazi.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: hand-to-hand
 
 -lexeme
  lex: trupnisht
  stem: trupnisht.
- gramm: ADV,nonst,Gheg,Slav
+ gramm: ADV,nonst,Gheg,slav
  lexref: trupërisht
  paradigm: unchangeable
  trans_en: with/in the body, physically
@@ -16656,21 +16656,21 @@
 -lexeme
  lex: trupthi
  stem: trupthi.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: (lifted) into the air, bodily
 
 -lexeme
  lex: truprisht
  stem: truprisht.
- gramm: ADV,nonst,Slav
+ gramm: ADV,nonst,slav
  paradigm: unchangeable
  trans_en: with/in the body, physically
 
 -lexeme
  lex: trupërisht
  stem: trupërisht.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: with/in the body, physically
 
@@ -16761,7 +16761,7 @@
 -lexeme
  lex: turçe
  stem: turçe.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: in the Turkish manner
 
@@ -17175,14 +17175,14 @@
 -lexeme
  lex: vad
  stem: vad.
- gramm: ADV,nonst,Slav
+ gramm: ADV,nonst,slav
  paradigm: unchangeable
  trans_en: in a stream/gush
 
 -lexeme
  lex: vadë
  stem: vadë.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: in a stream/gush
 
@@ -17817,14 +17817,14 @@
 -lexeme
  lex: vobeksisht
  stem: vobeksisht.
- gramm: ADV,nonst,Slav
+ gramm: ADV,nonst,slav
  paradigm: unchangeable
  trans_en: in poverty
 
 -lexeme
  lex: vobekësisht
  stem: vobekësisht.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: in poverty
 
@@ -18079,14 +18079,14 @@
 -lexeme
  lex: xhaba
  stem: xhaba.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: without paying
 
 -lexeme
  lex: xhade
  stem: xhade.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: without problems
 
@@ -18177,7 +18177,7 @@
 -lexeme
  lex: zakonisht
  stem: zakonisht.
- gramm: ADV,Slav
+ gramm: ADV,slav
  paradigm: unchangeable
  trans_en: as usual; usually, customarily
 
@@ -18191,7 +18191,7 @@
 -lexeme
  lex: zaten
  stem: zaten.
- gramm: PART,Turk
+ gramm: PART,turk
  paradigm: unchangeable
  trans_en: just, exactly
 
@@ -18550,7 +18550,7 @@
 -lexeme
  lex: zor
  stem: zor.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: hard, difficult
 
@@ -18649,7 +18649,7 @@
 -lexeme
  lex: çakërrqejf
  stem: çakërrqejf.
- gramm: ADV
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: tipsily
 
@@ -18691,14 +18691,14 @@
 -lexeme
  lex: çapaqorras
  stem: çapaqorras.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: walking with one’s eyes shut
 
 -lexeme
  lex: çapraz
  stem: çapraz.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: convoluted, all mixed-up
 
@@ -18726,7 +18726,7 @@
 -lexeme
  lex: çark 
  stem: çark.
- gramm: ADV,Turk
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: arched
 
@@ -18755,7 +18755,7 @@
 -lexeme
  lex: çatall
  stem: çatall.
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: forking out
 
@@ -18765,13 +18765,6 @@
  gramm: PRO
  paradigm: unchangeable
  trans_en: any, every, each
-
--lexeme
- lex: çdo-lloj
- stem: çdo-lloj.
- gramm: PRO
- paradigm: unchangeable
- trans_en: any kind/type of
 
 -lexeme
  lex: çdofar
@@ -18798,7 +18791,7 @@
 -lexeme
  lex: çdolloj
  stem: çdolloj.
- gramm: PRO
+ gramm: PRO,greek,deriv_greek
  paradigm: unchangeable
  trans_en: any kind/type of
 
@@ -18892,7 +18885,7 @@
 -lexeme
  lex: çfarëdolloj
  stem: çfarëdolloj.
- gramm: PRO
+ gramm: PRO,greek,deriv_greek
  paradigm: unchangeable
  trans_en: whatever kind of
 
@@ -18948,7 +18941,7 @@
 -lexeme
  lex: çuditërisht
  stem: çuditërisht.
- gramm: ADV,Slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: surprisingly, very
 
