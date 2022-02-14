@@ -11643,7 +11643,7 @@
 -lexeme
  lex: porropi
  stem: porropi.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: separately
 
@@ -13604,21 +13604,21 @@
 -lexeme
  lex: radha
  stem: radha.
- gramm: ADV
+ gramm: ADV,greek
  paradigm: unchangeable
  trans_en: each in turn
 
 -lexeme
  lex: radhas
  stem: radhas.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: each in turn
 
 -lexeme
  lex: radhazi
  stem: radhazi.
- gramm: ADV
+ gramm: ADV,greek,deriv_greek
  paradigm: unchangeable
  trans_en: each in turn
 
@@ -13758,14 +13758,14 @@
 -lexeme
  lex: robrisht
  stem: robrisht.
- gramm: ADV,nonst,slav
+ gramm: ADV,nonst,slav,deriv_slav
  paradigm: unchangeable
  trans_en: in a slave fashion
 
 -lexeme
  lex: robërisht
  stem: robërisht.
- gramm: ADV,slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: in a slave fashion
 
@@ -13779,7 +13779,7 @@
 -lexeme
  lex: rrafshazi
  stem: rrafshazi.
- gramm: ADV,slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: at ground level
 
@@ -14236,7 +14236,7 @@
 -lexeme
  lex: rëndomthi
  stem: rëndomthi.
- gramm: ADV,slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: usually
 
@@ -14879,7 +14879,7 @@
 -lexeme
  lex: shqerisht
  stem: shqerisht.
- gramm: ADV,slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: in a Slavic language
 
@@ -15804,7 +15804,7 @@
 -lexeme
  lex: taze
  stem: taze.
- gramm: ADV
+ gramm: ADV,turk
  paradigm: unchangeable
  trans_en: just a little while ago
 
@@ -16357,7 +16357,7 @@
 -lexeme
  lex: togje-togje
  stem: togje-togje.
- gramm: ADV
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: in clusters/piles/groups
 
@@ -16406,14 +16406,14 @@
 -lexeme
  lex: topahipas
  stem: topahipas.
- gramm: ADV,turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: (to play) a ball game in which members of one team are mounted on the backs of the others
 
 -lexeme
  lex: topkalorthazi
  stem: topkalorthazi.
- gramm: ADV,turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: (to play) a ball game
 
@@ -16427,7 +16427,7 @@
 -lexeme
  lex: topthi
  stem: topthi.
- gramm: ADV,turk
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: in a ball
 
@@ -16441,7 +16441,7 @@
 -lexeme
  lex: topçe
  stem: topçe.
- gramm: ADV
+ gramm: ADV,turk,deriv_turk
  paradigm: unchangeable
  trans_en: in good shape (of health)
 
@@ -16641,14 +16641,14 @@
 -lexeme
  lex: trupazi
  stem: trupazi.
- gramm: ADV,slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: hand-to-hand
 
 -lexeme
  lex: trupnisht
  stem: trupnisht.
- gramm: ADV,nonst,Gheg,slav
+ gramm: ADV,nonst,Gheg,slav,deriv_slav
  lexref: trupërisht
  paradigm: unchangeable
  trans_en: with/in the body, physically
@@ -16656,21 +16656,21 @@
 -lexeme
  lex: trupthi
  stem: trupthi.
- gramm: ADV,slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: (lifted) into the air, bodily
 
 -lexeme
  lex: truprisht
  stem: truprisht.
- gramm: ADV,nonst,slav
+ gramm: ADV,nonst,slav,deriv_slav
  paradigm: unchangeable
  trans_en: with/in the body, physically
 
 -lexeme
  lex: trupërisht
  stem: trupërisht.
- gramm: ADV,slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: with/in the body, physically
 
@@ -17817,14 +17817,14 @@
 -lexeme
  lex: vobeksisht
  stem: vobeksisht.
- gramm: ADV,nonst,slav
+ gramm: ADV,nonst,slav,deriv_slav
  paradigm: unchangeable
  trans_en: in poverty
 
 -lexeme
  lex: vobekësisht
  stem: vobekësisht.
- gramm: ADV,slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: in poverty
 
@@ -18177,7 +18177,7 @@
 -lexeme
  lex: zakonisht
  stem: zakonisht.
- gramm: ADV,slav
+ gramm: ADV,slav,deriv_slav
  paradigm: unchangeable
  trans_en: as usual; usually, customarily
 
