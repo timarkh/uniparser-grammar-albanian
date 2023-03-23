@@ -116,7 +116,7 @@ def prepare_files():
     if os.path.exists('bad_analyses.txt'):
         shutil.copy2('bad_analyses.txt', 'uniparser_albanian/data_strict/')
         shutil.copy2('bad_analyses.txt', 'uniparser_albanian/data_nodiacritics/')
-    if os.path.exists('albanian_disambiguation.txt'):
+    if os.path.exists('albanian_disambiguation.cg3'):
         shutil.copy2('albanian_disambiguation.cg3', 'uniparser_albanian/data_strict/')
         shutil.copy2('albanian_disambiguation.cg3', 'uniparser_albanian/data_nodiacritics/')
 

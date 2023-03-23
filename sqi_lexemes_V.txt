@@ -11426,8 +11426,8 @@
 -lexeme
  lex: gajas
  stem: gajas.
- gramm: V,vt,vi
- paradigm: hap,greek
+ gramm: V,vt,vi,greek
+ paradigm: hap
  trans_en: tire out (vt); grow weak; feel dry in the mouth (vi)
 
 -lexeme
@@ -62857,55 +62857,55 @@
 -lexeme
  lex: dizinfektoj
  stem: dizinfekto.|dizinfektua.
- gramm: V,nonst
- paradigm: mësoj
+ gramm: V,nonst,vt
+ paradigm: lexoj
  trans_en: disinfect
 
 -lexeme
  lex: validoj
  stem: valido.|validua.
- gramm: V,nonst
- paradigm: mësoj
+ gramm: V,nonst,vt
+ paradigm: lexoj
  trans_en: validate
 
 -lexeme
  lex: hospitalizoj
  stem: hospitalizo.|hospitalizua.
- gramm: V
- paradigm: mësoj
+ gramm: V,vt
+ paradigm: lexoj
  trans_en: hospitalize
 
 -lexeme
  lex: vetëizoloj
  stem: vetëizolo.|vetëizolua.
- gramm: V,nonst
- paradigm: mësoj
+ gramm: V,nonst,vi
+ paradigm: lexoj
  trans_en: self-isolate
 
 -lexeme
  lex: vetëkarantinoj
  stem: vetëkarantino.|vetëkarantinua.
- gramm: V
- paradigm: mësoj
+ gramm: V,vi
+ paradigm: lexoj
  trans_en: self-quarantine
 
 -lexeme
  lex: vetkarantinoj
  stem: vetkarantino.|vetkarantinua.
- gramm: V,nonst
- paradigm: mësoj
+ gramm: V,nonst,vi
+ paradigm: lexoj
  trans_en: self-quarantine
 
 -lexeme
  lex: karantifikoj
  stem: karantifiko.|karantifikua.
- gramm: V
- paradigm: mësoj
+ gramm: V,vt
+ paradigm: lexoj
  trans_en: quarantine
 
 -lexeme
  lex: karantinoj
  stem: karantino.|karantinua.
- gramm: V
- paradigm: mësoj
+ gramm: V,vt
+ paradigm: lexoj
  trans_en: quarantine
