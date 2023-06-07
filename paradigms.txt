@@ -3128,12 +3128,8 @@
   gramm: sg,acc,def
  -flex: <1>.në
   gramm: sg,acc,def,nonst
- -flex: <2>.në
-  gramm: sg,acc,def,nonst
  -flex: <1>.it
   gramm: sg,abl,def
- -flex: <2>.t
-  gramm: sg,loc,def,nonst
 
 -paradigm: 1b
  -flex: <1>.
@@ -3156,8 +3152,6 @@
   gramm: sg,acc,def,nonst
  -flex: <2>.it
   gramm: sg,abl,def
- -flex: <3>.it
-  gramm: sg,loc,def,nonst
 
 -paradigm: 1c
  -flex: <1>.
@@ -3200,8 +3194,6 @@
   gramm: sg,acc,def,nonst
  -flex: <1>.ut
   gramm: sg,abl,def
- -flex: <2>.t
-  gramm: sg,loc,def,nonst
 
 -paradigm: 2b
  -flex: <1>.
@@ -4084,16 +4076,20 @@
   gramm: gen_dat
  -flex: <1>.ve
   gramm: gen_dat,nonst
- -flex: <4>.
+ -flex: <4>.//<4>.ve
   gramm: gen_dat,nonst
+ -flex: <5>.//<5>.ve
+  gramm: gen_dat,nonst,Gheg
  -flex: <2>.
   gramm: acc
  -flex: <1>.//<3>.
   gramm: abl
  -flex: <1>.ve
   gramm: abl,nonst
- -flex: <4>.//<5>.
+ -flex: <4>.//<4>.ve//<6>.
   gramm: abl,nonst
+ -flex: <5>.//<5>.ve//<7>.
+  gramm: abl,nonst,Gheg
 
 -paradigm: dem-pro-sg-pl
  -flex: <0>.
@@ -4432,224 +4428,134 @@
   gramm: f,pl,abl,def,nonst
 
 -paradigm: poss-pro-3-sg-m
- -flex: <0>.
-  gramm: m,sg,nom
  -flex: <0>.i
   gramm: m,sg,nom,def
- -flex: <0>.
-  gramm: m,sg,gen_dat
  -flex: <0>.it
   gramm: m,sg,gen_dat,def
- -flex: <0>.
-  gramm: m,sg,acc
  -flex: <0>.in//<0>.në
   gramm: m,sg,acc,def
- -flex: <0>.
-  gramm: m,sg,abl
  -flex: <0>.it
   gramm: m,sg,abl,def
- -flex: <0>.
-  gramm: m,pl,nom
  -flex: <0>.të
   gramm: m,pl,nom,def
- -flex: <0>.
-  gramm: m,pl,gen_dat
  -flex: <0>.ve
   gramm: m,pl,gen_dat,def
  -flex: <0>.vet
   gramm: m,pl,gen_dat,def,nonst
- -flex: <0>.
-  gramm: m,pl,acc
  -flex: <0>.të
   gramm: m,pl,acc,def
- -flex: <0>.
-  gramm: m,pl,abl
  -flex: <0>.ve
   gramm: m,pl,abl,def
  -flex: <0>.vet
   gramm: m,pl,abl,def,nonst
- -flex: <0>.
-  gramm: f,sg,nom
  -flex: <0>.a
   gramm: f,sg,nom,def
- -flex: <0>.
-  gramm: f,sg,gen_dat
  -flex: <0>.ës
   gramm: f,sg,gen_dat,def
- -flex: <0>.
-  gramm: f,sg,acc
  -flex: <0>.ën
   gramm: f,sg,acc,def
- -flex: <0>.
-  gramm: f,sg,abl
  -flex: <0>.ës
   gramm: f,sg,abl,def
  -flex: <0>.//<0>.a
-  gramm: f,pl,nom
+  gramm: f,pl,nom,nonst
  -flex: <0>.at
   gramm: f,pl,nom,def
- -flex: <0>.
-  gramm: f,pl,gen_dat
  -flex: <0>.ave
   gramm: f,pl,gen_dat,def
  -flex: <0>.avet
   gramm: f,pl,gen_dat,def,nonst
  -flex: <0>.//<0>.a
-  gramm: f,pl,acc
+  gramm: f,pl,acc,nonst
  -flex: <0>.at
   gramm: f,pl,acc,def
- -flex: <0>.
-  gramm: f,pl,abl
  -flex: <0>.ave
   gramm: f,pl,abl,def
  -flex: <0>.avet
   gramm: f,pl,abl,def,nonst
 
 -paradigm: poss-pro-3-sg-f
- -flex: <0>.
-  gramm: m,sg,nom
  -flex: <0>.i
   gramm: m,sg,nom,def
- -flex: <0>.
-  gramm: m,sg,gen_dat
  -flex: <0>.it
   gramm: m,sg,gen_dat,def
- -flex: <0>.
-  gramm: m,sg,acc
  -flex: <0>.in//<0>.në
   gramm: m,sg,acc,def
- -flex: <0>.
-  gramm: m,sg,abl
  -flex: <0>.it
   gramm: m,sg,abl,def
- -flex: <0>.
-  gramm: m,pl,nom
  -flex: <0>.të
   gramm: m,pl,nom,def
- -flex: <0>.
-  gramm: m,pl,gen_dat
  -flex: <0>.ve
   gramm: m,pl,gen_dat,def
  -flex: <0>.vet
   gramm: m,pl,gen_dat,def,nonst
- -flex: <0>.
-  gramm: m,pl,acc
  -flex: <0>.të
   gramm: m,pl,acc,def
- -flex: <0>.
-  gramm: m,pl,abl
  -flex: <0>.ve
   gramm: m,pl,abl,def
  -flex: <0>.vet
   gramm: m,pl,abl,def,nonst
- -flex: <0>.
-  gramm: f,sg,nom
  -flex: <0>.a
   gramm: f,sg,nom,def
- -flex: <0>.
-  gramm: f,sg,gen_dat
  -flex: <0>.ës
   gramm: f,sg,gen_dat,def
- -flex: <0>.
-  gramm: f,sg,acc
  -flex: <0>.ën
   gramm: f,sg,acc,def
- -flex: <0>.
-  gramm: f,sg,abl
  -flex: <0>.ës
   gramm: f,sg,abl,def
  -flex: <0>.//<0>.a
-  gramm: f,pl,nom
+  gramm: f,pl,nom,nonst
  -flex: <0>.at
   gramm: f,pl,nom,def
- -flex: <0>.
-  gramm: f,pl,gen_dat
  -flex: <0>.ave
   gramm: f,pl,gen_dat,def
  -flex: <0>.avet
   gramm: f,pl,gen_dat,def,nonst
- -flex: <0>.
-  gramm: f,pl,acc
  -flex: <0>.a.//<0>.at
   gramm: f,pl,acc,def
- -flex: <0>.
-  gramm: f,pl,abl
  -flex: <0>.ave
   gramm: f,pl,abl,def
  -flex: <0>.avet
   gramm: f,pl,abl,def,nonst
 
 -paradigm: poss-pro-3-pl
- -flex: <0>.
-  gramm: m,sg,nom
  -flex: <1>.i
   gramm: m,sg,nom,def
- -flex: <0>.
-  gramm: m,sg,gen_dat
  -flex: <1>.it
   gramm: m,sg,gen_dat,def
- -flex: <0>.
-  gramm: m,sg,acc
  -flex: <1>.in
   gramm: m,sg,acc,def
- -flex: <0>.
-  gramm: m,sg,abl
  -flex: <1>.it
   gramm: m,sg,abl,def
- -flex: <0>.
-  gramm: m,pl,nom
  -flex: <0>.t
   gramm: m,pl,nom,def
- -flex: <0>.
-  gramm: m,pl,gen_dat
  -flex: <0>.ve
   gramm: m,pl,gen_dat,def
  -flex: <0>.vet
   gramm: m,pl,gen_dat,def,nonst
- -flex: <0>.
-  gramm: m,pl,acc
  -flex: <0>.t
   gramm: m,pl,acc,def
- -flex: <0>.
-  gramm: m,pl,abl
  -flex: <0>.ve
   gramm: m,pl,abl,def
  -flex: <0>.vet
   gramm: m,pl,abl,def,nonst
- -flex: <0>.
-  gramm: f,sg,nom
  -flex: <1>.ja
   gramm: f,sg,nom,def
  -flex: <0>.ja
   gramm: f,sg,nom,def,nonst
- -flex: <0>.
-  gramm: f,sg,gen_dat
  -flex: <0>.s
   gramm: f,sg,gen_dat,def
- -flex: <0>.
-  gramm: f,sg,acc
  -flex: <0>.n
   gramm: f,sg,acc,def
- -flex: <0>.
-  gramm: f,sg,abl
  -flex: <0>.s
   gramm: f,sg,abl,def
- -flex: <0>.
-  gramm: f,pl,nom
  -flex: <0>.t
   gramm: f,pl,nom,def
- -flex: <0>.
-  gramm: f,pl,gen_dat
  -flex: <0>.ve
   gramm: f,pl,gen_dat,def
  -flex: <0>.vet
   gramm: f,pl,gen_dat,def,nonst
- -flex: <0>.
-  gramm: f,pl,acc
  -flex: <0>.t
   gramm: f,pl,acc,def
- -flex: <0>.
-  gramm: f,pl,abl
  -flex: <0>.ve
   gramm: f,pl,abl,def
  -flex: <0>.vet
@@ -4657,73 +4563,49 @@
 
 -paradigm: poss-pro-vet
  -flex: <0>.
-  gramm: m,sg,nom
+  gramm: m,sg
+ -flex: <0>.
+  gramm: f,sg
+ -flex: <0>.
+  gramm: m,pl
  -flex: <0>.i
   gramm: m,sg,nom,def
- -flex: <0>.
-  gramm: m,sg,gen_dat
  -flex: <0>.it
   gramm: m,sg,gen_dat,def
- -flex: <0>.
-  gramm: m,sg,acc
  -flex: <0>.in
   gramm: m,sg,acc,def
- -flex: <0>.
-  gramm: m,sg,abl
  -flex: <0>.it
   gramm: m,sg,abl,def
- -flex: <0>.
-  gramm: m,pl,nom
  -flex: <0>.ët
   gramm: m,pl,nom,def
- -flex: <0>.
-  gramm: m,pl,gen_dat
  -flex: <0>.ëve
   gramm: m,pl,gen_dat,def
  -flex: <0>.ëvet
   gramm: m,pl,gen_dat,def,nonst
- -flex: <0>.
-  gramm: m,pl,acc
  -flex: <0>.ët
   gramm: m,pl,acc,def
- -flex: <0>.
-  gramm: m,pl,abl
  -flex: <0>.ëve
   gramm: m,pl,abl,def
  -flex: <0>.ëvet
   gramm: m,pl,abl,def,nonst
- -flex: <0>.
-  gramm: f,sg,nom
  -flex: <0>.a
   gramm: f,sg,nom,def
- -flex: <0>.
-  gramm: f,sg,gen_dat
  -flex: <0>.ës
   gramm: f,sg,gen_dat,def
- -flex: <0>.
-  gramm: f,sg,acc
  -flex: <0>.ën
   gramm: f,sg,acc,def
- -flex: <0>.
-  gramm: f,sg,abl
  -flex: <0>.ës
   gramm: f,sg,abl,def
  -flex: <0>.a
-  gramm: f,pl,nom
+  gramm: f,pl
  -flex: <0>.at
   gramm: f,pl,nom,def
- -flex: <0>.a
-  gramm: f,pl,gen_dat
  -flex: <0>.ave
   gramm: f,pl,gen_dat,def
  -flex: <0>.avet
   gramm: f,pl,gen_dat,def,nonst
- -flex: <0>.a
-  gramm: f,pl,acc
  -flex: <a>.at
   gramm: f,pl,acc,def
- -flex: <0>.a
-  gramm: f,pl,abl
  -flex: <0>.ave
   gramm: f,pl,abl,def
  -flex: <0>.avet
@@ -8391,6 +8273,8 @@
   paradigm: aor-ind-act-1-3-sg
   paradigm: aor-ind-act-pl-a
   paradigm: aor-ind-pass
+  gramm: nonst
+  paradigm: ptcp-4
  -flex: <6>.h<.>
   gramm: 
   paradigm: pres-ind-pass
