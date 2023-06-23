@@ -4,6 +4,7 @@
 5
 4
 10
+etj
 vjen
 6
 20
@@ -107,6 +108,7 @@ albin
 shek
 70
 45
+administratës
 haradinaj
 gashi
 dhjetëra
@@ -123,7 +125,6 @@ fatmir
 berishës
 -in
 donald
-agim
 al
 kfor-
 kqz
@@ -134,7 +135,6 @@ lsi-së
 r
 daçiq
 kqz-
-katërt
 kete
 bdi-
 pro
@@ -170,20 +170,20 @@ osbe-
 jashari
 bdi-së
 tv
-pos
 gjergj
 q
+aleancës
 ldk
 aleksandar
 400
 1-
 in
 obama
+tifozët
 rel
 j
 zv
 pdk
-çon
 jor
 2000
 bushati
@@ -218,7 +218,7 @@ ivica
 albania
 4-
 600
-denarë
+administratën
 pacolli
 une
 1991
@@ -232,7 +232,6 @@ ivanov
 robert
 express
 blushi
-çojnë
 ahmetaj
 5-
 ben
@@ -248,25 +247,21 @@ xhaferi
 shba-ve
 mehmeti
 2004
-balla
 bdi
 thaçit
 osbe-së
 6-
 naim
-nja
 ahmet
 34
 agron
 -ës
 osbe
-bere
 vladimir
 erdogan
 1944
 37
 idrizi
-çoi
 2018
 ldk-ja
 xha
@@ -322,7 +317,6 @@ x
 sigal
 edmond
 44
-çonte
 lubonja
 gjonaj
 -3
@@ -342,6 +336,7 @@ azem
 700
 murati
 shqiptaro-
+tifozëve
 1000
 ptk-
 1992
@@ -399,13 +394,13 @@ haziri
 hajdari
 kumbaro
 71
+muja
 90-
 hagë
 nër
 on
 james
 shaqiri
-tone
 kanabisit
 pashës
 xx
@@ -447,7 +442,6 @@ kosovapress
 06
 keto
 30-
-bruto
 dritëroi
 tjeter
 pdsh
@@ -482,7 +476,6 @@ musliu
 dritan
 enveri
 vip
-zëvendësministri
 ramadan
 95
 klankosova
@@ -497,12 +490,10 @@ egra
 izraeli
 jani
 72
-akset
 un
 pdiu
 -4
 7-
-aksin
 fan
 atëhere
 ba
@@ -579,7 +570,6 @@ saudite
 zoran
 instat
 jepej
-aksi
 iranit
 nese
 shabani
@@ -629,7 +619,6 @@ keshtu
 kodheli
 vv-
 69
-ban
 marko
 rr
 73
@@ -671,7 +660,6 @@ gjenevë
 naser
 nobel
 ruçi
-çonin
 asnjëra
 donika
 irani
@@ -680,7 +668,6 @@ tashi
 thaçin
 2-3
 77
-derbi
 dy-tri
 fifa-s
 kusari-lila
@@ -811,6 +798,7 @@ jozefina
 nexhat
 cfarë
 ejupi
+aleancën
 -dpa
 atsh-dpa
 financiarisht
@@ -830,7 +818,6 @@ shqiperi
 austro-
 mustafës
 sejko
-titullar
 1974
 ketij
 dhimitër
@@ -852,6 +839,7 @@ spartak
 uefa-
 mario
 oscar
+tifozë
 albi
 with
 gjoka
@@ -877,7 +865,6 @@ jezus
 panariti
 160
 akp-
-rrezet
 27-
 drinit
 folën
@@ -892,7 +879,6 @@ fmn
 kolë
 pro-
 psg
-bik-
 januzaj
 nora
 tahir
@@ -914,7 +900,6 @@ juventus
 1939
 diana
 maliqi
-agimi
 azemi
 vmro-dpmne-së
 26-
@@ -930,9 +915,7 @@ limajt
 master
 nikoll
 vii
-ajeti
 daily
-dom
 kristo
 njëherit
 show
@@ -956,7 +939,6 @@ stop
 mpj-
 pdiu-së
 arm-
-humane
 kokëdhima
 mpj
 ldk-në
@@ -992,7 +974,6 @@ epirit
 milano
 nexhmije
 auditimit
-axhenda
 boston
 gjorge
 golden
@@ -1037,7 +1018,6 @@ osaj
 roshi
 vëllaznimi
 xhevdet
-çanga
 35-
 arifaj
 jose
@@ -1078,7 +1058,6 @@ milani
 milo
 atletico
 blushit
-dixhital
 eqrem
 115
 1952
@@ -1095,7 +1074,6 @@ kamberi
 mpb-së
 qemajl
 adrian
-human
 title
 ymer
 1973
@@ -1129,7 +1107,6 @@ hamza
 iran
 smith
 sveçla
-beri
 hill
 silva
 1950
@@ -1154,7 +1131,6 @@ merkato
 peleshi
 pksh
 adili
-bogdani
 dejan
 galaxy
 merkatos
@@ -1299,7 +1275,6 @@ hovenier
 rdk
 barcelonën
 uet
-çojmë
 adil
 dmth
 florian
@@ -1381,7 +1356,6 @@ luajtën
 stoltenberg
 thoma
 arianiti
-bebe
 durres
 gjërë
 hysaj
@@ -1424,7 +1398,6 @@ jashte
 skënderaj
 vangjush
 1969
-agimit
 daçiqit
 dhë
 gsh
@@ -1498,7 +1471,6 @@ pakistan
 paprecedentë
 stavileci
 xhuvani
-çoj
 1957
 albana
 albulena
@@ -1540,7 +1512,6 @@ hajvalisë
 luli
 zajmi
 190
-bare
 dajtit
 dervishaj
 duraku
@@ -1607,7 +1578,6 @@ euronews
 jakobit
 mafia
 shaw
-axhendë
 azo
 beni
 bqk-
@@ -1626,7 +1596,6 @@ luiz
 33-
 9-vjeçare
 davidit
-eni
 hazbiu
 menyre
 nura
@@ -1664,7 +1633,6 @@ xxi
 1937
 1962
 2007-
-abuzive
 bernabeu
 boteror
 kryeminister
@@ -1684,7 +1652,6 @@ munchen
 reçakut
 treqind
 bahri
-balili
 batuta
 fbi
 muça
@@ -1737,7 +1704,6 @@ teodor
 tomislav
 babës
 biasi
-bik
 eulex-in
 fernando
 finlandës
@@ -1843,7 +1809,6 @@ suarez
 trebicka
 voa
 1959
-aks
 aleksander
 aluizni-
 barrierat
@@ -1874,7 +1839,6 @@ thanasi
 ahtisarit
 aliaj
 ankaraja
-babilonisë
 email
 facebook-
 françesku
@@ -1886,7 +1850,6 @@ zahir
 aliun
 bujanocit
 cia
-dixhitale
 emigracioni
 hysit
 ibrit
@@ -1903,6 +1866,7 @@ guardian
 ish-kreu
 ish-kryeministrin
 lavrov
+ndërgjegjja
 poradeci
 shaip
 xhelili
@@ -1920,7 +1884,6 @@ scholz
 sharrit
 trabonini
 trumpit
-çollaku
 108
 amir
 arabia
@@ -1985,7 +1948,6 @@ tkobap
 13-të
 2500
 36-
-aksit
 bardheblutë
 event
 fejzullahu
@@ -2035,7 +1997,6 @@ yee
 -30
 37-
 afganistanit
-alpeve
 aluizni-t
 bayernit
 bild
@@ -2082,7 +2043,6 @@ neritan
 salustro
 story
 stres
-tonet
 vettel
 1909
 bqk-së
@@ -2162,7 +2122,6 @@ unesco
 1964
 asgje
 aurela
-denar
 elton
 freedom
 haxhia
@@ -2194,7 +2153,6 @@ sadri
 valdet
 çekrezi
 10-të
-balilit
 ce
 daçiç
 dedikuara
@@ -2204,12 +2162,10 @@ fox
 frënge
 katy
 kevin
-kuriozitet
 legio
 leoni
 les
 libia
-murrme
 nicolas
 nikanor
 rama-basha
@@ -2225,7 +2181,6 @@ audio
 baki
 besart
 bledar
-edh
 florida
 gjekmarkaj
 gjici
@@ -2242,7 +2197,6 @@ samaras
 xhemajli
 af
 aristotelit
-bllaca
 ferati
 jaupaj
 jezusit
@@ -2294,7 +2248,6 @@ roger
 rrustemi
 xhaferit
 550
-akse
 arabisë
 benzema
 bumçi
@@ -2334,7 +2287,6 @@ vasilika
 voice
 -assad
 -tën
-alpet
 andreas
 arlind
 blinken
@@ -2342,7 +2294,6 @@ esat
 faruk
 imeri
 journal
-kurioz
 latif
 lotë
 mafioze
@@ -2544,7 +2495,6 @@ pano
 pence
 philip
 shkelzen
-çako
 119
 280
 47-
@@ -2597,7 +2547,6 @@ trump-
 330
 39-
 5-të
-ago
 cani
 chelseat
 copëz
@@ -2641,7 +2590,6 @@ kejdi
 land
 limituar
 lushnjes
-mirëmëngjes
 natalitetit
 nish
 normalitet
@@ -2700,7 +2648,6 @@ ngritet
 obligueshme
 pese
 praxis-
-preferencat
 secret
 steve
 wayne
@@ -2741,7 +2688,6 @@ unesco-
 vokrri
 ështe
 1800
-akseve
 aniston
 arianitit
 bashkëkryerje
@@ -2774,7 +2720,6 @@ arabinë
 aristir
 banesore
 blatter
-bërryl
 dijnë
 engel
 fsk-në
@@ -2797,7 +2742,6 @@ vlladimir
 2013-n
 41-
 afatmesme
-agon
 araniti
 bardhekaltër
 benishi
@@ -2823,6 +2767,7 @@ zidane
 17-të
 1954
 adi
+aleance
 andrej
 anila
 assad
@@ -2889,7 +2834,6 @@ tekniko-
 vlla
 vushtrria
 x-
-çangës
 -40
 abstenim
 alba
@@ -2902,7 +2846,6 @@ bjellorusisë
 brahim
 cilen
 dajti
-domi
 egje
 ekspozimit
 gjeopolitik
@@ -2919,7 +2862,6 @@ terminalit
 tolaj
 tw
 xhudos
-zëvendësministrit
 1600
 1880
 alketa
@@ -2944,6 +2886,7 @@ udb-
 044
 175
 ac
+administrate
 bashes
 bechtel
 bqk
@@ -3048,7 +2991,6 @@ unesco-s
 142
 210
 43-
-ala
 apriori
 bardhebluve
 can
@@ -3110,6 +3052,7 @@ tkob
 toptani
 zharrëzës
 -metërsh
+-mun
 11-metërsh
 168
 alb
@@ -3228,11 +3171,11 @@ jim
 klosit
 kontraceptivëve
 ks
-kuriozitete
 kzaz-
 lnç
 mocioni
 mr
+mun
 orav
 pluraliste
 shm
@@ -3244,7 +3187,6 @@ unitedi
 75-
 ad-
 bavarez
-bene
 danas
 eshton
 fatka
@@ -3334,7 +3276,6 @@ pakontestueshme
 pjerin
 pjetrit
 ppe
-preferenca
 përrenj
 raiffeisen
 report
@@ -3345,13 +3286,11 @@ trojës
 vlerësuara
 vllasi
 zharku
-çliron
 2025
 24-orësh
 8733
 albpetrol
 andej-këndej
-arrëz
 atalanta
 bb
 berlusconi
@@ -3400,7 +3339,6 @@ xhafajt
 9125
 austro-hungarisë
 bastion
-beniaminit
 boletinit
 brahimi
 brokaj
@@ -3456,7 +3394,6 @@ atp-
 berluskoni
 bibl
 bjellorusia
-bombat
 brooklyn
 crystal
 danubit
@@ -3482,7 +3419,6 @@ marc
 mini-
 mjeda
 mo-
-perceptohet
 permes
 poiesis-
 populizmi
@@ -3600,7 +3536,6 @@ zara
 85-
 aksidentuar
 antony
-apasionuar
 aqsh
 arifit
 asocimit
@@ -3747,7 +3682,6 @@ vmro-dpmne-ja
 192
 1926
 208
-alfa
 aston
 bejrut
 bienalen
@@ -3806,7 +3740,6 @@ bfi-
 bilal
 bilalli
 blerand
-bogdanit
 brendshem
 bulqizës
 cez-
@@ -3865,7 +3798,6 @@ berliozi
 cd
 college
 cërvenkovskit
-dede
 deva
 elvira
 eventi
@@ -3968,7 +3900,6 @@ timo
 uejl-
 varenuha
 vizionar
-çosh
 149
 15-vjeçare
 152
@@ -3976,7 +3907,6 @@ vizionar
 1933
 2016-2017
 205
-abe
 adela
 aktiviste
 arbërie
@@ -4006,7 +3936,6 @@ konomi
 kostt
 kotevski
 kurbinit
-kurioziteti
 lb-së
 llambi
 louis
@@ -4036,7 +3965,6 @@ web
 2013-s
 45-të
 aids
-akçe
 ambjentet
 aurel
 barbara
@@ -4089,16 +4017,15 @@ ukt
 veshtire
 wolfgang
 xhezari
+zotër
 153
 1897
 25-vjeçare
 ajax
-ajet
 atk-
 avokate
 bakiri
 borges
-bosne
 bundestagut
 cyrih
 dallas
@@ -4145,7 +4072,6 @@ swift
 turbo
 vërdhoma
 was
-çlirojë
 çudira
 -odihr
 100-vjetorit
@@ -4182,7 +4108,6 @@ mbarëshqiptare
 meritor
 milto
 mocionit
-murrmë
 musait
 muë
 nehat
@@ -4194,14 +4119,12 @@ ramushi
 reciprokisht
 rezident
 rikonstruktuar
-rrezeve
 rrustem
 sava
 scarlett
 seriali
 sigmar
 tech
-titullari
 trajtuara
 valencia
 volers
@@ -4306,7 +4229,6 @@ ndërministror
 neranxi
 on-
 parker
-preferencave
 privatësinë
 protected
 rendesishem
@@ -4328,7 +4250,6 @@ zrre-
 1991-
 54-
 950
-agimin
 agro-
 alush
 amen
@@ -4397,6 +4318,7 @@ vip-
 vogue
 vraniqi
 web-
+xhinse
 1400
 185
 187
@@ -4446,7 +4368,6 @@ kontroverse
 kreditimi
 kriminalizuar
 likovë
-lobuar
 lsi-se
 lushta
 manualadvance
@@ -4473,7 +4394,6 @@ slices
 xox
 zejnulla
 çeljes
-çoni
 -2018
 -tuk
 1700
@@ -4485,9 +4405,7 @@ aktvendim
 america
 arratisjes
 azemin
-bani
 bido
-bllacë
 cefta-
 cri
 cuar
@@ -4535,7 +4453,6 @@ andres
 banoret
 bashotës
 benedikti
-calit
 clippers
 dedë
 denver
@@ -4604,7 +4521,6 @@ bastisjes
 bayernin
 beqa
 berisha-
-brokoli
 carey
 cheryl
 council
@@ -4664,9 +4580,6 @@ shehët
 skajshmërisht
 terezën
 thethit
-titullarit
-titullarë
-titullarët
 usb
 valentinit
 veriatlantike
@@ -4693,7 +4606,6 @@ bajern
 bejko
 casillas
 cohen
-denarit
 diskursin
 efektivitetin
 etleva
@@ -4708,7 +4620,6 @@ htc
 jahja
 kaloshi
 kazazi
-kuriozë
 laprakë
 liburn
 license
@@ -4727,7 +4638,6 @@ nebojsha
 njehere
 paa
 pershendetje
-personalizuar
 petrela
 poliçanit
 premierligës
@@ -4854,7 +4764,6 @@ bfi-së
 biznesore
 bk
 blake
-bllacës
 budi
 buenos
 bufetieri
@@ -4930,6 +4839,7 @@ taqi
 unitar
 utah
 valley
+vezëve
 vincent
 vojisllav
 xhexhoja
@@ -4953,7 +4863,6 @@ alves
 arif
 atalantës
 atsh-b
-aurora
 aviv
 bfi
 bypass-
@@ -4966,7 +4875,6 @@ edit
 ekspozimin
 elizabeta
 epirin
-evakuuar
 formësimin
 françeskut
 funksionalizimin
@@ -5020,7 +4928,6 @@ vs
 xhaferin
 zanfina
 zharko
-çliroi
 -22
 -ldd
 -vjecar
@@ -5036,7 +4943,6 @@ zharko
 277
 365
 70-ta
-ajetit
 aplikuesit
 apollonisë
 arkitekturore
@@ -5045,8 +4951,6 @@ atsh-aa
 avramopulos
 bagdadit
 baku
-balilin
-bebja
 broz
 bruce
 canës
@@ -5116,18 +5020,17 @@ xhemajl
 211
 4500
 aliko
-ambulantë
 angel
 athletic
 beograd-prishtinë
 beogradase
 bienalja
 borges-
-bumerang
 bunk
 bylbyl
 cezari
 china
+cilë
 dakordësuar
 deportivo
 dhima
@@ -5210,7 +5113,6 @@ bardhekaltrit
 bolton
 budapestit
 bulka
-cali
 cefta-s
 dimitar
 drecun
@@ -5355,7 +5257,6 @@ non-
 ola
 paekspozuarit
 patundshmërive
-perceptuar
 populizmit
 qender
 renea
@@ -5465,7 +5366,6 @@ uruçi
 vaclav
 vecantë
 vullin
-çarter
 -1944
 -2009
 -moon
@@ -5817,7 +5717,6 @@ zps-
 albeu
 ardhshem
 arm
-babiloni
 bashkërendim
 bazelit
 bicaj
@@ -5931,7 +5830,6 @@ zez
 7501
 90-s
 alija
-amonit
 antidrogës
 antrakidi
 ardjan
@@ -5964,7 +5862,6 @@ gripale
 grizaraku
 gurakuqit
 guraziu
-gërma
 ibishi
 ifc
 in-
@@ -6002,7 +5899,6 @@ petersburg
 pezm
 politikëbërësit
 pons
-preferencë
 përfituara
 përgjithëshme
 rakiq
@@ -6019,12 +5915,10 @@ stankoviq
 tekstualisht
 velesit
 vergara
-vetull
 xhudistja
 zh
 zj
 zyrih
-çangën
 -1990
 1-8
 193
@@ -6093,7 +5987,6 @@ kasimati
 kasëm
 kostë
 kuorumit
-kuriozitetin
 lajçakun
 leter
 libanit
@@ -6177,7 +6070,6 @@ brezovica
 bushatllinjve
 civici
 claudio
-denarëve
 denuar
 depozitimin
 destabilizojnë
@@ -6317,7 +6209,6 @@ b1
 bajgora
 bankina
 bd-
-beben
 bezdi
 biazin
 blancos
@@ -6443,7 +6334,6 @@ zotëriu
 460
 540
 64-
-ajetin
 alepos
 almir
 alsat-m
@@ -6456,7 +6346,6 @@ apostolova
 artmotion
 balkans
 ball
-beci
 blodini
 bundestag
 celta
@@ -6496,7 +6385,6 @@ ilnica
 indeksimi
 insajderi
 interpol-
-inventar
 ish-krerëve
 ish-pronarëve
 ivanit
@@ -6531,7 +6419,6 @@ namuna
 ndriçuara
 nelson
 olloman
-ovale
 ovl
 pankinë
 paparacët
@@ -6644,7 +6531,6 @@ iliro-shqiptare
 ilmi
 inerte
 inovativ
-inventarit
 ipk-
 jacques
 jahmir
@@ -6701,7 +6587,6 @@ sexhde
 shengenit
 sida
 simaku
-supermarketeve
 tadiqi
 trajanovski
 veternik
@@ -6730,7 +6615,6 @@ ziçishti
 760
 78-
 agjencionit
-albatros
 aliçka
 almiri
 amber
@@ -6740,8 +6624,6 @@ angelo
 arban
 ardita
 arkivës
-bajnë
-barazhit
 bashen
 bb-së
 bektashizmit
@@ -6833,7 +6715,6 @@ naimin
 napoleon
 nba-
 nigeri
-nxitimthi
 orikumit
 pamundësojnë
 pasionant
@@ -6884,7 +6765,6 @@ zhitit
 zrre
 çajë
 çerçiz
-çlironte
 -80
 1-3
 212
@@ -6904,7 +6784,6 @@ amos
 arjen
 arqile
 artikulon
-asociuar
 assadit
 atk-së
 avokates
@@ -6919,7 +6798,6 @@ brand
 burr
 cader
 casper
-cena
 ciles
 comey
 dakordësi
@@ -7146,7 +7024,6 @@ kontejnerëve
 kostallari
 kuorum
 kurdët
-kurioze
 kurtaj
 kurz
 kylian
@@ -7224,10 +7101,10 @@ verdit
 vi-
 votes
 welle
+xhinset
 yi
 zajednica
 zhulali
-zëvendësministrin
 çalik
 çekrezit
 -1997
@@ -7242,13 +7119,10 @@ zëvendësministrin
 371
 999
 about
-abuziv
 alizoti
 apke-
 arlinda
 asham
-atak
-avokado
 benediktit
 berluskonit
 bojiq
@@ -7289,7 +7163,6 @@ hegelin
 heth
 hovenieri
 hudson
-inventarin
 ivanoviqin
 jemini
 jordanin
@@ -7342,11 +7215,9 @@ nysret
 off
 oranews
 parealizuar
-patnë
 paviçeviq
 paçramit
 pdsë
-pedonale
 penalizohen
 pergjigjur
 pervers
@@ -7382,7 +7253,6 @@ skamja
 smajli
 spostuar
 steblevë
-supermarketet
 tajip
 tasim
 telajo
@@ -7444,7 +7314,6 @@ diferencimit
 disney
 disperzuara
 dokumentimit
-domenin
 drinin
 dybala
 ebert
@@ -7503,7 +7372,6 @@ krahëror
 krusha
 kurrikulave
 kylie
-laptop
 libinë
 llamkosi
 luzi
@@ -7522,7 +7390,6 @@ meçin
 mmph-
 moxartit
 mrekullira
-nalt
 ndertuar
 ndroqi
 nentor
@@ -7901,7 +7768,6 @@ ossh
 paragr
 parisien
 pavar
-perceptohen
 perendimor
 peshkopia
 petros
@@ -7939,6 +7805,7 @@ tallava
 tec-it
 termokos
 thompson
+tifozësh
 tomorri
 transfere
 ts
@@ -7964,7 +7831,6 @@ xhafën
 ylljet
 zotkaj
 zps
-çonim
 -2000
 -2008
 -35
@@ -8060,7 +7926,6 @@ kunis
 kurila
 kushtetuten
 kësodore
-lapsus
 latifin
 legionis
 lekajt
@@ -8136,7 +8001,6 @@ ricikluar
 rikuperimit
 ringritjen
 robertit
-rrezja
 rrokaj
 rsfj-
 rundin
@@ -8158,7 +8022,6 @@ stabël
 stopuar
 sunit
 supergol
-supermarket
 ted
 tenderuese
 thaci
@@ -8182,7 +8045,6 @@ xvi-
 zamira
 zanit
 zyrihut
-çeço
 -2004
 -2010
 -47
@@ -8213,7 +8075,6 @@ abimeleku
 adams
 administruara
 admirali
-ajsbergut
 alfredo
 alias
 ancelottit
@@ -8437,10 +8298,8 @@ autovetura
 avdi
 ayrault
 balle
-bam
 begatinë
 belshit
-bernë
 bik-u
 bomberi
 bonove
@@ -8534,7 +8393,6 @@ leks
 likës
 lirise
 listuara
-lobojë
 lokalisht
 longari
 lzhk-
@@ -8603,7 +8461,6 @@ sofë
 sorensen
 sotem
 spd-
-spikeri
 split
 stojan
 sërishme
@@ -8676,7 +8533,6 @@ begeja
 bildt
 blatimin
 bloom
-bogdanin
 booker
 borell
 borshit
@@ -8698,7 +8554,6 @@ drashkoviq
 dubrovnik
 dëshpërimisht
 eden
-ekologjisë
 ekzil
 ekzistuari
 elezaj
@@ -8759,7 +8614,6 @@ last
 lazion
 lita
 liu
-lobojnë
 lori
 luganon
 lumo
@@ -8855,6 +8709,7 @@ xhons
 yndyrna
 zastita
 zenë
+zotërve
 zrre-së
 çelsit
 -1912
@@ -8951,7 +8806,6 @@ everest
 faltore
 family
 fanelën
-farizenjtë
 fenomenale
 findrejtori
 fishekzjarre
@@ -8981,7 +8835,6 @@ humphries
 ideator
 imponuese
 inter-
-inventari
 io
 ish-anëtari
 ish-gjenerali
@@ -9069,6 +8922,7 @@ qendroje
 qendrueshme
 radmilla
 ramushin
+rashës
 ratel
 rd
 rdgj
@@ -9170,7 +9024,6 @@ barcelonen
 bashkërendimi
 bastisjeve
 bastriu
-bebes
 benefite
 bernsteini
 bezdomnij
@@ -9347,7 +9200,6 @@ ss
 stullpansi
 suad
 sues
-supermarkete
 supozuara
 suv
 tashkos
@@ -9375,7 +9227,6 @@ zografi
 zymeri
 çajup
 -200
--dom
 045
 14-vjeçare
 150-
@@ -9400,10 +9251,8 @@ anetare
 argumentat
 arsovski
 asgja
-axhendat
 axhize
 azizi
-ber
 berliozit
 beshiri
 besiana
@@ -9562,7 +9411,6 @@ paok
 papërgjegjshmëri
 pasarela
 pepa
-perceptojnë
 persik
 phillips
 piraj
@@ -9609,7 +9457,6 @@ tedi
 temalit
 terhequr
 thellë-thellë
-thërresin
 tivari
 tmk-
 transcendentale
@@ -9895,7 +9742,6 @@ task-forcë
 teb
 tereze
 tiroides
-titullarëve
 tob
 toena
 togos
@@ -9992,7 +9838,6 @@ bosnje-hercegovinë
 brik
 brunilda
 bukoshit
-bërrylin
 bërxhukut
 cadrën
 caprio
@@ -10206,7 +10051,6 @@ zhitin
 zones
 zymberit
 çashtje
-ço
 çoba
 -1998
 -bdi
@@ -10260,7 +10104,6 @@ aspirante
 auv-
 azdren
 babrru
-baj
 bastione
 bay
 bega
@@ -10278,7 +10121,6 @@ book
 bosque
 brandt
 bullgaro-
-bulçitë
 butelit
 cekura
 center-
@@ -10312,14 +10154,12 @@ eficiencë
 eficiencës
 efiçienca
 ehat
-eklipsi
 ekselentë
 ekspansionit
 eksplorimi
 eksplorimit
 ekuacion
 elon
-embrion
 emetimit
 emily
 eminent
@@ -10577,7 +10417,6 @@ ak-47
 al-nassr
 albanese
 alfatoksinës
-aloe
 amal
 ambientale
 amendola
@@ -10598,7 +10437,6 @@ badivuku
 bajri
 bakajt
 basha-
-bebet
 bell
 beshiktash
 bislimit
@@ -10746,6 +10584,7 @@ monsinjor
 moren
 moslojë
 mozart
+mujtë
 mulleti
 munchenit
 munro
@@ -10808,7 +10647,6 @@ rfj
 robt
 romain
 roskovec
-rrezen
 rrëfimtar
 safete
 sallaku
@@ -10839,7 +10677,6 @@ starovën
 startojë
 stephan
 sukth
-survejuar
 tares
 telenovelë
 territorialisht
@@ -10949,7 +10786,6 @@ berishë
 betina
 bino
 blomeyer
-borut
 bosnje-hercegovina
 bosnjë-hercegovina
 bottas
@@ -10985,7 +10821,6 @@ egoizmi
 egoizmin
 ekstrakt
 ekzagjeruara
-elbi
 eleazar
 elhami
 elmi
@@ -11114,7 +10949,6 @@ ndërprehet
 nemanja
 ngreu
 novruzit
-nuni
 nzz
 nëntëvjeçare
 official
@@ -11283,7 +11117,6 @@ bageri
 balaku
 ballazhi
 banoreve
-barcoleta
 barçën
 bashkërendimit
 bedriu
@@ -11320,7 +11153,6 @@ deshtuar
 dhabi
 dhenat
 dollnenit
-dopingut
 duhanpirja
 dytri
 dëpër
@@ -11333,7 +11165,6 @@ ekspres
 ekuivok
 electronics
 elefant
-elegji
 elem
 eleven
 elina
@@ -11438,7 +11269,6 @@ maqedonëve
 marie-
 mash-in
 mbipopulluar
-mbëdha
 mediaset
 meditative
 meditim
@@ -11448,6 +11278,7 @@ miamit
 miletiq
 monodrama
 muhadri
+muji
 mulliqit
 multikulturor
 munichu
@@ -11489,7 +11320,6 @@ pashmangshmërisht
 patolerueshëm
 peloponez
 peposhi
-percepton
 pergjigjen
 perikli
 peru
@@ -11655,7 +11485,6 @@ autenticitetin
 ave
 azazelloja
 b6
-babilonia
 bach
 bahmut
 bair
@@ -11708,7 +11537,6 @@ diabolike
 dialogojë
 diktatures
 disha
-donat
 doreheqjen
 dpt-
 dritëronë
@@ -11868,7 +11696,6 @@ nezirit
 ngua
 nine
 noel
-nunit
 nyon
 nënçmuese
 od
@@ -12017,7 +11844,6 @@ zguro
 zorba
 zverev
 çetta
-çliroj
 ësisht
 -2003
 -2031
@@ -12083,10 +11909,8 @@ bajroni
 bamieh
 bavaria
 bean
-bebeve
 bechtel-enka
 bei
-bereta
 berishizmit
 berlusconit
 billy
@@ -12437,8 +12261,6 @@ zuka
 zym
 çapajev
 çelsin
-çliro
-çlirojnë
 ëndër
 -1908
 -1948
@@ -12497,7 +12319,6 @@ aksionerëve
 alaska
 albafone
 alguns
-ambulant
 amery
 ami
 anderlecht
@@ -12545,7 +12366,6 @@ bp
 bpv
 brandi
 brende
-bufon
 bujqë
 bullock
 bulls
@@ -12576,24 +12396,20 @@ demaçin
 dhallë
 diagnostikohet
 diber
-dioqezës
 djelmoshave
 dokufestit
 dones
-doping
 dostojevski
 dubait
 dudaj
 durant
 duçes
 dv
-dykrenare
 dëshëruar
 eagles
 east
 eduardi
 eide
-ekologji
 eksod
 elem-
 emetimin
@@ -12775,6 +12591,7 @@ monacos
 moraliteti
 mortja
 moxart
+mujt
 multilateral
 mumajesi
 muzinës
@@ -12821,7 +12638,6 @@ pasko
 pasok
 passion
 patriarkisë
-peshkuar
 petroviç
 peç
 pipeline
@@ -12901,13 +12717,11 @@ sveçlës
 syriza
 tekembramja
 themud
-thërres
 titanic
 together
 tola
 tomka
 tonxh
-tonësh
 tung
 ue-së
 uf
@@ -13031,14 +12845,12 @@ asnjëlloj
 asocim
 athanasi
 atlantic
-autizëm
 auv
 avdulla
 bacon-
 bahrein
 bajer
 bajernin
-bajmë
 bako
 balotellit
 barbadosi
@@ -13066,7 +12878,6 @@ body
 bosnjen
 boterorin
 bouffier
-brace
 brindizi
 brod
 brutaliteti
@@ -13249,7 +13060,6 @@ letren
 libanin
 likaj
 lilit
-lobon
 lodeve
 loriku
 luftra
@@ -13292,6 +13102,7 @@ monti
 moreno
 mou
 mugoshën
+mujë
 musain
 muxhahedinëve
 muçollari
@@ -13567,7 +13378,6 @@ arm-ja
 asanajt
 ashtonit
 athanas
-auditit
 audituar
 augustit
 aurelit
@@ -13608,7 +13418,6 @@ building
 bujanovcit
 buk
 bunë
-calin
 cangonjit
 cardiff
 certificates
@@ -13637,6 +13446,7 @@ denim
 deponinë
 detyres
 dewi
+dhet
 dhimitraq
 dialogojnë
 dikënd
@@ -14076,8 +13886,6 @@ zvërnec
 zyrihu
 çaja
 çeshtja
-çeçoja
-çlironin
 çuditëshme
 ë-në
 ëndërrat
@@ -14085,7 +13893,6 @@ zyrihu
 -1881
 -2002
 -65
--arrëz
 -barcelona
 -marc
 -milan
@@ -14178,9 +13985,7 @@ bakteriologjike
 balotellin
 baltik
 bankinës
-barazh
 barel
-barelë
 bareve
 baroso
 barthes
@@ -14191,7 +13996,6 @@ batllavës
 bavari
 bazen
 becker
-bejsbolli
 bennett
 berishizmi
 berlinale
@@ -14216,7 +14020,6 @@ brownfield
 brussels
 brutalitetit
 bukoshin
-bushat
 bushtricës
 buxheli
 buzëliqenasit
@@ -14430,7 +14233,6 @@ kuintave
 kujtojme
 kundert
 kuper
-kuriozitetit
 kurveleshi
 kusari-lilës
 këh
@@ -14647,7 +14449,6 @@ solomon
 sorosin
 sous
 spaçin
-spikerit
 spostimi
 spërkati
 staturën
@@ -14857,7 +14658,6 @@ blaugrana
 blind
 bogu
 bojëqielli
-bombola
 bonuseve
 borges-it
 bosnje-hercegovinës
@@ -14917,7 +14717,6 @@ dnv
 doktoruar
 domaj
 domosdonë
-dona
 doren
 dss
 duert
@@ -15246,7 +15045,6 @@ postuara
 pour
 prada
 preambulë
-preferencën
 presley
 prodi
 profesore
@@ -15353,7 +15151,6 @@ thaler
 theksimit
 theo
 thesalinë
-thërresë
 tianjin
 todd
 tonale
@@ -15372,6 +15169,7 @@ tërhallës
 ud
 ukshini
 urdhërarrest
+urt
 uzurpuara
 vajn
 vasiliqinë
@@ -15471,7 +15269,6 @@ zvezdës
 976
 995
 active
-adrenalina
 aeronautikës
 afarizmit
 agjencionin
@@ -15480,7 +15277,6 @@ akp-në
 akua
 alaskë
 alicia
-alpe
 alter
 amorejtë
 anagnostit
@@ -15510,7 +15306,6 @@ atëher
 audrius
 austral
 austrian
-autizmi
 aventureske
 az
 baal-
@@ -15560,6 +15355,7 @@ cas
 casino
 celsin
 cfr-
+cile
 coldplay
 connecticut
 cordignano-
@@ -15578,10 +15374,8 @@ delhi
 delia
 deliana
 demoniake
-denari
 denisa
 deralla
-derexhe
 deri-diku
 deshmon
 dfb
@@ -15836,7 +15630,6 @@ malatya
 malcis
 malick
 malteze
-mame
 mangjolli
 mansaku
 marga
@@ -16081,7 +15874,6 @@ teodorit
 thijs
 thing
 tomini
-toneve
 topojan
 toptha
 tours
@@ -16150,7 +15942,6 @@ zyret
 çehovit
 çenit
 çetnikëve
-çeçen
 çoçaj
 çveshur
 ëë
@@ -16167,7 +15958,6 @@ zyret
 -sadriu
 -shirt
 -tak
--zëvendësministri
 028
 035
 100-të
@@ -16288,7 +16078,6 @@ bekolli
 bektashizmin
 belleair
 bence
-beretën
 beshirit
 besianë
 bik-së
@@ -16307,7 +16096,6 @@ brishtësisë
 brodec
 broja
 brutalitet
-bruto-
 budva
 bujanovc
 bujrum
@@ -16327,14 +16115,12 @@ colonna
 couture
 croatia
 damir
-debile
 decidivisht
 dedën
 deliallisi
 deloitte
 demka
 democracy
-denarësh
 denigrimi
 deponive
 deportimit
@@ -16360,7 +16146,6 @@ doracaj
 dostojevskit
 doug
 draxler
-dum
 dykalimshe
 earthquake
 eastwood
@@ -16391,7 +16176,6 @@ evazive
 ezani
 ezdemiri
 fantastiko-
-farizenjve
 faustit
 fazen
 ferdije
@@ -16427,6 +16211,7 @@ gili
 gines
 gjallërim
 gjejlane
+gjellëve
 gjenerimit
 gjeoshkencave
 gjeoushtarak
@@ -16735,7 +16520,6 @@ politizuara
 ponta
 poradec
 porto-
-preferencës
 primera
 primin
 primit
@@ -16946,7 +16730,6 @@ zydi
 -2023
 -91
 -alb
--doping
 -germaini
 -heinz
 -holstein
@@ -17013,12 +16796,10 @@ abit
 abou
 abramit
 aderues
-adrenalinë
 adrianit
 agjensionit
 aio
 air-
-aks-
 aktrojnë
 akullnajat
 alabama
@@ -17030,7 +16811,6 @@ alpinistike
 ambiguitet
 aminin
 anamoravë
-andis
 anen
 animi
 antare
@@ -17046,7 +16826,6 @@ arkëtimit
 armatosjen
 arratisjet
 arritshmërisë
-arrëz-
 arvanitase
 ashtonin
 audicionet
@@ -17061,7 +16840,6 @@ autoritarizëm
 azazellos
 b2b
 baldushk
-bante
 banush
 barcaleta
 barcelona-
@@ -17094,7 +16872,6 @@ bogovinë
 bojken
 bonifejs
 books
-borsalinën
 bosch
 boxing
 bozdari
@@ -17156,13 +16933,11 @@ dibala
 diletante
 dines
 diogjenin
-dioqezat
 disiplinimit
 djale
 djellë
 dnipro
 dolit
-domen
 domenico
 dorothy
 dosier
@@ -17183,7 +16958,6 @@ efforts
 ehf
 eintracht
 eklatant
-eklips
 ekonomiko-sociale
 eksponateve
 ekspozues
@@ -17205,7 +16979,6 @@ eskaluar
 estate
 euroazi
 euroaziatike
-evakuohen
 evenimenteve
 evenimentit
 evokojnë
@@ -17361,6 +17134,7 @@ kairo
 kalkulimi
 kanabizim
 kanatat
+kancelaria
 kapelja
 kapilare
 kapitol
@@ -17412,7 +17186,6 @@ kukuzeli
 kulturore-artistike
 kumtet
 kuratorit
-kuriozët
 kurrikulare
 kurtajt
 kushtetutshmëria
@@ -17528,6 +17301,7 @@ numërta
 nënkalime
 nënkalimit
 nënkomisionit
+nësë
 obligues
 ofelia
 oficere
@@ -17564,7 +17338,6 @@ paz
 pbdnj-ja
 pbejl-së
 pediatrik
-pedonalja
 pellagonisë
 pellumb
 penalizimi
@@ -17713,7 +17486,6 @@ spasiq
 spelling
 spontaniteti
 sr
-stigmatizuar
 stokholmi
 straboni
 strakoshës
@@ -17759,7 +17531,6 @@ tureve
 tushaj
 tushemisht
 twiter
-tyn
 tynë
 u-20
 udb
@@ -17816,7 +17587,6 @@ zotrisë
 zotëriut
 zvrpp-
 çarjen
-çelebisë
 çelnin
 çiltërsinë
 -1913
@@ -17827,7 +17597,6 @@ zvrpp-
 -daçiç
 -marie
 -thaçi
--zëvendësministrit
 02-
 04-
 105-
@@ -17926,7 +17695,6 @@ arkivuara
 arkëtuara
 army
 artanës
-ase
 asfaltimit
 asfiksuar
 atarin
@@ -17935,7 +17703,6 @@ audituesit
 aureli
 autenticiteti
 autoambulancave
-autokrat
 autoritarizmin
 avril
 babani
@@ -17959,7 +17726,6 @@ begatitë
 behind
 behramajt
 bejlerbeut
-bejsbollit
 bejzade
 benficas
 berisha-nano
@@ -18084,11 +17850,9 @@ ekosistemit
 ekstazës
 elaboratin
 elasticitetin
-elb
 elefantët
 elefantëve
 emanuela
-embrioni
 emirit
 emisarë
 emërtesat
@@ -18150,7 +17914,6 @@ gjadri
 gjejne
 gjenital
 gjigandë
-gjithësecilit
 gjorgjeviq
 gjorgjievski
 gjuhësisht
@@ -18171,7 +17934,6 @@ guerlain
 gunther
 guvernës
 gër-
-gërmat
 gërryerjes
 hamasit
 hanover
@@ -18379,6 +18141,7 @@ mexhitit
 mhz
 micheal
 michigan
+mie
 migjenian
 mihajlovic
 miho
@@ -18583,6 +18346,7 @@ shskuk-ja
 shtatë-tetë
 shumicen
 shumë-etnike
+shëmbull
 sipërfaqësisht
 skiroi
 skodrës
@@ -18719,7 +18483,6 @@ zëvendës-kryeministri
 çelos
 çetnikët
 çkadoqoftë
-çmendi
 çubrilloviqit
 -180
 -1947
@@ -18836,7 +18599,6 @@ aliçkës
 alliance
 almirit
 alzheimer
-amalgamë
 amortizimin
 amour
 amsera
@@ -18862,7 +18624,6 @@ arber
 ardhe
 argj
 arrsh-
-arshin
 arsyeshmërinë
 arësyeja
 asadi
@@ -18871,13 +18632,11 @@ aspx
 atdhen
 atsu
 atu
-audit
 aurelian
 aus
 australise
 autogoli
 av
-avokadot
 avokatinë
 avrami
 away
@@ -18885,11 +18644,9 @@ bacon-i
 baden
 bagerit
 bahtirit
-bajagi
 bakija
 bakirin
 ballkanikoperëndimor
-bamit
 banking
 bardhylit
 barnaba
@@ -18972,14 +18729,12 @@ demaskimin
 demetri
 demirin
 denacionalizim
-denbabaden
 denigrim
 dennis
 deshire
 deshnë
 desku
 determinues
-detonator
 deus
 devis
 devollin
@@ -18987,7 +18742,6 @@ deçka
 dhora
 dilaveri
 dineja
-dioqezën
 dirigjuara
 display
 distribution
@@ -19019,7 +18773,6 @@ dw-
 dyzinë
 eam-it
 ebrahim
-edha
 eficienca
 eger
 eibar
@@ -19265,7 +19018,6 @@ kontaktues
 kontes
 kontrabandimi
 kontravers
-konë
 kopjuara
 korkyrës
 kornizuar
@@ -19501,7 +19253,6 @@ pellumbi
 pelosi
 penalizuan
 percakton
-perceptojmë
 perdite
 perfituar
 perjovschi
@@ -19535,7 +19286,6 @@ pro-rus
 proeuropiane
 prorektor
 proteksionizmit
-prralla
 prêt
 pshdk-së
 pushtetare
@@ -19641,6 +19391,7 @@ shoqerine
 shoqerohet
 shpezë
 shqipërin
+shtëpizën
 shullazin
 shumsin
 shumëplanësh
@@ -19753,6 +19504,7 @@ veberian
 veri-atlantik
 vesnik
 vetaksident
+vetullën
 vetëshkatërrimit
 vezaj
 veçant
@@ -19812,7 +19564,6 @@ zâ
 çarmatimit
 çavez
 çeçenisë
-çlirojmë
 çyrbja
 ëëë
 -1910
@@ -19964,7 +19715,6 @@ antioksidante
 antitank
 antiturke
 antonin
-apa
 apollonoviç
 aranzhmane
 arbanë
@@ -19987,11 +19737,9 @@ atsh-behlul
 aubamejang
 audi-
 autenticitetit
-autizmit
 autoveturat
 auv-së
 aventador
-babiloninë
 bahmutin
 bajaziti
 bakir
@@ -20049,9 +19797,7 @@ buxhelit
 bërnicë
 bërns
 bërzeshta
-cal
 canada
-capa
 caquot
 carmelo
 carol
@@ -20470,14 +20216,12 @@ lambertz-
 lance
 lancuar
 lapraka
-laptopi
 largme
 lars-
 lars-gunnar
 latakia
 latina
 latunski
-lavaman
 legia
 lejën
 leko
@@ -20587,6 +20331,7 @@ mt
 mubaraku
 mudryk
 muhtar
+mujit
 mujku
 mullet
 multimilionerë
@@ -20796,7 +20541,6 @@ rosu-
 roterdam
 rouge
 rradhiqet
-rrezesh
 rrezikshem
 rrotacion
 ruandë
@@ -21071,7 +20815,6 @@ zvicer
 -9m
 -asadit
 -atalanta
--balla
 -info
 -ix
 -k
@@ -21238,7 +20981,6 @@ arafatit
 arbjola
 ardhmën
 area
-argjinaturës
 ariel
 aristoteliane
 arrsh-së
@@ -21267,13 +21009,10 @@ avantazhuar
 avivit
 avokaturën
 avonet
-axhendave
 azhurnimin
 azra
-babilonit
 baboçi
 bajronit
-bami
 banderas
 bang
 bankes
@@ -21330,7 +21069,6 @@ bojom
 bolëngës
 bombastik
 bomberit
-bombolave
 bonati
 bond-
 bondit
@@ -21345,11 +21083,9 @@ brankoviçit
 bredhjet
 brennan
 brent
-brerore
 brescia
 breukëve
 brezhoi
-brezë
 brindizit
 brisbane
 brr
@@ -21425,7 +21161,6 @@ derthte
 descartes-it
 deshmoret
 destabilizon
-detergjent
 devizore
 dezinformim
 dezinsektimi
@@ -21469,7 +21204,6 @@ edmondi
 edo
 efnm
 eiu
-ekologjia
 ekonomiko-tregtare
 ekonomistit
 ekselencë
@@ -21503,7 +21237,6 @@ espn
 esquire
 eufratit
 evi
-evlija
 evodës
 evragolë
 evro-
@@ -21607,7 +21340,6 @@ greko-romake
 griffiths
 grizzlies
 gru
-guak
 guidës
 guljelm
 gurthemelin
@@ -22034,7 +21766,6 @@ osbe-se
 osdh-
 ovarit
 paa-ja
-paargumentuar
 padukur
 pae
 pafshehur
@@ -22067,8 +21798,6 @@ penalizim
 penalizime
 penaltia
 peran
-perceptohej
-perceptoj
 perdoret
 perendimit
 pergatitore
@@ -22111,7 +21840,6 @@ prevalit
 primatit
 princeps
 prokopis
-promemorje
 protagonizmit
 proust
 provizione
@@ -22121,7 +21849,6 @@ puerto
 punëmirët
 puzanovës
 pyetësim
-përbrendshmet
 përfaqsues
 përgjegjur
 përkatë
@@ -22479,7 +22206,6 @@ zveçanin
 zvonimir
 zëvendë
 çajrat
-çak
 çausheskut
 çavolli
 çdogjëje
@@ -22490,7 +22216,6 @@ zëvendë
 çelim
 çelje
 çikalleshi
-çita
 çiçek
 çmendurake
 çorrush
@@ -22618,7 +22343,6 @@ a1z
 abc-
 abramoviç
 absolutizmit
-abstraksioni
 aderholt
 aforistike
 agjencionet
@@ -22704,7 +22428,6 @@ atsh-anila
 auditimet
 auditorium
 audituara
-autizmin
 autoambulancën
 aviokompanisë
 açkës
@@ -22729,7 +22452,6 @@ baticë-zbaticat
 bdk
 bdsh-së
 beb
-bec
 beethoven
 behemoth
 bejtaj
@@ -22737,9 +22459,7 @@ bektashit
 believe
 benetton
 bengalskij
-beniamin
 benoît
-beretë
 bergant
 bergmanit
 berishist
@@ -22754,7 +22474,6 @@ bile-bile
 bilishti
 bipartizane
 bita
-bizhga
 bkuk-së
 blanchett
 bledit
@@ -22777,7 +22496,6 @@ bregenz
 brehtit
 brerje
 breshia
-brilantinë
 brindisit
 brishtësi
 brnabiç
@@ -22889,7 +22607,6 @@ diverolin
 diversifikim
 diversifikimit
 division
-dixhitalë
 dizdarin
 djelmuria
 dlirë
@@ -23322,7 +23039,6 @@ lajda
 lajmeruar
 lajmëruara
 lang
-laptopë
 lartmadhëria
 latino-amerikane
 lavazh
@@ -23456,6 +23172,7 @@ mpj-në
 mpms-së
 mti-ja
 mtpt-së
+muj
 mukës
 mullaj
 mumajesin
@@ -23522,7 +23239,6 @@ nl
 noaa
 nostrifikimit
 numëri
-nun
 nurës
 nvidia
 nxe
@@ -23589,7 +23305,6 @@ pdr-ja
 pearl
 pediatrike
 pedofilët
-pedonalen
 pegi
 pejiçit
 pelingu
@@ -23616,7 +23331,6 @@ petrovic
 photoshop
 picasso-
 pierce
-pikiatë
 pikpyetje
 pinto
 piolit
@@ -23903,12 +23617,10 @@ thaue
 thesalia
 thomson
 thurman
-thërresim
 tid
 timoshenkos
 tironës
 tokyo
-tonëve
 top-listën
 toskënishtes
 touring
@@ -23982,6 +23694,7 @@ x4
 xhavellën
 xhevatit
 xhina
+xhinseve
 xhirollogarisë
 xhiruara
 xhizjen
@@ -24023,8 +23736,6 @@ zysh
 çettës
 çiano
 çiltërsia
-çojeni
-çoji
 çuditni
 ënjtje
 ërthkuejks
@@ -24183,7 +23894,6 @@ afarizëm
 afrodita
 afërditë
 agjenturën
-agonte
 ah-hoc
 ahmetajn
 aidssh-
@@ -24274,11 +23984,9 @@ aushvic
 aushvicit
 autoambulancat
 autoimune
-autokratët
 autoriteve
 autoshkollat
 avelino
-avenir
 aviokompania
 avokatet
 axhemi
@@ -24290,7 +23998,6 @@ bajazit
 bajon
 baliq
 banania
-banga
 bangladeshin
 banti
 bar-kafeve
@@ -24316,10 +24023,7 @@ bellanoc
 bellinghamin
 bellovës
 bengazit
-beniamini
-beniaminin
 beninit
-beninje
 beppe
 beraha
 bernsteinit
@@ -24346,13 +24050,10 @@ bllazheviq
 bloc
 blv
 bocelli
-bogdan
 bogoviç
 boldrini
 bolzano
-bombash
 bonës
-borderotë
 borders
 borepastruese
 borxhia
@@ -24371,7 +24072,6 @@ brexit-it
 briks
 brilantë
 bsh-se
-buallicat
 budallë
 bumci
 bumçit
@@ -24474,7 +24174,6 @@ diokleciani
 dioksidit
 dionisi
 dionisiake
-dioqezë
 diplomojnë
 dirigjim
 dirty
@@ -24487,7 +24186,6 @@ dodekafonik
 dogs
 doktoraturave
 dolin
-domit
 dostojevskin
 dphm
 dphm-
@@ -24504,7 +24202,6 @@ dubrovniku
 duffy
 duisburg
 dulles
-dum-
 dunavatit
 duri
 dëbuese
@@ -24530,7 +24227,6 @@ ekstaza
 ekuipazhet
 elaborati
 elasticitet
-elbit
 elektrizuese
 eligerta
 elizabetë
@@ -24585,7 +24281,6 @@ famiglian
 fantazistin
 faq
 farina
-farizenj
 fatigue
 fatjona
 fatorinoja
@@ -24953,7 +24648,6 @@ kunorës
 kuratorin
 kurbinasve
 kurilën
-kuriozitetet
 kurkulas
 kurkush
 kushdoqoftë
@@ -24971,7 +24665,6 @@ lambert
 lamen
 lande
 lançua
-laptopit
 larisës
 lati
 laudrup
@@ -25283,15 +24976,12 @@ pelinku
 pem
 pengmarrjen
 perballet
-perceptua
-perceptuan
 performancen
 perfshihen
 perfundimin
 perfundimit
 perfundoje
 perpjekjet
-peshkon
 pesojne
 pesticidet
 petkovskit
@@ -25309,7 +24999,6 @@ pjer
 plan-programet
 plenkoviqi
 plotesojne
-pneumoni
 podrimës
 poe
 poenta
@@ -25771,11 +25460,9 @@ zürcher
 çadren
 çasin
 çepani
-çlirosh
 çne
 çobaj
 çobo
-çou
 éshtë
 ëeb
 -021
@@ -25974,7 +25661,6 @@ ageler
 agjencioneve
 agjensi
 agjentja
-agoi
 agro-eksportit
 ahmeti-
 aiba
@@ -26077,7 +25763,6 @@ artiola
 asambleistëve
 asensio
 ash-në
-ashkla
 ashr-
 ashr-së
 asiri
@@ -26099,7 +25784,6 @@ autoshkollës
 aventuror
 averzion
 avio-
-avokados
 avokon
 axel
 axhizebaba
@@ -26109,7 +25793,6 @@ baceviç
 badalli
 bagram
 baholli
-bahu
 bajazitit
 bajos
 balija
@@ -26117,7 +25800,6 @@ ballata
 ballkaniada
 ballsor
 balshën
-bam-
 banditistan
 bankingut
 bansko
@@ -26153,7 +25835,6 @@ belind
 bellanicë
 bellopoja
 bellos
-benc
 benefiteve
 benificione
 benishin
@@ -26182,7 +25863,6 @@ bjcem
 blerin
 blerizmit
 blinishti
-bllacën
 bloodlands
 blowitz
 bm-
@@ -26203,7 +25883,6 @@ botoksi
 botëra
 bozhidar
 bpv-ja
-bram
 brando
 brasilia
 brengelman
@@ -26229,13 +25908,11 @@ bylbylit
 bylmeti
 bypass-it
 bërryle
-bërryli
 california
 calmy-
 calmy-rey
 canard
 cantona
-cape
 capomazza
 cassel
 cauca
@@ -26297,7 +25974,6 @@ databazën
 dathë
 daud
 daça
-debil
 dedej
 dehjen
 dekania
@@ -26340,8 +26016,6 @@ difektoze
 different
 dimni
 dinën
-dioqeza
-dioqeze
 diplomates
 diplomoi
 diqysh
@@ -26360,8 +26034,6 @@ dolan
 domethënje
 domosdoja
 doors
-dopingu
-dopingun
 dr-ja
 dragobi
 dragobia
@@ -26399,8 +26071,6 @@ efse
 egmont
 eho
 ekipor
-eklipsin
-ekologjinë
 ekonomiko
 eksperimentimi
 ekspertimin
@@ -26795,6 +26465,7 @@ kampingje
 kampingut
 kamy
 kamzes
+kancelarisë
 kandile
 kaninën
 kanive
@@ -26944,8 +26615,6 @@ lagunore
 lammel
 lamtumirëse
 lançon
-laptopin
-laptopëve
 las-vegas
 lavazhe
 lavigne
@@ -27667,7 +27336,6 @@ suis
 suleyman
 sunny
 superluksoze
-supermarketi
 suplementi
 suprinën
 sveta
@@ -27821,7 +27489,6 @@ volebek
 vorfën
 vulgariteti
 vuçitërna
-vyshket
 vëllan
 vërdhomën
 vërmicë-
@@ -27886,7 +27553,6 @@ zërim
 çez
 çeçenia
 çiro
-çirrte
 çlodhte
 çollakaj
 çomja
@@ -28107,7 +27773,6 @@ abimelekun
 aboubakar
 abstenimit
 abstinenca
-abstraksion
 acta
 adebajor
 adham
@@ -28179,7 +27844,6 @@ aminoacide
 amoraliteti
 amullie
 anamali
-anatema
 anatemua
 anatomike
 anderlechti
@@ -28203,7 +27867,6 @@ antimafies
 antiperëndimore
 antireformë
 antisemite
-antishkencore
 antiterrorizëm
 antonela
 antoninus
@@ -28221,7 +27884,6 @@ arbënesh
 arbënisht
 ardha
 arealit
-argjinaturave
 arijeta
 arizonës
 arjola
@@ -28243,7 +27905,6 @@ asamblistëve
 ashton-
 asisti
 astanës
-atakut
 atel
 aterojnë
 atkinson
@@ -28251,14 +27912,12 @@ atëmot
 aubrey
 auckland
 audiovizuele
-auditi
 auditiv
 augsburg
 autoambulancës
 autobusat
 autocensurë
 autokomandë
-autokratë
 autoqefalia
 autoveturave
 auv-ja
@@ -28368,7 +28027,6 @@ bojaxhikja
 bomberin
 borba
 border
-bordero
 borge
 borovës
 bout
@@ -28382,7 +28040,6 @@ brendet
 brendon
 brest
 bring
-broken
 bruci
 bruklin
 bruti
@@ -28392,13 +28049,11 @@ budën
 bujqesise
 bukovë
 bules
-bumerangu
 buretos
 burnizieni
 burreli-erzeni
 burrështetasve
 butaforike
-butik
 butonat
 bvi-
 bërnabiqit
@@ -28523,7 +28178,6 @@ derby
 ders
 deshira
 deshmojne
-detonatori
 deveron
 dexter
 dezinformimi
@@ -28552,7 +28206,6 @@ distribuuar
 diversiteteve
 dividentit
 divjakë-
-djelm
 doan
 doarsa
 dobar
@@ -28567,7 +28220,6 @@ doll
 domethënjen
 dominus
 donaruma
-done
 doo
 dortmund-
 dossier-
@@ -28668,7 +28320,6 @@ eugjen
 eurokomisionerit
 europan
 eurovisionin
-evakuuan
 evangjelit
 eventesh
 evropi
@@ -28676,7 +28327,6 @@ ewan
 ezel
 ezeli
 fabrikimi
-faculetë
 fadilit
 falcon
 fallxhore
@@ -28711,7 +28361,6 @@ ferras
 ferreri
 festina
 fetiu
-fetva
 fia
 fibrozë
 fibula
@@ -28861,7 +28510,6 @@ guvernatorja
 guënon-
 guënon-së
 gër-mër-it
-gërmë
 gërqishte
 haas
 hadoja
@@ -29612,7 +29260,6 @@ pasternaku
 pastore
 patent
 patetizmi
-patit
 patmë
 patronës
 paundi
@@ -29868,7 +29515,6 @@ roçi
 rregjistrimi
 rreli
 rrethrrotullim
-rrezes
 rubik-
 ruiz-
 ruiz-calavera
@@ -30077,7 +29723,6 @@ sufizmi
 sufragane
 sukothit
 suksesive
-supermarketit
 superyllin
 supremacioni
 susuri
@@ -30139,7 +29784,6 @@ tili
 tirolit
 tirones
 titi
-titullarin
 titus
 tiu
 tj
@@ -30274,7 +29918,6 @@ vrakë
 vranajt
 vranishkovski
 vreme
-vreshtarisë
 vrrinit
 vrulltas
 vukovar
@@ -30296,7 +29939,6 @@ wp-content
 xhafen
 xhandarmeria
 xhaçkës
-xhel
 xhelalit
 xhelilin
 xhemailin
@@ -30597,7 +30239,6 @@ activa
 acura
 adhami
 adilën
-adjutanti
 admiralit
 adnanit
 adrianin
@@ -30615,8 +30256,6 @@ agalliun
 agasi
 agen
 agi
-agimet
-agorë
 agos
 agostino
 agravuar
@@ -30632,7 +30271,6 @@ ajaccio
 ajanët
 ajazaj
 ajme
-ajsberg
 akademizmit
 akan
 akarca
@@ -30666,7 +30304,6 @@ aleksandrov
 aleksandroviçi
 alergjike
 alergjikë
-alfa-
 alfatoksina
 aligierin
 alili
@@ -30724,10 +30361,8 @@ anversë
 apasionata
 apenineve
 apercepcioni
-aperitiv
 apex-
 apk-
-aradhet
 aranzhmaneve
 arbanon
 arbeit
@@ -30802,7 +30437,6 @@ bahrije
 bahriun
 bakayoko
 balancit
-balil
 balkanist
 ballabani
 ballaj
@@ -30810,12 +30444,10 @@ ballard
 ballkanweb
 balzak
 bangua
-bangën
 banjicë
 banken
 bankinat
 baptiste
-bard
 bardem
 barker
 barnabën
@@ -30862,7 +30494,6 @@ bentegodi
 bento
 benzeman
 benzemas
-benës
 beogradas
 beorit
 beqës
@@ -30890,7 +30521,6 @@ bih
 biheivoriste
 bijëve
 biliç
-bimit
 biopsi
 birn-i
 bishan
@@ -30912,12 +30542,10 @@ blunçli
 bodlerit
 boerit
 boksa
-bolenë
 bollano
 bolsonaros
 borchert
 borgjezo-revizionist
-borsalina
 bosnje-hercegovinën
 boulevard
 boyd
@@ -31088,7 +30716,6 @@ demenca
 deminimit
 demjan
 demokristianet
-denarin
 denime
 denj
 depardje
@@ -31125,7 +30752,6 @@ dilerat
 dilon
 dimas
 dimova
-dinozaurët
 diokle
 diplomatic
 diplomatikës
@@ -31195,7 +30821,6 @@ dvlottery
 dvp
 dy-ditore
 dya
-dylber
 dyll
 dyz
 dyzetepesë
@@ -31221,7 +30846,6 @@ egin
 egnacia
 ehud
 ejll
-eklipsit
 ekmeleddin
 ekonomin
 ekoturizmit
@@ -31281,7 +30905,6 @@ euro-integrues
 euro-perëndimore
 eurogrupit
 eurovisioni
-evakuohet
 everestin
 evidencimin
 evokimin
@@ -31297,7 +30920,6 @@ f-type
 fabinho
 facebookun
 fagun
-fait
 fallsifikuar
 familia
 famëlartë
@@ -31400,7 +31022,6 @@ fushë-dardani
 fyhreri
 fëmia
 fëmini
-fëstëkët
 gabiadini
 gabrieli
 gaddafin
@@ -31577,7 +31198,6 @@ hth
 huliganizmin
 humanizimin
 humanizimit
-humanë
 humbase
 hungarise
 hunt
@@ -31610,7 +31230,6 @@ ilin
 iliro-shqiptar
 illyrian
 iluzor
-incizojë
 including
 indeksohet
 indeksuar
@@ -31954,7 +31573,6 @@ lancet
 landë
 lanksch
 laosit
-laptopët
 lartëpërmendur
 lartësore
 latife
@@ -32001,7 +31619,6 @@ lladonshikovit
 llukani
 lob
 lobistët
-lobojmë
 locke-u
 lofven
 logan
@@ -32436,7 +32053,6 @@ pashitur
 pashpjeguar
 pastërta
 pasëm
-patin
 patricio
 patriots
 paulos
@@ -32459,7 +32075,6 @@ pelqente
 penestëve
 penthouse
 perballuar
-perceptonte
 perfundimi
 perfundimtar
 pergjate
@@ -32471,7 +32086,6 @@ perqind
 perseris
 personalizim
 pervoja
-peshkonin
 pesoi
 petefriu
 peteri
@@ -32539,7 +32153,6 @@ pozimi
 pozitivitetin
 ppsh-ja
 praktikues
-preference
 prevallën
 previoussibling
 principatit
@@ -32559,7 +32172,6 @@ proll
 proposed
 propozim-vendimit
 proserb
-prostituojë
 protection
 protestojne
 proxy
@@ -32583,6 +32195,7 @@ përgjithëmonë
 përkthimore
 përlep
 përlepnicë
+përligjjen
 përment
 përmëndur
 përngjituna
@@ -32953,7 +32566,6 @@ surprizues
 survey
 sushi
 suskind
-sutjene
 sutjenet
 suv-
 sv
@@ -33184,7 +32796,6 @@ vorskla
 voskuijl
 vraneshnicës
 vrasesit
-vreshtaria
 vrith
 vunoi
 vuçeviqi
@@ -33294,14 +32905,11 @@ zymber
 çerkezi
 çernobilit
 çisjordani
-çliromë
 çlloj
-çmendin
 çmitizuar
 çnuk
 çobës
 çomora
-çori
 çorrushi
 çquar
 çuarja
@@ -33342,7 +32950,6 @@ zymber
 -chievo
 -crotone
 -drejtore
--dum
 -exupery
 -facilitated
 -gazette
@@ -33355,6 +32962,7 @@ zymber
 -maliki
 -manchester
 -mark
+-munit
 -nassrin
 -nimani
 -palermos
@@ -33593,7 +33201,6 @@ aden
 adinoviç
 adishkembi
 adit
-adjutant
 adoptues
 adria
 advil
@@ -33601,7 +33208,6 @@ advocaat
 aek-
 afeksioni
 afghanistan
-agari
 agata
 agatha
 agje
@@ -33621,7 +33227,6 @@ aidssh-së
 aidës
 airbnb
 ajdareviç
-ajete
 ajnshtajnit
 ajp-ja
 akademine
@@ -33659,7 +33264,6 @@ albanoi
 albanopoli
 albian
 albiona
-albumina
 albëria
 albërisë
 alejhis-
@@ -33696,8 +33300,6 @@ ambalazhimin
 amber-
 ambivalent
 ambla
-ambulante
-ambulantët
 amerikano-jugore
 ametin
 amikut
@@ -33757,8 +33359,6 @@ aplikativ
 apokalipsës
 apps
 apr
-apë
-aradheve
 aranzhimi
 aranzhimin
 arastës
@@ -33862,8 +33462,6 @@ balukja
 banden
 bandite
 banerat
-bangat
-bangë
 bankrot
 bankrotit
 barabanë
@@ -33994,7 +33592,6 @@ brendëshëm
 brerja
 breton-
 brifingun
-brig
 bririn
 britanez
 brittany
@@ -34010,7 +33607,6 @@ bruto-prodhimit
 brzezinski
 bts
 buaca
-buallica
 buble
 budin
 bugjoni
@@ -34023,13 +33619,10 @@ bullshit
 bundesbank
 bunjakun
 bunkerizimi
-burrneshë
 bursasporit
 bursaç
-butiku
 butyrski
 butë-butë
-buxhuku
 buzkat
 buzëliqenasi
 bvi-së
@@ -34037,7 +33630,6 @@ byqmeti
 bytyqin
 bënçë
 bërdicës
-bërrylit
 bërtitjet
 bërxholit
 bërçkos
@@ -34065,8 +33657,6 @@ cave
 cd-së
 cec
 cektësinë
-cenë
-cenës
 ceo-
 ceremonine
 certifikaten
@@ -34203,7 +33793,6 @@ deskut
 destinit
 details
 detektorë
-detergjenti
 determinant
 detoksifikimin
 devinf
@@ -34237,7 +33826,6 @@ dimën
 dinamizim
 dinkiq
 dinosaurëve
-dinozauri
 dioksid
 diplomon
 director
@@ -34267,8 +33855,6 @@ doktrinore
 dokush
 dollneni
 domaniku
-domenet
-domeni
 domenik
 dominika
 donal
@@ -34366,7 +33952,6 @@ ekstrakteve
 ekuator
 elas-
 elba
-elegjinë
 elektro-energjetike
 elektroenergjitike
 elektrokosmet
@@ -34394,7 +33979,6 @@ elvisit
 email-e
 email-it
 emanuelin
-embrionit
 emergency
 emiljan
 emira
@@ -34452,7 +34036,6 @@ europianizimin
 europiano-perëndimore
 euroteam
 eurovizionin
-evakuojnë
 evertonin
 evil
 evolutavet
@@ -34651,7 +34234,6 @@ gjit
 gjithatë
 gjithëashtu
 gjithëkohshme
-gjithësecili
 gjolaj
 gjorçev
 gjozës
@@ -34725,7 +34307,6 @@ gvardiol
 gylenistët
 gërdovcit
 gërgurit
-gërmën
 haalandit
 habermas-
 habitatin
@@ -34875,8 +34456,6 @@ inagurohet
 incentivave
 incestin
 inciativa
-incizon
-incizonte
 indiciet
 indo-evropiane
 indoeuropiane
@@ -34994,7 +34573,6 @@ jebusejtë
 jefunehut
 jenna
 jenson
-jetrin
 jetësisht
 jiangsu
 jilin
@@ -35079,8 +34657,6 @@ kanç
 kanç-
 kançeska
 kaonëve
-kapanon
-kapanonit
 kapexhiun
 kapitalizimit
 kapriciot
@@ -35823,7 +35399,6 @@ numerimit
 numrorët
 nvm
 nvm-ve
-nxehtësisht
 nxente
 nxjerrur
 nè
@@ -35978,7 +35553,6 @@ pdiu-se
 pds-në
 pdsh-rdk
 pean
-pedonales
 pedrazzi
 pej
 pejsazh
@@ -36013,7 +35587,6 @@ pershtatshem
 pertef
 pescaras
 peshkarexhat
-peshkonte
 petershani
 petkovic
 petkoviqit
@@ -36119,8 +35692,6 @@ projekt-marrëveshjes
 projekt-rezolutën
 projektkodit
 prolongim
-promemorja
-promemorjen
 prometheu
 promil
 promo
@@ -36128,7 +35699,6 @@ promocional
 promocioni
 pronësoro-
 pronësoro-juridike
-propagandimit
 propaguar
 propogandës
 proserbe
@@ -36487,6 +36057,7 @@ shtrausi
 shtrejtë
 shtypëshkronjën
 shtëpine
+shtëpizës
 shulman
 shumevjecare
 shumëdebatuar
@@ -36593,7 +36164,6 @@ steel
 stefo
 steiner-
 steiner-it
-sterrosur
 steviq
 stevçe
 stimuluara
@@ -36626,13 +36196,10 @@ suning
 superbowl
 superformë
 supergoli
-supermarketesh
 supervizion
 supriza
 suptile
 surrelit
-survejonin
-survejonte
 survivor
 swan
 sygjeruar
@@ -36711,6 +36278,7 @@ timorit
 tiradat
 tirana-skënderbeu
 tirane-një
+titular
 tivarin
 tje
 tjer
@@ -36819,7 +36387,6 @@ valladolidin
 valmira
 valorizimin
 valverde
-valvul
 valvula
 vancouver
 vantage
@@ -36863,6 +36430,7 @@ vetëdijësuese
 vetëkupton
 vetëmenaxhimin
 vetëvrari
+vezësh
 vi-v
 viaggi
 vianu
@@ -37044,10 +36612,8 @@ zyreve
 çajld
 çajlë
 çajra
-çakon
 çakuli
 çalik-
-çangë
 çardhakut
 çarmatosjes
 çasje
@@ -37068,7 +36634,6 @@ zyreve
 çiçimakos
 çiços
 çjerrje
-çollakut
 çupovski
 çvendosur
 è
@@ -37108,7 +36673,6 @@ zyreve
 -bologna
 -brazavil
 -cio
--dopingut
 -drejtshëm
 -elysees
 -epirit
@@ -37398,7 +36962,6 @@ abonenti
 abongo
 abrazive
 absorbuese
-abstraksionit
 abuzuara
 aces
 achraf
@@ -37426,7 +36989,6 @@ afinitete
 afro-amerikan
 afro-amerikane
 aganin
-agojë
 agostin
 agramunt
 agree
@@ -37456,7 +37018,6 @@ aktmarrëveshjeve
 aktualizimin
 akuila
 akustikën
-akëcili
 al-hussein
 al-jazeera
 albacall
@@ -37523,7 +37084,6 @@ amvrosi
 amëtare
 analizim
 anastasios
-anatemat
 anatemimi
 ancelotit
 anchelotti
@@ -37571,7 +37131,6 @@ après
 aps
 arabah
 aracataca
-aradhes
 aramco
 aranzhimit
 arbanasi
@@ -37586,8 +37145,6 @@ arenliu
 ares
 argetës
 argjili
-argjinatura
-argjinaturat
 argjiro
 argjirosë
 arguello
@@ -37598,7 +37155,6 @@ aristotelian
 arita
 arkeologjikisht
 arketipi
-arkimandrit
 arkimedit
 arkives
 armo-n
@@ -37632,7 +37188,6 @@ asnjeherë
 asociim-stabilizimit
 asosacion
 asz
-atakun
 ataturku
 atbotë
 atelieri
@@ -37690,7 +37245,6 @@ badigardë
 badigardët
 badocit
 badovc
-bahej
 bahr
 baicë
 baird
@@ -37705,15 +37259,11 @@ ballkaniko-
 ballëpërballë
 baloteli
 bamb
-bangës
-banit
-banj
 bankomate
 bankomatet
 banovinës
 bar-rabbani
 bar-restorant
-barcoletë
 bardhet-iballë
 barnabës
 barot
@@ -37745,9 +37295,7 @@ baçka
 bd-ja
 be-shqipëri
 beatriçen
-bebeje
 bebëzave
-becit
 bedalli
 bedredin
 beek
@@ -37775,7 +37323,6 @@ belous
 bender
 beneficiarius
 benimam
-beninji
 benjamin-it
 bennet
 beograd-mitrovicë
@@ -37814,7 +37361,6 @@ binjakëzuar
 biodiversitet
 birmingam
 biseden
-bishtrat
 bisneseve
 bit-pazar
 bitola
@@ -37857,7 +37403,6 @@ borg
 borisi
 borje
 bosio
-boske
 bosna
 bosni
 bosnia
@@ -37886,7 +37431,6 @@ briegel
 brightonit
 briken
 briseida
-briza
 brodeci
 brodecit
 brohorisin
@@ -37923,7 +37467,6 @@ burgologji
 burning
 burnleyt
 burrell
-burrneshave
 bus
 bushman
 busquetsi
@@ -37937,7 +37480,6 @@ byrose
 bëjshë
 bënu
 bërdicë
-bërxolla
 bërzeshtë
 bërzeshtës
 caballero
@@ -38222,7 +37764,6 @@ dojaka
 doktorantë
 dolly
 domicili
-domin
 dominancën
 domingos
 dominikane
@@ -38277,7 +37818,6 @@ dybeli
 dydhomësh
 dyfegu
 dygolëshi
-dylberi
 dyrmishit
 dyshifror
 dyt
@@ -38333,7 +37873,6 @@ ekzemë
 ekzigjencën
 elaboron
 elamit
-elbin
 eldorado
 ele
 electric
@@ -38361,8 +37900,6 @@ elitist
 ellison
 elysium
 email-et
-embrionet
-embrionin
 emerimet
 emerohet
 emilie-
@@ -38439,7 +37976,6 @@ eye
 f-22
 fabiano
 fabrikimit
-faculetën
 faeser
 fahd
 fahrije
@@ -38459,8 +37995,6 @@ fantastikës
 fantazira
 faola
 fap-
-farize
-fark
 farsi
 fashikull
 fashiten
@@ -38588,8 +38122,6 @@ fushë-studen
 futsallit
 fuzhou
 fësht
-fëstëk
-fëstëkëve
 fëtyrë
 füle
 g3
@@ -39158,7 +38690,6 @@ justiniana
 juvenilia
 juventus-milan
 juventusfcen
-kabëll
 kaczynski
 kadc
 kadrinë
@@ -39193,7 +38724,6 @@ kantonizimit
 kanxheri
 kanç-it
 kaonisë
-kapanoni
 kapardisësi
 kapelos
 kapitanoviç
@@ -39236,6 +38766,7 @@ katinës
 katllanovës
 katovicë
 katrinën
+katërtë
 kaubojs
 kaunas
 kauzale
@@ -39556,7 +39087,6 @@ lnç-ja
 lobing
 lobiste
 lobistë
-loboj
 lock-
 lockheed
 logoped
@@ -39696,8 +39226,6 @@ matogjin
 matoshin
 maturohet
 matësave
-maus
-mausin
 maxhari
 maximilian
 maybe
@@ -39883,7 +39411,6 @@ muhos
 mujotës
 mukusit
 mulakut
-mullën
 multifunksional
 multikulturalizmit
 mundesuar
@@ -39936,7 +39463,6 @@ nacho
 nadabi
 nadin
 nahori
-nalt-
 namibi
 namuz
 narcizistike
@@ -39978,6 +39504,7 @@ ndritjes
 ndrituna
 ndron
 ndëgjomë
+ndëra
 ndërdisiplinore
 ndërmarjeve
 ndërnjerëzor
@@ -40286,7 +39813,6 @@ pepshi
 perak
 perballur
 percaktimin
-perceptojë
 perdju
 perdorej
 peregrinët
@@ -40308,14 +39834,11 @@ perpilimin
 perqafime
 persekutorë
 persia
-personalizohet
-personalizojë
 perspective
 perversitetit
 perzier
 pescara-
 peshimit
-peshkojnë
 peshkopinë
 pesne
 pesëqindvjeçare
@@ -40340,7 +39863,6 @@ piers
 pieta
 pikrisht
 pikëshikim
-pikëçuditëse
 pilot-projekt
 pilots
 pilurit
@@ -40463,7 +39985,6 @@ propaganduara
 propagojnë
 propogandë
 propolis
-prostituonte
 proteksionizmi
 proto-
 protothema
@@ -40901,6 +40422,7 @@ shtish-tufinë
 shtresuara
 shtrumfët
 shtyllasit
+shtëpize
 shtërgata
 shtërpce
 shukojnë
@@ -41041,7 +40563,6 @@ stereotipa
 stermasi
 stervitur
 stevanoviq
-stigmatizon
 stiluar
 stiluara
 stojanoviç
@@ -41081,7 +40602,6 @@ superyllit
 suplement
 surdullit
 surroin
-survejohej
 suso
 sutherland
 suveniret
@@ -41382,6 +40902,7 @@ vershbau
 veselinoviqin
 veterniku
 vetiut
+vetullës
 vetëdijësim
 vetëdijësimi
 vetëdishëm
@@ -41556,7 +41077,6 @@ zemren
 zemrë
 zenoja
 zerimin
-zgarë
 zgjdhje
 zgjedhi
 zgjuarësi
@@ -41599,7 +41119,6 @@ zëmërmirë
 zërimi
 zërimin
 zëvendës-kryeministrin
-zëvëndësministri
 çabejin
 çabrës
 çaje
@@ -41608,7 +41127,6 @@ zëvëndësministri
 çakull
 çarkaxhiu
 çarmatosja
-çarterin
 çaushollajve
 çaç
 çerenecit-
@@ -42044,7 +41562,6 @@ abraami
 abramovic
 abroad
 abrogimin
-absida
 absolutizmi
 absorbimit
 abstragimit
@@ -42079,7 +41596,6 @@ afc
 afd-së
 afk-
 afk-së
-aforfe
 afraa
 afriken
 afrodiziak
@@ -42097,17 +41613,14 @@ agnieszka
 agravohen
 agrikulturën
 agripa
-agrit
 agro-përpunimit
 agus
 ahemtaj
-aht
 aid
 ain
 ajatollah
 ajatollahut
 ajax-it
-ajetet
 ajn
 ajola
 ajs
@@ -42276,7 +41789,6 @@ antrakidin
 antropologut
 antwerpi
 anëkënd
-aoristit
 apendiks
 apetiteve
 apin
@@ -42315,8 +41827,6 @@ aristide
 aritur
 arjon
 arkive
-arkondit
-arkondët
 arkëtares
 arkëtarja
 arkëz
@@ -42405,7 +41915,6 @@ avec
 avi
 avignon
 avioneve
-avokadon
 awacs
 axelos
 axhustuar
@@ -42421,8 +41930,6 @@ aëards
 b40
 babaliu
 babam
-babicë
-babicës
 bablok
 babules
 bachmann
@@ -42432,7 +41939,6 @@ baghlan
 bahrejnit
 bahrie
 bahçallëk
-baja
 bajro
 bajrës
 bajulkeni
@@ -42472,12 +41978,10 @@ bao
 baptist
 barabba
 baraspeshimit
-barazhin
 barbartë
 barcaletat
 bardhekuqe
 bardhezinj
-bardit
 barella
 baresi
 bargjinit
@@ -42520,7 +42024,6 @@ bastriun
 bastës
 batman-
 baudelaire-
-baule
 bautista
 bavarezet
 bayern-arsenal
@@ -42534,7 +42037,6 @@ beauvoir
 bebin
 bebëz
 bebëza
-bedunicës
 beh-ja
 behri
 bei-
@@ -42550,9 +42052,7 @@ bendtner
 benedetta
 benedetto
 beneficion
-benevrekë
 benfikës
-bengu
 benjaminit
 benzol
 beranit
@@ -42561,11 +42061,9 @@ berchtold-i
 berchtold-it
 bercow
 berdo
-berit
 bernardino
 berndt
 beroe
-beronjë
 berra
 berrat
 bersin
@@ -42615,7 +42113,6 @@ bismarkut
 bit-pazarit
 bitcoin
 bitraku
-bixha
 bizantino-
 bizhutë
 biznismenë
@@ -42667,16 +42164,12 @@ bola
 bolena
 boletinëve
 bolv
-bombol
-bombolat
-bombolë
 bonusesh
 borec
 bosave
 bosfori
 boshkos
 boskos
-bosnes
 bosoj
 bosquet
 bostonin
@@ -42730,12 +42223,10 @@ bryll
 brême
 bs-në
 bt-
-buallicave
 buck
 budallallepsur
 budjon
 bufalo
-bufonin
 bujqërve
 bujtnin
 bukayo
@@ -42766,6 +42257,7 @@ byroistëve
 bzha-
 bëj-më
 bëjme
+bëmirës
 bërrylash
 bërtitëse
 bërxhukun
@@ -42776,7 +42268,6 @@ caglayan
 cagliarit
 calaveras
 calciomercato
-cale
 called
 calling
 calman
@@ -43054,8 +42545,6 @@ dinarike
 dinastike
 ding
 dinon
-dinozaur
-dinozaurëve
 diogardi
 dioksinë
 dionisit
@@ -43181,7 +42670,6 @@ eastern
 ebed-
 eberl
 ecejakesh
-edhi
 edhë
 edinburgh-
 edinburgh-ut
@@ -43213,7 +42701,6 @@ ejaletin
 ejtën
 ek
 eklatante
-eklipset
 ekonomike-sociale
 ekonomiko-tregtar
 ekonomistin
@@ -43400,7 +42887,6 @@ farc
 faredin
 farisenjve
 farley
-farr
 fashizoide
 fasoni
 fasonëve
@@ -44021,7 +43507,6 @@ imsi
 inaguron
 inca
 incentiva
-incizohen
 indipendenca
 indipendencës
 indipendentiste
@@ -44318,7 +43803,6 @@ kapanone
 kapinovë
 kapitalizimi
 kapobandës
-kaponjtë
 kapriçoz
 karabecit
 karachi
@@ -44998,7 +44482,6 @@ mauri
 mauricius
 mauritani
 mauritanisë
-mausit
 maxhupëve
 maxwell
 may-
@@ -45104,6 +44587,7 @@ mesopotamia
 mesova
 mess
 messa
+mest
 mesvitet
 mesxhidet
 meta-prifti
@@ -45138,6 +44622,7 @@ michnik
 micra
 micro
 mid-
+mie-
 mieloide
 mihaliq
 mihrija
@@ -45735,7 +45220,6 @@ paspak
 paspecifikuar
 pastorit
 pasurine
-pataks
 patel
 paternalizmit
 paternò-
@@ -45789,7 +45273,6 @@ perballje
 perballë
 perbejne
 percaktojne
-perceptonin
 perceptuara
 perceptues
 percy
@@ -45838,7 +45321,6 @@ perëndore
 peshen
 peshimi
 peshiq
-peshkojë
 peshkopi-lurë
 peshëngritës
 peshëngritësit
@@ -46016,7 +45498,6 @@ prolongohen
 prolongon
 prometejve
 propagandes
-propagandimin
 property
 propozim-konkursin
 propozim-ndryshimet
@@ -46034,7 +45515,6 @@ provizioneve
 provizioni
 prozhmës
 proçedim
-prrallë
 pseudovlerave
 psikanalitik
 psikiatërve
@@ -46077,7 +45557,6 @@ përfaqson
 përfaqësueshmëria
 përformojë
 përfytyrues
-përgjegja
 përgjigjjen
 përgjithsi
 përgjithëshëm
@@ -46676,6 +46155,7 @@ shçerbin
 shë
 shëkojnë
 shëkonja
+shëmbuj
 shënavlashit
 shëndetsisë
 shënjestrua
@@ -46787,7 +46267,6 @@ spelologëve
 spermatozoidi
 sphere
 spikaturat
-spiker
 spin
 spiridon
 spitallës
@@ -46830,7 +46309,6 @@ sterlinave
 stevenson
 stevie
 stigma
-stigmatizohet
 stigmës
 stikk
 stilim
@@ -46882,7 +46360,6 @@ super-ylli
 supergjobat
 supergolin
 superluksoz
-supermarketin
 superstradën
 supertalent
 superyjet
@@ -46891,7 +46368,6 @@ suprizë
 supërligës
 surgeon
 susanna
-sutjena
 suvenirë
 suza
 suzanne
@@ -47054,7 +46530,6 @@ tojota
 toksikë
 tomkën
 tomovska
-tonesh
 toninit
 top-pesëshe
 top-pesëshin
@@ -47270,6 +46745,7 @@ veshtirësi
 vetet
 vetevendosje
 vetjeve
+vetm
 vetmise
 vetëdijesohemi
 vetëdijës
@@ -47321,7 +46797,6 @@ vizio
 vizionarët
 vizituarat
 vjehrr
-vjerrë
 vjersh
 vkb
 vladislav
@@ -47365,7 +46840,6 @@ vuljaniq
 vulçan
 vuthajt
 vuçiniq
-vyshken
 vê
 vëllamë
 vëllaznim
@@ -47425,7 +46899,6 @@ xheja
 xhejmi
 xhejn
 xhelalin
-xheli
 xhem
 xhemat
 xhenifer
@@ -47588,7 +47061,6 @@ zëvendës-presidenti
 çehovin
 çekajn
 çekajt
-çelebi
 çellsi
 çeltirë
 çerekorëshin
@@ -47599,7 +47071,6 @@ zëvendës-presidenti
 çettën
 çezar
 çezëm
-çeçenë
 çibukaj
 çiljetën
 çimin
@@ -47713,6 +47184,7 @@ zëvendës-presidenti
 -metërshin
 -miranda
 -mpa
+-munin
 -nahyane
 -narrator
 -neymar
@@ -48148,7 +47620,6 @@ absolutiste
 absolutizmin
 abstenuese
 abstrake
-abstraksionin
 abstraktizmi
 abt
 abuzivizmit
@@ -48213,7 +47684,6 @@ agallma
 agenda
 agent
 aggression
-agime
 agjencine
 agjenden
 agjensie
@@ -48540,8 +48010,6 @@ areal
 arestuar
 argitës
 argjendarisë
-argjinature
-argjinaturë
 argumentash
 argumentues
 argëjit
@@ -48603,7 +48071,6 @@ asfikson
 ashanti
 ashdodit
 ashkalive
-ashklat
 ashtoni
 ashu
 asian
@@ -48618,7 +48085,6 @@ asnom-
 asnom-it
 asociativisht
 asocimi
-asocion
 asocon
 aspahiut
 asparagus
@@ -48645,8 +48111,6 @@ atsh-z
 aty-këtushme
 au-
 audi-së
-auditet
-auditin
 auf
 augsburgut
 auguste
@@ -48663,7 +48127,6 @@ autobusa
 autobuzin
 autocensurës
 autogolin
-autokratëve
 automotive
 autorsinë
 autoservisit
@@ -48735,7 +48198,6 @@ bajramovski
 bajrit
 bajrushi
 bajrën
-bajë
 bakos
 bakr
 baku-
@@ -48793,7 +48255,6 @@ barces
 barcën
 bardejovit
 bardhajve
-bardi
 baric
 barjaba
 barmeta
@@ -48839,7 +48300,6 @@ be-s
 be13
 beate
 beau
-bebesh
 bebushin
 beduinët
 beelzebulit
@@ -48872,7 +48332,6 @@ benzin
 beqjes
 berdicë
 berec-
-beret
 berger
 bergier
 berim
@@ -48882,7 +48341,6 @@ berkani
 berman
 bernabei
 bernabeut
-berr
 bertold
 bertossa
 besame
@@ -48939,7 +48397,6 @@ bismarck
 bismark
 bisschop
 bixelle
-biz-
 biznismeni
 biçakçiun
 biçakçiut
@@ -48996,7 +48453,6 @@ bokërrimat
 boltit
 bomb
 bombajit
-bombole
 bombulat
 bombulave
 bondeve
@@ -49010,7 +48466,6 @@ borgesi
 borneman
 borovets
 borovë
-borsalinë
 borussias
 boshkoviç
 boshkovskin
@@ -49080,7 +48535,6 @@ bronkopneumoni
 brut
 brute
 bruto-prodhimi
-bruz
 bruçaj
 bryer
 brëndëshëm
@@ -49126,7 +48580,6 @@ burn
 burnaz
 burnazi
 burrel-macukull
-burrnesha
 burrën
 burt
 burunçuk
@@ -49134,7 +48587,6 @@ bushati-kotzias
 bushka
 bustinat
 buthroti
-butikut
 butkeviçius
 butland
 butmir
@@ -49157,7 +48609,6 @@ bërnsit
 bërrlogut
 bërrrr
 bërrylave
-bërxollat
 ca-nga-ca
 cabral
 cacit
@@ -49209,7 +48660,6 @@ ccg
 ccp
 cct
 cctv
-cece
 cech
 cektësi
 celan-
@@ -49236,8 +48686,6 @@ cetis-
 ceu-
 ceuta
 cfiri
-cfurkun
-cfurqe
 chainsmokers
 chambers
 changing
@@ -49384,7 +48832,6 @@ dafoe
 dagens
 dagestani
 dajçit
-dakik
 dakordë
 dakordësohen
 dakortësinë
@@ -49485,7 +48932,6 @@ demostrimi
 demotivim
 demotivimin
 demtimeve
-denarët
 denatyrim
 denazifikimin
 denimet
@@ -49592,7 +49038,6 @@ dinosaurët
 dinosha
 dioklenë
 diop
-dioqezave
 diplomacise
 diplomatike-konsullore
 diplomojë
@@ -49694,7 +49139,6 @@ dppp
 dpshtrr-ja
 dpuf
 draft-raportit
-dragomanë
 draj
 drakonike
 dramaticitetit
@@ -49728,7 +49172,6 @@ dual-core
 dubi
 dubla
 dubulti
-dudum
 duek
 duff
 duhël
@@ -49887,7 +49330,6 @@ em-em
 email-eve
 email-i
 emailet
-emal
 embassy
 emerllahu
 emfatike
@@ -50058,7 +49500,6 @@ fares
 farfan
 fariu
 farizejve
-fark-
 fark-ut
 farkëtimin
 farmakon
@@ -50276,7 +49717,6 @@ fè
 fër
 fër-fër-fër
 fërçkovskit
-fëstëkësh
 fëtyrën
 g-7
 g1
@@ -50782,7 +50222,6 @@ hudhin
 hudhje
 hudit
 humajun
-humani
 humanitë
 humbasën
 humels
@@ -50832,7 +50271,6 @@ ideimin
 ideo-politike
 ideologjik-politik
 ideon
-idhët
 idiotesk
 idk
 idleb
@@ -50879,8 +50317,6 @@ inbox
 incentive
 incestuoze
 incidentale
-incizoj
-incizojnë
 incognita
 indikacioneve
 indira
@@ -51195,7 +50631,6 @@ juventus-monaco
 juëj
 jäger
 kabinetike
-kablli
 kabllovik
 kadales
 kadarea
@@ -51718,7 +51153,6 @@ kundrejtonte
 kundër-kandidat
 kundër-kushtetues
 kundërqeveritare
-kundërsulmuar
 kundërten
 kunorë
 kuotim
@@ -51832,7 +51266,6 @@ lather
 latinovski
 lauri
 lautrec
-lavamani
 lavrovit
 lazaratasi
 lazdrane
@@ -52559,6 +51992,7 @@ muhamedaliu
 muhamedori
 muharremajn
 muhurr-
+mujta
 muk
 mullen
 mullinjxhinjtë
@@ -52896,7 +52330,6 @@ nëndori
 nëndrejtoreshë
 nënkampionia
 nënkapitullin
-nënndërgjegjes
 nënseksioni
 nënvarianti
 nënvleftësonin
@@ -53589,14 +53022,12 @@ promila
 promotion
 pronen
 proniarët
-propagandimi
 propagonte
 propozim-ligje
 proregjimit
 prorektorit
 prosperojë
 prosperuar
-prostituonin
 protest
 protocol
 protokoluar
@@ -53730,6 +53161,7 @@ qenefi
 qenmit
 qenushin
 qenushët
+qepëve
 qeribashi
 qerkezi
 qeshibesit
@@ -54623,7 +54055,6 @@ sokolicës
 sokratis
 solida
 someone
-sonda
 sonia
 sonilën
 sonjës
@@ -54720,7 +54151,6 @@ sthash
 sti
 stiglitz
 stigmatine
-stigmatizojnë
 stigmën
 stikers
 stilimin
@@ -54817,7 +54247,6 @@ surprizuese
 sushicë
 suskes
 sutil
-sutjenat
 suvatuara
 suç
 svoboda
@@ -54831,7 +54260,6 @@ sykaj
 sykja
 sylvestre
 sylvie
-symbyllazi
 syqiellore
 systems
 sytë-e
@@ -55185,7 +54613,6 @@ tvsh-je
 twizy
 tyc
 tyko
-tyr
 tëhuajësuar
 tëj
 tërnocit
@@ -55496,8 +54923,6 @@ vukël
 vulgut
 vulnerable
 vuçiçi
-vyshkej
-vyshkeshin
 vëjë
 vëlla-motër
 vëllaznisë
@@ -55757,7 +55182,6 @@ zëulët
 zëvendës-sekretari
 zëvendës-shef
 zëvendësuam
-zëvëndëskryeministri
 zürich-
 ármannsson
 çabeji
@@ -55774,7 +55198,6 @@ zürich-
 çarmatimi
 çarmatosëse
 çarshova
-çarterit
 çarxhi
 çarçanin
 çashtjeve
@@ -55796,7 +55219,6 @@ zürich-
 çesari
 çetinkaya
 çeçenët
-çeçon
 çfryn
 çikalleshin
 çikatovë
@@ -55809,7 +55231,6 @@ zürich-
 çkëlqim
 çkëlqimërisht
 çmajçanin
-çmendim
 çmendisë
 çmimores
 çmitizon
@@ -55823,7 +55244,6 @@ zürich-
 çquhet
 çudirash
 çuliq
-çupëlinë
 çvendosje
 çvleftësuar
 çërçill
@@ -55911,17 +55331,14 @@ zürich-
 -ba
 -baden
 -ballaban
--bam
 -barça
 -bashkëlojtarët
 -bashës
 -baz
 -beblawi
 -beljakovc
--bena
 -beqaj
 -berishë
--bllacë
 -c
 -carralevë
 -ce
@@ -55957,7 +55374,6 @@ zürich-
 -hicka
 -hit
 -how
--human
 -hyuk
 -imt
 -includes
@@ -56620,7 +56036,6 @@ abbie
 abbottabad
 abdellatif
 abdihoxhës
-abdikojë
 abdiut
 abdo
 abdurahimi
@@ -56642,7 +56057,6 @@ abramson
 abrazivi
 abri
 abruzzo
-absolutizimi
 absolvent
 absolventiada
 absolventët
@@ -56665,7 +56079,6 @@ adelinë
 ademilton
 adis-
 adis-abeba
-adjutantin
 administrativo-ushtarake
 admiri
 adrianopojë
@@ -56710,12 +56123,10 @@ afrin
 afrodite
 afrofe
 afrojack
-aften
 aftesia
 aftonbladet
 afërua
 agalli
-agar
 agaraj
 agbv-
 agbv-së
@@ -56743,7 +56154,6 @@ agro-turizmit
 agrokosova
 agrokultura
 agshze
-agua
 agueron
 agushin
 ah3
@@ -56772,13 +56182,11 @@ ajansi
 ajatollahëve
 ajazin
 ajdonatit
-ajeteve
 ajman
 ajnshtajn
 ajr
 ajrimin
 ajrosjen
-ajsbergu
 ajtojt
 ajvazin
 ajy
@@ -56798,7 +56206,6 @@ akile
 akishit
 akk-në
 akorit
-akra
 akrioma
 akronime
 aks-n
@@ -56819,7 +56226,6 @@ akustika
 akutal
 akuzim
 akzm-
-akëcilit
 al-bab-it
 al-kaedën
 al-nusras
@@ -56841,7 +56247,6 @@ alberobelon
 albertës
 albpetroli
 albturistit
-albuminë
 albuquerque
 albëries
 alcantaran
@@ -56908,8 +56313,6 @@ alternimit
 aluizmit
 aluizni-it
 alushaj
-aluvione
-aluvioneve
 aluzioni
 alwaleed
 alyssas
@@ -56917,8 +56320,6 @@ alzhaimerit
 amacord
 amadu
 amalekun
-amalgama
-amalgame
 amandament
 amann
 amantisë
@@ -56954,9 +56355,6 @@ amnesia
 amnistimit
 amnvm
 amok
-amon
-amoniaku
-amoniakut
 amonitët
 amorfësi
 amosit
@@ -57132,13 +56530,11 @@ appointed
 appreciation
 aprioristike
 apsolute
-apën
 aqi
 aqsh-
 aquilifer
 ara-mara
 arabahun
-aradhja
 aragona
 aragonës
 aramit
@@ -57163,7 +56559,6 @@ argeta
 argjendaria
 argjendë
 argjil
-argjinaturën
 argjirit
 arhdurat
 arhus
@@ -57269,8 +56664,6 @@ askolin
 askundit
 asllanajn
 asociaiconin
-asociohet
-asocionin
 asociuara
 aspen
 aspirimin
@@ -57333,7 +56726,6 @@ auditoriumi
 augustini
 aurier
 auroi
-aurorës
 aurë
 ausburgut
 auschwitz-it
@@ -57377,7 +56769,6 @@ avillova
 aviokompanitë
 avira
 avoiding
-avokadoja
 avokatie
 avokojmë
 avokuese
@@ -57405,8 +56796,6 @@ azpilicueta
 azrt
 azrës
 azur
-açuge
-açugeve
 b92-
 babacan
 babadimër
@@ -57426,7 +56815,6 @@ bafta-
 bag
 bagshaw
 bahadur
-baheshin
 bahollëve
 bahram
 bahreni
@@ -57435,10 +56823,8 @@ bahçeja
 bai
 baikala
 bailly
-baji
 bajkos
 bajraktarizmit
-bajshin
 bakhmutin
 bakraqi
 bakterie
@@ -57482,7 +56868,6 @@ bar-sahati
 baraba
 barada
 barakun
-barazhi
 barazine
 barbie-
 barbotine
@@ -57679,7 +57064,6 @@ berzher
 berzhitë
 besarda
 besdis
-beshamel
 besianën
 bestyt
 besëtytnisë
@@ -57742,7 +57126,6 @@ bise
 biseksualiteti
 bisera
 bishtazhin
-bishtra
 bislimaj
 bisnesit
 bitch
@@ -57753,7 +57136,6 @@ bituminoze
 bitër
 bivalente
 bixhili
-biz
 bizarre
 bizhgo
 bizhu
@@ -57794,7 +57176,6 @@ bloodah
 blot
 blunçlit
 bnrzh
-boa
 boakai
 boazit
 boby
@@ -57825,7 +57206,6 @@ bolognas
 bolund
 bolunmez
 bom
-bombarda
 bombei
 bomberat
 bommel
@@ -57880,12 +57260,10 @@ bracey
 brad-i
 bradash
 bradi
-braga
 brahimllari
 brahma
 brainerd
 brajant
-brami
 branda
 brandy
 brangelina
@@ -57920,9 +57298,6 @@ brendshe
 brendshm
 brendësojë
 brentfordit
-brenë
-breroren
-brerorja
 breshani
 brestit
 breto
@@ -57940,7 +57315,6 @@ briefed
 brigador
 bright
 brikenën
-brilantina
 briliante
 brione
 brionit
@@ -57953,7 +57327,6 @@ brodsky
 broduejit
 broduejn
 brojeri
-brokolit
 bromuiç
 bronfilld
 bronkioliti
@@ -57976,7 +57349,6 @@ brunner
 brunos
 bruskel
 brutit
-bruz-
 bruçi
 brych
 brzezinksi
@@ -57997,7 +57369,6 @@ buduçnost
 bufetierin
 buffet
 buffy
-bufonët
 bugazit
 bugrahanit
 bui
@@ -58023,7 +57394,6 @@ bullizmi
 bullizuar
 bulqizën
 bulter
-bulçi
 bund
 bundestag-
 bunkarti
@@ -58031,7 +57401,6 @@ bunkerizuara
 bunton
 buqinca
 burbridge
-burbujë
 burda
 burden
 bureto
@@ -58082,7 +57451,6 @@ bërnli
 bërnlit
 bërrylet
 bërshemi
-bërsi
 bërxhukasi
 bërzhita
 bërçko
@@ -58174,7 +57542,6 @@ cenoimeri
 census-
 centar
 centurionë
-cenën
 ceola
 cepos
 cerberi
@@ -58192,7 +57559,6 @@ ceu-t
 cfc
 cfirit
 cfsp
-cfurqet
 cgil
 chad
 chaffort
@@ -58423,7 +57789,6 @@ daft
 dahmer
 daire
 daisë
-dajanit
 dajko
 daklani
 dakordësimit
@@ -58492,7 +57857,6 @@ debakli
 debaklin
 debatiku
 debative
-debilë
 debojë
 deborën
 debreshit
@@ -58530,7 +57894,6 @@ dekadenca
 dekadencën
 dekalogun
 dekartin
-dekik
 deklamim
 deklasifikimi
 dekolonizim
@@ -58595,7 +57958,6 @@ derebejve
 dergimin
 dergova
 deritani
-derma
 dermatologe
 dern
 dernier
@@ -58643,7 +58005,6 @@ deutschen
 deviçit
 devollinjtë
 devoluimi
-devri
 dezhani
 dezinfektantë
 dezinformatë
@@ -58727,7 +58088,6 @@ dinastëve
 dinella
 diogjen
 dionisian
-dioqezash
 diplomata
 diplomen
 diplomes
@@ -58880,7 +58240,6 @@ dragica
 dragishiq
 dragobilit
 dragojević-
-dragomanit
 dragomir
 dragons
 dragovic
@@ -58994,7 +58353,6 @@ dyfisht
 dyk
 dykuptimëshe
 dylazeka
-dylberë
 dyli
 dylqinjë
 dymbedhjete
@@ -59146,7 +58504,6 @@ eleazarin
 electors
 electrobelge
 elefantësh
-elegjisë
 elektonike
 elektrizuara
 elektrolite
@@ -59386,7 +58743,6 @@ eurovision-
 eurovison
 eurovizioni
 eva-n
-evakuonte
 evaluimin
 evander
 evangellos
@@ -59434,7 +58790,6 @@ fabul-syzhet
 fabulare
 factum
 fahrie
-fai
 fail
 fairchild
 faisalit
@@ -59465,7 +58820,6 @@ familjarizimi
 famulltari
 famëkeqja
 fanari
-fang
 fanol
 fanpage
 fantazistë
@@ -60154,7 +59508,6 @@ graessle
 grainca
 grainger
 grampsas
-grana
 grand-slam
 grassi
 grataçela
@@ -60612,7 +59965,6 @@ hukubet
 huligani
 hulkenberg
 hulo
-humanes
 humaniteteve
 humanizohet
 humans
@@ -60693,7 +60045,6 @@ ideo-tematike
 ides
 ideuesit
 idhnim
-idhta
 idhtar
 idhtarë
 idhëz
@@ -61142,7 +60493,6 @@ jetaoshqef
 jetesen
 jeteses
 jetimat
-jetrit
 jetta
 jevgjitëve
 jevrem
@@ -61263,7 +60613,6 @@ k2
 kabasilla
 kabim
 kabir
-kabllin
 kabllorë
 kabos
 kabulin
@@ -61356,6 +60705,7 @@ kanarie
 kanatës
 kanatëshe
 kanavkinin
+kancelarie
 kandahari
 kandemirin
 kandshme
@@ -61368,7 +60718,6 @@ kaos-at
 kapaciteve
 kapadokia
 kapaj
-kapanonin
 kaperi
 kapia
 kapishtec
@@ -61686,7 +61035,6 @@ koleksionistin
 kolektivist
 kolekën
 kolgecaj
-kolja
 kollomoqe
 kollosi
 koloaret
@@ -62063,9 +61411,6 @@ kundëramerikan
 kundërargument
 kundërciklike
 kundërfashiste
-kundërsulmoi
-kundërsulmonin
-kundërsulmuan
 kune-vainit
 kunes
 kunze
@@ -62161,7 +61506,6 @@ këmbëhapur
 këndellëse
 këndezit
 kënetasi
-kër
 kërcnim
 kërcëlliti
 kërcënonjës
@@ -62272,7 +61616,6 @@ laurens
 laurus
 laussane
 lavabo
-lavamanit
 lavatriçen
 lavazhet
 lavazhi
@@ -62488,7 +61831,6 @@ llashtica
 llazhec
 lleshanakut
 llimisht
-lloga
 lloganit
 llogarira
 llogjik
@@ -62511,8 +61853,6 @@ lluzhani
 loaded
 lobe
 lobingun
-loboi
-lobonte
 loca
 loder
 lodos
@@ -63400,8 +62740,10 @@ muhaxherët
 muhurrit
 muir
 mujash
+mujin
 mujkut
 mujman
+mujtën
 mukën
 mulhaxha-
 mulhaxha-kollçaku
@@ -63412,6 +62754,7 @@ multimiliarderit
 multisportiv
 multisportive
 mumifikuar
+mumini
 munch
 munchengladbach
 mundëshm
@@ -63447,6 +62790,7 @@ mus
 musabelli
 musajev
 musfata
+mush
 mushoviqit
 mushqeta-krrabë
 muskular
@@ -64533,7 +63877,6 @@ perat
 perballja
 perbere
 percent
-perceptoi
 percjellur
 perderisa
 perdoresh
@@ -64596,7 +63939,6 @@ perserit
 pershkruan
 pershtatet
 personalizimin
-personalizoi
 personam
 persosur
 persqopi
@@ -64619,7 +63961,6 @@ peshawar
 peshkarexhave
 peshkat
 peshki
-peshkohen
 peshkëtares
 peshtan
 peshtani
@@ -64756,8 +64097,6 @@ plx
 pmrmn
 pmu-së
 pndsh-së
-pneumonisë
-pneumonitë
 pnishi
 pobeda
 pobrat
@@ -64882,7 +64221,6 @@ prbk
 preardhje
 predin
 predispozues
-preferencash
 prehëse
 prei
 prejudikoj
@@ -64934,7 +64272,6 @@ principes
 prindërimi
 prindërimin
 prindëvet
-printer
 printerë
 printon
 printoni
@@ -65004,7 +64341,6 @@ prosper
 prosperimin
 prostates
 prostituimi
-prostituuar
 prosvjeta
 protagonists
 protektor
@@ -65026,9 +64362,6 @@ provision
 provokuari
 proxima
 proçedura
-prrallash
-prrallore
-prroit
 prt-
 prugovc
 prustit
@@ -65156,6 +64489,7 @@ përiudhë
 përjetuesin
 përkalojnë
 përkeqësuese
+përligjjes
 përlleshin
 përmaj
 përmalluara
@@ -65492,6 +64826,7 @@ repsit
 republikanizmi
 request
 reserve
+reshiti
 resmije
 resnje
 responsibilities
@@ -65743,7 +65078,6 @@ rrethprerët
 rrethrotullimi
 rrethrrotullime
 rrethxhirim
-rrezeje
 rrezikshëmri
 rrezistojë
 rrijne
@@ -66313,6 +65647,7 @@ shqyrtarit
 shskuk-në
 shtajner
 shtamë-
+shtar
 shtatëdhjet
 shtedim
 shteitit
@@ -66373,6 +65708,8 @@ shvillimin
 shvilluar
 shybe
 shëkoj
+shëmbulli
+shëmbullin
 shëmbëllore
 shën-gjergjit-të-vjetër
 shëndaumi
@@ -67443,7 +66780,6 @@ trejavor
 tremp
 trenevska
 trepcës
-treqindvjeçare
 tresor
 trezhnjeva
 trials
@@ -67463,7 +66799,6 @@ triolën
 tripletë
 tripletës
 triptikut
-trirë
 tris
 trishte
 trishtmë
@@ -67499,6 +66834,7 @@ tuaregët
 tubante
 tubetin
 tucoviq
+tuf
 tufegxhiq
 tufes
 tugjevc
@@ -67683,6 +67019,7 @@ uroshit
 urrejties
 urrutia
 urss
+urt-
 urt-së
 uruci
 usda
@@ -68435,6 +67772,7 @@ zëmërohet
 zëmërë-
 zëvendëkryeministrit
 zëvendës-shefi
+zëvendëskryetaren
 zëvendësndihmës-sekretari
 zëvëndësministrja
 ºc
@@ -68443,7 +67781,6 @@ zëvëndësministrja
 çajës
 çakëlli
 çapkënllëk
-çapëleu
 çarjeje
 çarlls
 çarlz
@@ -68485,15 +67822,12 @@ zëvëndësministrja
 çipllakë
 çiprian
 çirrur
-çiti
 çizpik
 çiçi
 çiçimakoja
 çkamos
 çkodoi
-çlironi
 çmbrehte
-çmendje
 çmendurak
 çmitizimin
 çnderojë
@@ -68501,9 +67835,6 @@ zëvëndësministrja
 çnjohjeve
 çokolata
 çole
-çollakun
-çomi
-çonit
 çorganizimi
 çorrushit
 çpllum
@@ -68632,9 +67963,9 @@ zëvëndësministrja
 -abed
 -abidine
 -adel
+-administratës
 -admirali
 -agerpres
--agim
 -ahmetaj
 -ahram
 -ajres
@@ -68680,7 +68011,6 @@ zëvëndësministrja
 -bërësve
 -calderon
 -called
--capa
 -cas9
 -cell
 -chamberlain
@@ -69846,8 +69176,6 @@ abbaz
 abc-së
 abdel-
 abdesti
-abdikoi
-abdikuar
 abdomenit
 abdrahmanov
 abdulah
@@ -69858,7 +69186,6 @@ abdulmutallab
 abdurahim
 abdushi
 abecesë
-abeja
 abelë
 abiathar
 abiathari
@@ -69876,7 +69203,6 @@ abortimit
 abott
 abramov
 abramowitz
-absolutizimin
 absorbim
 abstenuesit
 abstraguese
@@ -69887,7 +69213,6 @@ abuladze
 abuse
 abuzivizmin
 abuzivizëm
-abuzivë
 acarruar
 accepts
 accord
@@ -69927,7 +69252,6 @@ adidasin
 adige
 adih
 adios
-adjutantët
 adk-në
 admahut
 administrativo-juridike
@@ -69952,7 +69276,6 @@ adzm-ja
 adzm-në
 aelita
 aemh
-aerobia
 aerodromu
 aeromobil
 aeroplana
@@ -70013,8 +69336,6 @@ agnostikë
 agolli-kadare
 agorá-s
 agostinho
-agota
-agovi
 agrafës
 agraria
 agras
@@ -70060,7 +69381,6 @@ ajasëm
 ajazajt
 ajdari
 ajetullah
-ajgëton
 ajna
 ajnisha
 ajrim
@@ -70112,7 +69432,6 @@ akullnajës
 akulturimin
 akvini
 akzm-së
-akçesh
 al-abed
 al-adel
 al-ahram
@@ -70137,7 +69456,6 @@ al-salah
 al-salam
 al-saleh
 al-zavahiri
-ala-
 aladin
 aladinit
 alaks
@@ -70159,7 +69477,6 @@ albanija
 albanistan
 albanizimin
 albano-
-albatrosi
 albavipnews
 albayrak
 albemigrant
@@ -70172,8 +69489,6 @@ albtelekom-
 albtelekomi
 albtransi
 albtransit
-albuminat
-albuminën
 albums
 alcantaras
 alcorcon
@@ -70267,7 +69582,6 @@ alushin
 alushllari
 alusiani
 aluvionale
-aluvionet
 aluzin-
 aluzioneve
 aluçinant
@@ -70277,7 +69591,6 @@ alvarado
 alvesi
 alzheimeri
 alzheimerin
-alës
 amabasadës
 amadeo
 amandamentimit
@@ -70318,7 +69631,6 @@ amd
 amdocs
 ame-rikës
 ame-së
-amel
 amelie
 amerikanka
 amerikano-francez
@@ -70425,7 +69737,6 @@ angonatët
 angora
 angustifolia
 angështie
-anhidridit
 anibari
 anibarit
 anica
@@ -70570,7 +69881,6 @@ anvi
 anymore
 anzat
 anëtarshe
-aoristi
 aous
 ap-në
 ap-se
@@ -70587,7 +69897,6 @@ aparteid-it
 apartheidi
 apaçët
 apd-ja
-ape
 apeliiii
 apendisitit
 apetit
@@ -70614,7 +69923,6 @@ aprë
 apsh
 apsolutisht
 apt28
-apët
 aqifin
 aqile
 aqsh-së
@@ -70708,8 +70016,6 @@ arkitektes
 arkitekturen
 arkivim
 arkivolë
-arkondi
-arkondëve
 arlekini
 arlene
 arlindën
@@ -70857,8 +70163,6 @@ asnjanse
 asnjanësisë
 asnjëanës
 asocacionin
-asociohen
-asocionte
 asorbitorë
 asparag
 aspect
@@ -70947,7 +70251,6 @@ audio-sistemi
 audion
 audios
 audioslave
-auditeve
 auditive
 auditojnë
 auditojë
@@ -70959,7 +70262,6 @@ aulat
 aureliani
 aureolin
 aurita
-aurorë
 aurën
 ausilio
 austen
@@ -70985,7 +70287,6 @@ autoironi
 autoironinë
 autokomandës
 autokracive
-autokratit
 automatizimit
 automekaniku
 automobilizëm
@@ -71013,7 +70314,6 @@ avdaj
 avdia
 avdil
 avdili
-avdos
 avdoviq
 avdulli
 avelinon
@@ -71024,7 +70324,6 @@ aviano
 avicena
 aviona
 avoid
-avokadoje
 avokateve
 avokoi
 avramopulosit
@@ -71082,7 +70381,6 @@ babilonas
 babilonët
 babjeni
 babjes
-babo
 babrusë
 babuka
 babëzitja
@@ -71111,7 +70409,6 @@ baghdadi
 bagher
 bagtinë
 bagëtin
-bahemi
 bahut
 bahçesë
 baigou
@@ -71129,9 +70426,6 @@ bajraktareske
 bajraktariste
 bajraktarizmin
 bajramshahe
-bajsh
-bajshim
-baju
 bakali
 bakalor
 bakaloreat
@@ -71145,16 +70439,13 @@ balad
 balakrishnan
 balances
 balcanicus
-baldakini
 baldini
 baldry
-balilëve
 balkam
 balkanfila
 balkani
 balkart
 ball-
-balla-
 ballaurin
 ballazhit
 ballen
@@ -71176,7 +70467,6 @@ baluket
 balzac
 bamberg
 bamirit
-ban-
 banalizim
 banalizimi
 banaqet
@@ -71186,11 +70476,8 @@ banditesh
 banditeve
 banditokracia
 banega
-baner
-bangave
 bangerz
 bangot
-banin
 banjare
 banjica
 banjisht
@@ -71234,9 +70521,7 @@ bardhunies
 bardhylin
 bardhë-radavc
 bardullës
-bardëve
 barea
-barele
 bareliev
 barelievi
 barez
@@ -71254,7 +70539,6 @@ barlet
 barletin
 barnet
 barokiene
-baromina
 barrasin
 barrikadimit
 barrikadohen
@@ -71316,7 +70600,6 @@ bashkëudhëtarja
 bashkëveprimtarë
 bashkëvëllezërit
 bashos
-bashta
 bashtua
 basij
 basir
@@ -71376,7 +70659,6 @@ beaver
 bebeci
 bebit
 bebëzën
-beca
 beccaria
 bechetit
 bechtel-enkas
@@ -71418,7 +70700,6 @@ bejar
 beji
 bejkoja
 bejler
-bejsboll
 bejzades
 bekaj
 beker
@@ -71451,7 +70732,6 @@ benaff
 bencic
 bendiek
 bendikti
-bene-
 benediktine
 benefice
 beneficet
@@ -71460,9 +70740,7 @@ benevento
 bengal
 benhzeitlin
 beniamine
-beniaminët
 beninin
-beninj
 benita
 benjaminin
 bennu
@@ -71497,7 +70775,6 @@ berberolli
 berec-ut
 bereqavers
 bereszynski
-beretat
 beretta
 berezovsky
 bergantinos
@@ -71509,7 +70786,6 @@ berishizmën
 berishizmës
 berishëve
 berjen
-berk
 berkan
 berlina
 berlinalen
@@ -71526,7 +70802,6 @@ berninit
 bernshtajni
 berovë-
 berreve
-berri
 berrnicën
 bersani
 bertase
@@ -71578,7 +70853,6 @@ bezdishme
 bezdisjet
 bezdomnijn
 bezek
-bezistanit
 beçiraj
 beçkoviq
 bf
@@ -71609,7 +70883,6 @@ bihor
 bijëzë
 biker
 biknius
-biku
 bilana
 bilansi
 bilbaon
@@ -71630,7 +70903,6 @@ billie
 billis
 bilushi
 bim-in
-bimba
 bimesi
 binakut
 bineun
@@ -71722,7 +70994,6 @@ blindit
 blinkfeed
 bliz
 bll
-bllace
 bllagojçe
 bllana
 bllashtojës
@@ -71771,13 +71042,11 @@ boehm
 boer-
 boer-buquicchio
 bogdanc
-bogdani-
 bogdanipolis
 bogdanov
 bogdanoviçi
 bogdo
 bogoljub
-bogomilit
 bogoshevc
 bogotasë
 bogën
@@ -71788,7 +71057,6 @@ bojd
 bojic
 bojkeni
 bojkotojme
-bojler
 bojra
 bojz
 bojërozë
@@ -71799,16 +71067,13 @@ boksieres
 boksierja
 boksoj
 bolander
-bole
 bolek
-bolet
 bolidët
 bolinon
 bollanon
 bollanos
 bollati
 bollino
-bollkat
 bologna-
 boltonit
 bom-
@@ -71915,9 +71180,7 @@ brailë
 braimllarit
 brajen
 brajshorit
-brak
 braktisjet
-brakut
 bramall
 branagh
 branch
@@ -71956,7 +71219,6 @@ brevster
 brezeve
 brezho
 brezhonë
-brezës
 brian-
 brian-it
 briand
@@ -72027,6 +71289,7 @@ brucoshë
 bruggen
 bruks
 brumbullor
+brumosi
 brumosjen
 brunch-
 bruneit
@@ -72038,7 +71301,6 @@ brussee
 bruto-prodhimin
 bruxelles
 bruz-mal
-bruzi
 brylak
 brylakun
 brëndësi
@@ -72067,7 +71329,6 @@ buena
 buenos-ajres
 buer
 bufonadë
-bufonit
 bugatti-
 bugatti-t
 bugattit
@@ -72108,7 +71369,6 @@ bulqizes
 bulqizë-maqellarë
 bulticës
 bulza
-bulçive
 bunare
 bundeligës
 bundestag-ut
@@ -72132,7 +71392,6 @@ burkselit
 burkë
 burokracira
 burrel-qafë
-burrneshat
 burrshtetasit
 burrënore
 burrërishte
@@ -72140,9 +71399,7 @@ bursasporin
 burxheviç
 buryatia
 busacca
-bushaka
 bushala
-bushat-
 bushatlinjve
 bushiçin
 bushtrë
@@ -72176,7 +71433,6 @@ bypassi
 bypassin
 byroist
 byronit
-byrynxhyku
 bythen
 byung-chul
 byzyka
@@ -72184,7 +71440,7 @@ bzan
 bzhetaj
 bête
 bëlbëzuar
-bëlldum
+bëmirësi
 bënçes
 bërballa
 bërnabiqin
@@ -72217,7 +71473,6 @@ caktueme
 cakuar
 caleb
 californisë
-calja
 callaecorum
 callas-
 callcenter-
@@ -72319,7 +71574,6 @@ cegmë
 cei-
 cekani
 cekic
-celiku
 celjen
 celoa
 celsat
@@ -72361,7 +71615,6 @@ cfakës
 cfaredo
 cfilitëse
 cfirin
-cfurqeve
 ch-
 chace
 chahut
@@ -72680,7 +71933,6 @@ czibor
 czk
 cëdric
 cërnilisht
-cërr
 cërrikun
 cërujë
 cërvenkvski
@@ -72826,7 +72078,6 @@ decon
 dedanit
 dedikuesit
 dedinja
-dedukton
 deeply
 defansive
 defektoz
@@ -72870,7 +72121,6 @@ deklaraur
 deklarur
 deklasifikim
 deklasifikohen
-deklasua
 dekodojmë
 dekompozim
 dekonstruksionalizmit
@@ -73257,7 +72507,6 @@ diskurit
 diskutantë
 disney-it
 disparitetit
-dispensë
 displayport
 dispozion
 distafa
@@ -73284,7 +72533,6 @@ divna
 divorcohen
 divulgative
 dix
-dixhital-
 dixhital-dividentit
 dixhitalizohen
 dixhituara
@@ -73299,8 +72547,6 @@ dj-të
 djalthin
 django-
 djell
-djelmnia
-djelmnisë
 djelmurisë
 djemkat
 djersve
@@ -73359,16 +72605,13 @@ dollaresh
 dollocit
 dolot
 dolph
-dom-
 domain
 domaszewski
 domazeti
-domeneve
 domenique
 domethënjeve
 domicilit
 dominikanëve
-dominion
 dominy
 domja
 domosdoshmeria
@@ -73446,8 +72689,6 @@ dragana
 dragoc
 dragojević-josifovska
 dragolub
-dragomani
-dragomanin
 dragoslav
 dragosllav
 dragostunjë
@@ -73860,7 +73101,6 @@ eldorian
 electro-
 electro-swing
 eleganza
-elegjitë
 elektranën
 elektricistëve
 elektrokosova
@@ -73934,11 +73174,8 @@ elvedina
 elvisë
 elyar
 email-in
-emalin
 emanolit
 embed
-embrione
-embrioneve
 embros
 emdrive
 emen
@@ -74057,7 +73294,6 @@ epizodin
 epok
 epp-ja
 epruvetat
-epër
 er-
 erasmus-
 erasmus-it
@@ -74134,7 +73370,6 @@ eskluzive
 eskluzivisht
 esl
 eslami
-esmere
 esneh
 esns
 espace
@@ -74320,7 +73555,6 @@ facti
 factis
 factor-
 factotum
-faculeta
 fadejevi
 fadejevit
 fader
@@ -74377,7 +73611,6 @@ famëkeqen
 fandi
 fanepsur
 faneve
-fangu
 fanije
 fanitjen
 fanitjet
@@ -74396,7 +73629,6 @@ fareed
 farha
 farhan
 farisenjtë
-farizeu
 farizi
 farkas
 farma
@@ -74489,7 +73721,6 @@ ferihane
 feritit
 feritnë
 ferizaj-prishtinë
-ferk
 fermanagh
 fermaneve
 fermereve
@@ -74861,7 +74092,6 @@ frosa
 frost-
 frost-it
 frozinonen
-fruer
 fruits
 fruktoza
 frustracioneve
@@ -74885,8 +74115,6 @@ fshe
 fshehen
 fshehjeje
 fsheht
-fshiknin
-fshikte
 fshtra
 fshtrave
 fspim-
@@ -75521,7 +74749,6 @@ grania
 granitike
 graniëne
 granoff
-grapsh
 grashoppers
 grashoppersin
 grashoppersit
@@ -75694,7 +74921,6 @@ gërdovc
 gërhamën
 gërkon
 gërmuçu
-gërmës
 gërone
 gërqishten
 gërshanë
@@ -76361,7 +75587,6 @@ ideojnë
 ideologjiko-politike
 ideonte
 ideuesi
-idhti
 idhtia
 idilën
 idiom
@@ -77500,7 +76725,6 @@ kapobandave
 kapobandë
 kapone
 kapones
-kaponjve
 kapoor
 kapove
 kapricioz
@@ -77645,6 +76869,7 @@ katër-vjetorin
 katërcilindra
 katërkëndor
 katërpesë
+katërtët
 kaubojsi
 kaubojsin
 kaubojsë
@@ -77931,7 +77156,6 @@ klonimit
 klonohet
 klopit
 kloppi
-klorofila
 klos-gurrë
 klp-në
 kmacap
@@ -78724,7 +77948,6 @@ kurbinin
 kurfar
 kuries
 kurioni
-kurioziteteve
 kuriozuar
 kuriz
 kurjanit
@@ -78800,7 +78023,6 @@ kzaz-je
 kzaz-në
 kâjkë
 kçirën
-këcyer
 këlcyrë-
 këllici
 këmbimoret
@@ -78819,7 +78041,6 @@ kënget
 këngetarja
 këngëtres
 këpucarja
-kër-
 kërcenuar
 kërcimores
 kërcyell
@@ -78842,7 +78063,6 @@ kërrejnë
 kërrja
 kërrkush
 kërrusjes
-kërshtenë
 kërtallën
 kërthisë
 kërtoku
@@ -78970,9 +78190,6 @@ lapide
 lapidëve
 lapius
 lapland
-lapsuse
-lapsuset
-lapsusi
 laptab
 laqe-
 laqja
@@ -79004,7 +78221,6 @@ launch
 laundri
 laurel
 lauterbach
-lavamanët
 lavanderi
 lavapjatë
 lavatriqe
@@ -79383,9 +78599,6 @@ loach
 loan
 loans
 lobingjeve
-lobohet
-lobova
-lobuan
 lobuesve
 lobuzhdë
 localweb
@@ -80789,7 +80002,6 @@ molierin
 molinaro
 mollat
 moller
-molloisin
 molosi
 molosit
 molto
@@ -81005,7 +80217,6 @@ mullaqet
 mullaymeri
 mullerit
 mullezës
-mullës
 mulolli
 multi-etnicitetin
 multidisiplinar
@@ -81025,6 +80236,7 @@ multivitaminat
 mumford
 muminoviç
 mumjeve
+muna
 munchen-
 munchenin
 mundeshme
@@ -81398,9 +80610,11 @@ ndërdisiplinor
 ndërfaqe
 ndërgjegjie
 ndërgjegjien
+ndërgjegjje
 ndërhapësirë
 ndërhyet
 ndërhymja
+ndëri
 ndërkallura
 ndërkombtar
 ndërkombëatre
@@ -81425,6 +80639,7 @@ ndërskamcat
 ndërtekstor
 ndërterritorial
 ndërtueshmëria
+ndërua
 ndëruniversitare
 ndërveprojmë
 ndërveproni
@@ -81732,7 +80947,6 @@ njëtrajtësisht
 njëtrajtësisë
 njëzet-e-shtatë
 njëzet-tridhjetë
-njëzetekatërt
 nkounkou
 nnt
 nobeliste
@@ -81878,7 +81092,6 @@ nënkampionin
 nënkampionë
 nënkategoria
 nënkryeministri
-nënndërgjegjen
 nënpeshë
 nënqiell
 nënsektor
@@ -82611,7 +81824,6 @@ pasviteve
 pat-pozicion
 patagonisë
 pataj
-pataksur
 patalogun
 patentë-shoferë
 paternalizmi
@@ -82774,7 +81986,6 @@ perbuzur
 percaktohen
 percaktoi
 percaktues
-perceptosh
 percillte
 percjellin
 percolli
@@ -82889,7 +82100,6 @@ persistencës
 persiston
 personalite
 personaliteve
-personalizosh
 personally
 personazhi-narrator
 persons
@@ -82912,8 +82122,6 @@ pesdhjetë
 peshauar
 peshim
 peshimin
-peshkoi
-peshkosh
 peshterit
 peskara-
 peskarën
@@ -82997,7 +82205,6 @@ pikantë
 pikavarazhi
 pikellim
 pikepyetje
-pikiatën
 pikllimi
 pikoli
 pikoliku
@@ -83269,7 +82476,6 @@ portofino
 portorikane
 portsmouth
 porumbesku
-pos-
 posaformuar
 posaformuara
 posazgjedhur
@@ -83438,9 +82644,6 @@ principis
 prindon
 prindëria
 prins
-printer-
-printerat
-printeri
 printerët
 printerëve
 printohen
@@ -83527,7 +82730,6 @@ promises
 promoted
 promoter
 pronien
-pronja
 pronjo
 pronësore-juridike
 propagandistikisht
@@ -83555,7 +82757,6 @@ prospektivë
 prosperimit
 prostatitit
 prostituimit
-prostituojnë
 protagonizma
 protektore
 protesting
@@ -83582,10 +82783,7 @@ provokativë
 prozhektorë
 prozhma
 proçeduriale
-prrallat
-prrallave
 prrenjasin
-prrua
 prrue
 prsd
 prudentia
@@ -84009,7 +83207,6 @@ qyngj
 qyprylisë
 qyqalla
 qyqarllëkun
-qyrrat
 qyterarëve
 qytet-fshat
 qyteta
@@ -84188,6 +83385,7 @@ rashbullit
 rashkovska
 rashomon
 rashtak
+rashën
 rasku
 rason
 rastrin
@@ -86160,7 +85358,6 @@ sombor
 somborit
 somesh
 somesuch
-sondë
 sonetike
 songkaouer
 sonic
@@ -86375,8 +85572,6 @@ stervitet
 steur
 stichting
 stickney
-stigmatizojë
-stigmatizonte
 stiliano
 stille
 stiller
@@ -86597,14 +85792,12 @@ surreli
 surrey
 surrogato
 surround
-survejoheshin
 susana
 sushk
 suspancë
 suspect
 suspicions
 sustainable
-sutjenave
 suv-in
 suv-it
 suvenirëve
@@ -86637,8 +85830,6 @@ sykulluar
 sylajn
 sylphide
 sylvio
-symbyllas
-symbylltas
 symphony
 syngulur
 syniehubov
@@ -87099,7 +86290,6 @@ titizmin
 tito-
 tittoni
 tituas
-titullarësh
 titullimin
 titullimit
 titërrima
@@ -87108,7 +86298,6 @@ tjater
 tjatr
 tjatrit
 tjerin
-tjerrur
 tjerve
 tjetres
 tjetërllojtë
@@ -87274,6 +86463,7 @@ trapatoni
 trappe
 trasformimit
 trasgresive
+trashegimin
 trasheguara
 trashigimi
 trashigimtarët
@@ -88145,6 +87335,8 @@ virgjërohej
 virtuozitetit
 virtuta
 virtutat
+virtute
+virtutet
 virtytshm
 virulencë
 virxhin
@@ -88198,7 +87390,6 @@ vjehrrë
 vjeljeve
 vjelësit
 vjeqarja
-vjerr
 vjetr
 vjetërohen
 vjyer
@@ -88713,6 +87904,7 @@ zaçaj
 zaštita
 zbardhyltë
 zbeta
+zbore
 zboreve
 zbraps
 zbras
@@ -88767,7 +87959,6 @@ zetorin
 zetsche
 zew
 zezimë
-zgare
 zgjdhen
 zgjedhejve
 zgjedhir
@@ -88974,7 +88165,6 @@ zërvaskës
 zëvendës-ministrave
 zëvendësdekani
 zëvendëskomisarit
-zëvëndëskryeministrit
 à-
 álvaro
 ânë
@@ -88989,7 +88179,6 @@ zëvëndëskryeministrit
 çajeve
 çajle
 çajrave
-çak-
 çakllavicë
 çaktivizoi
 çakır
@@ -89028,7 +88217,6 @@ zëvëndëskryeministrit
 çefranova
 çehovian
 çejs
-çelebia
 çelebiut
 çelli
 çellopek
@@ -89040,7 +88228,6 @@ zëvëndëskryeministrit
 çepellë
 çepkenes
 çeprat
-çeren
 çerkez
 çerkin
 çermenit
@@ -89072,8 +88259,6 @@ zëvëndëskryeministrit
 çipllak
 çipën
 çirikovi
-çirma
-çirrnin
 çisternat
 çizh
 çiçoja
@@ -89081,7 +88266,6 @@ zëvëndëskryeministrit
 çkafit
 çkishte
 çlirimitare
-çliroje
 çlirshëm
 çlirë
 çllonte
@@ -89090,7 +88274,6 @@ zëvëndëskryeministrit
 çmbaron
 çmendjen
 çmendonte
-çmendte
 çmendurira
 çmeritja
 çmimorja
@@ -89112,7 +88295,6 @@ zëvëndëskryeministrit
 çomon
 çomorën
 çomskit
-çomëni
 çondi
 çorganizim
 çoro
@@ -89339,7 +88521,6 @@ zëvëndëskryeministrit
 -afganistan
 -afpa
 -agi
--agimi
 -agë
 -ahlit
 -aires
@@ -89360,7 +88541,6 @@ zëvëndëskryeministrit
 -anathit
 -andre
 -andrë
--ange
 -anne
 -anthropos
 -antoine
@@ -89381,7 +88561,6 @@ zëvëndëskryeministrit
 -avalla
 -aven
 -avivit
--avokado
 -baal
 -badigardi
 -bahri
@@ -89642,7 +88821,6 @@ zëvëndëskryeministrit
 -hrushov
 -hte
 -huligan
--humane
 -hysen
 -hysi
 -hysni
@@ -89958,7 +89136,6 @@ zëvëndëskryeministrit
 -pks
 -place
 -plej
--pneumoni
 -point
 -pollet
 -polyphonic
@@ -89967,7 +89144,6 @@ zëvëndëskryeministrit
 -ponte
 -porot
 -postion
--preferenca
 -prelaskaj
 -price
 -prins
@@ -90235,7 +89411,6 @@ zëvëndëskryeministrit
 -zuara
 -zupanc
 -zëmëro
--zëvendësministrin
 -çalik
 -ças
 -çelësja
@@ -92123,7 +91298,6 @@ abruzzo-s
 absentia
 absiden
 absojn
-absolutizimit
 absolutizëm
 absolventë
 absorbimi
@@ -92135,7 +91309,6 @@ abstraguara
 abstragues
 abstrahojmë
 abstrakimin
-abstraksione
 absurdum
 abuxha
 abuziviteti
@@ -92143,6 +91316,7 @@ abuzivizmi
 abuzuesë
 abvilit
 abyane
+acart
 acca
 accademia
 accession
@@ -92248,7 +91422,6 @@ adiutor
 adivije
 adjani
 adjektivi
-adjutantë
 adk-ja
 adlit
 admi
@@ -92278,7 +91451,6 @@ adoni-tsedek
 adonisin
 adoptuesit
 adoptuesve
-adra
 adrea
 adren
 adrenaline
@@ -92315,13 +91487,11 @@ adzogenu
 adëm
 adëmayan
 aecid
-aedët
 aelem
 aequo
 aer
 aerikoni
 aero-body
-aerobi
 aerodetar
 aerodinamikën
 aerodinamikës
@@ -92412,11 +91582,11 @@ afëruarshëm
 afëruash
 agab
 agaci
+agajt
 agallinjve
 agamben
 agamemnon
 agane
-agarin
 agasit
 agat
 agathoklit
@@ -92447,12 +91617,10 @@ aglomerasjon
 agnesën
 agnia
 agnostikët
-ago-
 ago-biodiversitetit
 agogjike
 agogjikës
 agollin-anullohet
-agonin
 agonitë
 agora-n
 agora-së
@@ -92493,7 +91661,6 @@ agron-i
 agroperpunuese
 agropërpunim
 agropërpunimi
-agrorit
 agrosektori
 agrovet
 agrës
@@ -92571,7 +91738,6 @@ ajdançiq
 ajdarevic
 ajdinit
 ajdovan
-ajeti-
 ajeti-beloti
 ajfon
 aji
@@ -92582,13 +91748,11 @@ ajmert
 ajmon
 ajmona
 ajnshtajnian
-ajodhimë
 ajore
 ajradini
 ajres
 ajruli
 ajrulin
-ajsbergët
 ajtur
 ajtyresa
 ajvarit
@@ -92693,7 +91857,6 @@ aktronin
 aktrosh
 aktuozitet
 aktve
-aktë
 akuaduktin
 akuakulturën
 akuan
@@ -92713,10 +91876,6 @@ akyürek
 akzhajik
 akzibit
 akçakale
-akçet
-akçeve
-akëcila
-akëcilin
 al-ahlit
 al-amimi
 al-arabiya
@@ -92817,7 +91976,6 @@ albanske
 albanulumba
 albanën
 albasnapz
-albatrosit
 albavia
 albcontol
 albcontrol
@@ -92849,7 +92007,6 @@ albtransporti
 albturisti
 albturistin
 albu
-albuminave
 albërez
 albërezë
 alca
@@ -93108,7 +92265,6 @@ amanit
 amanpour
 amantian
 amantien
-amaretat
 amarga
 amargosa
 amarila
@@ -93146,7 +92302,6 @@ ambsadorin
 ambsadorët
 ambulanc
 ambulanta
-ambulanti
 ambullante
 amc-ja
 amdox
@@ -93176,9 +92331,7 @@ ameriko
 ameriques
 ameshimit
 ameshuar
-amet
 amethystesh
-ametist
 ametrik
 amfetamina
 amforat
@@ -93186,7 +92339,6 @@ amfsë
 amg-
 amica
 amico
-amidoni
 amidror
 amigo
 amikun
@@ -93209,8 +92361,6 @@ amnistues
 amnistuese
 amona
 amonas
-amoni
-amoniak
 amonicë
 amoralistët
 amoreas
@@ -93219,7 +92369,6 @@ amoris
 amortizatorëve
 amours
 ampas
-amper
 ampera
 amplifikim
 amplifikimet
@@ -93291,7 +92440,6 @@ anashkluar
 anasjelltën
 anasta
 anastasiadhi
-anatemave
 anatemime
 anatemimet
 anatemohej
@@ -93411,7 +92559,6 @@ anhalt
 anhel
 anidës
 aniello
-anijata
 anikës
 anil
 animalizmi
@@ -93477,8 +92624,6 @@ antarëshe
 antarësia
 antarësua
 antarësuar
-anteri
-anterinë
 anthem
 anthocianina
 anthocianinë
@@ -93598,8 +92743,6 @@ antikulturore
 antikulturë
 antikushtetutshmëria
 antilet
-antilopa
-antilopash
 antimaqedonas
 antimashtrim
 antimilitarizmi
@@ -93640,7 +92783,6 @@ antisemitët
 antiserbë
 antishiptare
 antishkenca
-antishkencor
 antishteti
 antishtetin
 antisida
@@ -93705,8 +92847,6 @@ aoki
 aokigahara
 aon-
 aon-it
-aorist
-aoristin
 aortal
 aosta
 aoun
@@ -93731,7 +92871,6 @@ apelues
 apeluese
 apelueshëm
 apercepcionin
-aperitivi
 apes
 aphrodite
 apia
@@ -93975,7 +93114,6 @@ arkitrau
 arkivistik
 arkivistike
 arkivolta
-arkondë
 arkun
 arkëtaret
 arkëtarit
@@ -94143,7 +93281,6 @@ arësyetim
 arësyetime
 arësyetimet
 arësyeton
-arëz
 as532
 asaad
 asag
@@ -94197,7 +93334,6 @@ ashiqarshëm
 ashkeloni
 ashketër
 ashkush
-ashkël
 ashlan
 ashley-
 ashmeti
@@ -94225,8 +93361,6 @@ asipi
 asiriane
 asirianë
 asirinë
-asistencat
-asistencave
 asistencen
 asisë
 asja
@@ -94282,7 +93416,6 @@ aspakt
 aspbm
 aspetos
 aspirimi
-aspo
 asquith
 assami
 asselborn
@@ -94480,7 +93613,6 @@ aureoli
 auriema
 auris-
 auris-it
-aurorën
 ausburg
 ausburgu
 austo-
@@ -94517,7 +93649,6 @@ autoimunitare
 autokampi
 autokarro
 autokracitë
-autokrati
 autolarja
 autolëvdata
 automatiksiht
@@ -94595,7 +93726,6 @@ avellini
 avellino
 avenger-
 avenire
-avenirit
 aventis
 aventures
 aventuroze
@@ -94759,7 +93889,6 @@ babbit
 babeli
 babezia
 babgjysh
-babica
 babilonase
 babimoc
 babimoci
@@ -94833,7 +93962,6 @@ bahaizmi
 bahameve
 bahauddin
 bahceliever
-baheni
 bahias
 bahitit
 bahkisë
@@ -94860,13 +93988,11 @@ baindl
 bajcetic
 bajdeni
 bajdën
-bajeni
 bajern-
 bajgji
 bajgore
 bajgores
 bajkajt
-bajm
 bajna
 bajne
 bajpasi
@@ -94878,8 +94004,6 @@ bajramive
 bajramovskit
 bajrushit
 bajskë
-bajt
-bajtë
 bajzovic
 bajçinca
 bajçinovci
@@ -95022,7 +94146,6 @@ bambini
 bamboo
 bambuser
 bamf
-bamin
 bamoth
 bamçi
 banac
@@ -95037,7 +94160,6 @@ banditat
 banditeje
 bandke
 bandokratik
-banerin
 banes
 banesorë
 banff
@@ -95126,7 +94248,6 @@ barcelona-bayern
 barcenas
 barcha
 barclay
-barcoletën
 bardh-e-zi
 bardheblute
 bardhia
@@ -95138,11 +94259,8 @@ bardhëkaltrit
 bardhësin
 bardiqi
 bardylis
-bardët
-barela
 barellën
 barelona
-barelën
 bargery
 barierat
 barierë
@@ -95419,7 +94537,6 @@ batalon
 batanisë
 batavëve
 batbayar
-baterflaj
 bateristin
 batery
 batistuta
@@ -95438,7 +94555,6 @@ batërdie
 batërma
 baudo
 baugh
-baulle
 baumgartlinger
 baumgartner
 baush
@@ -95448,7 +94564,6 @@ bauzi
 bav
 baxandall
 baxhakut
-baxhia
 baxhios
 baxhur
 bay-
@@ -95476,7 +94591,6 @@ bazueshmëria
 bazueshmërisë
 bazzar
 baçallëkut
-baçelor
 baçev
 baçura
 baëlanacaktër
@@ -95593,7 +94707,6 @@ bejlerbej
 bejlerit
 bejni
 bejollit
-bejsbollistin
 bejtaxhi
 bejtit
 bejtjes
@@ -95614,7 +94727,6 @@ bekinghem
 bekofte
 bekollit
 bekos
-bekri
 bekshi
 bekshinë
 bektashinjet
@@ -95691,7 +94803,6 @@ beneficone
 beneluksin
 benereta
 benevolente
-benevrekët
 benficën
 bengalskijn
 bengasin
@@ -95705,7 +94816,6 @@ benidorm
 benificion
 benifiteve
 benighted
-beninjë
 benitezit
 benkirane
 benko
@@ -95739,7 +94849,6 @@ beppu
 beppus
 beqjan
 beqën
-ber-
 ber-oner
 beraj
 beralb
@@ -95760,7 +94869,6 @@ berdjajew
 berdon
 beren
 berenson
-beretës
 bergamask
 bergen-
 bergenit
@@ -95780,7 +94888,6 @@ berhtoldit
 beria
 beriahu
 beriahut
-berin
 beriola
 berios
 berisha-ndoka
@@ -95824,7 +94931,6 @@ berrash
 berrave
 berrnica
 berruce
-berrë
 bersan
 berset
 bertan
@@ -95916,7 +95022,6 @@ bezdine
 bezdishëm
 bezdisjeje
 bezhan
-bezistan
 bezistene
 bezmisht
 bezuar
@@ -95962,7 +95067,6 @@ bickle
 bicocca
 bicurrit
 bidai
-bideja
 bidesuan
 bidollari
 biejn
@@ -95993,8 +95097,6 @@ bike-share
 bikonsfild
 bikshu
 bilallin
-bilani
-bilanit
 bilanxhic
 bilbil-finoshi
 bilbilenjtë
@@ -96035,7 +95137,6 @@ binakajn
 binatti
 bince
 bincit
-bindes
 bindum
 bindëte
 binford
@@ -96096,7 +95197,6 @@ birkon
 birmingham-
 birsa
 birsas
-birth
 biruemun
 birxhikët
 birçele
@@ -96118,7 +95218,6 @@ bisht-palla
 bisht-pallës
 bishte
 bishtqethëm
-bishtre
 bismarck-
 bismarck-u
 bismarkiane
@@ -96156,7 +95255,6 @@ bizarja
 bizarr
 bizesë
 bizet-it
-bizhgën
 bizhuta
 bizhuve
 bizit
@@ -96172,7 +95270,6 @@ biznezi
 biznismenit
 biznismenët
 bizntino-
-bizoni
 bizzit
 biçiklistin
 biçiklistëve
@@ -96345,7 +95442,6 @@ bogdanova
 bogdanovic
 bogdanoviqit
 bogdanoviçit
-bogdanëve
 boge-
 boggs
 bogoev
@@ -96397,7 +95493,6 @@ bokson
 boksonte
 boksën
 bol
-boleve
 boleyn
 bolidëve
 bolivinë
@@ -96441,7 +95536,6 @@ bonitet
 bonitetit
 bonito
 bonjour
-bonjës
 bonnes
 bonnet
 bonoparti
@@ -96471,8 +95565,6 @@ bordaz
 bordeaux-
 bordellon
 bordellot
-borderosë
-borderove
 bordoja
 bordolecit
 borgesian
@@ -96528,7 +95620,6 @@ boshtovës
 boshëllëk
 bosiljko
 boskin
-bosnen
 bosnizimit
 bosnja-hercegovina
 bosnjizimit
@@ -96656,10 +95747,7 @@ braimllarin
 braja
 brajoviq
 brake
-brakeshat
 brakos
-brakë
-bram-
 bram-brum
 brambrum
 bramerc
@@ -96751,7 +95839,6 @@ brenogë
 brenshme
 brerjes
 brerjet
-breroret
 brerëset
 bresalci
 bresha
@@ -96770,7 +95857,6 @@ breton-it
 bretonit
 brever
 brevine
-breze
 brezhnievi
 brezhoit
 brezhosë
@@ -96796,7 +95882,6 @@ brightside
 briharkuar
 brikenin
 briks-i
-brilantinës
 brilon
 brimelaina
 brindisi-
@@ -96939,14 +96024,11 @@ bty
 bu-kla
 buacave
 buajte
-buallicë
 bualoi
-bub
 bubanin
 bubar
 bubble
 bubeqi
-bubi
 bubka-
 bubka-s
 bubnova
@@ -97081,14 +96163,12 @@ bulurin
 bulvarit
 bulverizëm
 bulçar
-bulçit
 bulëzuara
 bum-bum
 bum-bum-bum
 bumbery
 bumblebee
 bumbyer
-bumerangut
 bump
 buna-velipojë
 bunajku
@@ -97158,7 +96238,6 @@ burruchaga-
 burruchaga-s
 burrushaski
 burrë-shteti
-burrëreshë
 burrështetasin
 burrëzi
 burson-
@@ -97190,9 +96269,6 @@ butanit
 butarafa
 buteo
 buthrot
-butikun
-butikë
-butikëve
 butiqet
 butiqeve
 butkulesku
@@ -97268,6 +96344,7 @@ bëla
 bëlbitje
 bëlbëzime
 bëmim
+bëmirësinë
 bënia
 bënjat
 bënjave
@@ -97284,13 +96361,10 @@ bërlok
 bërnli-
 bërnmuth-
 bërnsin
-bërrakë
 bërrnicë
 bërrtiste
 bërrucet
 bërrum
-bërsia
-bërsive
 bërtima
 bërtimat
 bërtimave
@@ -97299,7 +96373,6 @@ bërtituri
 bërtiturit
 bërvenica
 bërxhukase
-bërxollë
 bërxullit
 bërë-më
 bërësi
@@ -97366,7 +96439,6 @@ cajes
 cajtnot
 cajtung
 cajupit
-cakërr
 cala
 calciomercatoweb
 calcopoli-
@@ -97376,7 +96448,6 @@ calejon
 calenda-
 calenda-s
 calendas
-cales
 calgary
 calhanoglun
 calic
@@ -97754,8 +96825,6 @@ cfda
 cff
 cfpb
 cfr-në
-cfurk
-cfurkut
 ch-së
 chaban
 chadi
@@ -97978,7 +97047,6 @@ cimkash
 cincinati
 cine
 cinedays
-cingla
 cingrim
 cingërrimë
 cingërron
@@ -98605,8 +97673,6 @@ daim
 daimin
 daimond
 daiquiri
-dajan
-dajanin
 dajaren
 dajarja
 dajc
@@ -98623,8 +97689,6 @@ dajtë
 dajve
 dakarbazina
 dakau
-dakika
-dakikave
 daklanin
 daklarata
 dako-korça
@@ -98842,9 +97906,6 @@ debatuarit
 debatushme
 debicki
 debie
-debilet
-debilët
-debilëve
 debimin
 debirin
 debling
@@ -98887,9 +97948,7 @@ dedjen
 dedra
 deducti
 dedukon
-deduktimet
 deduktimit
-deduktohen
 dedushaj
 dedushi
 deepest
@@ -98965,7 +98024,6 @@ dekaratë
 dekarbonizim
 dekarbonizimit
 deketer
-dekika
 deklaracionin
 deklaratatat
 deklartën
@@ -98973,7 +98031,6 @@ deklaruesi
 deklaruesin
 deklaruesve
 deklasifikimit
-deklasuam
 deklinacion
 deklinacioni
 dekllasuarit
@@ -99251,7 +98308,6 @@ derdhaplang
 derdhëse
 derdimenë
 dereta
-derexhenë
 dergah
 dergahu
 dergahët
@@ -99279,7 +98335,6 @@ dermakut
 dermatologia
 dermatovenerologjisë
 dermot
-dermën
 derrallën
 derrida-n
 dersia
@@ -99359,9 +98414,6 @@ detektojmë
 detektori
 detektorët
 detektorëve
-detergjente
-detergjentet
-detergjentit
 detergjentë
 determinanta
 determined
@@ -99470,7 +98522,6 @@ dhetar
 dhetave
 dhetorit
 dhezë
-dhigla
 dhimbshur
 dhimbsura
 dhimbsuria
@@ -99731,8 +98782,6 @@ dinosauri
 dinosaurin
 dinoshi
 dinoshit
-dinozaurë
-dinozaurësh
 dinshumët
 dinsëz
 dinsëzë
@@ -99852,7 +98901,6 @@ disonant
 disorientues
 disp
 dispecer
-dispencat
 dispensatores
 dispeçeria
 displaying
@@ -99958,7 +99006,6 @@ djellit
 djellore
 djellosur
 djellë-
-djelmt
 djelmurina
 djelomshat
 djemat
@@ -100096,11 +99143,9 @@ dolloc
 dolloj
 dolçe
 dom-nike
-domene
 domenica
 domenika
 domeniku
-domenit
 domethenes
 domethenës
 domethënesë
@@ -100119,8 +99164,6 @@ dominguez-i
 domnori
 domozdoshme
 domozdoshmërisht
-domë
-domën
 donad
 donagh
 donatello
@@ -100132,7 +99175,6 @@ donea
 donen
 doner-
 donesin
-donet
 donevski
 dongfang
 donia
@@ -100156,7 +99198,6 @@ dont
 donuan
 donuara
 donzhone
-donzhuani
 donën
 donës
 doodle
@@ -100164,7 +99205,6 @@ doomsday
 dopaminergjike
 dophil
 dopiete
-doping-
 dopio-rol
 dopiogjashta
 dopjokryetari
@@ -100295,8 +99335,6 @@ dragobilin
 dragodani
 dragojevic
 dragojt
-dragoman
-dragomanët
 dragoshi
 dragot-
 dragotin
@@ -100317,7 +99355,6 @@ drangër-
 drangër-drung
 dranovicë
 dranës
-drap
 drapeu
 drapinj
 drapinjve
@@ -100522,7 +99559,6 @@ dubravko
 dubravën
 dubsky
 dubstep
-duc
 duca
 ducaj
 ducati-
@@ -100531,8 +99567,6 @@ duces
 ducharme
 duchovny
 duck
-dudumi
-dudumët
 duett
 dufault
 dugagjinit
@@ -100599,7 +99633,6 @@ duplifikimit
 dupnicës
 dupont
 duqani
-duqat
 durakium
 durante
 duration
@@ -100685,7 +99718,6 @@ dykuptimshmëri
 dykuptimshmërinë
 dykuptimësor
 dylberave
-dylbere
 dylgjerin
 dylin
 dylqina
@@ -100894,7 +99926,6 @@ edgardo
 edgarin
 edgerton
 edguard
-edhat
 edhelojtarë
 edhje
 edi-
@@ -101263,7 +100294,6 @@ electroëat-
 electroëat-i
 elefterios
 elefterotipos
-elegjive
 eleison
 elek
 elektoraleë
@@ -101822,7 +100852,6 @@ eskursione
 esli
 esmanë
 esmc
-esmer
 esmeraldës
 esnafërisë
 esopi
@@ -102044,7 +101073,6 @@ euxhenio
 eva-maria
 eva-s
 evaduar
-evakuoheshin
 evakuu
 evakuuimin
 evaluation
@@ -102313,7 +101341,6 @@ fancy
 fandastike
 fanelles
 fanepsën
-fangut
 fanios
 fanisë
 fanitja
@@ -102365,7 +101392,6 @@ farik
 faringitet
 farisej
 farisenjsh
-farizeut
 farkatarët
 farkëtoren
 farlatit
@@ -102659,8 +101685,6 @@ fetoshit
 fetuesit
 fetuset
 fetush
-fetvanë
-fetvatë
 feudalizimit
 feudo-borgjezisë
 feuzi
@@ -102746,7 +101770,6 @@ filelfo
 fileski
 filgalem
 filharmonike
-filia
 filiala
 filigranistët
 filigranistëve
@@ -102841,8 +101864,6 @@ finer
 fines
 finese
 finesës
-finja
-finjë
 finkielkraut
 finlandia
 finlandë-kosovë
@@ -102893,8 +101914,6 @@ fiskalizimin
 fiskalizohen
 fiskalizoj
 fiskalizuara
-fisku
-fiskut
 fisnikërimit
 fisnikërues
 fistek
@@ -103746,7 +102765,6 @@ fërkuari
 fërshëlliti
 fërçkovskin
 fëshfëritëse
-fëstëkë
 führerit
 g-17
 g-2
@@ -104324,6 +103342,7 @@ gjelbruara
 gjelbërore
 gjelltarinë
 gjellërat
+gjellësh
 gjelozi
 gjemane
 gjemaninë
@@ -104520,7 +103539,6 @@ gjithëperandorake
 gjithëpo
 gjithërisht
 gjithëse
-gjithësecilin
 gjithësekush
 gjithëshoqëror
 gjithëshqiptarë
@@ -105226,7 +104244,6 @@ guacave
 guacka
 guackave
 guadalupe
-guakëve
 guamit
 guanajuato
 guang
@@ -105429,7 +104446,6 @@ gërgatnin
 gërgoc
 gërhot
 gërkojmë
-gërmash
 gërmej
 gërmenjin
 gërmovë
@@ -106612,7 +105628,6 @@ humanitarian
 humanizojë
 humanizues
 humanizuese
-humanët
 humbaç
 humber
 humbes
@@ -107152,9 +106167,6 @@ inch
 inciativat
 incidentalish
 incidentët
-incizoi
-incizoja
-incizoni
 incl
 included
 inclūdere
@@ -107535,7 +106547,6 @@ invariantesh
 invarianteve
 invasioni
 invencionit
-inventaret
 inventarizues
 inversi
 inversin
@@ -108917,8 +107928,6 @@ kabakchiev
 kabientit
 kabin
 kabinen
-kablla
-kabllit
 kablo
 kaboglu
 kabon
@@ -111984,7 +110993,6 @@ kundërshtisht
 kundërshtuari
 kundërsthojnë
 kundërstrategji
-kundërsulmojë
 kundërtankiste
 kundërterrorizmin
 kundërtitist
@@ -112060,8 +111068,6 @@ kurili
 kurilit
 kurilla
 kurionit
-kuriozi
-kuriozin
 kuriozua
 kuririt
 kuritë
@@ -112236,7 +111242,6 @@ káëer
 kçiqi
 kênë
 kë-tij
-këceu
 këcënimi
 këitj
 këkon
@@ -112290,7 +111295,6 @@ kërcenuese
 kërcima
 kërcimorja
 kërcimës
-kërcin
 kërcitëse
 kërckë
 kërcnonte
@@ -112634,7 +111638,6 @@ lauriente
 laurit
 lausch
 laute
-lavamanë
 lavanderisë
 lavanteri
 lavanterinë
@@ -112655,6 +111658,7 @@ laventure
 lavillenie
 laviri
 lavjerësi
+lavraku
 lavrenti
 lavrovin
 lavroviç
@@ -113349,7 +112353,6 @@ llaptuar
 llaqi
 llasasë
 llaskucëve
-llastar
 llastrash
 llastër
 llaturisur
@@ -113424,8 +112427,6 @@ lobistit
 lobistësh
 lobive
 lobizëm
-loboni
-lobosh
 lobster
 lobuara
 lobuesin
@@ -114015,8 +113016,6 @@ mahli
 mahlitëve
 mahlonit
 mahmudie
-mahmur
-mahmurllëku
 mahrer
 mahrougun
 maiestatis
@@ -114752,7 +113751,6 @@ maupassant
 maurisio
 maurizo
 maurëve
-mausi
 mauzoleume
 mavisë
 mavor
@@ -116610,7 +115608,6 @@ mpshtetur
 mpu
 mramjes
 mramoni
-mraz
 mrazova
 mrdjan
 mrekull
@@ -116705,6 +115702,7 @@ muhot
 muhurr
 muhurr-draj
 muiznieks
+muja-
 mujaj-
 mujaj-dajç
 mujedin
@@ -116715,12 +115713,15 @@ mujko-nimani
 mujkës
 mujmani
 mujmanit
+mujmë
 mujotën
 mujsharinë
 mujsharit
 mujsharë
 mujtas
+mujti
 mujtinit
+mujtëm
 mukabelen
 mukalisë
 mukhtari
@@ -116773,6 +115774,7 @@ multiraterale
 multivitaminë
 mulue
 mumajesit
+mumi
 mumifikimi
 mumja
 mumjes
@@ -116867,7 +115869,6 @@ murriqi
 murrizë
 murrizës
 murriçan
-murrmash
 murrëtimit
 murselin
 murshidit
@@ -117631,6 +116632,7 @@ ndërdisiplinare
 ndërdyshja
 ndëreuropiane
 ndërevropian
+ndërgjegjjes
 ndërgjegjsimi
 ndërgjegjëshme
 ndërhyjen
@@ -117658,6 +116660,7 @@ ndërmejtësimit
 ndërmendjesh
 ndërmendojnë
 ndërment
+ndërmet
 ndërmjeme
 ndërmjetmë
 ndërmorrën
@@ -117707,6 +116710,7 @@ ndërtonjëse
 ndërtueshmërisë
 ndëruan
 ndëruar
+ndërur
 ndërvartësi
 ndërveprosh
 ndërveprueshmërisë
@@ -118093,6 +117097,7 @@ ngulmërisht
 ngultësi
 ngulçimat
 ngulçimë
+ngurrosur
 ngurtësisht
 ngushellim
 ngushllime
@@ -118649,7 +117654,6 @@ numërt
 numëruese
 nunesh
 nuniez
-nunin
 nurelleshi
 nurem
 nurenberg
@@ -118778,6 +117782,7 @@ nënkriterin
 nënkryeme
 nënkryeministrin
 nënkëmisha
+nënndërgjegjja
 nënockë
 nënokën
 nënparagraf
@@ -119475,7 +118480,6 @@ ouuuu
 ouvert
 ouyang
 ova
-ovalë
 ovcacek
 oveni
 overat
@@ -120141,7 +119145,6 @@ paralagjja
 paralajmeron
 paralajmeruese
 paralajmrojnë
-paralajmëtar
 paralajëmruar
 paralamenti
 paralamentit
@@ -120298,7 +119301,6 @@ parpara
 parpërgatitore
 parqitur
 parregjistruar
-parregullsisht
 parrethprera
 parrokshmen
 parrokshëm
@@ -120474,7 +119476,6 @@ paswordin
 pasën
 pataksuar
 pataksueshme
-pataksën
 patanishëm
 patara
 patareja
@@ -120531,7 +119532,6 @@ patroklit
 patrolluese
 patrollë
 patronat
-patronimet
 patronin
 patronoi
 patru
@@ -120702,7 +119702,6 @@ pedhanë
 pedhimu
 pediatre-infeksioniste
 pediatrics
-pedonaleve
 pedonalia
 pedopornografisë
 pedrag
@@ -120870,8 +119869,6 @@ percentile
 percepcion
 percepcioneve
 perceptions
-perceptoheshin
-perceptoni
 perceptuari
 percillet
 percjellë
@@ -120960,10 +119957,7 @@ peridhën
 peridhës
 periegesis
 periferizuar
-perifrazën
-perifrazës
 perigaud
-perikopeja
 perim
 perimëshitësit
 perinatale
@@ -121064,9 +120058,6 @@ persiflazhë
 perso
 personale-tap
 personality
-personalizojnë
-personalizon
-personalizuan
 personifikuara
 personnaz
 persoons
@@ -121130,11 +120121,7 @@ peshkarexhës
 peshkatare
 peshkatares
 peshkataret
-peshkoj
-peshkojmë
-peshkoni
 peshkopje
-peshkua
 peshkupaje
 peshkë
 peshkëpinë
@@ -121311,7 +120298,6 @@ pikavarazh
 pikepamje
 pikerni
 piketuara
-pikiate
 pikllim
 pikllimit
 pikllueme
@@ -121345,7 +120331,6 @@ pikëshi
 pikëshikimit
 pikësnisjen
 pikëverë
-pikëçuditësja
 pilar
 pilastrat
 pilatësh
@@ -121662,7 +120647,6 @@ pm841
 pmoi
 pmu-në
 pnetagonit
-pneumonie
 pnhacquis
 pnp
 po-po-po
@@ -122582,7 +121566,6 @@ prolongojë
 promajë
 promaqedon
 promas
-promemorjet
 prometejan
 prometejane
 promethe
@@ -122598,7 +121581,6 @@ promote
 promoting
 promovimomania
 promptly
-pron
 pronarvet
 pronataliste
 pronconcim
@@ -122669,7 +121651,6 @@ prosperojnë
 prostatektomisë
 prostatik
 prostituim
-prostituohen
 prostuticioni
 prostuticionit
 prosvjet
@@ -122742,7 +121723,6 @@ prozori
 proçesion
 proçesverbalet
 proçesverbalin
-prrallës
 prrocka
 prrojet
 prronit
@@ -122765,6 +121745,7 @@ prâj
 près
 prênnusha
 prëcis
+prëhje
 prësence
 prëval
 ps-lsi-pd
@@ -123094,7 +122075,6 @@ përbirues
 përbirës
 përboti
 përbreg
-përbrendshme
 përbrendësimit
 përbrendësojmë
 përbrëndëshme
@@ -123274,6 +122254,7 @@ përkëthyesit
 përlasje
 përleshurve
 përligjie
+përligjjet
 përliçev
 përlleshi
 përlloçura
@@ -123284,7 +122265,6 @@ përmalluarit
 përmanente
 përmbajtjesorë
 përmbajtjës
-përmbajtëse
 përmbaka
 përmbes
 përmbloth
@@ -123527,7 +122507,6 @@ qefalit
 qefalitë
 qeflijet
 qehajiq
-qeky
 qelbesire
 qelbësire
 qelbësirën
@@ -124122,6 +123101,7 @@ rascal
 rascasse
 rascoffi
 rasff
+rasha
 rashanit
 rashbull
 rashbull-
@@ -127414,6 +126394,7 @@ shpinëthyer
 shpiragasit
 shpirtbukur
 shpirtdehja
+shpirtinë
 shpirtka
 shpirtkazma
 shpirtlik
@@ -127424,7 +126405,6 @@ shpirtnisht
 shpirtnor
 shpirtnorë
 shpirtverbër
-shpirtvogëlsi
 shpirtënor
 shpirtënore
 shpirtërore-kulturore
@@ -127836,6 +126816,7 @@ shëkonjë
 shëkosh
 shëmbi
 shëmbitrit
+shëmbujt
 shëmbëllor
 shëmbëllyese
 shëmbëllyeshëm
@@ -128554,10 +127535,7 @@ sonambul
 sonar
 sonarët
 sonazheve
-sondash
-sondave
 sondrios
-sondën
 soner
 songkran
 songping
@@ -128703,7 +127681,6 @@ spiecapag
 spikatuar
 spikaturin
 spikerat
-spikerin
 spinalonga
 spinaricën
 spinazzola
@@ -129005,7 +127982,6 @@ stermilli
 steroid
 steroidit
 sterr
-sterrosnin
 stervitem
 sterzgjatur
 steun
@@ -129020,12 +127996,6 @@ stgb
 sti-
 stib
 stickers
-stigmatizohej
-stigmatizohen
-stigmatizoi
-stigmatizoj
-stigmatizojmë
-stigmatizonin
 stigmatizuara
 stikersave
 stikhina
@@ -129499,9 +128469,6 @@ surrratin
 surrugato
 suru
 survejancës
-survejimeve
-survejohen
-survejojnë
 survejuara
 survejuarve
 suryavarmani
@@ -130444,6 +129411,7 @@ thiele
 thien
 thier
 thiis
+thik
 thikëmprehësi
 thimaq
 thimion
@@ -130527,6 +129495,7 @@ thëllimës
 thënje
 thënme
 thënur
+thëret
 thërmiat
 thërmim
 thërmimi
@@ -130563,6 +129532,7 @@ tifogrupet
 tifogrupin
 tifozllik
 tifozërie
+tifozëve-
 tifozëve-huligan
 tifunovski
 tiganeve
@@ -132835,7 +131805,7 @@ vettari
 vettelin
 vettignu
 vettransformimit
-vetull-
+vetulle
 veturdhëronjës
 vetvarur
 vetvetsinë
@@ -132853,6 +131823,7 @@ vetë-vendosje
 vetë-veten
 vetë-vetes
 vetë-vetës
+vetëadministrimin
 vetëakuzuar
 vetëbënë
 vetëbërë
@@ -133158,7 +132129,6 @@ vipave
 viper
 vipers
 virchow-
-virej
 virg
 virgjiliane
 virgjinitet
@@ -133174,7 +132144,6 @@ virtue
 virtues
 virtus
 virtutave
-virtutë
 virtutës
 virusë
 virusët
@@ -133525,7 +132494,6 @@ vrellaj
 vren
 vrenozi
 vrerësirë
-vreshtarinë
 vreshtasit
 vries
 vrijonte
@@ -133623,8 +132591,6 @@ vyacheslav
 vyp
 vyrtytit
 vyrtytshme
-vyshka
-vyshkun
 vytautas
 várhelyi
 vásquez
@@ -134032,7 +132998,6 @@ xhekpot
 xhelatet
 xhelatinoz
 xhelim
-xhelin
 xhelozira
 xhelozisht
 xhelozohen
@@ -134109,6 +133074,7 @@ xhine
 xhing-
 xhing-xhing
 xhinj
+xhinsesh
 xhinxherin
 xhinës
 xhiokonda
@@ -134607,8 +133573,6 @@ zeytinburnu
 zezëz
 zgafellën
 zganarelit
-zgara
-zgarat
 zgarit
 zgjanimin
 zgjanuem
@@ -135056,6 +134020,7 @@ zëmërë-valë
 zëndan
 zëth
 zëv
+zëvendeskryeministrja
 zëvendsministri
 zëvendës-ambasadori
 zëvendës-asistent
@@ -135073,13 +134038,14 @@ zëvendës-zëdhënësi
 zëvendësguvernatorja
 zëvendëskryeminsitri
 zëvendëskryeminstri
+zëvendëskryetares
 zëvendësministrore
 zëvendësminitri
 zëvendësmitropolit
 zëvendësue
 zëvndëssekretares
 zëvndësuar
-zëvëndësministrin
+zëvëndëskryetari
 zëvëndësues
 zëzë
 zëç
@@ -135118,7 +134084,6 @@ zürichut
 çaktivizimi
 çaktivizon
 çaktivizonin
-çaku
 çakërqef
 çalikun
 çalimin
@@ -135145,7 +134110,6 @@ zürichut
 çapërluar
 çarapeve
 çarapë
-çaraveshur
 çarcani
 çardhakun
 çargu
@@ -135157,7 +134121,6 @@ zürichut
 çarmatosin
 çarshafit
 çarshove
-çarter-
 çarterisi
 çarti
 çartisur
@@ -135210,7 +134173,6 @@ zürichut
 çekërkë
 çelajn
 çelcit
-çelebija
 çelebiun
 çeles
 çelesi
@@ -135232,7 +134194,6 @@ zürichut
 çensurojnë
 çensurën
 çentos
-çentrot
 çepe
 çepeliku
 çepun
@@ -135272,7 +134233,6 @@ zürichut
 çez-it
 çezariane
 çezenës
-çeços
 çeçua
 çfaqiet
 çfardoshme
@@ -135294,8 +134254,6 @@ zürichut
 çifutërisë
 çihuahua
 çikagon
-çikin
-çikje
 çikletës
 çikllopi
 çiklomotorë
@@ -135331,14 +134289,11 @@ zürichut
 çirilicë
 çirivaxhi
 çiriç
-çirrje
 çirrjeje
 çirrjet
 çishiq
 çisternë
 çisternën
-çit
-çitnin
 çivava
 çizmën
 çiçavica
@@ -135346,7 +134301,6 @@ zürichut
 çiçibuni
 çiçikovit
 çiçon
-çjerrim
 çjerrjes
 çjornaja
 çkaje
@@ -135358,9 +134312,6 @@ zürichut
 çkishnimit
 çkrepëtin
 çkëputura
-çliroja
-çlirojeni
-çlironim
 çlirshme
 çllo
 çllojmë
@@ -135374,7 +134325,6 @@ zürichut
 çmbështolli
 çmendia
 çmendjes
-çmendni
 çmendon
 çmendoni
 çmenduraket
@@ -135403,24 +134353,20 @@ zürichut
 çoe
 çohim
 çohin
-çojani
-çojini
-çojua
 çokolate
 çokolatë
 çokolladë
 çoktanit
 çoliq
 çoliqit
-çollak
 çomage
-çomani
 çomes
 çomos
 çomovski
 çongking
 çopa
 çopani
+çorapes
 çorapgjata
 çorganizueshëm
 çorientoi
@@ -135481,7 +134427,6 @@ zürichut
 çupka
 çupkë
 çuprat
-çupërlinë
 çurga
 çuruvija
 çushin
@@ -136219,7 +135164,6 @@ zürichut
 -abc
 -abduljalil
 -abdurrahman
--abe
 -abend
 -abib
 -abidini
@@ -136242,6 +135186,7 @@ zürichut
 -adli
 -adlin
 -administration
+-administratën
 -admiralin
 -adnan
 -adresimi
@@ -136253,10 +135198,8 @@ zürichut
 -agjen
 -agjente
 -agnes
--ago
 -agron
 -agshze
--aguan
 -aguero
 -ahease
 -ahly
@@ -136276,7 +135219,6 @@ zürichut
 -ajase
 -ajax
 -ajdin
--ajeti
 -ajmi
 -ajourdhui
 -ajouri
@@ -136288,7 +135230,6 @@ zürichut
 -akbari
 -akbn
 -akjan
--akset
 -aksidentuar
 -aktiviste
 -aktualizuara
@@ -136303,6 +135244,7 @@ zürichut
 -albanica
 -albshpresa
 -albulenë
+-aleancës
 -alegri
 -alek
 -aleksandropulos
@@ -136321,7 +135263,6 @@ zürichut
 -allias
 -allàh
 -almeida
--alpe
 -altlantik
 -altman
 -altwies
@@ -136377,7 +135318,6 @@ zürichut
 -anzhuin
 -ançeloti
 -anëtareshe
--apa
 -aparthejdit
 -apoel
 -aquitaine
@@ -136422,7 +135362,6 @@ zürichut
 -artitsike
 -artstike
 -arësyeshme
--arëz
 -asamblisti
 -asamblistit
 -asfaltim
@@ -136445,7 +135384,6 @@ zürichut
 -astoria
 -asve
 -aswad
--asëll
 -atavah
 -atdhesimit
 -atlantikeë
@@ -136460,7 +135398,6 @@ zürichut
 -auguste
 -aukus
 -ausserung
--autokrat
 -autoritarist
 -autoritarizëm
 -avdul
@@ -136472,7 +135409,6 @@ zürichut
 -avramopulos
 -awlawya
 -awsat
--axhenda
 -axhendën
 -azadanin
 -azadanit
@@ -136513,8 +135449,6 @@ zürichut
 -baltike
 -baltistan
 -balëz
--bami
--ban
 -banas
 -bandarit
 -bangu
@@ -136531,7 +135465,6 @@ zürichut
 -bardimet
 -bardojmë
 -barduesit
--bare
 -barneu
 -barraka
 -bartoleme
@@ -136548,7 +135481,6 @@ zürichut
 -bashkëushtarit
 -bashkëveprimtari
 -bashkëvuajtës
--bashta
 -bashtova
 -bashtovë
 -bashë
@@ -136560,7 +135492,6 @@ zürichut
 -bbbës
 -bc
 -bdsh
--bebe
 -bebekovska
 -beblavi
 -bedevi
@@ -136573,7 +135504,6 @@ zürichut
 -bejnë
 -belanoc
 -belgrade
--belicës
 -belkacem
 -bellakovcë
 -bellovodë
@@ -136581,10 +135511,8 @@ zürichut
 -belsh
 -beltag
 -belzen
--benci
 -benefitin
 -benevento
--beniaminit
 -benifit
 -bennett
 -bens
@@ -136593,7 +135521,6 @@ zürichut
 -beqaroska
 -beqir
 -beqiraj
--ber
 -berakun
 -bercy
 -beria
@@ -136623,7 +135550,6 @@ zürichut
 -bishtçukas
 -bissau
 -bitola
--biz
 -bizantino
 -bizi
 -bizzit
@@ -136633,7 +135559,6 @@ zürichut
 -blade
 -blank
 -bler
--blik
 -blike
 -bllokmenëve
 -bllokues
@@ -136645,9 +135570,7 @@ zürichut
 -blunçli
 -bm
 -bnjvl
--bobota
 -bodigard
--bogdani
 -bojanë
 -boltz
 -bombai
@@ -136695,7 +135618,6 @@ zürichut
 -brindisi
 -brioni
 -brithmë
--brokoli
 -bromunorë
 -bronks
 -broçkulla
@@ -136719,7 +135641,6 @@ zürichut
 -burgaxhinj
 -bus
 -buseif
--bushat
 -bussieres
 -buzheti
 -buzëqeshëse
@@ -136728,7 +135649,6 @@ zürichut
 -byes
 -bylis
 -bypass
--bytyn
 -bytyçi
 -bërdyna
 -bërnli
@@ -136918,7 +135838,6 @@ zürichut
 -depresiv
 -depresive
 -deqan
--derbi
 -derebej
 -deserved
 -deservetravelers
@@ -136979,7 +135898,6 @@ zürichut
 -ditrich
 -dium
 -divës
--dixhital
 -dixon
 -dizdar
 -dj
@@ -136999,7 +135917,6 @@ zürichut
 -dolina
 -donatille
 -door
--dopingun
 -doppler
 -doq
 -dor
@@ -137033,8 +135950,6 @@ zürichut
 -dub
 -dubrava
 -dubz
--duc
--dudum
 -duer
 -dueshëm
 -duffy
@@ -137071,7 +135986,6 @@ zürichut
 -ederit
 -edes
 -edge
--edh
 -edi
 -edinstvon
 -editions
@@ -137289,7 +136203,6 @@ zürichut
 -fiiiuuu
 -filantropike
 -file
--filinë
 -filmfest
 -filomena
 -filosofik
@@ -138237,8 +137150,6 @@ zürichut
 -kën
 -këndëshi
 -këng
--kër
--kërc
 -kërpicë
 -këshe
 -l091
@@ -138253,8 +137164,6 @@ zürichut
 -land
 -lander
 -laprakë
--laptop
--laptopë
 -laratat
 -largun
 -largë
@@ -138839,7 +137748,6 @@ zürichut
 -nstruktuar
 -ntëve
 -nukrashi
--nunin
 -nurije
 -nurnberg
 -nurxhet
@@ -138847,7 +137755,6 @@ zürichut
 -nxënësprindër
 -nënkampion
 -nënmavriq
--nënndërgjegje
 -nënçmues
 -nër
 -nës
@@ -138985,7 +137892,6 @@ zürichut
 -pasternak
 -pasternakore
 -pastorale
--patnë
 -patrimonal
 -patriotizme
 -patsets
@@ -139128,7 +138034,6 @@ zürichut
 -ppp
 -praktikte
 -praxis
--preferencë
 -prend
 -prepalac
 -prescription
@@ -139631,6 +138536,8 @@ zürichut
 -shtish
 -shtë
 -shtëpijak
+-shtëpizën
+-shtëpizës
 -shuajtje
 -shuali
 -shualin
@@ -139725,7 +138632,6 @@ zürichut
 -speaker
 -speaking
 -speech
--spiker
 -spiralike
 -spiritualiste
 -spiunia
@@ -139807,7 +138713,6 @@ zürichut
 -sunak
 -sunni
 -suonsi
--supermarketin
 -supermoderne
 -surroi
 -susahin
@@ -139934,8 +138839,6 @@ zürichut
 -tiroidet
 -titanat
 -titograd
--titullarë
--titullarëve
 -tjatra
 -tjatrit
 -tjeret
@@ -140384,7 +139287,6 @@ zürichut
 -çekosllavaki
 -çekosllovaki
 -çekosllovakia
--çelebi
 -çellos
 -çere
 -çerçiz
@@ -140397,9 +139299,6 @@ zürichut
 -çikër
 -çimit
 -çirez
--çit
--çjerrur
--çollak
 -çorapeverdhi
 -çorovodë
 -çquan
@@ -148404,8 +147303,6 @@ abdestit
 abdialqim
 abdikimi
 abdikimit
-abdikojnë
-abdikon
 abdikonte19
 abdilalim
 abdilhalim
@@ -148518,9 +147415,7 @@ aberracionit
 aberto
 abes-
 abes-sinia
-abeshit
 abesinia
-abesë
 abetarisë
 abetarën
 abets
@@ -148606,7 +147501,6 @@ abonetet
 abonuesve
 aboom
 abord
-abordazhi
 abordi
 abortime
 abortimet
@@ -148674,7 +147568,6 @@ absence
 absent
 absentë
 abshise
-absidës
 absintit
 abso-
 abso-lute
@@ -148715,9 +147608,6 @@ abstrahohen
 abstrahon
 abstrakcion
 abstrakohet
-abstraksioneve
-abstraksionizmin
-abstraksionizëm
 abstraktim
 abstraktimi
 abstraktimin
@@ -148937,7 +147827,6 @@ adaptuesja
 adastral
 adatnama
 adattamento
-adaxhio
 adburahmani
 adbylmenaf
 add-
@@ -149084,7 +147973,6 @@ adjektivuen
 adjektivuene
 adjola
 adjustment
-adjutantëve
 adk-3200
 adlai
 adleri
@@ -149325,12 +148213,8 @@ adzm-ve
 adëmin
 aeachers
 aecimedes
-aed
-aedi
 aedificiis
 aediles
-aedësh
-aedëve
 aee
 aegis
 aehm-
@@ -149359,8 +148243,6 @@ aerarium
 aere
 aero-portit
 aerob
-aerobie
-aerobinë
 aerodinamika
 aerodynamics
 aeromovil
@@ -149659,7 +148541,6 @@ agapashazade
 agaqe
 agarak
 agaristën
-agarit
 agastrën
 agathakli
 agatharkidit
@@ -149671,8 +148552,6 @@ agathon
 agathoni
 agathonit
 agati
-agave
-agavet
 agavje
 agawi
 agazhimit
@@ -149714,7 +148593,6 @@ agif
 agikons
 agilar
 agile
-agim-
 agimët
 agin
 aging
@@ -149815,7 +148693,6 @@ agolli23
 agollian
 agollii
 agollli
-agona
 agonistiko-
 agonistiko-sportive
 agonizuar
@@ -149826,7 +148703,6 @@ agopunture
 agoranë
 agorasë
 agores
-agori
 agorà
 agorá-je
 agorá-n
@@ -149884,8 +148760,6 @@ agreson
 agression
 agresuar
 agret
-agri
-agri-
 agri-en
 agriakulloret
 agridem
@@ -149956,7 +148830,6 @@ agruesit
 agrum
 agrumentimi
 agrumi
-ague
 aguerron
 aguiara
 aguilera-n
@@ -150314,10 +149187,6 @@ ajfelin
 ajfelit
 ajfonave
 ajgo
-ajgëtoja
-ajgëtonin
-ajgëtonte
-ajgëtua
 ajhmatovi
 ajho
 ajiani
@@ -150349,8 +149218,6 @@ ajnë
 ajo-apo
 ajo-lufta
 ajo-pak
-ajodhima
-ajodhimat
 ajoeurodeputetja
 ajojetë
 ajolën
@@ -150375,8 +149242,6 @@ ajroe
 ajrol
 ajrosjeje
 ajrë
-ajsbergun
-ajsbergëve
 ajser
 ajsha
 ajshal
@@ -150640,7 +149505,6 @@ akr-ne
 akr-nw
 akrama
 akrapoviç
-akrash
 akrashticë
 akrb
 akre
@@ -150651,7 +149515,6 @@ akreditimiut
 akreditur
 akreps
 akrepët
-akri
 akribi
 akribia
 akribik
@@ -151007,11 +149870,8 @@ akçesi
 akçi-bash
 akçigës
 akçihanin
-akëcilave
-akëcilëve
 akën
 akënxhinjve
-akër
 al-abduljalil
 al-abidini
 al-adaviya
@@ -151386,7 +150246,6 @@ albasky
 albass
 albatrade
 albatrin
-albatrosin
 albcontrol-
 albcontrol-t
 albdesign
@@ -151520,14 +150379,12 @@ aleatorike
 aleatve
 aleatëve-armiq
 aleatëvekundërteza
-alebarda
 alecia
 aleff
 alegreto
 alegretto
 alegri-
 alegri-dibala
-alegro
 alegros
 alehandra
 alehandrën
@@ -151757,9 +150614,6 @@ alian
 aliance
 alianze
 aliapër
-aliazh
-aliazhet
-aliazhi
 alibaba-
 alibaba-it
 alibabës
@@ -151883,11 +150737,6 @@ alit-
 alit-nallbati
 alitalias
 aliten
-aliteracionet
-aliteracioneve
-aliteracioni
-aliteracionin
-aliteracionit
 alitet
 alitetin
 alitii
@@ -151999,8 +150848,6 @@ allahabad
 allahu-akbar
 allaitalian
 allaitaliane
-allaj
-allaj-
 allaj-bej
 allajbeg
 allajbegisë
@@ -152333,7 +151180,6 @@ alushit
 alushllari69
 aluvial
 aluviale
-aluvion
 aluzin-in
 aluzinit
 aluzionit
@@ -152408,10 +151254,8 @@ amalek
 amalekiti
 amalekitë
 amalfit
-amalgamat
 amalgameve
 amalgamimit
-amalgamës
 amalgimi
 amalgimin
 amalgohet
@@ -152450,7 +151294,6 @@ amarandusit
 amaranthi
 amarcord-i
 amarcord-it
-amareta
 amariet
 amarikanët
 amarild
@@ -152596,10 +151439,8 @@ ambuazëve
 ambulancen
 ambulantat
 ambulantave
-ambulantet
 ambulantiv
 ambulantën
-ambulantëve
 ambulatorisht
 ambullanta
 ambëlsi
@@ -152617,7 +151458,6 @@ amedamentimin
 amedei
 ameerikan
 ameika
-ameli
 amelies
 amelio
 amenadabi
@@ -152712,7 +151552,6 @@ ameti-
 ameti-vokal
 ametikane
 ametisi
-ametisti
 amf-primet
 amf-s
 amfar
@@ -152746,7 +151585,6 @@ amian
 amicale
 amichai
 amidi
-amidonit
 amieli
 amiensit
 amient
@@ -152833,8 +151671,6 @@ amnituar
 amodio
 amoksicilinë
 amoksicillina
-amoniakun
-amonin
 amor-
 amor-it
 amoralizëm
@@ -152861,8 +151697,6 @@ ampb-
 ampb-së
 ampej
 amperimetri
-amperin
-amperit
 ampk
 ampliatin
 amplification
@@ -153075,7 +151909,6 @@ anashkaluese
 anashnxjerrë
 anasir
 anasjelltash
-anason
 anast
 anastacia-
 anastacia-s
@@ -153103,7 +151936,6 @@ anatalias
 anatare
 anatarë
 anatarëve
-anatemash
 anatemaur
 anatemimeve
 anatemizma
@@ -153458,7 +152290,6 @@ angjelos-gjyqi
 angjelësh
 angjelët
 angjencia
-angjinare
 angjiospermae
 angkeze
 angkorit
@@ -153685,7 +152516,6 @@ annëe
 annëes
 annët
 anoche
-anoda
 anoeta
 anoetike
 anofelike
@@ -154290,9 +153120,6 @@ antiligji
 antiligjit
 antiliri
 antilojë
-antilope
-antilopë
-antilopët
 antilopëve
 antiluftë
 antimafian
@@ -154322,8 +153149,6 @@ antimitingjet
 antimodelin
 antimoderna
 antimoderniste
-antimon
-antimoni
 antimonopol
 antimonopoliste
 antimoral
@@ -154730,7 +153555,6 @@ aounto
 ap-balla
 ap17
 ap5oac8rmd
-apa-
 apa-raturave
 apakauku
 apanazh
@@ -154774,7 +153598,6 @@ apartmentit
 apartments
 apartçikët
 apasionante
-apasionuam
 apasionuara
 apasionuari
 apasionuese
@@ -154816,7 +153639,6 @@ apendicitsi
 apeninit
 apeol
 apercepcion
-aperitivin
 aperitivëve
 apersonalizmi
 apert
@@ -155140,7 +153962,6 @@ arabçe
 aracne
 aracëlëyla
 aradheje
-aradhen
 aradi
 aradoktor
 arafat-
@@ -155155,7 +153976,6 @@ aragostën
 araguas
 aragva
 araiteuru
-arak
 arakopisur
 araldo
 aralit
@@ -155515,7 +154335,6 @@ argjestinës
 argjilit
 argjilor-ranor
 argjinare
-argjinaturash
 argjipeshkvinjtë
 argjipeshkvit
 argjirokastra
@@ -155749,8 +154568,6 @@ arkidukatit
 arkifakte
 arkiloku
 arkilokut
-arkimandriti
-arkimandritë
 arkimediane
 arkimedin
 arkin
@@ -155773,8 +154590,6 @@ arkitektuës
 arkitetki
 arkiteturore
 arkiteturë
-arkitra
-arkitrarët
 arkitraut
 arkitrave
 arkiviat
@@ -155784,9 +154599,7 @@ arkivolët
 arkivues
 arkla
 arkometria
-arkond
 arkondat
-arkondësh
 arkora
 arkore
 arktanët
@@ -156162,7 +154975,6 @@ arsh-
 arsh-së
 arshi-
 arshi-lengo
-arshinin
 arshinë
 arshiq
 arshit
@@ -156387,7 +155199,6 @@ artitik
 artitistike
 artive
 artizant
-artiçokë
 artjan
 artjom
 artjon
@@ -156589,7 +155400,6 @@ asdreni-
 asdreni-sinonime
 asdrenor
 asdxer1mrp
-ase-
 ase-teve
 asean
 aseco
@@ -156648,7 +155458,6 @@ asgjëfare
 asgjëkundshme
 asgjëkunt
 asgjëmangu
-asgjëmangut
 asgjëpunë
 asgjës
 asgjësimimn
@@ -156664,7 +155473,6 @@ asham-ashash
 asham-së
 ashani
 ashanin
-ashari
 asharq
 ashas
 ashash-
@@ -156711,9 +155519,6 @@ ashkalonit
 ashkelon
 ashkelonit
 ashkenazit
-ashklave
-ashkle
-ashklën
 ashkohemi
 ashkollsun
 ashkëlat
@@ -156973,19 +155778,12 @@ asociim-stabilizim
 asocimin
 asocioacion
 asocioancionit
-asociojmë
-asociojë
-asocioni
 asocionme
 asocionuar
 asocojnë
 asodore
 asoicacioni
 asomoti
-asonanca
-asonancash
-asonancave
-asonancë
 asor
 asorbitor
 asorbitorët
@@ -157160,7 +155958,6 @@ asu
 asuani
 asuc
 asukujt
-asull
 asuncion
 asunsion
 asuri
@@ -157177,7 +155974,6 @@ asysh
 asz-
 asz-së
 asçfarë
-asëll-
 asëll-asëll
 at-dheun
 at-hok
@@ -157212,7 +156008,6 @@ atakias
 atakimin
 atakueshem
 atakueshme
-atakët
 atala
 atalanta-cagliari
 atalanta-crotone
@@ -157845,11 +156640,9 @@ auroni
 auronze
 auropianoperëndimorë
 auror
-aurorat
 auroriale
 aurorin
 auroriteti
-aurorët
 aurotin
 aurotitetit
 aurtores
@@ -158052,7 +156845,6 @@ autokombajne
 autokomunikacionit
 autokracise
 autokratia
-autokratin
 autokratizimi
 autokratizmit
 autokritkë
@@ -158328,7 +157120,6 @@ avemurieri
 avenger-eve
 avenger-ët
 avenida
-aveniri
 avenit
 avenny
 aveno-
@@ -158437,7 +157228,6 @@ avnoj
 avnojane
 avoca
 avocado
-avokado-
 avokado-avokado
 avokati-mbrojtës
 avokati-noteri
@@ -158543,7 +157333,6 @@ axhemiogllanë
 axhemit
 axhempilaf
 axhencisë
-axhendash
 axhensira
 axhensitë
 axhent
@@ -158760,8 +157549,6 @@ açkovska
 açlëna
 açompli
 açord
-açuges
-açuget
 aëadh
 aëd
 aëe
@@ -158936,7 +157723,6 @@ bablokut
 bablokët
 bablucës
 babocin
-babole
 baboshticës
 baboviq
 babovski
@@ -159031,8 +157817,6 @@ badarashit
 badblueboys
 bade
 badel
-bademe
-bademet
 baden-vyrtemberg
 baden-wurttemberg
 badenwytembergut
@@ -159130,8 +157914,6 @@ bahasa
 bahati
 bahce
 bahebek
-bahem
-bahesha
 bahije
 bahiri
 bahirit
@@ -159195,7 +157977,6 @@ bair-sveti-nikole-prilep-bitola
 baita
 baizi
 baiçinë
-baj-
 baj-pas
 bajaga-
 bajaga-s
@@ -159241,7 +158022,6 @@ bajl-kapedani
 bajli
 bajlit
 bajlozet
-bajn
 bajna-
 bajna-bashta
 bajnooo
@@ -159288,10 +158068,7 @@ bajrin
 bajronian
 bajrou
 bajrushin
-bajsha
-bajshit
 bajtaktari
-bajtën
 bajulken
 bajulkenin
 bajzë-rrethrrotullim
@@ -159418,8 +158195,6 @@ balciunas
 bald-
 baldacci-
 baldacci-t
-baldakin
-baldakinin
 baldasari
 baldassarri
 baldhë
@@ -159443,7 +158218,6 @@ balenasit
 balenen
 balerdin
 bales
-balestra
 balestrierë
 balet-film
 baletitt
@@ -159473,10 +158247,8 @@ balilajn
 balilajt
 balilajve
 balilat
-balili-
 balili-së
 balilo
-balilë
 balilën
 balim
 balincës
@@ -159546,8 +158318,6 @@ ballaj-kryevidh
 ballajdinë
 ballak
 ballakanit
-ballakumet
-ballakumeve
 ballam
 ballan
 ballanchine
@@ -159849,8 +158619,6 @@ banega-ikardi
 banegas
 banerash
 banerave
-baneri
-banerëve
 banesava
 banesavëe
 banesor-
@@ -159985,7 +158753,6 @@ banya
 banzai
 banzet
 bançin
-baobab
 baodong
 baorong
 baos
@@ -160079,7 +158846,6 @@ baratta-
 baratta-kumbaro
 baratuar
 barazformuar
-barazhesh
 barazimii
 barazionist
 barazisëmidis
@@ -160116,7 +158882,6 @@ barbagia
 barbakan
 barbalista
 barballush
-barbalushit
 barbannë
 barbara-
 barbara-n
@@ -160162,7 +158927,6 @@ barbufeja
 barbullinjë
 barbulloja
 barbullushin
-barburiqin
 barbysi
 barca_buzz
 barcaletës
@@ -160187,7 +158951,6 @@ barclay-
 barclay-n
 barclaysfooty
 barco
-barcoletës
 barcollë
 barcëlonës
 bardak
@@ -160235,7 +158998,6 @@ bardhëllyem
 bardhëqumështi
 bardhësueme
 bardhëza-
-bardin
 bardja
 bardo
 bardot-
@@ -160244,13 +159006,10 @@ bardovci
 bardovcit
 bardovcë
 bardsey
-bardë
-bare-
 bare-mitrovicë
 bared
 barejn-
 barejn-atletiko
-barelat
 barelievet
 barelieveve
 barelinjtë
@@ -160371,11 +159130,6 @@ barny
 barnëvil
 barocche
 baroesha
-barominash
-barominave
-baromine
-barominë
-barominën
 baron-sekretarë
 baronesa
 baroneshes
@@ -160399,7 +159153,6 @@ barres
 barrestorante
 barrett-
 barrett-in
-barreve
 barrico
 barrierrën
 barrikadava
@@ -160500,7 +159253,6 @@ basakasehir
 basal
 basalt
 basami
-basanit
 basaras
 basart
 basave
@@ -160791,6 +159543,7 @@ bashkë-ylli
 bashkëadhetarët
 bashkëadministrimit
 bashkëaktorja
+bashkëaktrim
 bashkëaleati
 bashkëatdhetarit
 bashkëatëdhataret
@@ -161133,7 +159886,6 @@ bashqet
 bashteja
 bashtova
 bashtovë
-bashtë
 bashua
 bashuara
 bashville
@@ -161369,9 +160121,7 @@ bauhaus
 bauhausin
 bauk
 bauku
-baulen
 bauler
-baulet
 bauli
 baumanin
 baumbach
@@ -161409,7 +160159,6 @@ baxhanë
 baxhetit
 baxhion
 baxhisi
-baxhit
 baxhoxhiu
 baxhukun
 baxt
@@ -161466,7 +160215,6 @@ bazena
 bazenit
 bazetës
 bazhdarevic
-bazhdari
 bazhibozukët
 bazhou
 bazhë
@@ -161656,7 +160404,6 @@ bebelina
 bebetit
 bebeëimiz
 bebisiterin
-bebja-
 bebja-paris
 beblebli
 bebush
@@ -161665,7 +160412,6 @@ bebushit
 bebzave
 bebëza-
 bebëza-zbërthyer
-bec-
 becao
 becchetti
 beccuau
@@ -161682,11 +160428,9 @@ bechtelenka
 bechteli
 bechteli-
 bechteli-it
-beci-
 beci-t
 becica
 becici
-becin
 beciri
 beckahm
 beckenbauer-
@@ -161882,7 +160626,6 @@ bejgu
 bejim
 bejing
 bejini
-bejka
 bejkerin
 bejkovë
 bejkovës
@@ -161903,10 +160646,6 @@ bejollë
 bejon
 bejos
 bejrutin
-bejsbollin
-bejsbollisti
-bejsbollistit
-bejsbollistë
 bejse
 bejtaga
 bejtallah
@@ -162042,9 +160781,6 @@ belgradit
 belgravia
 belhoir
 beliarin
-belica
-belicë
-belicës
 belief-
 belief-it
 believes
@@ -162192,7 +160928,6 @@ belá
 belçicë
 bem1qstdtj
 bembibre
-bemol
 bemë
 ben-ami
 ben-bernanke
@@ -162201,7 +160936,6 @@ ben-givr
 ben-hadadit
 ben-it
 ben-oni
-bena
 benacquista
 benada
 benaff-
@@ -162220,14 +160954,10 @@ benardo
 benart
 benasi
 benasit
-benave
 benbassa
 bencave
 bench
 benchë
-benci
-bencin
-bencit
 benczes
 benderit
 bendevksa
@@ -162279,7 +161009,6 @@ benetton-it
 beneventos
 benevolentiae
 benevreke
-benevrekëve
 benfica-
 benfica-otelul
 benficionet
@@ -162298,11 +161027,9 @@ benghazi
 beni-lë
 beni-suef
 beniada
-beniamin-
 beniamin-pasha
 beniaminite
 beniaminitin
-beniaminë
 benianimit
 benificieve
 benificioine
@@ -162387,8 +161114,6 @@ bençes
 bençiç
 bençmarkave
 benë-rrëshen
-benën
-benët
 beoagradin
 beobank
 beocisë
@@ -162491,7 +161216,6 @@ berdimuhamedov
 berdolecit
 berdymukhammedov
 berdynaj
-bere-
 berebekët
 berec-it
 berec-u
@@ -162542,7 +161266,6 @@ berhtesgaden
 berhtold
 berhtoldi
 berhtoldin
-beri-
 beriahitëve
 berianë
 beridha
@@ -162601,7 +161324,6 @@ berkeleyt
 berkely
 berkoviç
 berkshire
-berkun
 berkuta
 berlemont
 berlin-2009
@@ -162686,25 +161408,18 @@ berojën
 berojës
 beromi
 beron
-beronja
-beronjat
-beronje
 berosvski
 berothahi
 berovc
 berovo
 berovski
 berovë-vinicë
-berqet
 berreta
 berriat
 berrihait
-berrit
 berrllogave
 berrnicës
 bers
-bersalierë
-bersalierëve
 bersaljerët
 bersanin
 bersas
@@ -162799,7 +161514,6 @@ beses
 besformljenoje
 besfortin
 beshaj
-beshamelin
 beshari
 beshear
 beshellon
@@ -162811,7 +161525,6 @@ beshirin
 beshirli
 beshisht
 beshkoviq
-beshta
 beshtica
 beshtire
 beshvili
@@ -163285,11 +161998,9 @@ bid-
 bid-et
 bida
 bidaj
-bide
 biden-i
 biden-it
 biden-von
-bidenë
 bidesmi
 bidgett
 bidimensionin
@@ -163371,7 +162082,6 @@ bihevioriste
 bihiku
 bihorasen
 bihorasja
-bihude
 bihudeve
 biiijteeee
 biiir
@@ -163406,7 +162116,6 @@ bilajxhici
 bilajxhicit
 bilalgate
 bilalhanem
-bilan
 bilancohet
 bilancët
 bilans
@@ -163527,7 +162236,6 @@ bilçik
 bimaj
 bimblin
 bimblit
-bimin
 bimrat
 bimsi
 bimsí
@@ -163837,7 +162545,6 @@ bishtnimi
 bishtnimin
 bishtpallë
 bishtqethm
-bishtrave
 bishtrazhin
 bishtret
 bishtrinj
@@ -163861,7 +162568,6 @@ bislmi
 bismarcku
 bismilahirrahmanirrahim
 bismillah
-bismuti
 bisnesi
 bisnesmenin
 bisnesmenit
@@ -163985,7 +162691,6 @@ bizgjani
 bizhdilit
 bizhe
 bizhgot
-bizhgës
 bizhozit
 bizhozxhi
 bizhuje
@@ -164040,10 +162745,7 @@ bizntino-bullgar
 bizntino-serb
 bizolin
 bizolit
-bizon
 bizonave
-bizonit
-bizonëve
 bizthan
 bizz
 bizzarri
@@ -164381,7 +163083,6 @@ bliuthit
 blixen
 blizu
 bllacit
-bllacë-
 bllacë-munih
 bllaf
 bllagaj
@@ -164472,7 +163173,6 @@ blogg-un
 blogjesh
 blogosfera
 blogosferës
-blogure
 bloh
 bloj
 blojmë
@@ -164613,7 +163313,6 @@ boal
 boalo
 boan
 boanerges
-boat
 boati
 boavistan
 boavistës
@@ -164628,9 +163327,7 @@ bobinati
 bobinatore
 bobmcewen
 bobmës
-bobokuqet
 bobolit
-bobollaqe
 boboltë
 boboo
 boboshticarët
@@ -164749,7 +163446,6 @@ bofos
 bog-
 bogas
 bogasit
-bogazit
 bogdancit
 bogdani-bajraktari
 bogdani-frik
@@ -164776,8 +163472,6 @@ bogoevska
 bogoevskën
 bogohulski
 bogomaz
-bogomil
-bogomili
 bogon
 bogonvina
 bogorododica
@@ -164861,10 +163555,6 @@ bojktojë
 bojkton
 bojktoti
 bojktuar
-bojleri
-bojlerin
-bojlerit
-bojlerët
 bojnourd
 bojo
 bojoko
@@ -164892,8 +163582,6 @@ bojëqiellin
 bojëvjollce
 bojëçelli
 bokajt
-bokali
-bokalit
 bokallë
 bokanegra
 bokaporta
@@ -164973,7 +163661,6 @@ bollicat
 bollin
 bollinger
 bollit
-bollka
 bollkadat
 bolllshëm
 bollotnikov
@@ -164993,7 +163680,6 @@ bolonja-napoli
 bolonjen
 bolonojës
 bolonës
-bolori
 bolotnaïa
 bolshevisma
 bolshevizmës
@@ -165018,14 +163704,11 @@ bombajtit
 bombal
 bombar-
 bombar-duar
-bombardat
 bombaruduara
 bombendrohung-
 bombendrohung-mittelfranken
 bomberave
 bomberger
-bombolën
-bombolës
 bombone
 bombonera
 bomboneve
@@ -165061,7 +163744,6 @@ bonatin
 bonattin
 bonatët
 bonaventurës
-bonbonesh
 bonboniere
 bonbonierë
 bonci
@@ -165216,7 +163898,6 @@ bordellosh
 borderland
 borderline-i
 borderlineve
-borderonë
 bordigera
 bording
 bordoleci
@@ -165311,7 +163992,6 @@ borrell-
 borrell-cohen
 borrella
 borrowed
-borsaline
 borsalinon
 borsberg
 borschberg
@@ -165488,7 +164168,6 @@ bothen
 bothën
 botia
 botikoff
-botile
 botim-surprizë
 botimore
 botine
@@ -165751,10 +164430,8 @@ brafulloi
 bragantinos
 bragaçe
 bragaçin
-brageshat
 bragman
 bragora
-bragës
 brahajn
 brahas
 brahimaje
@@ -165788,7 +164465,6 @@ brajam
 brajshorin
 brajtoni
 brakaj
-brakesha
 brako
 brakon
 brakoviq
@@ -165806,7 +164482,6 @@ braktisur-dëshmi
 braktoisa
 braktrisja
 braktriste
-braku
 brama
 bramash-
 bramash-berat
@@ -166149,7 +164824,6 @@ breon
 breoviçin
 brera
 breras
-breroreje
 brerës
 bresalcit
 bresana
@@ -166218,7 +164892,6 @@ brezovicë-prevallë
 brezovicë-prishtinë
 brezt
 brezuara
-brezën
 breës
 brghton
 bri-gjatë
@@ -166303,12 +164976,10 @@ brikatnikë
 brikela
 brikena-
 brikena-t
-briketat
 briks-it
 brilanden
 brilanet
 brilanten
-brilantinën
 brilantja
 brilantësh
 brilantëve
@@ -166414,7 +165085,6 @@ brixhit
 brixton
 briz
 brizante
-brizën
 briçë
 briçën
 brjansk
@@ -166496,7 +165166,6 @@ brokerët
 brokhard
 brokhardit
 broklej
-brokoli-
 brokoli-brokoli
 brokovich
 broksted
@@ -166672,6 +165341,7 @@ brumbuj-t
 brumethal
 brumhilda
 brumimit
+brumosje
 brunch-i
 brunch-in
 brunch-it
@@ -166831,8 +165501,6 @@ buajtje
 buajtur
 bualiotit
 bualli-peshkopi-maqellarë-bllatë
-buallicash
-buallicën
 buallit-krastë
 bualo
 buardi
@@ -167014,7 +165682,6 @@ buffo-n
 bufi-pashko
 bufiuel
 bufjuel
-bufonë
 bufrëj
 bufër
 bugajsk
@@ -167115,7 +165782,6 @@ bujtines
 bujtnim
 bujtësat
 bujupin
-bujurdi
 bujëqsisë
 bujëshmen
 bujëshmet
@@ -167214,9 +165880,6 @@ bulatovic
 bulatović
 bulats
 bulavrdin
-bulbi
-bulbin
-bulbit
 bulbite
 bulbokavernoz
 bulbuloviqi
@@ -167296,8 +165959,6 @@ bullgaro-jugosllave
 bullgaro-madh
 bullgaro-serb
 bullgarovrasësi
-bullgur
-bullicë
 bullingham
 bullir
 bullizimit
@@ -167415,8 +166076,6 @@ buoyant
 bupqt
 bupropion
 buqeten
-buqice
-buqin
 buqjit
 buqolli
 buqsi
@@ -167440,7 +166099,6 @@ burazer
 burazeri
 burazerit
 burba
-burbuja
 burbujshme
 burbujshëm
 burbuletje
@@ -167630,7 +166288,6 @@ burrëbabë
 burrëi
 burrënimit
 burrënë
-burrëresha
 burrërimi
 burrërine
 burrërishtja
@@ -167677,7 +166334,6 @@ bush-gorbachev
 bush-it
 bushajn
 bushajt
-bushakën
 bushar
 bushare
 bushari
@@ -167722,7 +166378,6 @@ bushtran
 bushtrice
 bushtrices
 bushura
-bushët
 busines
 businessit
 buskashi
@@ -167767,8 +166422,6 @@ buthrotos
 buthrotum
 buthtimi
 butiglione
-butikësh
-butikët
 butkaanaliza
 butkajve
 butkamasakra
@@ -167821,7 +166474,6 @@ buxheviq
 buxhoni
 buxhova
 buxhovin
-buxhukut
 buxnhet
 buyanovsky
 buyat
@@ -168135,6 +166787,12 @@ bëlbëzova
 bëllit
 bëllqishtën
 bëlo
+bëmirëse
+bëmirësie
+bëmirësisë
+bëmirësit
+bëmirësja
+bëmirësve
 bëmjë
 bëmë-gëzuar
 bëmëve
@@ -168163,7 +166821,6 @@ bërbati
 bërbatofci
 bërbatovcin
 bërbloje
-bërbëlisni
 bërbërhanja
 bërd
 bërdaku
@@ -168214,31 +166871,21 @@ bërnuti
 bërohen
 bërqë
 bërr
-bërrakën
-bërrakës
 bërri
-bërriste
-bërritur
 bërrllogut
 bërrlloku
 bërrnjak
 bërrnut
 bërrr
-bërruc
 bërrucat
 bërruce
-bërrucit
 bërrxhuk
 bërrylshtyesve
-bërrylët
 bërsan
-bërsheni
 bërshi
 bërshimit
 bërshin
 bërshëmi
-bërsie
-bërsinë
 bërsnik
 bërt
 bërtamor
@@ -168271,8 +166918,6 @@ bërxhukian
 bërxhukiane
 bërxhukishta
 bërxhukjane
-bërxollave
-bërxollën
 bërxulla
 bërzeshte
 bërzeshtën
@@ -168304,7 +166949,6 @@ bëtorëroe
 bëtrit
 bëxa
 bëxhiku
-bëzit
 bëzitja
 bëzitje
 bëzë
@@ -168504,7 +167148,6 @@ calea
 caledon
 calembour
 calendar
-caleve
 caliber
 calibration
 calici
@@ -168550,10 +167193,8 @@ calvi
 calvia
 calvini
 calw
-calë
 calën
 calës
-calët
 camaj-
 camaj-shkrimtaria
 camajt-
@@ -168637,7 +167278,6 @@ camukun
 camunas
 camunxa
 camunxën
-camunza
 camus-it
 camus-ë
 camëria
@@ -168785,9 +167425,7 @@ capuano
 capucco
 capulets
 capullari
-capë
 capëluar
-capën
 capërlohi
 caquetensis
 caquetá
@@ -168868,7 +167506,6 @@ carissimo
 carissimus
 caritasit
 carjeje
-cark
 carla_dirty
 carladirty
 carleton
@@ -169361,7 +167998,6 @@ celiac
 celibashin
 celibat
 celigrad
-celik
 celiktë
 celim
 celinave
@@ -169689,7 +168325,6 @@ cfraë
 cfrp
 cfry
 cfryjne
-cfurku
 cfurçe
 cg9x4dflxm
 cgdc
@@ -170249,10 +168884,8 @@ ciciërima
 ciclu
 ciclus
 ciclusi
-cicmic
 cicmicesh
 cicmicet
-cicmicit
 cicmilit
 cicone
 cicrim
@@ -170348,6 +168981,7 @@ cikëza
 ciladyshohet
 cilal
 cilas
+cilash
 cilatë
 cilavedo
 cileja
@@ -170410,6 +169044,7 @@ cilënm
 cilënmerreni
 cilëpsi
 cilësdoqoftë
+cilësh
 cilësi-kështu
 cilësin
 cilësira
@@ -170470,11 +169105,8 @@ cinemattaro
 cinepolis
 cinese
 cinetoni
-cing
 cingari
 cingarë
-cinglash
-cinglave
 cingle
 cingrimit
 cingrrojë
@@ -170637,7 +169269,6 @@ ciudad
 ciudadanos
 ciura
 ciutadellas
-civenë
 cives
 civikos-
 civikos-it
@@ -173226,10 +171857,8 @@ debatueshmit
 debatueve
 debenjak
 deberishizuar
-debet
 debetat
 debila
-debili
 debiliteti
 debilizimi
 debilizimit
@@ -173356,11 +171985,8 @@ dedukcionit
 dedukohen
 dedukojë
 deduktim
-deduktimeve
 deduktimin
 deduktivisht
-deduktoheshin
-deduktojë
 dedushit
 dedvcticivs
 dedvukaj
@@ -173694,9 +172320,6 @@ deken
 dekers
 dekes
 deki
-dekiku
-dekikë
-dekikën
 dekiltash
 dekinën
 dekjen
@@ -173747,7 +172370,6 @@ deklasifikues
 deklasifikuese
 deklasim
 deklasimin
-deklasuan
 deklasuares
 deklasues
 deklasume
@@ -174577,8 +173199,6 @@ deratizohet
 deratzimin
 derba
 derbede
-derbeder
-derbederët
 derbend
 derbend-pashë
 derbendpashë
@@ -174604,8 +173224,6 @@ dereler
 dereliction
 derer
 derevo
-derexheje
-derexheve
 derexhikut
 derfield
 dergarbedian
@@ -175057,8 +173675,6 @@ detoksinim
 detoksinimit
 detonative
 detonatore
-detonatorin
-detonatorë
 detonimet
 detonuar
 detonuesit
@@ -175181,7 +173797,6 @@ devolliçe
 devollë
 devolopment-
 devoshtëm
-devote
 devotion
 devoto
 devotshmeri
@@ -175194,7 +173809,6 @@ devshirmeja
 devshirmen
 devshirë
 devulina
-devër
 dewangan
 dewinter
 dextaë
@@ -176454,8 +175068,6 @@ dinoshë
 dinoshës
 dinove
 dinoviq
-dinozaurin
-dinozaurit
 dinstiksion
 dinstiksioni
 dinstinktiv
@@ -176732,7 +175344,6 @@ disharmoninë
 disharmonish
 dishem
 dishezën
-dishiplinave
 dishiroj
 dishmitâr
 dishmohet
@@ -176873,11 +175484,6 @@ dispariteti
 disparition
 dispeceria
 dispecerisë
-dispenca
-dispensa
-dispensat
-dispensave
-dispense
 dispenzuara
 dispeqerike
 dispersitetit
@@ -177333,13 +175939,10 @@ djellzës
 djellë-i
 djellëson
 djelminis
-djelmnia-
 djelmnia-porto
 djelmosh
 djelmoshë
-djelmtë
 djelmurinash
-djelmve
 djelmënia
 djelmënis
 djelmënisë
@@ -178106,9 +176709,6 @@ donto
 donum
 donzelo
 donzhon
-donzhuan
-donzhuanit
-donzhuanë
 donçev
 doocy
 doodkani
@@ -178614,7 +177214,6 @@ drandofilja
 drandofillen
 dranen
 drang-drang
-drangull
 dranjen
 dranjës
 dranqolli
@@ -179086,7 +177685,6 @@ droits
 drojtjen
 drojturit
 drole
-drom
 dromedarë
 dromeno
 dromidarë
@@ -179216,7 +177814,6 @@ drëgutze
 drëjtim
 drëjtova
 drëmarrë
-drënja
 drî
 drøj
 drûtë
@@ -179381,7 +177978,6 @@ duchampiane
 duchcov
 duchene
 duchess
-duci
 duckie
 ducroquet
 ductuli
@@ -179395,7 +177991,6 @@ dudnicë-
 dudnicë-samoko
 dudnj
 dududush
-dudumit
 dudvilë
 dueble
 duefles
@@ -179419,7 +178014,6 @@ dufshan
 duft
 dufualt
 dufur
-duga
 dugagjin-qafë
 dugagjinin
 dugajat
@@ -179576,7 +178170,6 @@ dumballisur
 dumbo
 dumbovica
 dumbres
-dumbushere
 dumitrache
 dumnicës
 dumoni
@@ -179629,7 +178222,6 @@ dupio
 dupjachanac
 dupjançanec
 dupjaçanac
-dupje
 duplicarii
 duplifikimi
 duplifikonte
@@ -180049,12 +178641,9 @@ dykuptimësh
 dykë
 dylann
 dylazekës
-dylber-
 dylber-hesapi
 dylberajve
 dylberash
-dylberit
-dylberët
 dylejman
 dylekësh
 dylevski
@@ -180960,7 +179549,6 @@ edhesi
 edhespot
 edheuniversitetin
 edheyjet
-edhit
 edhr
 edhur
 edhënë
@@ -181221,7 +179809,6 @@ eforisë
 eformës
 eforumit
 efpl
-efqeli
 efrah
 efraimitit
 efrani
@@ -181233,7 +179820,6 @@ efrateut
 efrathah
 efratë
 efrosina
-efshi
 efta-së
 eftali
 efterpit
@@ -181385,6 +179971,7 @@ egzuberant
 egzuberantë
 egër-fruti
 egërisisht
+egërsir
 egësuar
 eh-u-u
 ehalinë
@@ -181412,7 +179999,6 @@ ehtly6ittk
 ehuaj
 ehuaja
 ehudin
-ehuj
 ehuuuuu
 ei
 eibarin
@@ -181551,7 +180137,6 @@ eklektronike
 eklesiasti
 ekleston
 ekleziasti
-eklipseve
 eklipsimi
 ekliptikë
 ekliptikës
@@ -182274,7 +180859,6 @@ elavdërueshme
 elave
 elaziz
 elazëg
-elb-
 elb-i
 elbananit
 elbasan-arena
@@ -182344,9 +180928,6 @@ elegantshëm
 elegidos
 elegies
 elegiies
-elegjia
-elegjie
-elegjija
 elegrit
 elehtrizonin
 elejve
@@ -182797,7 +181378,6 @@ emailesh
 emaj
 emak
 emalimit
-emalit
 emanacioni
 emanacionit
 emancimi
@@ -184473,13 +183053,11 @@ eslit
 esmail
 esmc-
 esmc-ja
-esmer-
 esmer-minoshit
 esmerald
 esmeraldë
 esmeraldën
 esmerlada
-esmerë
 esmire
 esmën
 esnah
@@ -184618,8 +183196,6 @@ esvatinit
 eswl
 eszter
 esëatini
-esëllohemi
-esëlluan
 esëllues
 et-het
 et-tewhid
@@ -184655,7 +183231,6 @@ etazhitet
 etazhitetin
 etc-në
 etchemins
-etek
 etel
 etela
 etemad
@@ -184747,6 +183322,7 @@ etiopias
 etiopiko-
 etiopiko-somaleze
 etisht
+etj-
 etj-shënim
 etje-për-pusht
 etkid
@@ -185362,10 +183938,6 @@ evakua
 evakuara
 evakues
 evakuoen
-evakuojmë
-evakuojë
-evakuon
-evakuua
 evakuuara
 evakuuese
 evaluime
@@ -185504,6 +184076,7 @@ evolucionistët
 evolucionti
 evolues
 evoluese
+evoluime
 evolumi
 evolutave
 evolutivë
@@ -185923,18 +184496,12 @@ facing
 facio
 facit
 fackto
-facoletash
-facoletat
-facoletë
 facsimile
 facstaffuploads
 factio
 factorum
 factorë
 faculet
-faculetat
-faculete
-faculetës
 facë
 facën
 fad
@@ -186507,7 +185074,6 @@ farda-n
 fardales
 fardu
 fare-fare
-farecave
 farefise
 farefisnin
 farefisnira
@@ -186554,7 +185120,6 @@ farisejt
 farisiyye
 farizajas
 farizajt
-farizenjsh
 farkhundas
 farkimin
 farkimit
@@ -189072,7 +187637,6 @@ flloçi
 fllucka-
 fllucka-fllucka
 flluckën
-flludhën
 flluga
 flluska-flluska
 fllusken
@@ -189192,7 +187756,6 @@ fltuar
 fludi
 fluence
 fluent
-flug
 flugaj
 fluidet
 fluidi
@@ -190784,8 +189347,6 @@ fshiesh
 fshiheni-de
 fshiik
 fshijesh
-fshik
-fshikje
 fshiknë
 fshikulluarve
 fshikurazi
@@ -191194,6 +189755,7 @@ fuqishme-përfshirë
 fuqishrne
 fuqishxne
 fuqishëm-mbretër
+fuqishëme
 fuqishën
 fuqisimin
 fuqite
@@ -191617,7 +190179,6 @@ fësht-
 fësht-fësht
 fëshëllonte
 fëstivale
-fëstëkut
 fëtyrënë
 fëtyrët
 fëua
@@ -191704,7 +190265,6 @@ gabonese
 gabonesi
 gabontesoni
 gabore
-gaborret
 gabranit
 gabrel
 gabrice
@@ -192330,7 +190890,6 @@ gatopardi
 gatopardo
 gatopardë
 gatorade
-gatshmërinë
 gatshëme
 gatshërn
 gatt
@@ -193729,13 +192288,12 @@ gjashtëdhjetekatërvjeçari
 gjashtëdhjetepesëvjeçar
 gjashtëdhjeteshtatëvjeçare
 gjashtëdhjetetrevjeçari
+gjashtëdhjetvjetorin
 gjashtëdhjetëditore
 gjashtëdhjetëenëntë
 gjashtëdhjetëfish
 gjashtëdhjetëmijë
 gjashtëdhjetëshe
-gjashtëdhjetëvjetorin
-gjashtëdhjetëvjetorit
 gjashtëdhjetëvjetëshin
 gjashtëfaqesh
 gjashtëliz
@@ -194611,6 +193169,7 @@ gjithqish
 gjithqyshtë
 gjiths
 gjithse
+gjithsecil
 gjithses
 gjithsesisi
 gjithshkafja
@@ -194718,7 +193277,6 @@ gjithëpērfshirëse
 gjithëqysh
 gjithëqytetar
 gjithësaj
-gjithësecilën
 gjithësejcili
 gjithëshka
 gjithëshpjeguese
@@ -196680,14 +195238,11 @@ granville
 granzotto
 granzov-
 granço
-grap-
 grap-grup
 grapefruit
 grapeland
 grapevine
 graph
-grapshi
-grapshit
 graqanices
 graqdecit
 graqmsh-
@@ -197455,10 +196010,6 @@ guaja
 guajanas
 guajna
 guajtja
-guake
-guaku
-guakut
-guakët
 gualtiero
 guami
 guan
@@ -198168,7 +196719,6 @@ gërlliq
 gërm
 gërmadhit
 gërmadhërimet
-gërme
 gërmijes
 gërmisë-unmik
 gërmizajt
@@ -201032,7 +199582,6 @@ higjieniko
 higjieniko-sociale
 higjieniste
 higjienit
-higjienizuar
 higjieno-sanitar
 higjënës
 higlah
@@ -202583,8 +201132,6 @@ hum-hum
 hum-i
 humajunin
 humajunit
-humanen
-humanet
 humania
 humanid
 humanista
@@ -203510,7 +202057,6 @@ idhura
 idhërim
 idhërime
 idhësia
-idhëta
 idhëtar
 idilizmin
 idilizojë
@@ -204638,13 +203184,6 @@ incitement
 incizimiet
 incizioneve
 inciziv
-incizohej
-incizoheshin
-incizohet
-incizojeni
-incizojmë
-incizonin
-incizova
 incizues
 incizuese
 inclan
@@ -205158,6 +203697,7 @@ inicim-
 inicim-themelimit
 iniciura
 iniciyativa
+inicizohet
 inicoje
 inicojmë
 inicu
@@ -205858,7 +204398,6 @@ internet-bankingut
 internet-faqen
 internet-ironizon
 internet-kafenetë
-internetet
 internetike
 internetomanisë
 internetore
@@ -209533,9 +208072,7 @@ jetonzulfaj
 jetooo
 jetorësi
 jetpasjete
-jetri
 jetro
-jetrën
 jets
 jetseritëve
 jetset-
@@ -212753,7 +211290,6 @@ kapakve
 kapanarit
 kapandriti
 kapanona
-kapanonë
 kapardisës
 kapardisësin
 kaparjel
@@ -214191,7 +212727,6 @@ katërcilindërsh
 katërciperisht
 katërciprishtë
 katërdekadëshe
-katërdheteshtatën
 katërdrahmëshe
 katërdyersh
 katëre
@@ -217295,7 +215830,6 @@ kolektulaba
 kolellj
 koleman
 kolemen
-kolen
 kolenel
 kolenivicë
 koleon
@@ -218011,7 +216545,6 @@ komsion
 komsione
 komsionerë
 komsis
-komsomolit
 komsomolskaja
 komsomolë
 komt
@@ -219396,8 +217929,6 @@ korabi-teuta
 korabëtare
 koracia
 koracinë
-koracohet
-koracova
 koradalli
 koraeno-
 koraeno-jugor
@@ -220261,7 +218792,6 @@ kottbullar
 kotullë
 kotyaz
 kotzia
-kotësim
 kouadio
 koubati
 kouberskaya
@@ -223339,12 +221869,6 @@ kundërshëtuar
 kundërskema
 kundërsllav
 kundërstaliniste
-kundërsulmoja
-kundërsulmojnë
-kundërsulmon
-kundërsulmonim
-kundërsulmonte
-kundërsulmosh
 kundërterrorizëm
 kundërtes
 kundërtheniesh
@@ -223663,9 +222187,6 @@ kurilet
 kurillë
 kurillës
 kurilo
-kuriozen
-kuriozesh
-kuriozitetesh
 kuriozohen
 kuriozuara
 kuriri
@@ -224339,11 +222860,8 @@ kë11ëfin
 këanqësi
 këasnieëski
 këbej
-këcejnë
-këcen
 këcim
 këcrit
-këcye
 këcënoj
 këcënuar
 këdhima
@@ -224608,8 +223126,6 @@ kërabëve
 kërbacin
 kërbaçet
 kërbunjura
-kërc
-kërc-
 kërc-kërc
 kërcak
 kërcaksa
@@ -224798,7 +223314,6 @@ kërryli
 kërrylën
 kërsheirit
 kërsherine
-kërshten
 kërshtenët
 kërshërima
 kërshërin
@@ -225740,9 +224255,7 @@ laps-stilo
 lapsh-i
 lapsh-it
 lapsishtit
-lapsusin
 lapsës
-laptopa
 laptops
 lapucera
 lapulec
@@ -226074,7 +224587,6 @@ lausanne-sport
 laussanne
 lauta
 lavali
-lavamanëve
 lavan
 lavanderie
 lavanderija
@@ -226138,6 +224650,7 @@ lavora
 lavoratore
 lavoro-
 lavoro-s
+lavrakut
 lavrdim
 lavrenjev
 lavrentyev
@@ -227805,6 +226318,7 @@ ligjshmerisë
 ligjshmëris
 ligjshëmrisë
 ligjsmërisë
+ligjt
 ligjvë
 ligjvënesit
 ligjvënia
@@ -229024,18 +227538,12 @@ lobizim
 lobizimi
 lobizoj
 lobjoie
-lobo
 loboda
 lobodës
-loboja
-lobojmë-
 lobojmë-avokojmë
 lobokracisë
-lobonim
-lobonin
 lobonjës
 lobouar
-lobu
 lobuarit
 lobueses
 lobueset
@@ -231609,7 +230117,6 @@ malian
 maliana
 maliane
 malianin
-malice
 malicia
 malienin
 maligno
@@ -231899,9 +230406,6 @@ mamuthin
 mamuthorë
 mamutin
 mamzi
-mamë
-mamën
-mamës
 man-booker-international-prize-longlist-amos-oz-ismail-kadare
 man-date
 man-ëve
@@ -233154,7 +231658,6 @@ marsen
 marsena
 marshaler-
 marshaler-i
-marshalla
 marshallaj
 marshallatit
 marshan
@@ -233877,7 +232380,6 @@ maurtizo
 maurus
 maurës
 maurët
-mausë
 mauzeleum
 mauzerka
 mauzerre
@@ -234920,7 +233422,6 @@ mbzhr-
 mbzhr-së
 mbá
 mbëahteteshin
-mbëdhave
 mbëdhej
 mbëeshtetet
 mbëhstetje
@@ -236257,7 +234758,6 @@ mensorë
 menstruacionesh
 mensuri
 mensën-sallë
-menta
 mentale-
 mentale-kulturore
 mentalitelit
@@ -236285,7 +234785,6 @@ mentorshipi
 mentrës
 mentt
 mentçëm
-mentës
 mentëve
 menuh
 menuhin
@@ -239898,11 +238397,6 @@ molliere-it
 mollikulturës
 mollkuqja
 mollodoj
-mollois
-molloisa
-molloise
-molloisur
-molloisësh
 mollopolc-
 mollopolc-petrovë-shtime-vojnovc
 mollotitjen
@@ -241592,7 +240086,6 @@ mramën
 mrapshtinë
 mrapshtisë
 mrasor
-mraz-
 mraz-textil
 mrbojnë
 mrdenovic
@@ -241979,7 +240472,10 @@ mujke
 mujko
 mujkën
 mujmanin
+mujnë
 mujoreshe
+mujsh
+mujsha
 mujshar
 mujshar-
 mujshar-që
@@ -241988,7 +240484,9 @@ mujsharie
 mujsharisht
 mujsharitë
 mujsharëve
+mujshim
 mujtem
+mujtun
 mujtunë
 mujve
 mujëshe
@@ -242224,6 +240722,7 @@ mumifikojë
 mumifikon
 mumifikuara
 mumineen
+mumini-
 mumini-grezda
 mumjet
 mummenedey
@@ -242232,6 +240731,7 @@ mumtazin
 mumumumjes
 mumxhiu
 mumëzin
+mun-
 mun-dur
 munajm
 munau
@@ -242355,6 +240855,7 @@ munih-
 munih-feldafing
 munihit
 munikut
+munim
 munimenë
 munipical
 muniq
@@ -242362,6 +240863,7 @@ muniqët
 munirit
 munish
 munisnger
+munit
 munition
 muniver
 munla
@@ -242410,7 +240912,6 @@ muonike
 muove
 mupimi
 muppet
-muq
 muqaj-
 muqaj-sopi
 muqaku
@@ -242418,7 +240919,6 @@ muqatil
 muqerem
 muqezi
 muqiqit
-muqit
 muqiçi
 muqollar
 muqtada
@@ -243335,6 +241835,7 @@ mëndjeprishur
 mëndjeshkathtësinë
 mëndjeshkurtër
 mëndjeshpejtësije
+mëndjethelli
 mëndjën
 mëndojne
 mëndon
@@ -243482,7 +241983,6 @@ mërrëveshje
 mërshe-e
 mërshore
 mërshoren
-mërsinën
 mërthejshin
 mërtim
 mërtin
@@ -243522,7 +242022,6 @@ mëshkujt
 mëshqerë
 mëshqerën
 mështeknë
-mështekën
 mështetej
 mështetemi
 mëshuara
@@ -245054,7 +243553,6 @@ ndjellafrikëse
 ndjellakeqës
 ndjellamirësi
 ndjellandarës
-ndjellazi
 ndjellte
 ndjellëkeqëse
 ndjellëndushe
@@ -245490,6 +243988,7 @@ ndërdyshur
 ndërdyzimi
 ndërdyzje
 ndërentike
+ndëreshin
 ndëretnike-refleksion
 ndërevropiane
 ndërfamijlare
@@ -245516,6 +244015,7 @@ ndërgjegjegje
 ndërgjegjegjjeje
 ndërgjegjesimit
 ndërgjegjesues
+ndërgjegjjen
 ndërgjegjs
 ndërgjegjshëtn
 ndërgjegjsim
@@ -245549,6 +244049,7 @@ ndërhymnja
 ndërhyrhje
 ndërhyrjve
 ndërhyve
+ndërim
 ndërimin
 ndërindividual
 ndërjetësohet
@@ -245681,6 +244182,7 @@ ndërndikim
 ndërndikimet
 ndërnjerëzorë
 ndërnjezor
+ndërnjë
 ndërnënasit
 ndërohet
 ndëroi
@@ -245770,6 +244272,7 @@ ndërskëmsave
 ndërsociale
 ndërsubvencionimit
 ndërsuese
+ndërte
 ndërtekstorësisë
 ndërtersë
 ndërtersës
@@ -247893,7 +246396,6 @@ niës
 niësuar
 niša
 nj4rin
-nja-
 nja-dy
 njafton
 njajsimit
@@ -249455,12 +247957,9 @@ nunaca
 nunacat
 nunavut
 nuncit
-nune
 nunezit
 nungsiam
-nunë
 nunërohen
-nunët
 nuqe-
 nuqe-ja
 nuradin
@@ -255873,6 +254372,7 @@ parregullar
 parregullistë
 parregullsishë
 parregullsite
+parregullësisht
 parregulta
 parreguslli
 parrehme
@@ -256691,7 +255191,6 @@ pataksin
 pataksja
 pataksjen
 pataksueshem
-pataksëm
 pataksëse
 patakuar
 patallonet
@@ -256903,7 +255402,6 @@ patronazhistit
 patronazhistë
 patrone
 patronet
-patronim
 patronimi
 patroniminë
 patronimitë
@@ -258035,14 +256533,7 @@ percepsioni
 perception
 perceptit
 perceptiv
-perceptohesh
-perceptoja
-perceptoje
-perceptonim
-perceptova
 perceptual
-perceptuam
-perceptuem
 perciell
 percillej
 percipte
@@ -258776,14 +257267,8 @@ personalish
 personalishte
 personalitetev
 personalities
-personalizime
-personalizimet
 personalizimieve
 personalizmi
-personalizohej
-personalizohen
-personalizoj
-personalizoni
 personalizues
 personalizueshëm
 personallity
@@ -259003,9 +257488,6 @@ peshkaxhinj
 peshkepia
 peshkin
 peshkir
-peshkohej
-peshkohet
-peshkoje
 peshkooi
 peshkopal
 peshkopet
@@ -259014,11 +257496,7 @@ peshkopi-pogradec-korçë
 peshkopia-
 peshkopias
 peshkopit-poet
-peshkova
-peshkuam
-peshkuan
 peshkuara
-peshkue
 peshkuit
 peshkun-shpatë
 peshkëpi-
@@ -259731,7 +258209,6 @@ piketuarin
 pikezojne
 pikeë
 pikiato
-pikiatës
 pikik
 pikiërsht
 pikjat
@@ -259837,9 +258314,6 @@ pikëtakoheshin
 pikëtakonte
 pikëterr
 pikëtorëve
-pikëçuditje
-pikëçuditjes
-pikëçuditëset
 piladin
 pilafet
 pilastrash
@@ -260211,6 +258685,7 @@ pizza-
 pizza-t
 pizzochini
 pizë
+piç
 piçardo
 piçenos
 piçet
@@ -261053,8 +259528,6 @@ pneumocitët
 pneumoftiziatër
 pneumolog
 pneumonate
-pneumoninë
-pneumonive
 pneunominë
 pnfti
 pnftii
@@ -262519,7 +260992,6 @@ post-universitare
 post-vendosjes
 post-vettingut
 post-woodstok
-postafat
 postaja
 postajën
 postamentin
@@ -263961,8 +262433,6 @@ prinsloo
 print-
 print-imi
 printer-i
-printerave
-printerit
 printet
 printeve
 printimet
@@ -264783,7 +263253,6 @@ promaqedone
 promaqedonë
 promblem
 prombork
-promemorjeje
 promene
 promesas
 promessi
@@ -264856,7 +263325,6 @@ prongjisë
 proniarë
 proniave
 pronie
-pronj
 pronjar
 pronjat
 pronjtë
@@ -264892,7 +263360,6 @@ prop
 propabilisht
 propabiliteti
 propabël
-propagandim
 propagandistike-demagogjike
 propagandistiko-
 propagandistiko-politike
@@ -265074,10 +263541,6 @@ prostatitis
 prostesta
 prostituimin
 prostituizimin
-prostituohej
-prostituohet
-prostituoj
-prostituoja
 prostituten
 prostracioni
 prosulltanist
@@ -265342,8 +263805,6 @@ prpozimin
 prpozuar
 prptestuesve
 prr
-prrallise
-prrallisësh
 prram
 prregullsish
 prrenj
@@ -266289,8 +264750,6 @@ purpures
 purpurimën
 purpurën
 purpëronte
-purrini
-purrinin
 purrmann
 purshuram-
 purshuram-i
@@ -266940,13 +265399,12 @@ përbotshmëria
 përbotërisht
 përbotëshme
 përbotësisht
-përbrendshmeve
-përbrendshmi
-përbrendshmin
 përbrendëshmeve
 përbrendësohet
 përbrendësuar
 përbrëndjen
+përbrëndshme
+përbrëndshëm
 përbrëndëshmet
 përbshkëta
 përbufe
@@ -267964,9 +266422,6 @@ përnjëkolone
 përnjëmëndi
 përnjërhershëm
 përnjështim
-përnjësohen
-përnjësohet
-përnjësonte
 përnjëzgjidhje
 përnoaëm
 përnxirë
@@ -268952,7 +267407,6 @@ qejve
 qekaj
 qekaq
 qekinit
-qekjo
 qelajn
 qelajt
 qelanqeros
@@ -269411,7 +267865,6 @@ qifto
 qifut
 qifutë
 qiiiitja
-qikjo
 qiklopik
 qikë
 qilaresh
@@ -269953,6 +268406,7 @@ qumteshtit
 qumunitaire
 qumëshin
 qumëshore
+qumështë
 qumëslht
 qund
 qunit-
@@ -269968,7 +268422,6 @@ qurcio-
 qurcio-ilicis
 qurko
 qurkoviq
-qurrat
 qurravitet
 qurrosura
 qustendilin
@@ -270048,10 +268501,8 @@ qyrdedin
 qyrdistan
 qyrfyci
 qyrlykëve
-qyrra
 qyrran
 qyrrani
-qyrrave
 qyrsaç
 qyrsaçit
 qyrsin
@@ -271397,6 +269848,7 @@ rasitjes
 rasitur
 rasje
 rask
+raskapitun
 raskin
 rasko
 raskoviç
@@ -271574,8 +270026,10 @@ razhnjatoviq
 razhnjatoviç-
 razhnjatoviç-arkan
 razicëm
+razija
 razijes
 razira
+razit
 razlluka
 razmak
 raznatoviqit
@@ -272912,6 +271366,7 @@ reshanëve
 reshelia
 reshicën
 reshitajt
+reshitin
 reshitit
 reshjave
 reshje-ministria
@@ -276470,8 +274925,6 @@ rres-
 rreshkiten
 rreshperi
 rreshpja-poeti
-rreshpjen
-rreshpjes
 rreshqitje
 rreshqitjeve
 rreshqitsen
@@ -276523,12 +274976,13 @@ rrethë
 rreugën
 rreullisht
 rrevolte
+rreza
+rrezash
 rrezatare
 rrezatimitx
 rrezbitur
 rrezedëlirë
 rrezeja
-rrezetë
 rrezeveprim
 rrezeveprimit
 rrezhgë
@@ -284189,6 +282643,7 @@ shpanac
 shpanget
 shpangur
 shpaplasej
+shpar
 shparge
 shpargu-përveçse
 shpartallinii
@@ -284416,8 +282871,6 @@ shpirtrore
 shpirtthyer
 shpirtve
 shpirtverbërisë
-shpirtvogëlsia
-shpirtvogëlsinë
 shpirtzaptuese
 shpirtçliruar
 shpirtëlirësinë
@@ -284672,7 +283125,6 @@ shpërndareë
 shpërndarës-eleminim
 shpërndashëm
 shpërndatje
-shpërnderim
 shpërndërroheshin
 shpërndërrohet
 shpërndërroj
@@ -285204,7 +283656,6 @@ shtajnte
 shtajpën
 shtako
 shtaktërrimtar
-shtalbët
 shtamas
 shtampuar
 shtamë-stellush
@@ -288299,7 +286750,6 @@ skuma
 skumri
 skund
 skuparët
-skupet
 skupicës
 skupinasuman
 skuplturës
@@ -288317,7 +286767,6 @@ skurjasura
 skurjelë
 skurrisë
 skurrje
-skurro
 skurrë
 skurrës
 skurse
@@ -289324,14 +287773,11 @@ sonatësn
 sonazhe
 sonce
 soncin
-sondat
 sondazhistët
-sonde
 sondheim
 sondor
 sondra
 sondër
-sondës
 sonetat
 song-
 song-wolit
@@ -291091,12 +289537,6 @@ sterole
 sterosura
 sterprivilegjon
 sterrinën
-sterrose
-sterrosen
-sterrosi
-sterrosin
-sterrosnim
-sterrosën
 sterrritet
 stervis
 stervitemi
@@ -291160,8 +289600,6 @@ stigmantizonte
 stigmatike
 stigmatine-
 stigmatine-at
-stigmatizua
-stigmatizuan
 stigmave
 stigme
 stigmë
@@ -292978,16 +291416,7 @@ sursat
 sursum
 suruam
 survejance
-survejime
-survejimesh
-survejimet
-survejohesha
-survejohet
 survejojne
-survejojë
-survejon
-survejonim
-survejua
 survejuarit
 survejues
 survejuese
@@ -293398,7 +291827,6 @@ sypulitur
 sypushkat
 sypvje79f0
 sypërgjakur
-sypërmbysur
 syqeltësi
 syqeshje
 syqielli
@@ -295866,12 +294294,9 @@ termâ-teposht
 ternavës
 ternd
 ternel
-ternimeve
 ternipe
 ternoc
 ternocit
-ternova
-ternove
 ternoven
 ternovës
 terolli
@@ -296982,12 +295407,10 @@ thëqnë
 thër-
 thër-riste
 thëras
+thëriste
 thërmitjes
 thërrasi
 thërrasinë
-thërresëm
-thërresën
-thërresësh
 thërreth
 thërrimë
 thërritjes
@@ -298773,7 +297196,6 @@ trakanicës
 trakaniq
 trakatruken
 trakea
-trakesë
 trakete
 trakinianët
 trako-dako-indoevropianë
@@ -299147,6 +297569,9 @@ trashalluqe
 trashallëq
 trashan
 trashedental
+trashegim
+trashegime
+trashegimi
 trashegiminë
 trashegimtar
 trashegojë
@@ -299660,7 +298085,6 @@ tribú
 tricepsit
 tricepëshe
 tricikli
-tricikël
 trick-
 tridantsh
 tridekadësh
@@ -302391,6 +300815,7 @@ ulloa
 ullson
 ullukuzojmë
 ulmus
+ulo
 ulovë
 ulpi
 ulpiae
@@ -302468,7 +300893,6 @@ ultrazëri
 ultron
 ulturore
 ultësonjës
-ultët
 uludag
 ulughbek
 uluir
@@ -303609,6 +302033,7 @@ vackle
 vacoho
 vaculik
 vaczy
+vad
 vadejë
 vademekum
 vadington
@@ -306142,6 +304567,8 @@ vetë-vete
 vetë-zhdukej
 vetë2m
 vetëadhuruese
+vetëadministrimit
+vetëakomoduar
 vetëaksidenti
 vetëanalizës
 vetëbekohet
@@ -306673,6 +305100,7 @@ vezëllimën
 vezëllitën
 vezëllueshëm
 vezëposta
+vezëve-
 vezëve-pulave
 veçanat
 veçanore
@@ -307362,7 +305790,6 @@ viridiana
 virilitetin
 viriolik
 viris
-virma
 virologes
 virologjikisht
 virologu
@@ -307388,7 +305815,6 @@ virtutem
 virtutën
 virtutëshmë
 virtytit-inteligjencë
-viru
 virulent
 virulente
 virulentë
@@ -307751,7 +306177,6 @@ vjerdhë-gomsiqe-naraç
 vjerdhës
 vjerea
 vjerica
-vjerrsha
 vjerrës
 vjersa
 vjersha-brithmë
@@ -308010,6 +306435,7 @@ vlonën
 vlora-histori
 vlora-vlora
 vlora_forever
+vlorave
 vlore-ekzekutohet
 vlore-elbasan-dibër
 vlore-eshtë
@@ -308423,7 +306849,6 @@ vooo
 voorhees
 voorhies
 voqari
-vor-
 vorbuj
 vorbullohet
 vorbullojnë
@@ -308685,7 +307110,6 @@ vratnicës
 vratusha
 vraz
 vrazhalë
-vrazhd
 vrazhdas
 vrazhdesine
 vrazhdt
@@ -309061,7 +307485,6 @@ vyke
 vyn
 vyrtyt
 vyrtyti
-vyshk
 vyshkull
 vyshkuna
 vyton
@@ -309152,7 +307575,6 @@ vëndërisht
 vëndëse
 vëndësit
 vëndësve
-vëng
 vëngashë
 vënger
 vëngim
@@ -313015,7 +311437,6 @@ zhdanovi
 zhdanoviste
 zhdanovizmi
 zhdanovizmit
-zhdapje
 zhdavarisa
 zhddrejtë
 zhdemtimin
@@ -313910,7 +312331,6 @@ zong
 zonifikime
 zonifikimit
 zonim
-zonin
 zoniq
 zonja-pula
 zonjatangleze
@@ -314554,6 +312974,7 @@ zëvednësojë
 zëvedësohej
 zëvendeskryeministrit
 zëvendesministri
+zëvendespresidente
 zëvendesueshem
 zëvendministrja
 zëvendosjmë
@@ -314635,7 +313056,6 @@ zëvendëskrytearti
 zëvendëskryterait
 zëvendëskyeministri
 zëvendëskëshilltari
-zëvendësmbikëqyrësi
 zëvendësminirtri
 zëvendësministria
 zëvendësministriat
@@ -314659,9 +313079,8 @@ zëvëndsojmë
 zëvëndësdrejtoresha
 zëvëndësguvernatorja
 zëvëndëskryeministren
-zëvëndëskryeministrin
 zëvëndëskryeministrja
-zëvëndësministrit
+zëvëndëskryesuesin
 zëvëndëspresidenti
 zëvënëskryministrave
 zëza
@@ -314769,7 +313188,6 @@ züricher
 çakarriti
 çakarritën
 çakenjve
-çako-
 çako-papa
 çakordueshëm
 çakorra
@@ -314805,7 +313223,6 @@ züricher
 çalik-ut
 çalikut
 çalimi
-çallaku
 çallami
 çallamxhi
 çalldisur
@@ -314851,7 +313268,6 @@ züricher
 çangazhim
 çangazhimi
 çangazhimin
-çange
 çangfu
 çangollari
 çanj
@@ -314891,13 +313307,7 @@ züricher
 çaprashitjes
 çaprashitura
 çaprythmike
-çapëlenin
-çapëlente
 çapëlimin
-çapëloi
-çapëlojnë
-çapëlonte
-çapëlovi
 çapëlyenë
 çapërlyer
 çapëruar
@@ -314941,8 +313351,6 @@ züricher
 çartallosur
 çarter-autobusët
 çarter-fluturime
-çartera
-çarteri
 çarterisin
 çarterisit
 çartjes
@@ -315196,8 +313604,6 @@ züricher
 çensure
 çensurojne
 çensurues
-çentrosh
-çentrove
 çepel
 çepenat
 çepengave
@@ -315231,8 +313637,6 @@ züricher
 çerga
 çergarët
 çergat
-çeribashi
-çeribashë
 çerim
 çeritifikatave
 çerk
@@ -315330,7 +313734,6 @@ züricher
 çezevenë
 çezi
 çezmeje
-çeçe
 çeçencëve
 çeçenin
 çeçenit
@@ -315338,7 +313741,6 @@ züricher
 çeçilja
 çeçiljes
 çeçin
-çeço-
 çfaj
 çfajsohej
 çfajsoj
@@ -315452,7 +313854,6 @@ züricher
 çiklista
 çiklomotor
 çiklomotorëve
-çiknin
 çikolinin
 çikopanos
 çikoren
@@ -315487,7 +313888,6 @@ züricher
 çimentifikimin
 çimentoi
 çimentonin
-çimeve
 çimimet
 çimimin
 çimo
@@ -315496,8 +313896,6 @@ züricher
 çimpekazuar
 çimzash
 çinamom
-çingat
-çingave
 çingijet
 çingijeve
 çingo
@@ -315543,10 +313941,7 @@ züricher
 çirmës
 çiron
 çiros
-çirr
-çirrja
 çirrjen
-çirrni
 çirrës
 çishte
 çisjordania
@@ -315557,8 +313952,6 @@ züricher
 çisto
 çitadelës
 çitat
-çitur
-çitë
 çitës
 çivitët
 çivlaku
@@ -315590,7 +313983,6 @@ züricher
 çjerrnin
 çjerrte
 çjerruar
-çjerrur
 çjerruri
 çjerrverisin
 çjerur
@@ -315711,8 +314103,6 @@ züricher
 çmendaken
 çmendie
 çmendimi
-çmendja
-çmendnin
 çmendoja
 çmenduna
 çmendur-pas-filmave-aksion
@@ -315812,7 +314202,6 @@ züricher
 çnjohës
 çnumurimit
 çnyjëzimi
-ço-
 ço-nin
 çobanoski
 çobançe
@@ -315829,8 +314218,6 @@ züricher
 çohna
 çoin
 çojli
-çojsha
-çoju
 çokanisura
 çokatin
 çokej
@@ -315848,7 +314235,6 @@ züricher
 çollopeku
 çolo
 çolos
-çoma
 çomangë
 çomblek
 çomen
@@ -315856,19 +314242,17 @@ züricher
 çomollarët
 çomorave
 çomorra
-çomë
 çonevski
 çong
 çongçing
 çonie
 çoniin
-çonj
-çonja
 çonju
 çopanit
 çopiç
 çopra
 çoramës
+çorapen
 çoraphane
 çorapt
 çorbaxhinjëve
@@ -316091,13 +314475,6 @@ züricher
 çupulinash
 çupuline
 çupzën
-çupëlina
-çupëlinash
-çupëlinat
-çupëline
-çupërlina
-çupërlinat
-çupërline
 çupëzat
 çupëze
 çupëzë
@@ -316385,7 +314762,6 @@ züricher
 ëmbëlsimin
 ëmbëlsin
 ëmbëlsir
-ëmbëlsish
 ëmbëlsojnë
 ëmbëlsojë
 ëmbëlsomë

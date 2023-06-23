@@ -4677,7 +4677,7 @@
 -lexeme
  lex: bejk
  stem: bejk.
- gramm: A,borr,slav,deriv_slav
+ gramm: A,borr,slav,deriv
  paradigm: adj-3-2
  trans_en: white-haired
 
@@ -34811,7 +34811,7 @@
 -lexeme
  lex: mballosur
  stem: mballosur.|mballosur.
- gramm: Aborr,greek,deriv
+ gramm: A,borr,greek,deriv
  paradigm: adj-2-2
  trans_en: patched
 
@@ -44713,7 +44713,7 @@
 -lexeme
  lex: pakooperuar
  stem: pakooperuar.|pakooperuar.
- gramm: Aborr,rom,new,deriv
+ gramm: A,borr,rom,new,deriv
  paradigm: adj-2-2
  trans_en: not cooperated
 

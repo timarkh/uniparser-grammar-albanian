@@ -29240,7 +29240,7 @@
 -lexeme
  lex: neutralizoj
  stem: neutralizo.|neutralizua.|neutralizu.|neutraliz.
- gramm: V,vt,borr,it,ne
+ gramm: V,vt,borr,it,new
  paradigm: lexoj
  trans_en: neutralize
 
