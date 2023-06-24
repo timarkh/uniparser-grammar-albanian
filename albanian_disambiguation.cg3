@@ -94,7 +94,7 @@ SELECT (ptcp) IF (0 (ptcp) - (NOUN))
 				 
 # "participle" vs. "adjective" after article e and së
 REMOVE (ptcp) IF (0 (ptcp) - (A))
-				 (-1 ("<e>") OR "<së>"));				 
+				 (-1 ("<e>"i) OR ("<së>"i));				 
 
 # "noun" vs. "adjective" and "verb" after article së in "së bëri"
 REMOVE (A abl indef) IF (0 (A) - (NOUN))
@@ -110,8 +110,8 @@ REMOVE (NOUN gen_dat indef) IF (0 (NOUN))
 				 (-2 (V));
 				 
 # Optative vs. Gheg participle (dashtë, etc.)
-REMOVE (V vt opt pres act 3 sg) IF (-1 ("kam") OR ("jam") OR ("<me>") OR ("<tue>"));
-REMOVE (V vi opt pres act 3 sg) IF (-1 ("kam") OR ("jam") OR ("<me>") OR ("<tue>"));
+REMOVE (V vt opt pres act 3 sg) IF (-1 ("kam") OR ("jam") OR ("<me>"i) OR ("<tue>"i));
+REMOVE (V vi opt pres act 3 sg) IF (-1 ("kam") OR ("jam") OR ("<me>"i) OR ("<tue>"i));
 REMOVE (V vt opt pres act 3 sg) IF (-2 ("<me>"i));
 REMOVE (V vi opt pres act 3 sg) IF (-2 ("<me>"i));
 REMOVE (V vt opt pres act 3 sg) IF (-1 ("<u>"i))
@@ -193,10 +193,10 @@ SELECT (nom sg indef) IF (0 (NOUN))
 SELECT (nom sg indef) IF (0 ("<tjetër>"i))
 					     (-1 ("<një>"i))
 					     (-2 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
-SELECT (ART) IF (0 ("<i>"i) OR "<e>"i)
+SELECT (ART) IF (0 ("<i>"i) OR ("<e>"i))
 				(1 (NOUN))
 			    (-1 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
-SELECT (ART) IF (0 ("<i>"i) OR "<e>"i)
+SELECT (ART) IF (0 ("<i>"i) OR ("<e>"i))
 				(1 (NOUN))
 				(-1 ("<një>"i))
 			    (-2 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
@@ -278,19 +278,19 @@ SELECT (cont) IF (0 (ART))
 SELECT (dist) IF (0 (ART))
 				 (-1 (NOUN nom indef) OR (NOUN acc indef));
 SELECT (dist) IF (0 ("<i>"i) OR ("<e>"i) OR ("<të>"i))
-				     (-1 (Poss))
+				     (-1 Poss)
 				     (1 (A) OR (NOUN gen_dat sg def) OR (NOUN gen_dat pl));
 SELECT (dist) IF (0 ("<i>"i) OR ("<e>"i))
 				     (-1 ("jam"))
 				     (1 (A) OR (NOUN));
-SELECT (dist nom pl) IF (0 (("<të>"i))
+SELECT (dist nom pl) IF (0 ("<të>"i))
 				     (-1 ("jam"))
 				     (1 (A) OR (NOUN));
 SELECT (dist gen_dat) IF (0 (ART))
 						 (-1 (ART))
 						 (1 (NOUN gen_dat sg def) OR (NOUN gen_dat pl));
 SELECT (dist) IF (0 (ART))
-				 (1 (("cili"i) OR ("gjithë"i) OR (A def))
+				 (1 ("cili"i) OR ("gjithë"i) OR (A def))
 				 (NOT 1 (A f pl));
 
 SECTION    # Pronouns
@@ -317,7 +317,7 @@ SELECT ("saj") IF (0 ("<saj>"i))
                   (-1 (ART));
 
 # Alb i vetëm, i njëjtë: adjectives often used in preposition (01.11.2022)
-SELECT (A sg nom def) IF (0 ("<vetmi>"i OR ("<njëjti>"i) OR ("<ashtuquajturi>"i))
+SELECT (A sg nom def) IF (0 ("<vetmi>"i) OR ("<njëjti>"i) OR ("<ashtuquajturi>"i))
 						 (-1 ("<i>"i))
 						 (1 (NOUN indef));
 						 
@@ -337,7 +337,7 @@ SELECT (A sg abl indef) IF (0 ("<pari>"i) OR ("<dyti>"i) OR ("<treti>"i) OR ("<f
 						 
 # Alb herë: noun is "unmkd" if a numeral adjective is in preposition (01.11.2022)
 SELECT (NOUN unmkd) IF (0 ("<herë>")i)
-					   (*-1 (A,def))
+					   (*-1 (A def))
 					   (-2 (ART));
 
 # Alb i gjithë, i tërë: noun is "def" after these pronouns (01.11.2022)
@@ -347,14 +347,14 @@ SELECT (NOUN def) IF (-1 ("gjithë"i) OR ("tërë"i))
 SECTION    # Unchangeable POS
 # Alb reflexive particle u (updated on 20.11.2022, REMOVE rules created)
 REMOVE (VB_PART) IF (0 ("<u>"i))
-					(1 ((V ind prs) OR (V ind ipf) OR (V sbjv))
+					(1 (V ind prs) OR (V ind ipf) OR (V sbjv))
 					(NOT 1 (V ind prs 3sg));
 
 # Alb të të: verb particle + pronominal clitic (01.11.2022)
 SELECT (VB_PART) IF (0 ("<të>"i))
-					(1 ("<të>") OR ("<ta>"))
+					(1 ("<të>"i) OR ("<ta>"i))
 					(2 (V));
-SELECT (CLIT_PRO) IF (0"<të>" OR ("<ta>"))
+SELECT (CLIT_PRO) IF (0 ("<të>"i) OR ("<ta>"i))
 					 (-1 ("<të>"i))
 					 (1 (V));
 SELECT (VB_PART) IF (0 ("<t>"i))
@@ -362,7 +362,7 @@ SELECT (VB_PART) IF (0 ("<t>"i))
 					(2 (V));		
 					 
 # Alb të immediately before the verb is either a pronoun or a verbal particle, not an article (01.11.2022)
-REMOVE (ART) IF (0 ("<të>"i) or "<e>"i)
+REMOVE (ART) IF (0 ("<të>"i) or ("<e>"i))
 				(1 (V));
 
 # Alb në immediately before the verb is a conjunction, not a preposition (01.11.2022)
@@ -432,7 +432,7 @@ SELECT (CONJ) IF (0 ("<dhe>"i))
 			  
 # Alb Gheg infinitive vs. noun vs. verb-sbjv.prs.3sg
 REMOVE (V sbjv pres act 3 sg) IF (0 (V) - (NOUN))
-								 (-1 ("<të>"i) OR ("<t>"i) OR (<"ta"i>))
+								 (-1 ("<të>"i) OR ("<t>"i) OR ("<ta>"i))
 								 (-2 ("me"i));
 								 
 # Alb nouns vs. adjectives vs. verbs in subjunctive (only verbs occur in constructions like "do të jetë" and "mund të gjeni"; nouns, adjectives and adverbs cannot follow the shortened form of the subjunctive clitic "t" or the combined form "ta" - either personal verb forms or participles occur)
