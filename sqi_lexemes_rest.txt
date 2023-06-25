@@ -168,14 +168,14 @@
 
 -lexeme
  lex: ai
- stem: ai.|atij.|atë.//të.|asi.//tij.|fkjaklgld.|fkjaklgld.|fkjaklgld.|fkjaklgld.
+ stem: ai.|atij.|atë.//të.|asi.//tij.|NOSTEM.|NOSTEM.|NOSTEM.|NOSTEM.
  gramm: PRO,3,sg,m,alb
  paradigm: pers-pro-3-sg-pl
  trans_en: he
 
 -lexeme
  lex: ajo
- stem: ajo.|asaj.|atë.//të.|aso.//saj.|soje.|fkjaklgld.|fkjaklgld.|fkjaklgld.
+ stem: ajo.|asaj.|atë.//të.|aso.//saj.|soje.|NOSTEM.|NOSTEM.|NOSTEM.
  gramm: PRO,3,sg,f,alb
  paradigm: pers-pro-3-sg-pl
  trans_en: she
@@ -5971,7 +5971,7 @@
 
 -lexeme
  lex: ju
- stem: ju.|juve.|jush.|juvet.//juvej.//yve.|fkgjkrlgjejs.
+ stem: ju.|juve.|jush.|juvet.//juvej.//yve.|NOSTEM.
  gramm: PRO,2,pl,alb
  paradigm: pers-pro-1-2-pl
  trans_en: you
@@ -7204,7 +7204,7 @@
 
 -lexeme
  lex: kush
- stem: kush.|kujt.|kënd.
+ stem: kush.|kujt.|kë.
  gramm: PRO,alb
  paradigm: interrog-pro
  trans_en: who; anyone, someone
@@ -9750,7 +9750,7 @@
 
 -lexeme
  lex: njai
- stem: njai.//njay.|njatij.//njasi.|njatë.//njate.|njajo.|njasaj.//njaso.|njata.|njatyre.//njasi.//njasish.//njatyne.|njato.|njatyre.//njaso.//njasosh.//njatyne.|kdfhdkjghkge.
+ stem: njai.//njay.|njatij.//njasi.|njatë.//njate.|njajo.|njasaj.//njaso.|njata.|njatyre.//njasi.//njasish.//njatyne.|njato.|njatyre.//njaso.//njasosh.//njatyne.|NOSTEM.
  gramm: PRO,nonst,Gheg,alb,deriv
  paradigm: dem-pro-sg-pl
  trans_en: that very one
@@ -13268,7 +13268,7 @@
 
 -lexeme
  lex: qai
- stem: qai.//qay.|qatij.//qasi.|qatë.//qate.|qajo.|qasaj.//qaso.|qata.|qatyre.//qasi.//qasish.//qatyne.|qato.|qatyre.//qaso.//qasosh.//qatyne.|lkfjlkfhwehw.
+ stem: qai.//qay.|qatij.//qasi.|qatë.//qate.|qajo.|qasaj.//qaso.|qata.|qatyre.//qasi.//qasish.//qatyne.|qato.|qatyre.//qaso.//qasosh.//qatyne.|NOSTEM.
  gramm: PRO,nonst,Gheg,alb,deriv
  paradigm: dem-pro-sg-pl
  trans_en: that very one
@@ -16099,7 +16099,7 @@
 
 -lexeme
  lex: ti
- stem: ti.|ty.|teje.|fdlgjjrljg.
+ stem: ti.|ty.|teje.|NOSTEM.
  gramm: PRO,2,sg,alb
  paradigm: pers-pro-1-2-sg
  trans_en: you

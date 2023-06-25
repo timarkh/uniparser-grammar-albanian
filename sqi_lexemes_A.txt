@@ -72552,6 +72552,13 @@
  trans_en: poor
 
 -lexeme
+ lex: varfër
+ stem: NOSTEM.|varfër.
+ gramm: A,nonst,borr,lat
+ paradigm: adj-2-2
+ trans_en: poor
+
+-lexeme
  lex: varfëror
  stem: varfëror.
  gramm: A,borr,lat,deriv

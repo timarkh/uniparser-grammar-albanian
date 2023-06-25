@@ -14007,7 +14007,7 @@
 
 -lexeme
  lex: gërgas
- stem: gërgas.|gërget.|gërgit.//gërgis.|gërgit.|gërga.//gërgit.|dlfjskdfjs.
+ stem: gërgas.|gërget.|gërgit.//gërgis.|gërgit.|gërga.//gërgit.|NOSTEM.
  gramm: V,vt,alb,deriv
  paradigm: flas
  trans_en: prob, jab; annoy
@@ -14063,14 +14063,14 @@
 
 -lexeme
  lex: gërhas
- stem: gërhas.|gërhet.|gërhit.//gërhis.|gërhit.|gërha.//gërhit.|dlfjskdfjs.
+ stem: gërhas.|gërhet.|gërhit.//gërhis.|gërhit.|gërha.//gërhit.|NOSTEM.
  gramm: V,vi,alb,deriv
  paradigm: flas
  trans_en: snore
 
 -lexeme
  lex: hërças
- stem: hërças.|hërçet.|hërçit.//hërçis.|hërçit.|hërça.//hërçit.|dlfjskdfjs.
+ stem: hërças.|hërçet.|hërçit.//hërçis.|hërçit.|hërça.//hërçit.|NOSTEM.
  gramm: V,vi,borr,slav
  paradigm: flas
  trans_en: snore
@@ -14197,7 +14197,7 @@
 
 -lexeme
  lex: gërhas
- stem: gërras.|gërret.|gërrit.//gërris.|gërrit.|gërra.//gërrit.|dlfjskdfjs.
+ stem: gërras.|gërret.|gërrit.//gërris.|gërrit.|gërra.//gërrit.|NOSTEM.
  gramm: V,vi,nonst,alb,deriv
  paradigm: flas
  trans_en: snore
@@ -14353,7 +14353,7 @@
 
 -lexeme
  lex: gëthlas
- stem: gëthlas.|gëthlet.|gëthlit.//gëthlis.|gëthlit.|gëthla.//gëthlit.|dlfjskdfjs.
+ stem: gëthlas.|gëthlet.|gëthlit.//gëthlis.|gëthlit.|gëthla.//gëthlit.|NOSTEM.
  gramm: V,vt
  paradigm: flas
  trans_en: pet; caress, fondle
@@ -20694,7 +20694,7 @@
 
 -lexeme
  lex: këlthas
- stem: këlthas.|këlthet.|këlthit.//këlthis.|këlthit.|klith.|dlfjskdfjs.
+ stem: këlthas.|këlthet.|këlthit.//këlthis.|këlthit.|klith.|NOSTEM.
  gramm: V,vt,vi,alb,deriv
  paradigm: flas
  trans_en: yell, scream, shout; call loudly
@@ -24344,7 +24344,7 @@
 
 -lexeme
  lex: marr
- stem: mar.|mer.|mir.|ldjfdlfj.|dkfjdkfjd.
+ stem: mar.|mer.|mir.|NOSTEM.|NOSTEM.
  gramm: V,vt,nonst,alb
  paradigm: marr
  trans_en: take; capture; hire, engage; get, receive
@@ -30407,7 +30407,7 @@
 
 -lexeme
  lex: gërhas
- stem: ngërhas.|ngërhet.|ngërhit.//ngërhis.|ngërhit.|ngërha.//ngërhit.|dlfjskdfjs.
+ stem: ngërhas.|ngërhet.|ngërhit.//ngërhis.|ngërhit.|ngërha.//ngërhit.|NOSTEM.
  gramm: V,vi,nonst,alb,deriv
  paradigm: flas
  trans_en: snore
@@ -42205,7 +42205,7 @@
 
 -lexeme
  lex: rrah
- stem: rrah.|rreh.|rrih.|kfjdkfjdk.
+ stem: rrah.|rreh.|rrih.|NOSTEM.
  gramm: V,vt,alb
  paradigm: njoh
  trans_en: beat, pat, batter

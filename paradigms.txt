@@ -2164,6 +2164,8 @@
   gramm: m,pl,abl2,indef
  -flex: <3>.it
   gramm: m,pl,nom,def
+ -flex: <2>.it
+  gramm: m,pl,nom,def,nonst
  -flex: <3>.itë
   gramm: m,pl,nom,def,nonst
  -flex: <2>.ve
@@ -2172,6 +2174,8 @@
   gramm: m,pl,gen_dat,def,nonst
  -flex: <3>.it
   gramm: m,pl,acc,def
+ -flex: <2>.it
+  gramm: m,pl,acc,def,nonst
  -flex: <3>.itë
   gramm: m,pl,acc,def,nonst
  -flex: <2>.ve
