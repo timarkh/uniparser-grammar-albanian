@@ -4855,7 +4855,7 @@
 -lexeme
  lex: grigje
  stem: grigje.
- gramm: ADV,borr,lar,deriv
+ gramm: ADV,borr,lat,deriv
  paradigm: unchangeable
  trans_en: in abundance
 

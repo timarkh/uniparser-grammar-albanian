@@ -33487,7 +33487,7 @@
 -lexeme
  lex: lëfduam
  stem: lëfduam.|lëfduam.
- gramm: A,nonst,borr,lar,deriv
+ gramm: A,nonst,borr,lat,deriv
  lexref: lëvduar
  paradigm: adj-1-2
  trans_en: praised
@@ -41827,7 +41827,7 @@
 -lexeme
  lex: nomad
  stem: nomad.
- gramm: A,boee,rom,new
+ gramm: A,borr,rom,new
  paradigm: adj-3-1
  trans_en: nomadic
 
@@ -79667,7 +79667,7 @@
 -lexeme
  lex: vetizolues
  stem: vetëizolues.|vetëizolues.
- gramm: A,nons,borr,it,new,derivv
+ gramm: A,nonst,borr,it,new,derivv
  paradigm: adj-1-2
  trans_en: self-isolating
 

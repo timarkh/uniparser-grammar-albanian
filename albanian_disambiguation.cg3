@@ -328,15 +328,15 @@ SELECT (NOUN unmkd) IF (0 (NOUN))
 
 # Alb herë: numeral adjectives often used in preposition (01.11.2022)
 SELECT (A sg nom def) IF (-1 ("<e>"i))
-						 (1 ("<herë>"i);
+						 (1 ("<herë>"i));
 SELECT (A sg acc def) IF (-1 ("<të>"i))
-						 (1 ("<herë>"i);
+						 (1 ("<herë>"i));
 SELECT (A sg abl indef) IF (0 ("<pari>"i) OR ("<dyti>"i) OR ("<treti>"i) OR ("<fundmi>"i))
 						   (-1 ("<së>"i))
-						   (1 ("<herë>"i);
+						   (1 ("<herë>"i));
 						 
 # Alb herë: noun is "unmkd" if a numeral adjective is in preposition (01.11.2022)
-SELECT (NOUN unmkd) IF (0 ("<herë>")i)
+SELECT (NOUN unmkd) IF (0 ("<herë>"i))
 					   (*-1 (A def))
 					   (-2 (ART));
 
@@ -372,7 +372,7 @@ REMOVE (PR) IF (0 ("<në>"i))
 # Alb në immediately before the (pro)noun is a preposition, not a conjunction (01.11.2022)
 REMOVE (CONJ) IF (0 ("<në>"i))
 				 (1 (NOUN) OR (PRO));
-						
+
 # preposition nga is not a form of the verb ngas (не включать это правило в гегских текстах, т.к. там будет kam nga, jam nga) (01.11.2022)
 SELECT (PR) IF (0 ("<nga>"i))
 			   (NOT -1 ("<u>"i));

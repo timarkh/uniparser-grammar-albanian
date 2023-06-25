@@ -16736,7 +16736,7 @@
 -lexeme
  lex: kakërdhac
  stem: kakërdhac.
- gramm: V,vt,borr,lar,deriv
+ gramm: V,vt,borr,lat,deriv
  paradigm: hap
  trans_en: goggle
 
@@ -43329,7 +43329,7 @@
 -lexeme
  lex: rrëngjej
  stem: rrëngje.|rrëngjye.
- gramm: V,vi,borr,lti,new,deriv
+ gramm: V,vi,borr,lat,new,deriv
  paradigm: kthej
  trans_en: shine, sparkle
 
