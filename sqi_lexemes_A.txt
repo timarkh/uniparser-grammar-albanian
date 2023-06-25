@@ -8669,7 +8669,7 @@
 
 -lexeme
  lex: dashakeq
- stem: dashakeq.|dashakeqe.|dashakëqij.|dashakëqija.
+ stem: dashakeq.|dashakeqe.|dashakëqij.|dashakëqija.|dashakëqinj.
  gramm: A,alb,deriv
  paradigm: keq
  trans_en: malevolent, hostile
@@ -15106,7 +15106,7 @@
 
 -lexeme
  lex: fatkeq
- stem: fatkeq.|fatkeqe.|fatkëqij.|fatkëqija.
+ stem: fatkeq.|fatkeqe.|fatkëqij.|fatkëqija.|fatkëqinj.
  gramm: A,alb,borr,lat,deriv
  paradigm: keq
  trans_en: unfortunate

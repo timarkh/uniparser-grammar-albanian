@@ -37,3 +37,5 @@ pip-delete-this-directory.txt
 .env
 venv/
 ENV/
+uniparser_albanian/data_strict/albanian_disambiguation.cg3
+uniparser_albanian/data_nodiacritics/albanian_disambiguation.cg3

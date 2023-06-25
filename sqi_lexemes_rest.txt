@@ -836,7 +836,7 @@
  lex: askurrkush
  stem: askurrkush.|askurrkujt.|askurrkënd.
  gramm: PRO,alb,deriv
- paradigm: pers-pro-3-sg-pl
+ paradigm: interrog-pro
  trans_en: nobody
 
 -lexeme
@@ -850,7 +850,7 @@
  lex: askush
  stem: askush.|askujt.|askënd.
  gramm: PRO,alb,deriv
- paradigm: pers-pro-3-sg-pl
+ paradigm: interrog-pro
  trans_en: nobody
 
 -lexeme
@@ -2505,7 +2505,7 @@
  lex: dikush
  stem: dikush.|dikujt.|dikë.
  gramm: PRO,alb,deriv
- paradigm: pers-pro-3-sg-pl
+ paradigm: interrog-pro
  trans_en: somebody, someone
 
 -lexeme
@@ -4441,7 +4441,7 @@
  lex: gjithkush
  stem: gjithkush.|gjithkujt.|gjithkë.
  gramm: PRO,alb,deriv
- paradigm: pers-pro-3-sg-pl
+ paradigm: interrog-pro
  trans_en: everyone
 
 -lexeme
@@ -4504,7 +4504,7 @@
  lex: gjithsekush
  stem: gjithsekush.|gjithsekujt.|gjithsekë.
  gramm: PRO,alb,deriv
- paradigm: pers-pro-3-sg-pl
+ paradigm: interrog-pro
  trans_en: everyone
 
 -lexeme
@@ -5971,7 +5971,7 @@
 
 -lexeme
  lex: ju
- stem: ju.|juve.|jush.|juvet.//juvej.//yve.
+ stem: ju.|juve.|jush.|juvet.//juvej.//yve.|fkgjkrlgjejs.
  gramm: PRO,2,pl,alb
  paradigm: pers-pro-1-2-pl
  trans_en: you
@@ -7157,7 +7157,7 @@
  lex: kurrkush
  stem: kurrkush.|kurrkujt.|kurrkënd.
  gramm: PRO,alb,deriv
- paradigm: pers-pro-3-sg-pl
+ paradigm: interrog-pro
  trans_en: nobody
 
 -lexeme
@@ -7204,23 +7204,16 @@
 
 -lexeme
  lex: kush
- stem: kush.|kujt.|kë.
- gramm: PRO,alb
- paradigm: pers-pro-3-sg-pl
- trans_en: who
-
--lexeme
- lex: kush
  stem: kush.|kujt.|kënd.
  gramm: PRO,alb
- paradigm: pers-pro-3-sg-pl
- trans_en: anyone, someone
+ paradigm: interrog-pro
+ trans_en: who; anyone, someone
 
 -lexeme
  lex: kushdo
  stem: kushdo.|kujtdo.|këdo.
  gramm: PRO,alb,deriv
- paradigm: pers-pro-3-sg-pl
+ paradigm: interrog-pro
  trans_en: anyone, anybody, everyone, everybody
 
 -lexeme
@@ -8680,7 +8673,7 @@
  lex: moskush
  stem: moskush.|moskujt.|moskënd.
  gramm: PRO,alb,deriv
- paradigm: pers-pro-3-sg-pl
+ paradigm: interrog-pro
  trans_en: nobody
 
 -lexeme
@@ -9138,7 +9131,7 @@
  lex: ndokush
  stem: ndokush.|ndokujt.|ndokënd.
  gramm: PRO,alb,deriv
- paradigm: pers-pro-3-sg-pl
+ paradigm: interrog-pro
  trans_en: somebody, anybody
 
 -lexeme
@@ -9757,7 +9750,7 @@
 
 -lexeme
  lex: njai
- stem: njai.//njay.|njatij.//njasi.|njatë.//njate.|njajo.|njasaj.//njaso.|njata.|njatyre.//njasi.//njasish.//njatyne.|njato.|njatyre.//njaso.//njasosh.//njatyne.
+ stem: njai.//njay.|njatij.//njasi.|njatë.//njate.|njajo.|njasaj.//njaso.|njata.|njatyre.//njasi.//njasish.//njatyne.|njato.|njatyre.//njaso.//njasosh.//njatyne.|kdfhdkjghkge.
  gramm: PRO,nonst,Gheg,alb,deriv
  paradigm: dem-pro-sg-pl
  trans_en: that very one
@@ -13275,7 +13268,7 @@
 
 -lexeme
  lex: qai
- stem: qai.//qay.|qatij.//qasi.|qatë.//qate.|qajo.|qasaj.//qaso.|qata.|qatyre.//qasi.//qasish.//qatyne.|qato.|qatyre.//qaso.//qasosh.//qatyne.
+ stem: qai.//qay.|qatij.//qasi.|qatë.//qate.|qajo.|qasaj.//qaso.|qata.|qatyre.//qasi.//qasish.//qatyne.|qato.|qatyre.//qaso.//qasosh.//qatyne.|lkfjlkfhwehw.
  gramm: PRO,nonst,Gheg,alb,deriv
  paradigm: dem-pro-sg-pl
  trans_en: that very one
@@ -14313,7 +14306,7 @@
  lex: sa
  stem: sa.|save.|sa.
  gramm: PRO,alb
- paradigm: pers-pro-3-sg-pl
+ paradigm: interrog-pro
  trans_en: how many, how much
 
 -lexeme
@@ -14489,7 +14482,7 @@
  lex: sekush
  stem: sekush.|sekujt.|sekë.
  gramm: PRO,alb,deriv
- paradigm: pers-pro-3-sg-pl
+ paradigm: interrog-pro
  trans_en: someone, everyone
 
 -lexeme
@@ -15148,7 +15141,7 @@
  lex: shumëkush
  stem: shumëkush.|shumëkujt.|shumëkë.
  gramm: PRO,indef,alb,borr,lat,deriv
- paradigm: pers-pro-3-sg-pl
+ paradigm: interrog-pro
  trans_en: many
 
 -lexeme
@@ -16106,7 +16099,7 @@
 
 -lexeme
  lex: ti
- stem: ti.|ty.|teje.
+ stem: ti.|ty.|teje.|fdlgjjrljg.
  gramm: PRO,2,sg,alb
  paradigm: pers-pro-1-2-sg
  trans_en: you
@@ -16207,7 +16200,7 @@
  lex: tjetërkush
  stem: tjetërkush.|tjetërkujt.|tjetërkënd.
  gramm: PRO,alb,deriv
- paradigm: pers-pro-3-sg-pl
+ paradigm: interrog-pro
  trans_en: someone else
 
 -lexeme
@@ -18838,3 +18831,8 @@
  trans_en: gently, softly
 
 -lexeme
+ lex: etj
+ stem: etj.
+ gramm: ABBR,alb
+ paradigm: unchangeable
+ trans_en: etc.

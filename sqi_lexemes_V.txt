@@ -887,7 +887,7 @@
  lex: angështoj
  stem: angushto.|angushtua.|angushtu.|angusht.
  gramm: V,vt,nonst,alb,deriv
- paradigm: lexoj,alb,deriv
+ paradigm: lexoj
  trans_en: constrict, restrict
 
 -lexeme
@@ -3084,7 +3084,7 @@
 
 -lexeme
  lex: bjerr
- stem: bjerr.|birr.|bor.
+ stem: bjerr.|birr.|bor.|buar.
  gramm: V,vt
  paradigm: vjel
  trans_en: lose, forfeit
@@ -3843,8 +3843,8 @@
 -lexeme
  lex: brumos
  stem: brumos.
- gramm: V,vt,vi
- paradigm: hap,alb,deriv
+ gramm: V,vt,vi,alb,deriv
+ paradigm: hap
  trans_en: prepare dough (vt); knead (vi)
 
 -lexeme
@@ -11624,8 +11624,8 @@
 -lexeme
  lex: gajas
  stem: gajas.
- gramm: V,vt,vi
- paradigm: hap,borr,greek
+ gramm: V,vt,vi,borr,greek
+ paradigm: hap
  trans_en: tire out (vt); grow weak; feel dry in the mouth (vi)
 
 -lexeme
@@ -14007,7 +14007,7 @@
 
 -lexeme
  lex: gërgas
- stem: gërgas.|gërget.|gërgit.//gërgis.|gërgit.|gërga.//gërgit.
+ stem: gërgas.|gërget.|gërgit.//gërgis.|gërgit.|gërga.//gërgit.|dlfjskdfjs.
  gramm: V,vt,alb,deriv
  paradigm: flas
  trans_en: prob, jab; annoy
@@ -14063,14 +14063,14 @@
 
 -lexeme
  lex: gërhas
- stem: gërhas.|gërhet.|gërhit.//gërhis.|gërhit.|gërha.//gërhit.
+ stem: gërhas.|gërhet.|gërhit.//gërhis.|gërhit.|gërha.//gërhit.|dlfjskdfjs.
  gramm: V,vi,alb,deriv
  paradigm: flas
  trans_en: snore
 
 -lexeme
  lex: hërças
- stem: hërças.|hërçet.|hërçit.//hërçis.|hërçit.|hërça.//hërçit.
+ stem: hërças.|hërçet.|hërçit.//hërçis.|hërçit.|hërça.//hërçit.|dlfjskdfjs.
  gramm: V,vi,borr,slav
  paradigm: flas
  trans_en: snore
@@ -14196,10 +14196,9 @@
  trans_en: squabble; whine, whimper
 
 -lexeme
- lex: gërras
- stem: gërras.|gërret.|gërrit.//gërris.|gërrit.|gërra.//gërrit.
+ lex: gërhas
+ stem: gërras.|gërret.|gërrit.//gërris.|gërrit.|gërra.//gërrit.|dlfjskdfjs.
  gramm: V,vi,nonst,alb,deriv
- lexref: gërhas
  paradigm: flas
  trans_en: snore
 
@@ -14354,7 +14353,7 @@
 
 -lexeme
  lex: gëthlas
- stem: gëthlas.|gëthlet.|gëthlit.//gëthlis.|gëthlit.|gëthla.//gëthlit.
+ stem: gëthlas.|gëthlet.|gëthlit.//gëthlis.|gëthlit.|gëthla.//gëthlit.|dlfjskdfjs.
  gramm: V,vt
  paradigm: flas
  trans_en: pet; caress, fondle
@@ -14487,7 +14486,7 @@
 
 -lexeme
  lex: hakmerrem
- stem: hakmarr.|hakmerr.|hakmir.|hakmor.
+ stem: hakmarr.|hakmerr.|hakmir.|hakmor.|hakmuar.
  gramm: V,med,alb,borr,turk,deriv
  paradigm: marr
  trans_en: get even, retaliate; to take vengeance for a blood wrong; take revenge, avenge oneself
@@ -16637,9 +16636,9 @@
 
 -lexeme
  lex: kacavirrem
- stem: kacavjerr.|kacavir.|kacavor.
+ stem: kacavjerr.|kacavir.|kacavor.|kacavuar.
  gramm: V,med,alb,deriv
- paradigm: marr
+ paradigm: vjel
  trans_en: clamber up; persevere, stick to
 
 -lexeme
@@ -20695,7 +20694,7 @@
 
 -lexeme
  lex: këlthas
- stem: këlthas.|këlthet.|këlthit.//këlthis.|këlthit.|klith.
+ stem: këlthas.|këlthet.|këlthit.//këlthis.|këlthit.|klith.|dlfjskdfjs.
  gramm: V,vt,vi,alb,deriv
  paradigm: flas
  trans_en: yell, scream, shout; call loudly
@@ -24345,7 +24344,7 @@
 
 -lexeme
  lex: marr
- stem: mar.|mer.|mir.
+ stem: mar.|mer.|mir.|ldjfdlfj.|dkfjdkfjd.
  gramm: V,vt,nonst,alb
  paradigm: marr
  trans_en: take; capture; hire, engage; get, receive
@@ -30408,7 +30407,7 @@
 
 -lexeme
  lex: gërhas
- stem: ngërhas.|ngërhet.|ngërhit.//ngërhis.|ngërhit.|ngërha.//ngërhit.
+ stem: ngërhas.|ngërhet.|ngërhit.//ngërhis.|ngërhit.|ngërha.//ngërhit.|dlfjskdfjs.
  gramm: V,vi,nonst,alb,deriv
  paradigm: flas
  trans_en: snore
@@ -30867,7 +30866,7 @@
 
 -lexeme
  lex: njësoj
- stem: njëso.|njësua.
+ stem: njëso.|njësua.|njësu.|njës.
  gramm: V,vt,alb,deriv
  paradigm: lexoj
  trans_en: unify; consolidate; standardize
@@ -32416,7 +32415,7 @@
 
 -lexeme
  lex: parathem
- stem: parathe.|parathua.|paratho.|parathën.|parathosh.|paratha.|parathu.
+ stem: parathe.|parathua.|paratho.|parathën.|parathosh.|paratha.|parathu.|parathue.|parathan.
  gramm: V,vt,alb,deriv
  paradigm: them
  trans_en: predict; prophesy
@@ -36863,7 +36862,7 @@
 
 -lexeme
  lex: përjap
- stem: përjap.|përjep.|përjip.//përip.|përdhën.|përdha.|përdhe.
+ stem: përjap.|përjep.|përjip.//përip.|përdhën.|përdha.|përdhe.|përëmë.
  gramm: V,vt,alb,deriv
  paradigm: jap
  trans_en: hand over
@@ -42206,7 +42205,7 @@
 
 -lexeme
  lex: rrah
- stem: rrah.|rreh.|rrih.
+ stem: rrah.|rreh.|rrih.|kfjdkfjdk.
  gramm: V,vt,alb
  paradigm: njoh
  trans_en: beat, pat, batter
@@ -48015,7 +48014,7 @@
 
 -lexeme
  lex: shqerr
- stem: shqerr.|shqirr.//shqir.|shqorr.//shqor.
+ stem: shqerr.|shqirr.//shqir.|shqorr.//shqor.|shquarr.
  gramm: V,vt,vi,alb
  paradigm: vjel
  trans_en: rip, tear (vt); scratch; feel a piercing pain (vi)
@@ -50347,14 +50346,14 @@
 
 -lexeme
  lex: spirohem
- stem: spiro.|spirua.
+ stem: spiro.|spirua.|spiru.|spir.
  gramm: V,med,borr,greek,deriv
  paradigm: lexoj-1
  trans_en: have diarrhea
 
 -lexeme
  lex: spitullohem
- stem: spitullo.|spitullua.
+ stem: spitullo.|spitullua.|spitullu.|spitull.
  gramm: V,med,borr,lat,deriv
  paradigm: lexoj-1
  trans_en: overdress
@@ -51022,7 +51021,7 @@
 
 -lexeme
  lex: stërthem
- stem: stërthe.//stërtho.|stërthua.|stërtho.|stërthën.|stërthosh.|stërtha.|stërthu.
+ stem: stërthe.//stërtho.|stërthua.|stërtho.|stërthën.|stërthosh.|stërtha.|stërthu.|stërthue.|stërthan.
  gramm: V,vt,alb,deriv
  paradigm: them
  trans_en: say many times
@@ -53416,7 +53415,7 @@
 
 -lexeme
  lex: truej
- stem: true.|tru.
+ stem: true.|tru.|cljskjsk.
  gramm: V,med,nonst,Gheg,borr,lat
  lexref: truaj
  paradigm: shkruaj-1
@@ -54287,7 +54286,7 @@
  lex: uloj
  stem: ulo.|ulua.|ulu.|ul.
  gramm: V,vi,alb,deriv
- paradigm: lexoj,alb,deriv
+ paradigm: lexoj
  trans_en: sag
 
 -lexeme
@@ -56090,7 +56089,7 @@
 
 -lexeme
  lex: vjerr
- stem: vjerr.|virr.//vir.|vor.
+ stem: vjerr.|virr.//vir.|vor.|vuar.
  gramm: V,vt,vi,alb,deriv
  paradigm: vjel
  trans_en: hang down; bring down; depend on
@@ -58252,7 +58251,7 @@
 
 -lexeme
  lex: zgjoj
- stem: zgjo.|zgjua.
+ stem: zgjo.|zgjua.|zgju.|zgj.
  gramm: V,med,alb
  paradigm: lexoj-1
  trans_en: wake up, awaken
@@ -62382,49 +62381,47 @@
  lex: validoj
  stem: valido.|validua.
  gramm: V,vt
- paradigm: mësoj
+ paradigm: lexoj
  trans_en: validate
 
 -lexeme
  lex: hospitalizoj
  stem: hospitalizo.|hospitalizua.
  gramm: V,vt
- paradigm: mësoj
+ paradigm: lexoj
  trans_en: hospitalize
 
 -lexeme
  lex: vetizoloj
  stem: vetëizolo.|vetëizolua.
  gramm: V,vt,nonst,borr,it,new,deriv
- paradigm: mësoj
+ paradigm: lexoj
  trans_en: self-isolate
 
 -lexeme
  lex: vetëkarantinoj
  stem: vetëkarantino.|vetëkarantinua.
  gramm: V,vt,borr,rom,new,deriv
- paradigm: mësoj
+ paradigm: lexoj
  trans_en: self-quarantine
 
 -lexeme
  lex: vetëkarantinoj
  stem: vetkarantino.|vetkarantinua.
  gramm: V,vt,nonst,borr,rom,new,deriv
- paradigm: mësoj
+ paradigm: lexoj
  trans_en: self-quarantine
 
 -lexeme
  lex: karantifikoj
  stem: karantifiko.|karantifikua.
  gramm: V,vt,borr,rom,new,deriv
- paradigm: mësoj
+ paradigm: lexoj
  trans_en: quarantine
 
 -lexeme
  lex: karantinoj
  stem: karantino.|karantinua.
  gramm: V,vt,borr,rom,new,deriv
- paradigm: mësoj
+ paradigm: lexoj
  trans_en: quarantine
-
--lexeme

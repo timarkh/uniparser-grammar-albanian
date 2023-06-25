@@ -153,8 +153,6 @@
   gramm: f,sg,acc,def
  -flex: <1>.es
   gramm: f,sg,abl,def
- -flex: <1>.et
-  gramm: f,sg,loc,def,nonst
  -flex: <0>.
   gramm: m,pl,nom,indef
  -flex: <1>.ëve
@@ -3238,8 +3236,6 @@
   gramm: sg,acc,def,nonst
  -flex: <2>.ës
   gramm: sg,abl,def
- -flex: <2>.ët
-  gramm: sg,loc,def,nonst
 
 -paradigm: 3b
  -flex: <1>.
@@ -3262,8 +3258,6 @@
   gramm: sg,acc,def,nonst
  -flex: <1>.s
   gramm: sg,abl,def
- -flex: <1>.t
-  gramm: sg,loc,def,nonst
 
 -paradigm: 3c
  -flex: <1>.
@@ -3284,8 +3278,6 @@
   gramm: sg,acc,def
  -flex: <1>.së
   gramm: sg,abl,def
- -flex: <1>.t
-  gramm: sg,loc,def,nonst
 
 -paradigm: 3c-1
  -flex: <1>.
@@ -3308,8 +3300,6 @@
   gramm: sg,acc,def,nonst
  -flex: <2>.së
   gramm: sg,abl,def
- -flex: <3>.t
-  gramm: sg,loc,def,nonst
 
 -paradigm: 3d
  -flex: <1>.
@@ -3336,8 +3326,6 @@
   gramm: sg,acc,def
  -flex: <1>.së
   gramm: sg,abl,def
- -flex: <1>.t
-  gramm: sg,loc,def,nonst
 
 -paradigm: 3e
  -flex: <1>.
@@ -3378,8 +3366,6 @@
   gramm: sg,acc,def,nonst
  -flex: <1>.ës
   gramm: sg,abl,def
- -flex: <1>.ët
-  gramm: sg,loc,def,nonst
 
 -paradigm: 4a
  -flex: <1>.t
@@ -3392,8 +3378,6 @@
   gramm: sg,nom,def
  -flex: <1>.ët
   gramm: sg,acc,def
- -flex: <1>.ët
-  gramm: sg,loc,def,nonst
 
 -paradigm: 4b
  -flex: <1>.të
@@ -3464,24 +3448,22 @@
 -paradigm: 4f
  -flex: <1>.
   gramm: sg,nom,indef
- -flex: <4>.i
+ -flex: <2>.i
   gramm: sg,gen_dat,indef
  -flex: <1>.
   gramm: sg,acc,indef
- -flex: <4>.i
+ -flex: <2>.i
   gramm: sg,abl,indef
  -flex: <1>.
   gramm: sg,unmkd,indef
  -flex: <2>.itë
   gramm: sg,nom,def
- -flex: <5>.it
+ -flex: <2>.it
   gramm: sg,gen_dat,def
  -flex: <2>.itë
   gramm: sg,acc,def
- -flex: <5>.it
+ -flex: <2>.it
   gramm: sg,abl,def
- -flex: <3>.it
-  gramm: sg,loc,def,nonst
 
 -paradigm: inezot
  -flex: <1>.
@@ -3526,8 +3508,6 @@
   gramm: pl,abl,def,nonst
  -flex: <0>.shit
   gramm: pl,abl2,def,nonst
- -flex: <0>.t
-  gramm: pl,loc,def,nonst
 
 -paradigm: 5a-1
  -flex: <1>.
@@ -3580,8 +3560,6 @@
   gramm: pl,abl,def,nonst
  -flex: <0>.shit
   gramm: pl,abl2,def,nonst
- -flex: <0>.t
-  gramm: pl,loc,def,nonst
 
 -paradigm: 5c
  -flex: <0>.
@@ -3626,8 +3604,6 @@
   gramm: pl,abl2,def,nonst
  -flex: <0>.ëshit
   gramm: pl,abl2,def,nonst
- -flex: <0>.it
-  gramm: pl,loc,def,nonst
 
 -paradigm: 5c-1
  -flex: <0>.
@@ -4034,11 +4010,6 @@
   gramm: f,abl,def,nonst
 
 
-
-
-
-
-
 -paradigm: pers-pro-1-2-sg
  -flex: <0>.
   gramm: nom
@@ -4090,6 +4061,16 @@
   gramm: abl,nonst
  -flex: <5>.//<5>.ve//<7>.
   gramm: abl,nonst,Gheg
+
+-paradigm: interrog-pro
+ -flex: <0>.
+  gramm: nom
+ -flex: <1>.
+  gramm: gen_dat
+ -flex: <2>.
+  gramm: acc
+ -flex: <1>.
+  gramm: abl
 
 -paradigm: dem-pro-sg-pl
  -flex: <0>.
@@ -4819,8 +4800,6 @@
   gramm: m,sg,acc,def
  -flex: <2>.it
   gramm: m,sg,abl,def
- -flex: <0>.ët
-  gramm: m,sg,loc,def
  -flex: <0>.
   gramm: f,sg,nom,indef
  -flex: <2>.e
@@ -5074,7 +5053,7 @@
  -flex: .jin
   gramm: 3,pl,ipf,ind,act,nonst
 
--paradigm: ipf-ind-act-a-Gheg
+-paradigm: ipf-ind-act-a-nonst,Gheg
  -flex: .jsha
   gramm: 1,sg,ipf,ind,act,nonst
  -flex: .jshem
@@ -5103,7 +5082,7 @@
  -flex: .nin
   gramm: 3,pl,ipf,ind,act
 
--paradigm: ipf-ind-act-b-Gheg
+-paradigm: ipf-ind-act-b-nonst,Gheg
  -flex: .sha
   gramm: 1,sg,ipf,ind,act,nonst
  -flex: .shem
@@ -5185,9 +5164,9 @@
  -flex: .rë
   gramm: ptcp,nonst
  -flex: .un
-  gramm: ptcp,Gheg
+  gramm: ptcp,nonst,Gheg
  -flex: .ë
-  gramm: ptcp,Gheg
+  gramm: ptcp,nonst,Gheg
 
 -paradigm: ptcp-4
  -flex: .ë
@@ -5196,15 +5175,15 @@
   gramm: ptcp,nonst
 -paradigm: ptcp-5
  -flex: .
-  gramm: ptcp,Gheg
+  gramm: ptcp,nonst,Gheg
  -flex: .e
-  gramm: ptcp,Gheg
+  gramm: ptcp,nonst,Gheg
  -flex: .em
-  gramm: ptcp,Gheg
+  gramm: ptcp,nonst,Gheg
  -flex: .m
-  gramm: ptcp,Gheg
+  gramm: ptcp,nonst,Gheg
  -flex: .mun
-  gramm: ptcp,Gheg
+  gramm: ptcp,nonst,Gheg
 -paradigm: pres-adm-act
  -flex: .kam
   gramm: 1,sg,pres,adm,act
@@ -5259,7 +5238,7 @@
  -flex: .kishin//.keshin
   gramm: 3,pl,ipf,adm,act,nonst
 
--paradigm: ipf-adm-act-Gheg
+-paradigm: ipf-adm-act-nonst,Gheg
  -flex: .këshem//.kshem
   gramm: 1,sg,ipf,adm,act,nonst
  -flex: .kshe
@@ -5598,7 +5577,7 @@
   paradigm: pres-sbjv-act-3-sg-a
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: imper-act-sg-a
   paradigm: imper-act-pl-vowel
   paradigm: aor-ind-act-3-sg-b
@@ -5608,7 +5587,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-c
  -flex: <0>.h<.>
   gramm: 
@@ -5633,7 +5612,7 @@
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
   paradigm: pres-opt-act-c
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <0>.h<.>
   gramm: 
   paradigm: imper-pass-sg
@@ -5664,7 +5643,7 @@
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
   paradigm: pres-opt-act-c
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <0>.v<.>
   gramm: 
   paradigm: aor-ind-act-1-2-sg
@@ -5676,7 +5655,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
  -flex: <1>.h<.>
   gramm: 
   paradigm: pres-ind-pass
@@ -5703,7 +5682,7 @@
   paradigm: pres-sbjv-act-3-sg-a
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: aor-ind-act-3-sg-a
   paradigm: pres-opt-act-c
   paradigm: imper-act-sg-b-vowel
@@ -5750,8 +5729,8 @@
   paradigm: ptcp-3
   paradigm: ptcp-5
  -flex: <2>.e<.>
-  gramm: Gheg
-  paradigm: ipf-adm-act-Gheg
+  gramm: nonst,Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: aor-ind-act-pl-b
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
@@ -5796,7 +5775,7 @@
   paradigm: ptcp-5
  -flex: <2>.e<.>
   gramm: 
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: aor-ind-act-pl-b
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
@@ -5811,7 +5790,7 @@
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: aor-ind-act-3-sg-b
   paradigm: pres-sbjv-act-2-sg
   paradigm: pres-sbjv-act-3-sg-a
@@ -5843,7 +5822,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
 
 -paradigm: kthej-1
  -flex: <0>.<.>
@@ -5867,7 +5846,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
 
 -paradigm: shkruaj
  -flex: <0>.<.>
@@ -5879,7 +5858,7 @@
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: aor-ind-act-pl-b
   paradigm: aor-ind-pass
   paradigm: ptcp-1
@@ -5890,7 +5869,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: imper-act-sg-a
   paradigm: imper-act-pl-vowel
  -flex: <0>.jt<.>//<0>.t<.>//<2>.jt<.>//<2>.t<.>
@@ -5927,7 +5906,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <0>.jti<.>//<0>.ti<.>//<2>.jti<.>//<2>.ti<.>
   gramm: nonst
   paradigm: aor-ind-act-pl-b
@@ -5953,13 +5932,13 @@
   paradigm: pres-ind-act-1-3-pl-a
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: pres-sbjv-act-2-sg
   paradigm: pres-sbjv-act-3-sg-a
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: aor-ind-act-pl-b
   paradigm: aor-ind-pass
   paradigm: imper-act-sg-a
@@ -5978,7 +5957,7 @@
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: aor-ind-act-pl-b
   paradigm: aor-ind-pass
   paradigm: ptcp-1
@@ -5988,7 +5967,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: imper-act-sg-a
   paradigm: imper-act-pl-vowel
  -flex: <1>.
@@ -6027,7 +6006,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <1>.<.>
   gramm: 
   paradigm: ptcp-5
@@ -6060,7 +6039,7 @@
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: pres-sbjv-act-2-sg
   paradigm: pres-sbjv-act-3-sg-a
   paradigm: imper-act-sg-b-vowel
@@ -6080,7 +6059,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <1>.ë<.>
   gramm: 
@@ -6101,7 +6080,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <1>.ë<.>
   gramm: 
@@ -6117,7 +6096,7 @@
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: pres-sbjv-act-2-sg
   paradigm: pres-sbjv-act-3-sg-a
   paradigm: imper-act-sg-b-vowel
@@ -6134,7 +6113,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: aor-ind-act-1-2-sg
   paradigm: aor-ind-act-3-sg-a
   paradigm: aor-ind-pass
@@ -6155,7 +6134,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: aor-ind-act-1-2-sg
   paradigm: aor-ind-pass
   paradigm: pres-opt-act-b
@@ -6173,7 +6152,7 @@
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: pres-sbjv-act-2-sg
   paradigm: pres-sbjv-act-3-sg-a
   paradigm: aor-ind-act-3-sg-a
@@ -6198,7 +6177,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <1>.ë<.>
   gramm: 
   paradigm: aor-ind-act-pl-b
@@ -6213,7 +6192,7 @@
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: pres-sbjv-act-2-sg
   paradigm: pres-sbjv-act-3-sg-a
   paradigm: imper-act-sg-a
@@ -6239,7 +6218,7 @@
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
   paradigm: pres-opt-act-a
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <2>.ë<.>
   gramm: 
   paradigm: aor-ind-act-pl-b
@@ -6254,7 +6233,7 @@
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: pres-sbjv-act-2-sg
   paradigm: pres-sbjv-act-2-sg-old
   paradigm: pres-sbjv-act-3-sg-a
@@ -6276,7 +6255,7 @@
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
   paradigm: pres-opt-act-a
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <1>.ë<.>
   gramm: 
   paradigm: aor-ind-act-pl-b
@@ -6297,7 +6276,7 @@
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
   paradigm: pres-opt-act-a
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <1>.ë<.>
   gramm: 
   paradigm: aor-ind-act-pl-b
@@ -6312,7 +6291,7 @@
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: pres-sbjv-act-2-sg
   paradigm: pres-sbjv-act-3-sg-a
   paradigm: imper-act-sg-a
@@ -6332,7 +6311,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <1>.ë<.>
   gramm: 
@@ -6352,7 +6331,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <1>.ë<.>
   gramm: 
@@ -6369,7 +6348,7 @@
   paradigm: pres-ind-act-1-3-pl-b
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: pres-sbjv-act-2-sg
   paradigm: pres-sbjv-act-3-sg-a
   paradigm: imper-act-sg-a
@@ -6390,7 +6369,7 @@
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
   paradigm: pres-opt-act-a
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
 
 -paradigm: ruaj-1
  -flex: <1>.h<.>
@@ -6408,7 +6387,7 @@
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
   paradigm: pres-opt-act-a
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <2>.ë<.>
   gramm: 
   paradigm: aor-ind-act-pl-b
@@ -6426,7 +6405,7 @@
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: pres-sbjv-act-2-sg
   paradigm: pres-sbjv-act-3-sg-a
   paradigm: imper-act-sg-a
@@ -6440,7 +6419,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <2>.ë<.>
   gramm: 
@@ -6456,14 +6435,14 @@
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: pres-sbjv-act-2-sg
   paradigm: pres-sbjv-act-3-sg-a
   paradigm: ptcp-1
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: aor-ind-act-pl-a
   paradigm: aor-ind-pass
   paradigm: pres-opt-act-c
@@ -6488,7 +6467,7 @@
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: aor-ind-act-pl-a
   paradigm: aor-ind-pass
   paradigm: pres-sbjv-act-2-sg
@@ -6499,7 +6478,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-c
   paradigm: imper-act-sg-a
   paradigm: imper-act-sg-a-old
@@ -6535,7 +6514,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-c
  -flex: <0>.h<.>
   gramm: 
@@ -6556,7 +6535,7 @@
   paradigm: pres-ind-act-1-3-pl-a-nonst
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: pres-sbjv-act-2-sg
   paradigm: pres-sbjv-act-3-sg-a
  -flex: <0>.h<.>
@@ -6572,7 +6551,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <3>.<.>
   gramm: 
@@ -6601,7 +6580,7 @@
   paradigm: pres-ind-act-1-3-pl-d
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: pres-ind-pass
   paradigm: ipf-ind-pass
   paradigm: aor-ind-act-1-2-sg
@@ -6614,7 +6593,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
   paradigm: imper-pass-sg
   paradigm: imper-pass-pl
@@ -6645,7 +6624,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
   paradigm: imper-pass-sg
   paradigm: imper-pass-pl
@@ -6662,7 +6641,7 @@
   paradigm: pres-ind-act-1-3-pl-d
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: pres-ind-pass
   paradigm: ipf-ind-pass
   paradigm: pres-sbjv-act-3-sg-b
@@ -6670,7 +6649,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: aor-ind-act-1-2-sg
   paradigm: aor-ind-act-3-sg-b
   paradigm: aor-ind-pass
@@ -6700,7 +6679,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: ptcp-3
   paradigm: aor-ind-act-1-2-sg
   paradigm: aor-ind-pass
@@ -6721,7 +6700,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
   paradigm: pres-sbjv-act-2-sg
  -flex: <0>.ë<.>
@@ -6732,7 +6711,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: pres-ind-pass
   paradigm: ipf-ind-pass
   paradigm: imper-act-sg-b-consonant
@@ -6755,7 +6734,7 @@
   paradigm: pres-adm-act-nonst
   paradigm: ptcp-3
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <1>.<.>
   gramm: 
@@ -6782,14 +6761,14 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <1>.<.>
   gramm: 
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: pres-ind-pass
   paradigm: ipf-ind-pass
   paradigm: imper-act-sg-b-consonant
@@ -6820,7 +6799,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <1>.<.>
   gramm: 
@@ -6851,7 +6830,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <0>.ë<.>
   gramm: 
@@ -6865,7 +6844,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: imper-act-sg-b-consonant
   paradigm: imper-act-pl-consonant
   paradigm: pres-ind-pass
@@ -6892,7 +6871,7 @@
   paradigm: pres-ind-act-1-3-pl-d
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: pres-sbjv-act-3-sg-b
   paradigm: imper-act-sg-b-consonant
   paradigm: imper-act-pl-consonant
@@ -6913,7 +6892,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
   paradigm: imper-act-sg-b-consonant
   paradigm: imper-act-pl-consonant
@@ -6943,7 +6922,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <0>.ë<.>
   gramm: 
@@ -6961,7 +6940,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: pres-ind-pass
   paradigm: ipf-ind-pass
   paradigm: imper-act-sg-b-consonant
@@ -6977,7 +6956,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <0>.ë<.>
   gramm: 
@@ -7003,7 +6982,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
  -flex: <0>.ë<.>
   gramm: 
@@ -7021,7 +7000,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: pres-ind-pass
   paradigm: ipf-ind-pass
   paradigm: imper-act-sg-b-consonant
@@ -7038,7 +7017,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
  -flex: <0>.ë<.>
   gramm: 
@@ -7063,7 +7042,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <0>.ë<.>
   gramm: 
@@ -7077,7 +7056,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: pres-ind-pass
   paradigm: ipf-ind-pass
   paradigm: imper-act-sg-b-consonant
@@ -7100,7 +7079,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <0>.ë<.>
   gramm: 
@@ -7126,7 +7105,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: pres-sbjv-act-3-sg-b
  -flex: <0>.ë<.>
   gramm: 
@@ -7143,7 +7122,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
   paradigm: imper-act-sg-b-consonant
   paradigm: imper-act-pl-consonant
@@ -7163,7 +7142,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
   paradigm: imper-pass-sg
   paradigm: imper-pass-pl
@@ -7189,7 +7168,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: imper-act-pl-consonant
  -flex: <3>.<.>
   gramm: 
@@ -7202,7 +7181,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
   paradigm: imper-act-sg-b-consonant
   paradigm: imper-pass-sg
@@ -7221,7 +7200,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
   paradigm: imper-pass-sg
   paradigm: imper-pass-pl
@@ -7245,7 +7224,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: imper-act-sg-b-consonant
   paradigm: imper-act-pl-consonant
   paradigm: pres-ind-pass
@@ -7256,7 +7235,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <3>.<.>
   gramm: 
@@ -7271,7 +7250,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
 
 -paradigm: marr
  -flex: <0>.<.>
@@ -7284,7 +7263,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <0>.ë<.>
   gramm: 
@@ -7295,7 +7274,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: pres-ind-pass
   paradigm: ipf-ind-pass
   paradigm: imper-act-sg-b-consonant
@@ -7306,7 +7285,7 @@
   gramm: 
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: pres-ind-pass
   paradigm: ipf-ind-pass
   paradigm: imper-act-sg-b-consonant
@@ -7318,12 +7297,11 @@
   paradigm: aor-ind-act-1-2-sg
   paradigm: aor-ind-act-3-sg-a
   paradigm: aor-ind-pass
- -flex: <3,4>.ë<.>
-  gramm: 
   paradigm: aor-ind-act-pl-b
  -flex: <4>.<.>
-  gramm: 
+  gramm: nonst
   paradigm: aor-ind-pass
+  paradigm: aor-ind-act-pl-b
  -flex: <4>.t<.>
   gramm: nonst
   paradigm: aor-ind-act-1-2-sg
@@ -7338,7 +7316,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <1>.<.>
   gramm: 
@@ -7386,7 +7364,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: imper-act-pl-consonant
  -flex: <3>.<.>
   gramm: 
@@ -7399,7 +7377,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
   paradigm: imper-pass-sg
   paradigm: imper-pass-pl
@@ -7424,7 +7402,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
  -flex: <3>.<.>
   gramm: 
   paradigm: pres-ind-pass
@@ -7440,7 +7418,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: imper-act-sg-b-consonant
   paradigm: pres-sbjv-act-2-sg-old-1
  -flex: <5>.<.>
@@ -7460,7 +7438,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <5>.<.>
   gramm: nonst
   paradigm: ptcp-3
@@ -7483,7 +7461,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
  -flex: <3>.<.>
   gramm: 
   paradigm: aor-ind-act-3-sg-b
@@ -7494,7 +7472,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
   paradigm: pres-opt-act-c
   paradigm: imper-act-sg-b-vowel
@@ -7527,7 +7505,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-c
  -flex: <3>.v<.>
   gramm: 
@@ -7557,7 +7535,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: imper-act-pl-consonant
  -flex: <2>.<.>
   gramm: 
@@ -7568,7 +7546,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-c
   paradigm: imper-act-pl-consonant
  -flex: <2>.v<.>
@@ -7590,7 +7568,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
 -paradigm: dhjes-1
  -flex: <2>.<.>
   gramm: 
@@ -7600,7 +7578,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-c
  -flex: <2>.v<.>
   gramm: 
@@ -7627,7 +7605,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: pres-ind-pass
   paradigm: ipf-ind-pass
   paradigm: imper-act-sg-b-consonant
@@ -7642,7 +7620,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-c
  -flex: <4>.<.>
   gramm: 
@@ -7664,7 +7642,7 @@
   paradigm: pres-ind-pass
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: imper-act-sg-b-consonant
   paradigm: imper-act-pl-consonant
  -flex: <2>.<.>
@@ -7673,7 +7651,7 @@
   paradigm: ipf-ind-pass
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: imper-act-sg-b-consonant
   paradigm: imper-act-pl-consonant
  -flex: <2>.<.>
@@ -7686,7 +7664,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
  -flex: <4>.<.>
   gramm: 
@@ -7710,7 +7688,7 @@
   paradigm: pres-ind-act-1-3-pl-b
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: aor-ind-act-3-sg-b
   paradigm: aor-ind-act-pl-a
   paradigm: aor-ind-pass
@@ -7721,7 +7699,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-c
   paradigm: imper-act-sg-b-vowel
   paradigm: imper-act-pl-vowel
@@ -7745,7 +7723,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-c
  -flex: <0>.v<.>
   gramm: 
@@ -7768,7 +7746,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: imper-act-sg-b-vowel
   paradigm: imper-act-pl-vowel
  -flex: <1>.h<.>
@@ -7786,14 +7764,11 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <2>.ë<.>
   gramm: 
   paradigm: aor-ind-act-pl-b
- -flex: <3>.<.>
-  gramm: 
-  paradigm: ptcp-4
 -paradigm: di-1
  -flex: <1>.h<.>
   gramm: 
@@ -7809,7 +7784,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <2>.ë<.>
   gramm: 
@@ -7830,7 +7805,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: aor-ind-pass
   paradigm: aor-ind-act-3-sg-b
   paradigm: aor-ind-act-pl-a
@@ -7841,7 +7816,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <1>.h<.>
   gramm: 
   paradigm: pres-ind-pass
@@ -7858,7 +7833,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
  -flex: <3>.<.>
   gramm: 
@@ -7905,7 +7880,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: imper-act-pl-vowel
  -flex: <1>.h<.>
   gramm: 
@@ -7917,7 +7892,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
  -flex: <3>.<.>
   gramm: 
@@ -7943,7 +7918,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
  -flex: <3>.<.>
   gramm: 
@@ -7965,7 +7940,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: imper-act-pl-vowel
  -flex: <1>.h<.>
   gramm: 
@@ -7979,7 +7954,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
  -flex: <3>.<.>
   gramm: 
@@ -8005,7 +7980,7 @@
   paradigm: pres-ind-act-1-3-pl-b
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: pres-sbjv-act-2-sg
   paradigm: pres-sbjv-act-3-sg-a
   paradigm: imper-act-sg-b-vowel
@@ -8020,7 +7995,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
  -flex: <2>.<.>
   gramm: 
@@ -8044,7 +8019,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
  -flex: <2>.<.>
   gramm: 
@@ -8075,8 +8050,8 @@
   paradigm: pres-ind-act-2-3-sg-b
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-a
-  paradigm: ipf-ind-act-a-Gheg
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: pres-sbjv-act-3-sg-a
   paradigm: imper-act-pl-vowel
  -flex: <1>.jte
@@ -8099,8 +8074,8 @@
   paradigm: ipf-adm-act
   paradigm: pres-opt-act-b
  -flex: <3>.<.>
-  gramm: Gheg
-  paradigm: ipf-adm-act-Gheg
+  gramm: nonst,Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
  -flex: <4>.sh<.>
   gramm: 
@@ -8152,7 +8127,7 @@
   paradigm: pres-ind-act-2-pl
   paradigm: ipf-ind-act-a
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
   paradigm: imper-act-pl-vowel
  -flex: <1>.h<.>
   gramm: 
@@ -8166,7 +8141,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-c
  -flex: <3>.<.>
   gramm: 
@@ -8190,7 +8165,7 @@
   paradigm: pres-ind-act-1-3-pl-d
   paradigm: ipf-ind-act-b
   paradigm: ipf-ind-act-nonst
-  paradigm: ipf-ind-act-b-Gheg
+  paradigm: ipf-ind-act-b-nonst,Gheg
   paradigm: aor-ind-act-1-2-sg
   paradigm: aor-ind-act-3-sg-a
   paradigm: aor-ind-pass
@@ -8199,7 +8174,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
   paradigm: imper-act-sg-b-consonant
   paradigm: imper-act-pl-vowel
@@ -8218,7 +8193,7 @@
  -flex: <1>.
   gramm: 2,sg,pres,ind,act
  -flex: <7>.
-  gramm: 2,sg,pres,ind,act,Gheg
+  gramm: 2,sg,pres,ind,act,nonst,Gheg
  -flex: <2>.të
   gramm: 3,sg,pres,ind,act
  -flex: <2>.t
@@ -8248,7 +8223,7 @@
   gramm: 
   paradigm: pres-ind-act-2-pl
   paradigm: imper-act-pl-vowel
-  paradigm: ipf-ind-act-a-Gheg
+  paradigm: ipf-ind-act-a-nonst,Gheg
  -flex: <2>.<.>
   gramm: nonst
   paradigm: ipf-ind-act-b
@@ -8262,7 +8237,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
  -flex: <4>.<.>
   gramm: 
@@ -8289,7 +8264,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
 -paradigm: jam
  -flex: <0>.m
@@ -8301,7 +8276,7 @@
  -flex: <2>.t
   gramm: 3,sg,pres,ind,act,nonst
  -flex: <9>.t
-  gramm: 3,sg,pres,ind,act,Gheg
+  gramm: 3,sg,pres,ind,act,nonst,Gheg
  -flex: <1>.mi
   gramm: 1,pl,pres,ind,act
  -flex: <1>.ni
@@ -8322,7 +8297,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <4>.<.>
   gramm: 
   paradigm: ipf-ind-act-c
@@ -8350,7 +8325,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <10>.ë
   gramm: ptcp,nonst
 
@@ -8381,7 +8356,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
  -flex: <2>.të
   gramm: 3,sg,pres,opt,act
  -flex: <3>.<.>
@@ -8443,7 +8418,7 @@
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
-  paradigm: ipf-adm-act-Gheg
+  paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-a
  -flex: <2>.ë<.>
   gramm: 
