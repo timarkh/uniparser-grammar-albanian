@@ -34609,13 +34609,6 @@
  trans_en: pause, relax; languish
 
 -lexeme
- lex: prej
- stem: pre.//prë.|prejt.//prëjt.
- gramm: V,vt,alb,deriv
- paradigm: brej
- trans_en: please
-
--lexeme
  lex: prek
  stem: prek.
  gramm: V,med,alb
@@ -52138,13 +52131,6 @@
  gramm: V,vt,alb,deriv
  paradigm: lexoj
  trans_en: sour
-
--lexeme
- lex: kthej
- stem: the.
- gramm: V,vt,vi,nonst,alb
- paradigm: kthej
- trans_en: turn; bend; alter; convert (vt); return; recover (vt, vi); change one's mind (vi)
 
 -lexeme
  lex: thek

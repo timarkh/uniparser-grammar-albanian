@@ -8808,7 +8808,7 @@
 
 -lexeme
  lex: më
- stem: më.//meë.
+ stem: më.
  gramm: PART,alb
  paradigm: unchangeable
  trans_en: more
@@ -8948,8 +8948,15 @@
 
 -lexeme
  lex: na
- stem: na.//n.
+ stem: na.
  gramm: CLIT_PRO,dat_1pl
+ paradigm: unchangeable
+ trans_en: (to/for/of) us
+
+-lexeme
+ lex: na
+ stem: na.
+ gramm: CLIT_PRO,acc_1pl
  paradigm: unchangeable
  trans_en: us
 
@@ -10250,14 +10257,14 @@
 
 -lexeme
  lex: në
- stem: në.
+ stem: në.//n.
  gramm: CONJ,alb
  paradigm: unchangeable
  trans_en: if, whether
 
 -lexeme
  lex: në
- stem: në.
+ stem: në.//n.
  gramm: PR,with_acc,with_loc,alb
  paradigm: unchangeable
  trans_en: in; on

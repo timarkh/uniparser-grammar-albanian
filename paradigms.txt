@@ -7479,6 +7479,10 @@
   paradigm: ipf-adm-act-nonst,Gheg
   paradigm: pres-opt-act-b
   paradigm: pres-opt-act-c
+ -flex: <3>.<.>
+  gramm: nonst
+  paradigm: pres-ind-act-2-pl
+  paradigm: pres-ind-act-1-3-pl-a
   paradigm: imper-act-sg-b-vowel
   paradigm: imper-act-pl-vowel
  -flex: <3>.v<.>
@@ -7487,13 +7491,6 @@
  -flex: <3>.v<.>
   gramm: nonst
   paradigm: aor-ind-act-3-sg-a
- -flex: <3>.t<.>
-  gramm: nonst
-  paradigm: aor-ind-act-1-2-sg
-  paradigm: aor-ind-act-3-sg-a
- -flex: <3>.ti<.>
-  gramm: nonst
-  paradigm: aor-ind-act-pl-b
  -flex: <4>.<.>
   gramm: 
   paradigm: pres-ind-pass
@@ -7514,12 +7511,6 @@
  -flex: <3>.v<.>
   gramm: 
   paradigm: aor-ind-act-1-2-sg
- -flex: <3>.t<.>
-  gramm: nonst
-  paradigm: aor-ind-act-1-2-sg
- -flex: <3>.ti<.>
-  gramm: nonst
-  paradigm: aor-ind-act-pl-b
  -flex: <4>.<.>
   gramm: 
   paradigm: pres-ind-pass
