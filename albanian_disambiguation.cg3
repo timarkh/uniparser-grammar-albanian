@@ -1,15 +1,8 @@
-# This is an example of a Constraint Grammar rules file for Albanian.
-
-# There is no built-in manual yet. Resources:
-# http://visl.sdu.dk/cg3.html
-# http://groups.google.com/group/constraint-grammar
-# http://kevindonnelly.org.uk/2010/05/constraint-grammar-tutorial/
-
 # DELIMITERS
 DELIMITERS = "<SENT_BOUNDARY>";
 
 # SETS
-LIST WhQuestions = "ku" "nga" "çfarë" "ç" "kë" "kur";
+LIST Questions = "ku" "nga" "çfarë" "ç" "kur" "si" "qysh" "sa" "pse" "kush" "cili";
 LIST BOS = (>>>);
 LIST Verbs = vi vt med;
 LIST Poss = "im" "yt" "tij" "saj" "ynë" "juaj" "tyre";
@@ -17,9 +10,8 @@ LIST Poss = "im" "yt" "tij" "saj" "ynë" "juaj" "tyre";
 LIST Clitics = "<më>" "<ma>" "<të>" "<ta>" "<i>" "<na>" "<ju>" "<u>" "<ia>" "<ja>" "<ua>" "<iu>";
 SET BOSPunct = (punct) | BOS;
 
-
 SECTION    # Verbs
-# Choose correct person for verbs in 1-3, sg, present tense: look at pronominal subjects
+# Choose correct person for verbs in 1-3, sg, present tense: look at pronominal subjects +
 SELECT (V ind pres act 1 sg) IF (0 Verbs)
 								(-1 (PRO 1 sg nom))
 								(NOT -2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
@@ -28,25 +20,33 @@ SELECT (V ind pres act 2 sg) IF (0 Verbs)
 								(NOT -2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
 SELECT (V ind pres act 3 sg) IF (0 Verbs)
 								(-1 (PRO 3 sg m nom) OR (PRO 3 sg f nom))
-								(NOT *-2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
-					   
-# Imp,2,pl vs. prs,2,pl: progressive with po, future tense and modals
-REMOVE (V imp act 2 pl) IF (-1 ("<po>"i));
-REMOVE (V imp act 2 sg) IF (-1 ("<po>"i));
-REMOVE (V imp act 2 pl) IF (-1 (PRO 2 pl nom) OR WhQuestions);
-REMOVE (V imp act 2 pl) IF (-2 ("<mund>"i) OR ("<do>"i) OR ("<duhet>"i) OR ("<duhej>"i));
-REMOVE (V imp act 2 pl) IF (-3 ("<mund>"i) OR ("<do>"i) OR ("<duhet>"i) OR ("<duhej>"i))
+								(NOT -2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
+								
+# Imp,2,pl vs. prs,2,pl: future tense and modals +- (Upd. 23.07.2023)
+# REMOVE (V imp act 2 pl) IF (-1 ("<po>"i)); (not correct, because "po" as an exclamative particle can precede imperatives)
+# REMOVE (V imp act 2 sg) IF (-1 ("<po>"i)); (not correct, because "po" as an exclamative particle can precede imperatives)
+# REMOVE (V imp act 2 pl) IF (-1 (PRO 2 pl nom) OR WhQuestions); (improved, see below)
+REMOVE (V imp) IF (-1 Questions);
+REMOVE (V imp) IF (-1 Clitics OR ("<e>"i))
+				  (-2 Questions);
+REMOVE (V imp) IF (1 (PRO 1 sg nom) OR (PRO 2 sg nom) OR (PRO 3 sg m nom) OR (PRO 3 sg f nom));				  
+# REMOVE (V imp act 2 pl) IF (-2 ("<mund>"i) OR ("<do>"i) OR ("<duhet>"i) OR ("<duhej>"i)); (more general rule added, see below)
+# REMOVE (V imp act 2 pl) IF (-3 ("<mund>"i) OR ("<do>"i) OR ("<duhet>"i) OR ("<duhej>"i))
 						   (-1 ("<i>") OR ("<u>") OR ("<ua>") OR ("<iu>") OR ("<ia>") OR ("<ju>") OR ("<ja>"));
+REMOVE (V imp) IF (-2 Verbs)
+				  (-1 Clitics or ("<të>"));		   
 					  
-# Analytical perfect (select "participle", not "adjective")
+# Analytical perfect (select "participle", not "adjective") +
 SELECT (ptcp) IF (0 (ptcp) - (A))
 				 (-1 ("kam") OR ("jam"));
 
-# Aorist (select "vt, vi", not "med" in Aorist when there is no reflexive particle "u")
-REMOVE (med) IF (*0 (V aor))
+# Aorist (select "vt, vi", not "med" in Aorist when there is no reflexive particle "u"; remove "act" after definitely reflexive "u") +- (Upd. 23.07.2023)
+REMOVE (med) IF (0 (V aor))
 				(NOT -1 ("<u>") OR ("<iu>") OR ("<ju>"));
+REMOVE (ind pres act) IF (0 (V))
+						 (-1 ("<iu>"));
 				 
-# Analytical construction "për të + participle" (select "participle", not "adjective" or "noun")
+# Analytical construction "për të + participle" (select "participle", not "adjective" or "noun") +- (какое-то из правил про артикли все испортило)
 SELECT (ptcp) IF (0 (ptcp) - (A))
 				 (-1 ("<ta>"i))
 				 (-2 ("<për>"i));
@@ -213,7 +213,7 @@ SECTION    # Adjectives
 REMOVE (ADV) IF (0 (A))
                 (-1 (ART));
 
-# Substantivized adjectives can be detected when used as genitival attributes and after some prepositions
+# Substantivized adjectives can be detected when used as genitival attributes and after some prepositions - кажется, первое работает плохо, ср. i kemi përjetuar
 SELECT (NOUN gen_dat) IF (0 (A) - (NOUN))
 						 (-1 (ART))
 						 (-2 (ART));
@@ -221,55 +221,59 @@ SELECT (NOUN abl) IF (0 (A) - (NOUN))
                      (-1 (ART))
 				     (-2 ("sipas"i) OR ("prej"i));
 
-# Words used after quantifiers are nouns, not unarticulated adjectives (05.2023)
-SELECT (NOUN) IF (0 (A) - (NOUN))
-				 (-1 (NUM) OR ("disa"i) OR ("ca"i) OR ("shumë"i) OR ("pak"i));
+# Countable words used after quantifiers are nouns, not unarticulated adjectives (05.2023) - убирает наречия типа mirë, bukur; Upd. 23.07.2023
+# SELECT (NOUN) IF (0 (A) - (NOUN))
+#			  (-1 (NUM) OR ("disa"i) OR ("ca"i) OR ("shumë"i) OR ("pak"i));
+REMOVE (A) IF (0 (A) - (NOUN))
+			  (-1 (NUM) OR ("<disa>"i) OR ("<ca>"i));
 						 
 # Postpositive adjectives do not have case forms (UPDATED on 21.11.2022 - numerals like "të dy" added)
 REMOVE (A nom indef) IF (0 (A))
-						(*-1 (NOUN));
+						(-1 (NOUN));
 REMOVE (A acc indef) IF (0 (A))
-						(*-1 (NOUN));
+						(-1 (NOUN));
 REMOVE (A nom indef) IF (0 (A))
 						(-1 (ART))
-						(*-2 (NOUN));
+						(-2 (NOUN));
 REMOVE (A acc indef) IF (0 (A))
 						(-1 (ART))
-						(*-2 (NOUN));
+						(-2 (NOUN));
 SELECT (NUM nom indef) IF (0 (NUM))
 						  (-1 (ART));
 SELECT (NUM acc indef) IF (0 (NUM))
 						  (-1 (ART));
 
-# Pl/sg of feminine non-articulated and masculine articulated adjectives (Upd 05.2023)
-SELECT (sg) IF (*0 (A))
-				(*-1 (NOUN sg));
-SELECT (pl) IF (*0 (A))
-				(*-1 (NOUN pl));
-SELECT (sg) IF (*0 (A m))
+# Pl/sg of feminine non-articulated and masculine articulated adjectives (Upd 05.2023) +- кажется, дает неправильные разборы в аналитических формах типа për të shkuar; убраны 
+# звездочки (23.07.2023)
+SELECT (sg) IF (0 (A))
+				(-1 (NOUN sg));
+SELECT (pl) IF (0 (A))
+				(-1 (NOUN pl));
+SELECT (sg) IF (0 (A m))
 				(-1 (ART))
-				(*-2 (NOUN sg));
-SELECT (pl) IF (*0 (A m))
+				(-2 (NOUN sg));
+SELECT (pl) IF (0 (A m))
 				(-1 (ART))
-				(*-2 (NOUN pl));
+				(-2 (NOUN pl));
 
-# gender of adjectives depends on nouns: dita e nxehtë, shoqja besnike, male të larta (01.11.2022)
-SELECT (m) IF (*0 (A))
+# gender of adjectives depends on nouns: dita e nxehtë, shoqja besnike, male të larta (01.11.2022) +- кажется, дает неправильные разборы в аналитических формах типа për të shkuar;
+# убраны звездочки (23.07.2023)
+SELECT (m) IF (0 (A))
 			  (-1 (ART))
-		      (*-2 (NOUN m));
-SELECT (f) IF (*0 (A))
+		      (-2 (NOUN m));
+SELECT (f) IF (0 (A))
 			  (-1 (ART))
-		      (*-2 (NOUN f));
-SELECT (m) IF (*0 (A))
+		      (-2 (NOUN f));
+SELECT (m) IF (0 (A))
 			  (-1 (ART))
-		      (*-2 (NOUN mf sg));
-SELECT (f) IF (*0 (A))
+		      (-2 (NOUN mf sg));
+SELECT (f) IF (0 (A))
 			  (-1 (ART))
-		      (*-2 (NOUN mf pl));
-SELECT (m) IF (*0 (A))
-		      (*-1 (NOUN m));
-SELECT (f) IF (*0 (A))
-		      (*-1 (NOUN f));
+		      (-2 (NOUN mf pl));
+SELECT (m) IF (0 (A))
+		      (-1 (NOUN m));
+SELECT (f) IF (0 (A))
+		      (-1 (NOUN f));
 
 SECTION    # Articles
 # Contact vs. distant position of the article (Upd. 05.2023)
@@ -294,14 +298,13 @@ SELECT (dist) IF (0 (ART))
 				 (NOT 1 (A f pl));
 
 SECTION    # Pronouns
-# Pronoun "ta" is not a clitic after prepositions (full form is used) and is a clitic before a verb
+# Pronoun "ta" is not a clitic after prepositions (full form is used) and is a clitic before a verb (Upd. 23.07.2023)
 REMOVE (CLIT_PRO) IF (0 ("<ta>"i))
                         (-1 (PR))
 						(NOT 1 (ptcp));
 REMOVE (PRO) IF (0 ("<ta>"i))
-                (1 (V))
-			    (NOT -1 (PR));
-
+                (1 (V));
+				
 # Pronouns "tij", "saj", "tyre" are not possessives after prepositions and are possesives after articles
 REMOVE ("tyre") IF (0 ("<tyre>"i))
                    (-1 (PR));
@@ -360,14 +363,14 @@ SELECT (CLIT_PRO) IF (0 ("<të>"i) OR ("<ta>"i))
 SELECT (VB_PART) IF (0 ("<t>"i))
 					(1 ("<ia>") OR ("<ua>"))
 					(2 (V));		
-					 
-# Alb të immediately before the verb is either a pronoun or a verbal particle, not an article (01.11.2022)
-REMOVE (ART) IF (0 ("<të>"i) or ("<e>"i))
-				(1 (V));
 
-# Alb në immediately before the verb is a conjunction, not a preposition (01.11.2022)
-REMOVE (PR) IF (0 ("<në>"i))
-				(1 (V));
+# Alb të immediately before the verb is either a pronoun or a verbal particle, not an article (01.11.2022) - deleted 23.07.2023
+# REMOVE (ART) IF (0 ("<të>"i) or ("<e>"i))
+#				(1 (V));
+				
+# Alb në immediately before the verb is a conjunction, not a preposition (01.11.2022) - не работает 23.07.2023, убирает и лишние разборы у глагола
+# REMOVE (PR) IF (0 ("<në>"i))
+#				(1 (V));
 
 # Alb në immediately before the (pro)noun is a preposition, not a conjunction (01.11.2022)
 REMOVE (CONJ) IF (0 ("<në>"i))
@@ -381,7 +384,7 @@ SECTION    # Other inter-POS homonymy
 # Alb ajo: PRO vs. V (ajoj-imp.2sg)
 REMOVE (V) IF (0 ("<ajo>"i));
 	  
-# Alb nga: preposition vs. aorist vs. participle
+# Alb nga: preposition vs. aorist vs. participle - возможно, не работает, см. rrahur nga bashkëshorti i saj
 SELECT (V vt ind aor pass 3sg) IF (0 ("<nga>"i))
 								  (-1 ("<u>"i));
 SELECT (V ind aor med pass 3sg) IF (0 ("<nga>"i))
@@ -401,34 +404,34 @@ REMOVE (V imp act 2sg) IF (0 ("<nga>"i))
 REMOVE (CLIT_PRO) IF (0 ("<më>"i))
 					 (-1 (V));
 
-# Alb i: pronominal clitic before the verb, not article (05.2023)
-SELECT (CLIT_PRO) IF (0 ("<i>"i))
-					 (*1 (V));
+# Alb i and e: pronominal clitic before the verb, not article (05.2023) - Upd. 23.07.2023
+SELECT (CLIT_PRO) IF (0 ("<i>"i) OR ("<e>"i))
+					 (1 (V));
 					 
-# Alb të: Subjunctive particle between two (unambiguous) verbs and in some other contexts. The second verb is not participle.
+# Alb të: Subjunctive particle between two (unambiguous) verbs and in some other contexts. The second verb is not participle. - Upd. 23.07.2023
 SELECT (VB_PART) IF (0 ("<të>"i))
-					(*-1 (V))
-					(*1 (V))
+					(-1 (V))
+					(1 (V))
 					(NOT 1 (ptcp));
 SELECT (VB_PART) IF (0 ("<të>"i))
 					(-1 ("<do>"i))
-					(*1 (V))
-					(NOT 1 (ptcp));
+					(1 (V))
+					(NOT 1 (ptcp) - (A));
 
-# Alb dhe: and vs. give-aor.2sg vs. land
+# Alb dhe: and vs. give-aor.2sg vs. land - убраны звездочки (23.07.2023)
 REMOVE (V) IF (0 ("<dhe>"i))
               (-1 ("<të>"i) OR ("<ju>"i));
 SELECT (V) IF (0 ("<dhe>"i))
               (-1 ("<më>"i) OR ("<na>"i) OR ("<u>"i) OR ("<ma>"i));
 SELECT (CONJ) IF (0 ("<dhe>"i))
-              (*-1 (NOUN))
-			  (*1 (NOUN));
+              (-1 (NOUN))
+			  (1 (NOUN));
 SELECT (CONJ) IF (0 ("<dhe>"i))
-              (*-1 (V))
-			  (*1 (V));
+              (-1 (V))
+			  (1 (V));
 SELECT (CONJ) IF (0 ("<dhe>"i))
-              (*-1 (A))
-			  (*1 (A));
+              (-1 (A))
+			  (1 (A));
 			  
 # Alb Gheg infinitive vs. noun vs. verb-sbjv.prs.3sg
 REMOVE (V sbjv pres act 3 sg) IF (0 (V) - (NOUN))
@@ -457,13 +460,29 @@ REMOVE (NOUN) IF (0 ("<mund>"i))
 				 
 # Alb do: future particle vs. verb
 SELECT (VB_PART) IF (0 ("<do>"i))
-					(*2 (V 1) OR (V 2 pl) OR (V 3 pl));
+					(2 (V 1) OR (V 2 pl) OR (V 3 pl));
 SELECT (VB_PART) IF (0 ("<do>"i))
 					(2 Clitics)
-					(*3 (V 1) OR (V 2 pl) OR (V 3 pl));
+					(3 (V 1) OR (V 2 pl) OR (V 3 pl));
 
 # Alb me/në të vërtet(ë): vërtet(ë) is an accusative noun
 SELECT (NOUN sg acc indef) IF (0 ("<vërtetë>"i) OR ("<vërtet>"i))
 							  (-1 ("<të>"i))
 					          (-2 ("<me>"i) or ("<në>"i));
-				
+							  
+# Alb kam 'to be': verb vs. noun or preposition (resolve in analytical perfect forms, e.g. ka filluar, ke filluar, kemi filluar, kanë filluar) 23.07.2023
+SELECT (V) IF (0 ("<kanë>"i) OR ("<ka>"i) OR ("<ke>"i) OR ("<kemi>"i))
+				 (1 (ptcp));				 
+
+# Alb duke: particle vs. noun "dukë" (resolve in analytical forms, e.g. duke filluar) 23.07.2023
+SELECT (VB_PART) IF (0 ("<duke>"i))
+				    (1 (ptcp));	
+SELECT (VB_PART) IF (0 "<duke>"i)
+				    (1 ("<na>"i))
+					(2 ("<i>"i) OR ("<e>"i))
+					(3 (ptcp));
+SELECT (VB_PART) IF (0 ("<duke>"i))
+					(1 Clitics)
+					(NOT 1 ("<të>"))
+					(2 (ptcp));
+			
