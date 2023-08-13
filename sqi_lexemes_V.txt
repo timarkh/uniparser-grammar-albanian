@@ -192,14 +192,14 @@
  stem: afsho.|afshua.|afshu.|afsh.
  gramm: V,med,unknwn,deriv
  paradigm: lexoj-1
- trans_en: get hot; emanate a wave of warm air
+ trans_en: get hot; emanate a wave of warm or cold air
 
 -lexeme
  lex: afshoj
  stem: afsho.|afshua.|afshu.|afsh.
  gramm: V,vi,unknwn,deriv
  paradigm: lexoj
- trans_en: emanate a wave of warm/cold air
+ trans_en: emanate a wave of warm or cold air
 
 -lexeme
  lex: aftosem
@@ -422,7 +422,7 @@
 -lexeme
  lex: aktoj
  stem: akto.|aktua.|aktu.|akt.
- gramm: V,vt,borr,alb,deriv
+ gramm: V,vt,alb,deriv
  paradigm: lexoj
  trans_en: thicken; secrete skin oil, drip in thick drops
 
@@ -881,7 +881,7 @@
  stem: angushto.|angushtua.|angushtu.|angusht.
  gramm: V,med,nonst,alb,deriv
  paradigm: lexoj-1
- trans_en: constrict, restrict
+ trans_en: be engaged in, enter into; take charge
 
 -lexeme
  lex: angështoj
@@ -1995,14 +1995,14 @@
  stem: balsamo.|balsamua.|balsamu.|balsam.
  gramm: V,vt,borr,it,new,deriv
  paradigm: lexoj
- trans_en: enbalm
+ trans_en: embalm
 
 -lexeme
  lex: balsamos
  stem: balsamos.
  gramm: V,vt,borr,it,new,deriv
  paradigm: hap
- trans_en: enbalm
+ trans_en: embalm
 
 -lexeme
  lex: baltet
@@ -2170,7 +2170,7 @@
  stem: barkso.|barksua.|barksu.|barks.
  gramm: V,vi,nonst,alb,deriv
  paradigm: lexoj
- trans_en: bulge
+ trans_en: bulge out at the belly; bulge
 
 -lexeme
  lex: barkësoj
@@ -2747,25 +2747,11 @@
  trans_en: stammer, stutter; murmur; mutter
 
 -lexeme
- lex: belbëroj
- stem: belbëro.|belbërua.|belbëru.|belbër.
- gramm: V,vt,vi,borr,lat,deriv
- paradigm: lexoj
- trans_en: stammer, stutter; murmur (vi); mutter (vt)
-
--lexeme
  lex: belbëzoj
  stem: belbëzo.|belbëzua.|belbëzu.|belbëz.
  gramm: V,vt,vi,borr,lat,deriv
  paradigm: lexoj
  trans_en: stammer, stutter; murmur; mutter
-
--lexeme
- lex: belbëzoj
- stem: belbëzo.|belbëzua.|belbëzu.|belbëz.
- gramm: V,vt,vi,borr,lat,deriv
- paradigm: lexoj
- trans_en: stammer, stutter; murmur (vi); mutter (vt)
 
 -lexeme
  lex: beloj
@@ -2821,7 +2807,7 @@
  stem: betono.|betonua.|betonu.|beton.
  gramm: V,vt,borr,fr,new,deriv
  paradigm: lexoj
- trans_en: fill/line/reinforce with concrete
+ trans_en: fill, line, reinforce with concrete
 
 -lexeme
  lex: bezdis
@@ -4523,7 +4509,7 @@
  stem: bushurdis.
  gramm: V,vt,borr,turk
  paradigm: hap
- trans_en: sprinkle by splitting water out of the mouth
+ trans_en: sprinkle by spitting water out of the mouth
 
 -lexeme
  lex: busoj
@@ -4621,7 +4607,7 @@
  stem: buçko.|buçkua.|buçku.|buçk.
  gramm: V,vt,vi,alb,deriv
  paradigm: lexoj
- trans_en: sprout; blossom, flower; sprout; cause to open
+ trans_en: sprout; blossom, flower; cause to open
 
 -lexeme
  lex: buçoj
@@ -4761,7 +4747,7 @@
  stem: cacaros.
  gramm: V,med,alb,deriv
  paradigm: hap-1
- trans_en: 
+ trans_en: be sleepy
 
 -lexeme
  lex: cafullon
@@ -4782,7 +4768,7 @@
  stem: cakos.
  gramm: V,vt,alb,deriv
  paradigm: hap
- trans_en: pack/stuff full; nab red-handed
+ trans_en: pack, stuff full; catch with the goods
 
 -lexeme
  lex: caktoj
@@ -4964,7 +4950,7 @@
  stem: ceno.|cenua.|cenu.|cen.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
- trans_en: feel hurt/offended/insulted
+ trans_en: feel hurt, offended, insulted
 
 -lexeme
  lex: cenoj
@@ -5099,7 +5085,7 @@
  stem: cfynos.
  gramm: V,vt
  paradigm: hap
- trans_en: insert a wedge/peg
+ trans_en: insert a wedge, peg
 
 -lexeme
  lex: cianizoj
@@ -5386,7 +5372,7 @@
  stem: cino.|cinua.|cinu.|cin.
  gramm: V,med,nonst,alb,deriv
  paradigm: lexoj-1
- trans_en: feel hurt/offended/insulted
+ trans_en: feel hurt, offended, insulted
 
 -lexeme
  lex: cenoj
@@ -5619,7 +5605,7 @@
  stem: cmiro.|cmirua.|cmiru.|cmir.
  gramm: V,med,nonst,alb,deriv
  paradigm: lexoj-1
- trans_en: be envious,jealous
+ trans_en: be envious, jealous
 
 -lexeme
  lex: smiroj
@@ -5871,7 +5857,7 @@
  stem: curras.|curret.|currit.//curris.|currit.
  gramm: V,vt
  paradigm: pres-wait
- trans_en: eat/drink greedily
+ trans_en: eat, drink greedily
 
 -lexeme
  lex: curroj
@@ -5941,7 +5927,7 @@
  stem: cëno.|cënua.|cënu.|cën.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
- trans_en: feel hurt/offended/insulted
+ trans_en: feel hurt, offended, insulted
 
 -lexeme
  lex: cënoj
@@ -6037,7 +6023,7 @@
 -lexeme
  lex: cërron
  stem: cërro.|cërrua.|cërru.|cërr.
- gramm: V,vi,alb.deriv
+ gramm: V,vi,alb,deriv
  paradigm: lexoj
  trans_en: trickle
 
@@ -6581,7 +6567,7 @@
  stem: dekonspiro.|dekonspirua.|dekonspiru.|dekonspir.
  gramm: V,med,borr,rom,new
  paradigm: lexoj-1
- trans_en: become exposed/unmasked/revealed
+ trans_en: become exposed, unmasked, revealed
 
 -lexeme
  lex: dekonspiroj
