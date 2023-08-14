@@ -6729,7 +6729,7 @@
  gramm: V,med,alb,deriv
  lexref: dendësoj
  paradigm: lexoj-1
- trans_en: thicken, become more dense/frequent
+ trans_en: thicken; become more dense, frequent
 
 -lexeme
  lex: dendëroj
@@ -6744,7 +6744,7 @@
  stem: dendëso.|dendësua.|dendësu.|dendës.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
- trans_en: thicken, become more dense/frequent
+ trans_en: thicken; become more dense, frequent
 
 -lexeme
  lex: dendësoj
@@ -6968,7 +6968,7 @@
  stem: dhemb.
  gramm: V,med,alb
  paradigm: hap-1
- trans_en: inspire/arouse pity/compassion/sympathy in
+ trans_en: inspire pity, compassion, sympathy in
 
 -lexeme
  lex: dhemb
@@ -6996,7 +6996,7 @@
  stem: dhimbs.
  gramm: V,med,alb,deriv
  paradigm: hap-1
- trans_en: arouse compassion/pity/sympathy; to make sorry
+ trans_en: inspire compassion, pity, sympathy; to make sorry
 
 -lexeme
  lex: dhjam
@@ -7846,7 +7846,7 @@
  stem: dreqno.|dreqnua.|dreqnu.|dreqn.
  gramm: V,vt
  paradigm: lexoj
- trans_en: inspire deviltry, corrupt; act deceptively/devilishly
+ trans_en: inspire deviltry, corrupt; act deceptively, devilishly
 
 -lexeme
  lex: dreqos
@@ -7986,7 +7986,7 @@
  stem: drogo.|drogua.|drogu.|drog.
  gramm: V,med,borr,rom,new,deriv
  paradigm: lexoj-1
- trans_en: take/use a narcotic drug
+ trans_en: take, use a narcotic drug
 
 -lexeme
  lex: dromcoj
@@ -9572,14 +9572,14 @@
 -lexeme
  lex: familjarizoj
  stem: familjarizo.|familjarizua.|familjarizu.|familjariz.
- gramm: V,med
+ gramm: V,med,borr,it,new,deriv
  paradigm: lexoj-1
  trans_en: become familiar
 
 -lexeme
  lex: familjarizoj
  stem: familjarizo.|familjarizua.|familjarizu.|familjariz.
- gramm: V,vt
+ gramm: V,vt,borr,it,new,deriv
  paradigm: lexoj
  trans_en: make friends with; familiarize
 
@@ -9952,7 +9952,7 @@
  lex: fijetoj
  stem: fijeto.|fijetua.|fijetu.|fijet.
  gramm: V,vt,vi,borr,lat,deriv
- lexref: fijëzoj
+ lexref: fijezoj
  paradigm: lexoj
  trans_en: divide into separate fibers (vt); fray; unravel (vi)
 
@@ -10030,6 +10030,13 @@
  lex: filloj
  stem: fillo.|fillua.|fillu.|fill.
  gramm: V,vt,vi,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: start, begin, commence (vt); originate (vi)
+
+-lexeme
+ lex: filloj
+ stem: filo.|filua.|filu.|fil.
+ gramm: V,vt,vi,nonst,borr,lat,deriv
  paradigm: lexoj
  trans_en: start, begin, commence (vt); originate (vi)
 
@@ -10157,14 +10164,14 @@
  stem: fishkëlle.|fishkëllye.
  gramm: V,vt,vi,alb,deriv
  paradigm: kthej
- trans_en: whistle; hiss (vi); exress disapproval (vt)
+ trans_en: whistle; hiss (vi); express disapproval (vt)
 
 -lexeme
  lex: fishkëlloj
  stem: fishkëllo.|fishkëllua.|fishkëllu.|fishkëll.
  gramm: V,vt,vi,alb,deriv
  paradigm: lexoj
- trans_en: whistle; hiss (vi); exress disapproval (vt)
+ trans_en: whistle; hiss (vi); express disapproval (vt)
 
 -lexeme
  lex: fishllej
@@ -10172,7 +10179,7 @@
  gramm: V,vt,vi,nonst,alb,deriv
  lexref: fishkëllej
  paradigm: kthej
- trans_en: whistle; hiss (vi); exress disapproval (vt)
+ trans_en: whistle; hiss (vi); express disapproval (vt)
 
 -lexeme
  lex: fisnikoj
@@ -10266,10 +10273,9 @@
  trans_en: fling upwards
 
 -lexeme
- lex: fjej
+ lex: fëjej
  stem: fje.|fjye.
- gramm: V,vi,nonst
- lexref: fëjej
+ gramm: V,vi,nonst,borr,lat,deriv
  paradigm: kthej
  trans_en: sin
 
@@ -10539,7 +10545,7 @@
 -lexeme
  lex: forcoj
  stem: forco.|forcua.|forcu.|forc.
- gramm: V,med
+ gramm: V,med,borr,it,deriv
  paradigm: lexoj-1
  trans_en: become stronger, increase in strength; harden
 
@@ -10651,7 +10657,7 @@
 -lexeme
  lex: fotokopjoj
  stem: fotokopjo.|fotokopjua.|fotokopju.|fotokopj.
- gramm: V,vt,deriv
+ gramm: V,vt
  paradigm: lexoj
  trans_en: photocopy
 
@@ -11022,7 +11028,7 @@
  gramm: V,med,nonst,alb,deriv
  lexref: mbështjell
  paradigm: vjel
- trans_en: coil/wind/wrap around into convoluted form; wrap oneself up
+ trans_en: coil, wind, wrap around into convoluted form; wrap oneself up
 
 -lexeme
  lex: ftek
@@ -11096,18 +11102,16 @@
  trans_en: disentangle; put in order; explain, resolve
 
 -lexeme
- lex: ftof
+ lex: ftoh
  stem: ftof.
  gramm: V,med,nonst,alb
- lexref: ftoh
  paradigm: hap-1
  trans_en: catch cold
 
 -lexeme
- lex: ftof
+ lex: ftoh
  stem: ftof.
  gramm: V,vt,nonst,alb
- lexref: ftoh
  paradigm: hap
  trans_en: cool, chill; extinguish, quench
 
@@ -11437,7 +11441,7 @@
  stem: fërfëllo.|fërfëllua.|fërfëllu.|fërfëll.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
- trans_en: spin/twist/turn around; get curly, become wavy; turn around; shiver
+ trans_en: spin, twist, turn around; get curly, become wavy; turn around; shiver
 
 -lexeme
  lex: fërfëlloj
@@ -11948,7 +11952,7 @@
 -lexeme
  lex: gazoj
  stem: gazo.|gazua.|gazu.|gaz.
- gramm: V,vt,borr,alb,deriv
+ gramm: V,vt,alb,deriv
  paradigm: lexoj
  trans_en: make fun of smb.
 
@@ -12098,7 +12102,7 @@
  stem: gjakos.
  gramm: V,med,alb,deriv
  paradigm: hap-1
- trans_en: get wounded/bloodied/killed; engage in bloody battle
+ trans_en: get wounded, bloodied, killed; engage in bloody battle
 
 -lexeme
  lex: gjakos
@@ -12112,7 +12116,7 @@
  stem: gjakëso.|gjakësua.|gjakësu.|gjakës.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
- trans_en: get wounded/bloodied/killed; engage in bloody battle
+ trans_en: get wounded, bloodied, killed; engage in bloody battle
 
 -lexeme
  lex: gjakësoj
@@ -12126,7 +12130,7 @@
  stem: gjakëto.|gjakëtua.|gjakëtu.|gjakët.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
- trans_en: get wounded/bloodied/killed
+ trans_en: get wounded, bloodied, killed
 
 -lexeme
  lex: gjakëtoj
@@ -12235,7 +12239,7 @@
  stem: gjato.|gjatua.|gjatu.|gjat.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
- trans_en: get longer/taller; extend out; stretch out 
+ trans_en: get longer, taller; extend out; stretch out 
 
 -lexeme
  lex: gjatoj
@@ -12627,7 +12631,7 @@
  stem: gjyko.|gjykua.|gjyku.|gjyk.
  gramm: V,med,borr,lat
  paradigm: lexoj-1
- trans_en: be judged/evaluated; engage a clan elder to settle an argument
+ trans_en: be judged, evaluated; engage a clan elder to settle an argument
 
 -lexeme
  lex: gjykoj
@@ -12655,7 +12659,7 @@
  stem: gjymto.|gjymtua.|gjymtu.|gjymt.
  gramm: V,med
  paradigm: lexoj-1
- trans_en: become crippled/maimed
+ trans_en: become crippled, maimed
 
 -lexeme
  lex: gjymtoj
@@ -12741,7 +12745,7 @@
  stem: gllabëro.|gllabërua.|gllabëru.|gllabër.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
- trans_en: be enraptured, absorbed, engrossed preoccupied
+ trans_en: be enraptured, absorbed, engrossed, preoccupied
 
 -lexeme
  lex: gllabëroj
@@ -12917,7 +12921,7 @@
  stem: grado.|gradua.|gradu.|grad.
  gramm: V,med,borr,it,deriv
  paradigm: lexoj-1
- trans_en: rise/advance in rank
+ trans_en: rise, advance in rank
 
 -lexeme
  lex: gradoj
@@ -13148,7 +13152,7 @@
  stem: grimo.|grimua.|grimu.|grim.
  gramm: V,vt,borr,fr,new,deriv
  paradigm: lexoj
- trans_en: apply theatrical make up
+ trans_en: apply theatrical makeup
 
 -lexeme
  lex: grind
@@ -13338,7 +13342,7 @@
  stem: gruno.|grunua.|grunu.|grun.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
- trans_en: grow into womanhood
+ trans_en: grow into a woman
 
 -lexeme
  lex: grupoj
@@ -14143,7 +14147,7 @@
  stem: gërmuq.
  gramm: V,vt,borr,slav,deriv
  paradigm: hap
- trans_en: cause to hinch over
+ trans_en: cause to hunch over
 
 -lexeme
  lex: gërmush
@@ -14206,7 +14210,6 @@
  lex: gërryej
  stem: gërrue.|gërru.
  gramm: V,med,nonst,alb,deriv
- lexref: gërryej
  paradigm: ndiej-1
  trans_en: get worn away by erosion; develop ruts/pits
 
@@ -14214,7 +14217,6 @@
  lex: gërryej
  stem: gërrue.|gërru.
  gramm: V,vt,nonst,alb,deriv
- lexref: gërryej
  paradigm: ndiej
  trans_en: eat away; scrape, grate; erode, corrode; scour
 
@@ -14758,10 +14760,9 @@
  trans_en: throw
 
 -lexeme
- lex: harij
+ lex: arrij
  stem: hari.|harit.
  gramm: V,vt,vi,nonst,alb
- lexref: arrij
  paradigm: arrij
  trans_en: arrive (vt); suffice, survive; reach, attain, achieve (vi)
 
@@ -15033,10 +15034,9 @@
  trans_en: trench
 
 -lexeme
- lex: hepoj
+ lex: epoj
  stem: hepo.|hepua.|hepu.|hep.
  gramm: V,vt,nonst,alb,deriv
- lexref: epoj
  paradigm: lexoj
  trans_en: bend
 
@@ -15206,7 +15206,7 @@
  stem: himnizo.|himnizua.|himnizu.|himniz.
  gramm: V,vt,borr,lat,deriv
  paradigm: lexoj
- trans_en: compose a song/poem of praise; laud
+ trans_en: compose a song, poem of praise; laud
 
 -lexeme
  lex: hingëllij
