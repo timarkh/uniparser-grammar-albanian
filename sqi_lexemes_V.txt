@@ -18143,13 +18143,6 @@
  trans_en: coincide
 
 -lexeme
- lex: koj
- stem: ko.|kua.|ku.|k.
- gramm: V,vt,borr,lat,deriv
- paradigm: lexoj
- trans_en: feed; bait; bribe
-
--lexeme
  lex: kojoj
  stem: kojo.|kojua.|koju.|koj.
  gramm: V,vt
@@ -18173,7 +18166,7 @@
 -lexeme
  lex: kokolit
  stem: kokolit.//kokolis.|kokolit.
- gramm: V,vt
+ gramm: V,vt,borr,lat,deriv
  paradigm: mat
  trans_en: entangle, tangle; complicate
 
@@ -18252,7 +18245,7 @@
  stem: kolaudo.|kolaudua.|kolaudu.|kolaud.
  gramm: V,vt,borr,it,new
  paradigm: lexoj
- trans_en: check/try out before using/selling
+ trans_en: check, try out before using or selling
 
 -lexeme
  lex: koleksionoj
@@ -18535,10 +18528,9 @@
  trans_en: confiscate
 
 -lexeme
- lex: konis
+ lex: kondis
  stem: konis.
- gramm: V,vt,vi,nonst
- lexref: kondis
+ gramm: V,vt,vi,nonst,borr,turk
  paradigm: hap
  trans_en: roost (vi); lodge; quarter (vt)
 
@@ -18564,10 +18556,9 @@
  trans_en: compete
 
 -lexeme
- lex: konsentroj
+ lex: koncentroj
  stem: konsentro.|konsentrua.|konsentru.|konsentr.
- gramm: V,vt
- lexref: koncentroj
+ gramm: V,vt,nonst
  paradigm: lexoj
  trans_en: concentrate
 
@@ -19156,7 +19147,7 @@
  stem: krepato.|krepatua.|krepatu.|krepat.
  gramm: V,med,borr,it,deriv
  paradigm: lexoj-1
- trans_en: get roused to action; become strong/vigorous
+ trans_en: get roused to action; become strong, vigorous
 
 -lexeme
  lex: krepatoj
@@ -19440,18 +19431,16 @@
  trans_en: scratch an itch; itch
 
 -lexeme
- lex: krrus
+ lex: kërrus
  stem: krrus.
  gramm: V,med,nonst,alb
- lexref: kërrus
  paradigm: hap-1
  trans_en: hunch over; bow down
 
 -lexeme
- lex: krrus
+ lex: kërrus
  stem: krrus.
  gramm: V,vt,nonst,alb
- lexref: kërrus
  paradigm: hap
  trans_en: bow, bend down, hunch over; make shrunken
 
@@ -19480,7 +19469,7 @@
 -lexeme
  lex: krusem
  stem: krus.
- gramm: V,med,alb
+ gramm: V,med,nonst,alb
  lexref: kërrus
  paradigm: hap-1
  trans_en: hunch over; bow down
@@ -19570,66 +19559,58 @@
  trans_en: head up, lead (vt); take the leadership role (vi)
 
 -lexeme
- lex: krymb
+ lex: krimb
  stem: krymb.
  gramm: V,med,nonst,alb
- lexref: krimb
  paradigm: hap-1
- trans_en: get wormy/grubby; spoil
+ trans_en: get wormy, grubby; spoil
 
 -lexeme
- lex: krymb
+ lex: krimb
  stem: krymb.
  gramm: V,vt,nonst,alb
- lexref: krimb
  paradigm: hap
  trans_en: make grubby; spoil
 
 -lexeme
- lex: kryp
+ lex: krip
  stem: kryp.
  gramm: V,med,nonst,alb,deriv
- lexref: krip
  paradigm: hap-1
  trans_en: taste salt; get salty
 
 -lexeme
- lex: kryp
+ lex: krip
  stem: kryp.
  gramm: V,vt,nonst,alb,deriv
- lexref: krip
  paradigm: hap
  trans_en: salt
 
 -lexeme
- lex: krypësoj
+ lex: kripësoj
  stem: krypëso.|krypësua.|krypësu.|krypës.
  gramm: V,vt,nonst,alb,deriv
- lexref: kripësoj
  paradigm: lexoj
  trans_en: pickle with salt
 
 -lexeme
- lex: krypësoj
+ lex: kripësoj
  stem: krypëso.|krypësua.|krypësu.|krypës.
  gramm: V,vt,nonst,alb,deriv
- lexref: kripësoj
  paradigm: lexoj
  trans_en: pickle with salt
 
 -lexeme
- lex: krypëzoj
+ lex: kripëzoj
  stem: krypëzo.|krypëzua.|krypëzu.|krypëz.
  gramm: V,med,nonst,alb,deriv
- lexref: kripëzoj
  paradigm: lexoj-1
  trans_en: become salty
 
 -lexeme
- lex: krypëzoj
+ lex: kripëzoj
  stem: krypëzo.|krypëzua.|krypëzu.|krypëz.
  gramm: V,vt,nonst,alb,deriv
- lexref: kripëzoj
  paradigm: lexoj
  trans_en: make salty
 
@@ -19662,10 +19643,9 @@
  trans_en: cross, crossbreed; crucify; exchange
 
 -lexeme
- lex: kryth
+ lex: krydh
  stem: kryth.
  gramm: V,vt,nonst
- lexref: krydh
  paradigm: hap
  trans_en: steal, filch, lift
 
@@ -19769,7 +19749,7 @@
 
 -lexeme
  lex: kuaj
- stem: kua.|ku.|kuajt.
+ stem: kua.//ko.|ku.|kuajt.
  gramm: V,vt,borr,lat,deriv
  paradigm: ruaj
  trans_en: feed; bait (a hook); bribe
@@ -20362,7 +20342,7 @@
  stem: kurmo.|kurmua.|kurmu.|kurm.
  gramm: V,vt,borr,greek,deriv
  paradigm: lexoj
- trans_en: cut into slices/pieces
+ trans_en: cut into slices
 
 -lexeme
  lex: kurmëzoj
@@ -20414,18 +20394,16 @@
  trans_en: become hunchbacked
 
 -lexeme
- lex: kurrus
+ lex: kërrus
  stem: kurrus.
  gramm: V,med,nonst,alb
- lexref: kërrus
  paradigm: hap-1
  trans_en: hunch over; bow down
 
 -lexeme
- lex: kurrus
+ lex: kërrus
  stem: kurrus.
  gramm: V,vt,nonst,alb
- lexref: kërrus
  paradigm: hap
  trans_en: bow, bend down, hunch over; make shrunken
 
@@ -20476,7 +20454,7 @@
  stem: kusaro.|kusarua.|kusaru.|kusar.
  gramm: V,med,borr,it,deriv
  paradigm: lexoj-1
- trans_en: take up the brigand's life, turn to banditry/piracy
+ trans_en: take up the brigand's life, turn to banditry, piracy
 
 -lexeme
  lex: kusaroj
@@ -20795,18 +20773,16 @@
  trans_en: charm, win over
 
 -lexeme
- lex: këndjell
+ lex: këndell
  stem: këndjell.
  gramm: V,med,nonst,borr,lat,deriv
- lexref: këndell
  paradigm: hap-1
  trans_en: revive, be refreshed; blush
 
 -lexeme
- lex: këndjell
+ lex: këndell
  stem: këndjell.
  gramm: V,vt,nonst,borr,lat,deriv
- lexref: këndell
  paradigm: hap
  trans_en: invigorate, refresh; enliven, cheer up
 
@@ -20818,18 +20794,16 @@
  trans_en: sing; read
 
 -lexeme
- lex: kënell
+ lex: këndell
  stem: kënell.
  gramm: V,med,nonst,borr,lat,deriv
- lexref: këndell
  paradigm: hap-1
  trans_en: revive, be refreshed; blush
 
 -lexeme
- lex: kënell
+ lex: këndell
  stem: kënell.
  gramm: V,vt,nonst,borr,lat,deriv
- lexref: këndell
  paradigm: hap
  trans_en: invigorate, refresh; enliven, cheer up
 
