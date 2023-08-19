@@ -15644,7 +15644,7 @@
  stem: hutlo.|hutlua.|hutlu.|hutl.
  gramm: V,med,borr,lat,deriv
  paradigm: lexoj-1
- trans_en: be bewildered, confuseed; be dazzled
+ trans_en: be bewildered, confused; be dazzled
 
 -lexeme
  lex: hutloj
@@ -15733,10 +15733,9 @@
  trans_en: climb up (vi); move up, rise; raise (vt)
 
 -lexeme
- lex: hysht
+ lex: ysht
  stem: hysht.
- gramm: V,vt,nonst
- lexref: ysht
+ gramm: V,vt,nonst,alb
  paradigm: hap
  trans_en: cast spells
 
@@ -15886,7 +15885,7 @@
  stem: improvizo.|improvizua.|improvizu.|improviz.
  gramm: V,vt,borr,rom,new
  paradigm: lexoj
- trans_en: improvise
+ trans_en: improvize
 
 -lexeme
  lex: imshtoj
@@ -16318,7 +16317,7 @@
 -lexeme
  lex: ithtoj
  stem: ithto.|ithtua.|ithtu.|itht.
- gramm: V,vt
+ gramm: V,vt,alb,deriv
  lexref: idhtoj
  paradigm: lexoj
  trans_en: make bitter, sour; make sad
@@ -16884,10 +16883,9 @@
  trans_en: calibrate
 
 -lexeme
- lex: kaliroj
+ lex: kalëroj
  stem: kaliro.|kalirua.|kaliru.|kalir.
  gramm: V,vt,vi,nonst,borr,lat,deriv
- lexref: kalëroj
  paradigm: lexoj
  trans_en: ride on horseback (vi); straddle (vt)
 
@@ -16903,7 +16901,7 @@
  stem: kalit.//kalis.|kalit.
  gramm: V,med,borr,slav
  paradigm: mat-1
- trans_en: become tempered/hardened/steeled deeply
+ trans_en: become tempered, hardened, steeled deeply
 
 -lexeme
  lex: kalit
@@ -17267,14 +17265,14 @@
  stem: kaplladit.//kaplladis.|kaplladit.
  gramm: V,vt,borr,turk
  paradigm: mat
- trans_en: cover with a piece of cloth; overwheëm, overpower
+ trans_en: cover with a piece of cloth; overwhelm, overpower
 
 -lexeme
  lex: kapllait
  stem: kapllait.//kapllais.|kapllait.
  gramm: V,vt,borr,turk
  paradigm: mat
- trans_en: cover with a piece of cloth; overwheëm, overpower
+ trans_en: cover with a piece of cloth; overwhelm, overpower
 
 -lexeme
  lex: kaploj
@@ -17298,10 +17296,9 @@
  trans_en: blink; wink
 
 -lexeme
- lex: kapshoj
+ lex: kafshoj
  stem: kapsho.|kapshua.|kapshu.|kapsh.
- gramm: V,vt,vi,alb,deriv
- lexref: kafshoj
+ gramm: V,nonst,vt,vi,alb,deriv
  paradigm: lexoj
  trans_en: bite (vt); sting, prick (vi)
 
