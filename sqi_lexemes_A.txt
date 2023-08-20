@@ -36798,7 +36798,21 @@
  stem: labërguar.|labërguar.
  gramm: A,alb,deriv
  paradigm: adj-2-2
- trans_en: lax
+ trans_en: lax; emaciated
+
+-lexeme
+ lex: labërkosur
+ stem: labërkosur.|labërkosur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: lax; loosened
+
+-lexeme
+ lex: labërkuar
+ stem: labërkuar.|labërkuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: lax; emaciated
 
 -lexeme
  lex: labërqar
@@ -36885,11 +36899,32 @@
  trans_en: moisture-loving
 
 -lexeme
+ lex: lagështitur
+ stem: lagështitur.|lagështitur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: damp; liquid
+
+-lexeme
+ lex: lagështuar
+ stem: lagështuar.|lagështuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: damp; liquid
+
+-lexeme
  lex: lagëshëm
  stem: lagëshëm.|lagëshm.
  gramm: A,alb,deriv
  paradigm: adj-1-2-a
  trans_en: wet
+
+-lexeme
+ lex: lagësuar
+ stem: lagësuar.|lagësuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: moist, damp
 
 -lexeme
  lex: lagët
@@ -36934,11 +36969,67 @@
  trans_en: winning one over by niceness; flattering insincerely
 
 -lexeme
+ lex: lajkosur
+ stem: lajkosur.|lajkosur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: flattered
+
+-lexeme
+ lex: lajkosur
+ stem: lajkosur.|lajkosur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: flattered
+
+-lexeme
+ lex: lajktuar
+ stem: lajktuar.|lajktuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: flattered
+
+-lexeme
+ lex: lajkuar
+ stem: lajkuar.|lajkuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: flattered
+
+-lexeme
+ lex: lajkëruar
+ stem: lajkëruar.|lajkëruar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: flattered
+
+-lexeme
  lex: lajkës
  stem: lajkës.|lajkës.
  gramm: A,alb,deriv
  paradigm: adj-1-2
  trans_en: flattering insincerely
+
+-lexeme
+ lex: lajkësuar
+ stem: lajkësuar.|lajkësuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: flattered
+
+-lexeme
+ lex: lajluar
+ stem: lajluar.|lajluar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: ornamented with floral decoration
+
+-lexeme
+ lex: lajmuar
+ stem: lajmuar.|lajmuar.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: informed, notified
 
 -lexeme
  lex: lajmëronjës
@@ -36948,11 +37039,25 @@
  trans_en: informing, announcing
 
 -lexeme
+ lex: lajmëruar
+ stem: lajmëruar.|lajmëruar.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: informed, notified
+
+-lexeme
  lex: lajmërues
  stem: lajmërues.|lajmërues.
  gramm: A,borr,greek,deriv
  paradigm: adj-1-2
  trans_en: informing, announcing
+
+-lexeme
+ lex: lajmësuar
+ stem: lajmësuar.|lajmësuar.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: informed
 
 -lexeme
  lex: lajmëtar
@@ -36990,11 +37095,18 @@
  trans_en: of poor/shaky character
 
 -lexeme
+ lex: lakanisur
+ stem: lakanisur.|lakanisur.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: tattered
+
+-lexeme
  lex: lakatur
  stem: lakatur.|lakatur.
  gramm: A,borr,lat,deriv
  paradigm: adj-2-2
- trans_en: teaseled
+ trans_en: teaseled, crumpled
 
 -lexeme
  lex: lakmitar
@@ -37081,6 +37193,13 @@
  trans_en: greedy, gluttonous
 
 -lexeme
+ lex: lakëruar
+ stem: lakëruar.|lakëruar.
+ gramm: A,borr,Agreek,deriv
+ paradigm: adj-2-2
+ trans_en: tattered
+
+-lexeme
  lex: laletatë
  stem: laletatë.|laletat.
  gramm: A,alb,unknwn,deriv
@@ -37095,11 +37214,25 @@
  trans_en: poor
 
 -lexeme
+ lex: lanetisur
+ stem: lanetisur.|lanetisur.
+ gramm: A,borr,turk,deriv
+ paradigm: adj-2-2
+ trans_en: cursed
+
+-lexeme
  lex: langarosur
  stem: langarosur.|langarosur.
  gramm: A
  paradigm: adj-2-2
  trans_en: soiled, spotted
+
+-lexeme
+ lex: lansuar
+ stem: lansuar.|lansuar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: launched
 
 -lexeme
  lex: laosian
@@ -37158,6 +37291,20 @@
  trans_en: foul-mouthed
 
 -lexeme
+ lex: lapërkuar
+ stem: lapërkuar.|lapërkuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: released, removed
+
+-lexeme
+ lex: laracuar
+ stem: laracuar.|laracuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: speckled, mottled
+
+-lexeme
  lex: laragan
  stem: laragan.
  gramm: A,alb,deriv
@@ -37205,6 +37352,13 @@
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: having variegated color
+
+-lexeme
+ lex: larazuar
+ stem: larazuar.|larazuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: speckled, mottled
 
 -lexeme
  lex: larghedhës
@@ -37263,11 +37417,25 @@
  trans_en: multicolored
 
 -lexeme
+ lex: laritur
+ stem: laritur.|laritur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: patchy; with changed opinion
+
+-lexeme
  lex: larmishëm
  stem: larmishëm.|larmishm.
  gramm: A,alb,deriv
  paradigm: adj-1-2-a
  trans_en: highly variegated
+
+-lexeme
+ lex: larmuar
+ stem: larmuar.|larmuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: decorated with variegated design
 
 -lexeme
  lex: larmë
@@ -37289,6 +37457,13 @@
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: spotted
+
+-lexeme
+ lex: larosur
+ stem: larosur.|larosur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: having patches of different color
 
 -lexeme
  lex: larshëm
@@ -37326,11 +37501,32 @@
  trans_en: above-mentioned
 
 -lexeme
+ lex: lartuar
+ stem: lartuar.|lartuar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: raised, lifted, elevated; glorified
+
+-lexeme
  lex: lartë
  stem: lartë.|lart.
  gramm: A,borr,lat,deriv
  paradigm: adj-2-1
  trans_en: high
+
+-lexeme
+ lex: lartësuar
+ stem: lartësuar.|lartësuar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: raised, lifted, elevated; glorified
+
+-lexeme
+ lex: laruar
+ stem: laruar.|laruar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: variegated in color
 
 -lexeme
  lex: laruk
@@ -37375,6 +37571,13 @@
  trans_en: multicolored
 
 -lexeme
+ lex: larzuar
+ stem: larzuar.|larzuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: covered with designs
+
+-lexeme
  lex: larë
  stem: larë.|lar.
  gramm: A,alb
@@ -37394,6 +37597,13 @@
  gramm: A,alb,borr,lat,deriv
  paradigm: adj-2-1
  trans_en: with light brown patches on the hide
+
+-lexeme
+ lex: larëzuar
+ stem: larëzuar.|larëzuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: with a disease that causes blotches on the skin
 
 -lexeme
  lex: lashtuar
@@ -37417,6 +37627,13 @@
  trans_en: ragged, tattered
 
 -lexeme
+ lex: laspëruar
+ stem: laspëruar.|laspëruar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: slatternly
+
+-lexeme
  lex: llastikshëm
  stem: lastikshëm.|lastikshm.
  gramm: A,nonst,borr,greek/it,deriv
@@ -37429,6 +37646,13 @@
  gramm: A,borr,slav,deriv
  paradigm: adj-3-2
  trans_en: filthy
+
+-lexeme
+ lex: llastuar
+ stem: lastuar.|lastuar.
+ gramm: A,nonst,alb,deriv
+ paradigm: adj-2-2
+ trans_en: pampered, spoiled
 
 -lexeme
  lex: latent
@@ -37487,11 +37711,25 @@
  trans_en: glorious
 
 -lexeme
+ lex: lavduar
+ stem: lavduar.|lavduar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: praised
+
+-lexeme
  lex: lavdueshëm
  stem: lavdueshëm.|lavdueshm.
  gramm: A,borr,lat,deriv
  paradigm: adj-1-2-a
  trans_en: laudable, praiseworthy
+
+-lexeme
+ lex: lavdëruar
+ stem: lavduruar.|lavduruar.
+ gramm: A,nonst,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: praised
 
 -lexeme
  lex: lavdëruar
@@ -37522,6 +37760,13 @@
  trans_en: lava, laval
 
 -lexeme
+ lex: lavosur
+ stem: lavosur.|lavosur.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: injured, wounded
+
+-lexeme
  lex: lazdrak
  stem: lazdrak.
  gramm: A,alb,deriv
@@ -37534,6 +37779,13 @@
  gramm: A,alb,deriv
  paradigm: adj-2-2
  trans_en: pampered, coddled
+
+-lexeme
+ lex: lazmuar
+ stem: lazmuar.|lazmuar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: pampered, spoiled
 
 -lexeme
  lex: le
@@ -37583,6 +37835,13 @@
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: carressing, pampered
+
+-lexeme
+ lex: levatosur
+ stem: levatosur.|levatosur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: pampered; flattered
 
 -lexeme
  lex: ledhatuar
@@ -37650,14 +37909,14 @@
 -lexeme
  lex: legjitimuar
  stem: legjitimuar.|legjitimuar.
- gramm: A
+ gramm: A,borr,inter,deriv
  paradigm: adj-2-2
  trans_en: legitimated
 
 -lexeme
  lex: legjitimues
  stem: legjitimues.|legjitimues.
- gramm: A
+ gramm: A,borr,inter,deriv
  paradigm: adj-1-2
  trans_en: legitimating
 
@@ -37676,6 +37935,20 @@
  trans_en: light; soft
 
 -lexeme
+ lex: lehtësuar
+ stem: lehtësuar.|lehtësuar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: reduced; relieved
+
+-lexeme
+ lex: lehtësuar
+ stem: lehcuar.|lehcuar.
+ gramm: A,borr,nonst,lat,deriv
+ paradigm: adj-2-2
+ trans_en: reduced; relieved
+
+-lexeme
  lex: lehtësues
  stem: lehtësues.|lehtësues.
  gramm: A,borr,lat,deriv
@@ -37688,6 +37961,13 @@
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: concessive
+
+-lexeme
+ lex: lejosur
+ stem: lejosur.|lejosur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: permitted, allowed
 
 -lexeme
  lex: lejuar
@@ -37732,6 +38012,13 @@
  trans_en: lexical
 
 -lexeme
+ lex: lektisur
+ stem: lektisur.|lektisur.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: feeling a yearning, longing
+
+-lexeme
  lex: lemerishëm
  stem: lemerishëm.|lemerishm.
  gramm: A,borr,lat,deriv
@@ -37746,6 +38033,13 @@
  trans_en: terrified; exhausted
 
 -lexeme
+ lex: lemeruar
+ stem: lemeruar.|lemeruar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: terrified
+
+-lexeme
  lex: leninist
  stem: leninist.
  gramm: A
@@ -37753,11 +38047,39 @@
  trans_en: Leninist
 
 -lexeme
+ lex: lenuar
+ stem: lenuar.|lenuar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: reduced, lightened; relieved
+
+-lexeme
+ lex: lentuar
+ stem: lentuar.|lentuar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: created
+
+-lexeme
+ lex: leprosur
+ stem: leprosur.|leprosur.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: with leprosy
+
+-lexeme
  lex: leqendisur
  stem: leqendisur.|leqendisur.
  gramm: A,borr,turk,deriv
  paradigm: adj-2-2
  trans_en: physically or emotionally weakened
+
+-lexeme
+ lex: leqetisur
+ stem: leqetisur.|leqetisur.
+ gramm: A,borr,turk,deriv
+ paradigm: adj-2-2
+ trans_en: soiled, spotted
 
 -lexeme
  lex: lerash
@@ -37771,7 +38093,7 @@
  stem: lerosur.|lerosur.
  gramm: A,alb,deriv
  paradigm: adj-2-2
- trans_en: muddied
+ trans_en: muddied, dirty
 
 -lexeme
  lex: leshashpër
@@ -37792,6 +38114,13 @@
  stem: leshator.
  gramm: A,alb,deriv
  paradigm: adj-3-1
+ trans_en: wooly, shaggy
+
+-lexeme
+ lex: leshatuar
+ stem: leshatuar.|leshatuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
  trans_en: wooly, shaggy
 
 -lexeme
@@ -38026,6 +38355,13 @@
  trans_en: having black hair, wool
 
 -lexeme
+ lex: leshëruar
+ stem: leshëruar.|leshëruar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: having unkempt long hair covering the neck
+
+-lexeme
  lex: leskoviqar
  stem: leskoviqar.
  gramm: A
@@ -38038,6 +38374,13 @@
  gramm: A,borr,slav,deriv
  paradigm: adj-2-2
  trans_en: flaking, peeling; tattered
+
+-lexeme
+ lex: lesuar
+ stem: lesuar.|lesuar.
+ gramm: A,borr,slav,deriv
+ paradigm: adj-2-2
+ trans_en: smoothed out
 
 -lexeme
  lex: letargjik
@@ -38089,11 +38432,25 @@
  trans_en: profitable, advantageous, fruitful
 
 -lexeme
+ lex: leverdisur
+ stem: leverdisur.|leverdisur.
+ gramm: A,borr,turk,deriv
+ paradigm: adj-2-2
+ trans_en: profitable, fruitful
+
+-lexeme
  lex: legjendar
  stem: lexhendar.
  gramm: A,nonst,borr,it,new
  paradigm: adj-3-1
  trans_en: legendary
+
+-lexeme
+ lex: lexuar
+ stem: lexuar.|lexuar.
+ gramm: A,borr,it,deriv
+ paradigm: adj-2-2
+ trans_en: read
 
 -lexeme
  lex: lexueshëm
@@ -38122,6 +38479,13 @@
  gramm: A,nonst,borr,turk,deriv
  paradigm: adj-1-2-a
  trans_en: delicious; good-looking
+
+-lexeme
+ lex: lezetuar
+ stem: lezetuar.|lezetuar.
+ gramm: A,borr,turk,deriv
+ paradigm: adj-2-2
+ trans_en: good-looking
 
 -lexeme
  lex: lezhjan
@@ -38192,6 +38556,20 @@
  gramm: A,borr,it,deriv
  paradigm: adj-3-1
  trans_en: bookish
+
+-lexeme
+ lex: libuar
+ stem: libuar.|libuar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: unloaded
+
+-lexeme
+ lex: libërtuar
+ stem: libërtuar.|libërtuar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: loosened
 
 -lexeme
  lex: licencuar
@@ -38292,6 +38670,13 @@
  trans_en: legal
 
 -lexeme
+ lex: ligjoruar
+ stem: ligjoruar.|ligjoruar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: legislated
+
+-lexeme
  lex: ligjprodhues
  stem: ligjprodhues.|ligjprodhues.
  gramm: A,borr,lat,rom,deriv
@@ -38304,6 +38689,13 @@
  gramm: A,borr,lat,deriv
  paradigm: adj-1-2-a
  trans_en: legal, lawful
+
+-lexeme
+ lex: ligjuar
+ stem: ligjuar.|ligjuar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: given last rites (by a priest)
 
 -lexeme
  lex: ligjvënës
@@ -38353,6 +38745,13 @@
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: (sexually) loose; of bad morals
+
+-lexeme
+ lex: ligruar
+ stem: ligruar.|ligruar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: fainted
 
 -lexeme
  lex: ligshtë
@@ -38416,6 +38815,20 @@
  gramm: A,borr,rom,new
  paradigm: adj-3-1
  trans_en: liquidating
+
+-lexeme
+ lex: likuiduar
+ stem: likuiduar.|likuiduar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: liquidated
+
+-lexeme
+ lex: lëkundur
+ stem: likundur.|likundur.
+ gramm: A,nonst,alb,deriv
+ paradigm: adj-2-2
+ trans_en: wavering, hesitating
 
 -lexeme
  lex: limanor
@@ -38509,6 +38922,13 @@
  trans_en: linen
 
 -lexeme
+ lex: linçuar
+ stem: linçuar.|linçuar.
+ gramm: A,borr,en,new,deriv
+ paradigm: adj-2-2
+ trans_en: lynched
+
+-lexeme
  lex: lipjanas
  stem: lipjanas.|lipjanas.
  gramm: A
@@ -38521,6 +38941,13 @@
  gramm: A,borr,greek,deriv
  paradigm: adj-3-1
  trans_en: lake, limnic, lymnetic, lacustrine
+
+-lexeme
+ lex: liqosur
+ stem: liqosur.|liqosur.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: rented
 
 -lexeme
  lex: liridashës
@@ -38586,6 +39013,13 @@
  trans_en: free; loose
 
 -lexeme
+ lex: lirësuar
+ stem: lirësuar.|lirësuar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: reduced in price
+
+-lexeme
  lex: lirët
  stem: lirët.|lirt.
  gramm: A,borr,lat,deriv
@@ -38628,11 +39062,25 @@
  trans_en: containing _ liters; of one-liter capacity
 
 -lexeme
+ lex: livadhisur
+ stem: livadhisur.|livadhisur.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: grazed in meadows
+
+-lexeme
  lex: livadhor
  stem: livadhor.
  gramm: A,borr,greek,deriv
  paradigm: adj-3-1
  trans_en: used as a meadow
+
+-lexeme
+ lex: livruar
+ stem: livruar.|livruar.
+ gramm: A,borr,fr,new,deriv
+ paradigm: adj-2-2
+ trans_en: delivered; moving
 
 -lexeme
  lex: licencuar
@@ -38720,6 +39168,20 @@
  trans_en: pure
 
 -lexeme
+ lex: llagarisur
+ stem: llagarisur.|llagarisur.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: purified
+
+-lexeme
+ lex: llagavitur
+ stem: llagavitur.|llagavitur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: dirty; soiled
+
+-lexeme
  lex: llahtarisur
  stem: llahtarisur.|llahtarisur.
  gramm: A,borr,greek,deriv
@@ -38741,11 +39203,46 @@
  trans_en: terrifying, dreadful
 
 -lexeme
+ lex: llakaçitur
+ stem: llakaçitur.|llakaçitur.
+ gramm: A,nonst,alb,deriv
+ paradigm: adj-2-2
+ trans_en: churned up; splashing
+
+-lexeme
+ lex: llakuar
+ stem: llakuar.|llakuar.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: covered with lacquer
+
+-lexeme
+ lex: llakucuar
+ stem: llakucuar.|llakucuar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: infected
+
+-lexeme
  lex: llamarintë
  stem: llamarintë.|llamarint.
  gramm: A,borr,greek,deriv
  paradigm: adj-2-1
  trans_en: made of sheet metal
+
+-lexeme
+ lex: llambikuar
+ stem: llambikuar.|llambikuar.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: distilled
+
+-lexeme
+ lex: llamburitur
+ stem: llamburitur.|llamburitur.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: shining brightly
 
 -lexeme
  lex: llamburitës
@@ -38783,6 +39280,13 @@
  trans_en: having large broad leaves
 
 -lexeme
+ lex: llapashitur
+ stem: llapashitur.|llapashitur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: sloshing along
+
+-lexeme
  lex: llapazhar
  stem: llapazhar.
  gramm: A,alb,deriv
@@ -38795,6 +39299,27 @@
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: talkative
+
+-lexeme
+ lex: llapitur
+ stem: llapitur.|llapitur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: gobbled up
+
+-lexeme
+ lex: llaptitur
+ stem: llaptitur.|llaptitur.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: shining
+
+-lexeme
+ lex: llapuar
+ stem: llapuar.|llapuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: gobbled up
 
 -lexeme
  lex: llapush
@@ -38881,11 +39406,32 @@
  trans_en: pampered, spoiled
 
 -lexeme
+ lex: llaturitur
+ stem: llaturitur.|llaturitur.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: stained, soiled
+
+-lexeme
+ lex: llazdruar
+ stem: llazdruar.|llazdruar.
+ gramm: A,nonst,alb,deriv
+ paradigm: adj-2-2
+ trans_en: pampered, spoiled
+
+-lexeme
  lex: llaçkar
  stem: llaçkar.
  gramm: A,borr,alb,deriv
  paradigm: adj-3-1
  trans_en: foolish, stupid
+
+-lexeme
+ lex: llaçkatur
+ stem: llaçkatur.|llaçkatur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: flat
 
 -lexeme
  lex: llog
@@ -38951,6 +39497,13 @@
  trans_en: voracious profiteer
 
 -lexeme
+ lex: llomitur
+ stem: llomitur.|llomitur.
+ gramm: A,borr,slav,deriv
+ paradigm: adj-2-2
+ trans_en: smashed to a pulp
+
+-lexeme
  lex: llomotar
  stem: llomotar.
  gramm: A,borr,slav,deriv
@@ -38963,6 +39516,27 @@
  gramm: A,borr,slav
  paradigm: adj-3-1
  trans_en: disheveled; stupid, crazy
+
+-lexeme
+ lex: llucitur
+ stem: llucitur.|llucitur.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: bespattered, soiled
+
+-lexeme
+ lex: llucëruar
+ stem: llucëruar.|llucëruar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: all muddy
+
+-lexeme
+ lex: llufitur
+ stem: llufitur.|llufitur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: gobbled up
 
 -lexeme
  lex: llumtë
@@ -39007,8 +39581,15 @@
  trans_en: soft and muddy
 
 -lexeme
- lex: llustruar
+ lex: lustruar
  stem: llustruar.|llustruar.
+ gramm: A,nonst,borr,it,deriv
+ paradigm: adj-2-2
+ trans_en: polished
+
+-lexeme
+ lex: lustrosur
+ stem: llustrosur.|llustrosur.
  gramm: A,nonst,borr,it,deriv
  paradigm: adj-2-2
  trans_en: polished
@@ -39084,6 +39665,13 @@
  trans_en: having strong and powerful arms
 
 -lexeme
+ lex: lobuar
+ stem: lobuar.|lobuar.
+ gramm: A,borr,en,new,deriv
+ paradigm: adj-2-2
+ trans_en: lobbied
+
+-lexeme
  lex: lodhshëm
  stem: lodhshëm.|lodhshm.
  gramm: A,alb,deriv
@@ -39154,6 +39742,13 @@
  trans_en: logical, reasonable
 
 -lexeme
+ lex: logorisur
+ stem: logorisur.|logorisur.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: wailing for
+
+-lexeme
  lex: lojcak
  stem: lojcak.
  gramm: A,alb,deriv
@@ -39187,6 +39782,69 @@
  gramm: A,borr,rom,new
  paradigm: adj-3-1
  trans_en: clannish, localistic
+
+-lexeme
+ lex: lokalizuar
+ stem: lokalizuar.|lokalizuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: localized
+
+-lexeme
+ lex: lokavitur
+ stem: lokavitur.|lokavitur.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: shaken, moved, rattled
+
+-lexeme
+ lex: lokaçitur
+ stem: lokaçitur.|lokaçitur.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: shaken, moved, rattled
+
+-lexeme
+ lex: lokavitur
+ stem: lokovitur.|lokovitur.
+ gramm: A,nonst
+ paradigm: adj-2-2
+ trans_en: shaken, moved, rattled
+
+-lexeme
+ lex: lokaçitur
+ stem: lokoçitur.|lokoçitur.
+ gramm: A,nonst
+ paradigm: adj-2-2
+ trans_en: shaken, moved, rattled
+
+-lexeme
+ lex: lokodredhur
+ stem: lokodredhur.|lokodredhur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: equivocated
+
+-lexeme
+ lex: lokomendur
+ stem: lokomendur.|lokomendur.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: dizzy
+
+-lexeme
+ lex: lolitur
+ stem: lolitur.|lolitur.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: humiliated
+
+-lexeme
+ lex: londitur
+ stem: londitur.|londitur.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: shaken, moved, rattled
 
 -lexeme
  lex: lonjarak
@@ -39280,6 +39938,13 @@
  trans_en: lubricating
 
 -lexeme
+ lex: lubrifikuar
+ stem: lubrifikuar.|lubrifikuar.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-2-2
+ trans_en: lubricated
+
+-lexeme
  lex: lubrifikues
  stem: lubrifikues.|lubrifikues.
  gramm: A,borr,it,new
@@ -39299,6 +39964,13 @@
  gramm: A,borr,lat,deriv
  paradigm: adj-1-2
  trans_en: in combat; militant
+
+-lexeme
+ lex: luftuar
+ stem: luftuar.|luftuar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: combative
 
 -lexeme
  lex: luftues
@@ -39350,11 +40022,32 @@
  trans_en: concave, hollow
 
 -lexeme
+ lex: lugosur
+ stem: lugosur.|lugosur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: hollow, concave
+
+-lexeme
+ lex: luguar
+ stem: luguar.|luguar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: hollow, concave
+
+-lexeme
  lex: lugës
  stem: lugës.|lugës.
  gramm: A,alb,deriv
  paradigm: adj-1-2
  trans_en: concave, curved
+
+-lexeme
+ lex: lugësuar
+ stem: lugësuar.|lugësuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: concave
 
 -lexeme
  lex: lugët
@@ -39376,6 +40069,13 @@
  gramm: A,alb,deriv
  paradigm: adj-1-2-a
  trans_en: subject to swaying, ricking
+
+-lexeme
+ lex: luhatur
+ stem: luhatur.|luhatur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: rocking, swinging; fluctuating
 
 -lexeme
  lex: lujtshëm
@@ -39411,6 +40111,13 @@
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: flowering, flowered
+
+-lexeme
+ lex: lulshkruar
+ stem: lulshkruar.|lulshkruar.
+ gramm: A,alb,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: tattoed
 
 -lexeme
  lex: lulëzuar
@@ -39469,6 +40176,13 @@
  trans_en: happy, lucky
 
 -lexeme
+ lex: lumturuar
+ stem: lumturuar.|lumturuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: made happy
+
+-lexeme
  lex: lumëbardhë
  stem: lumëbardhë.|lumëbardh.
  gramm: A,alb,deriv
@@ -39481,6 +40195,13 @@
  gramm: A,alb,deriv
  paradigm: madh
  trans_en: unfortunate, unlucky
+
+-lexeme
+ lex: lumëruar
+ stem: lumëruar.|lumëruar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: made happy; living happily
 
 -lexeme
  lex: lumëzi
@@ -39509,6 +40230,13 @@
  gramm: A
  paradigm: adj-3-1
  trans_en: of/from Lunxhëria
+
+-lexeme
+ lex: lurtuar
+ stem: lurtuar.|lurtuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: flattered
 
 -lexeme
  lex: lushnjar
@@ -39546,6 +40274,13 @@
  trans_en: scaly, scalelike
 
 -lexeme
+ lex: lustrosur
+ stem: lustrosur.|lustrosur.
+ gramm: A,borr,it,deriv
+ paradigm: adj-2-2
+ trans_en: polished, shiny
+
+-lexeme
  lex: lustruar
  stem: lustruar.|lustruar.
  gramm: A,borr,it,deriv
@@ -39567,11 +40302,25 @@
  trans_en: requested, invited
 
 -lexeme
+ lex: luturisur
+ stem: luturisur.|luturisur.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: bespattered
+
+-lexeme
  lex: lutës
  stem: lutës.|lutës.
  gramm: A,alb,deriv
  paradigm: adj-1-2
  trans_en: beseeching, suppliant
+
+-lexeme
+ lex: luçiduar
+ stem: luçiduar.|luçiduar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: polished
 
 -lexeme
  lex: lyer
@@ -39669,6 +40418,13 @@
  stem: lyrës.|lyrës.
  gramm: A,alb,deriv
  paradigm: adj-1-2
+ trans_en: greasy
+
+-lexeme
+ lex: lyrësuar
+ stem: lyrësuar.|lyrësuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
  trans_en: greasy
 
 -lexeme
@@ -39960,6 +40716,13 @@
  trans_en: concrete, substantial; pertaining to a school subject
 
 -lexeme
+ lex: lëndëzuar
+ stem: lëndëzuar.|lëndëzuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: materialized
+
+-lexeme
  lex: lëngarak
  stem: lëngarak.
  gramm: A,alb,deriv
@@ -39974,6 +40737,13 @@
  trans_en: eating in a messy manner
 
 -lexeme
+ lex: lëngatuar
+ stem: lëngatuar.|lëngatuar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: languishing; suffering
+
+-lexeme
  lex: lëngatëmadh
  stem: lëngatëmadh.|lëngatëmadhe.|lëngatëmëdhenj.|lëngatëmëdha.
  gramm: A,alb,borr,lat,deriv
@@ -39986,6 +40756,13 @@
  gramm: A,alb,deriv
  paradigm: adj-1-2-a
  trans_en: liquid
+
+-lexeme
+ lex: lënguar
+ stem: lënguar.|lënguar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: having a long debilitating illness
 
 -lexeme
  lex: lëngës
@@ -40014,6 +40791,13 @@
  gramm: A,alb,deriv
  paradigm: adj-1-2-a
  trans_en: liquefiable
+
+-lexeme
+ lex: lëngësuar
+ stem: lëngësuar.|lëngësuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: liquefied; full of juice, sap
 
 -lexeme
  lex: lëngët
@@ -40121,11 +40905,25 @@
  trans_en: issuing
 
 -lexeme
+ lex: lëthurur
+ stem: lëthurur.|lëthurur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: tightly interlaced
+
+-lexeme
  lex: lëvarur
  stem: lëvarur.|lëvarur.
  gramm: A,alb,deriv
  paradigm: adj-2-2
  trans_en: hanging, dangling
+
+-lexeme
+ lex: lëvarrur
+ stem: lëvarrur.|lëvarrur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: wounded
 
 -lexeme
  lex: lëvdatëmadh
@@ -40160,7 +40958,7 @@
  stem: lëverdhë.|lëverdh.
  gramm: A,borr,lat,deriv
  paradigm: adj-2-1
- trans_en: having a tingle of yellow
+ trans_en: having a tinge of yellow
 
 -lexeme
  lex: lëvizor
@@ -40254,6 +41052,13 @@
  trans_en: peeled; exhausted
 
 -lexeme
+ lex: lëvozhgur
+ stem: lëvozhgur.|lëvozhgur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: peeled, husked, shelled
+
+-lexeme
  lex: lëvozhgëbutë
  stem: lëvozhgëbutë.|lëvozhgëbut.
  gramm: A,alb,deriv
@@ -40331,6 +41136,13 @@
  trans_en: hefty, bulky
 
 -lexeme
+ lex: madhuar
+ stem: madhuar.|madhuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: grown up
+
+-lexeme
  lex: madhërishëm
  stem: madhërishëm.|madhërishm.
  gramm: A,alb,deriv
@@ -40338,11 +41150,32 @@
  trans_en: grand, majestic
 
 -lexeme
+ lex: madhëruar
+ stem: madhëruar.|madhëruar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: grown up
+
+-lexeme
  lex: madhështor
  stem: madhështor.
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: majestic
+
+-lexeme
+ lex: madhështuar
+ stem: madhështuar.|madhështuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: celebrated with great pomp; conceited
+
+-lexeme
+ lex: magazinuar
+ stem: magazinuar.|magazinuar.
+ gramm: A,borr,it,deriv
+ paradigm: adj-2-2
+ trans_en: storaged
 
 -lexeme
  lex: magjeplotë
@@ -40415,6 +41248,13 @@
  trans_en: magnetic
 
 -lexeme
+ lex: magnetizuar
+ stem: magnetizuar.|magnetizuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: magnetized
+
+-lexeme
  lex: magnetshëm
  stem: magnetshëm.|magnetshm.
  gramm: A,borr,rom,new,deriv
@@ -40427,6 +41267,13 @@
  gramm: A,alb,deriv
  paradigm: adj-2-2
  trans_en: inflamed, sore
+
+-lexeme
+ lex: mahitur
+ stem: mahitur.|mahitur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: laughed at; inflamed
 
 -lexeme
  lex: mahmur
@@ -40499,6 +41346,13 @@
  trans_en: hefty, beefy
 
 -lexeme
+ lex: majosur
+ stem: majosur.|majosur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: filled up to the top
+
+-lexeme
  lex: majtist
  stem: majtist.
  gramm: A,borr,lat,deriv
@@ -40511,6 +41365,13 @@
  gramm: A,borr,lat
  paradigm: adj-2-1
  trans_en: left
+
+-lexeme
+ lex: majuar
+ stem: majuar.|majuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: topped off; completed
 
 -lexeme
  lex: majëdjegur
@@ -40576,6 +41437,13 @@
  trans_en: macrofiscal
 
 -lexeme
+ lex: makruar
+ stem: makruar.|makruar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: forming a scum; moldy
+
+-lexeme
  lex: maksimal
  stem: maksimal.
  gramm: A,borr,inter
@@ -40639,6 +41507,20 @@
  trans_en: cursed, damned
 
 -lexeme
+ lex: mallosur
+ stem: mallosur.|mallosur.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: yearning, longing
+
+-lexeme
+ lex: malluar
+ stem: malluar.|malluar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: nostalgic
+
+-lexeme
  lex: mallëngjyer
  stem: mallëngjyer.|mallëngjyer.
  gramm: A,borr,lat,deriv
@@ -40688,6 +41570,27 @@
  trans_en: obsessive
 
 -lexeme
+ lex: manifestuar
+ stem: manifestuar.|manifestuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: evident, manifested
+
+-lexeme
+ lex: manipuluar
+ stem: manipuluar.|manipuluar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: manipulated
+
+-lexeme
+ lex: mahnitur
+ stem: manitur.|manitur.
+ gramm: A,nonst,borr,slav,deriv
+ paradigm: adj-2-2
+ trans_en: astounded, amazed
+
+-lexeme
  lex: manovrueshëm
  stem: manovrueshëm.|manovrueshm.
  gramm: A,borr,it,new,deriv
@@ -40709,11 +41612,25 @@
  trans_en: Macedonian
 
 -lexeme
+ lex: maqellosur
+ stem: maqellosur.|maqellosur.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: butchered, slaughtered
+
+-lexeme
  lex: mardhur
  stem: mardhur.|mardhur.
  gramm: A,alb,deriv
  paradigm: adj-2-2
  trans_en: numb with cold; frozen
+
+-lexeme
+ lex: marenduar
+ stem: marenduar.|marenduar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: sorted
 
 -lexeme
  lex: marksist
@@ -40744,6 +41661,13 @@
  trans_en: dizzying, befuddling
 
 -lexeme
+ lex: marrfunduar
+ stem: marrfunduar.|marrfunduar.
+ gramm: A,alb,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: terminated, concluded
+
+-lexeme
  lex: marroq
  stem: marroq.
  gramm: A,alb,deriv
@@ -40772,6 +41696,13 @@
  trans_en: matted; clouded
 
 -lexeme
+ lex: marruar
+ stem: marruar.|marruar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: dishonored
+
+-lexeme
  lex: marruk
  stem: marruk.
  gramm: A,alb,deriv
@@ -40793,11 +41724,25 @@
  trans_en: receiving
 
 -lexeme
+ lex: marshtruar
+ stem: marshtruar.|marshtruar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: put into order, finished up
+
+-lexeme
  lex: marshtrues
  stem: marshtrues.|marshtrues.
  gramm: A
  paradigm: adj-1-2
  trans_en: administrative
+
+-lexeme
+ lex: marshtuar
+ stem: marshtuar.|marshtuar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: put in order, finished up
 
 -lexeme
  lex: martaneshas
@@ -40821,11 +41766,25 @@
  trans_en: martyr
 
 -lexeme
+ lex: martirizuar
+ stem: martirizuar.|martirizuar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: martyrized
+
+-lexeme
  lex: martuar
  stem: martuar.|martuar.
  gramm: A,borr,lat,deriv
  paradigm: adj-2-2
  trans_en: married
+
+-lexeme
+ lex: masakruar
+ stem: masakruar.|masakruar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: massacred
 
 -lexeme
  lex: mashkullor
@@ -40863,6 +41822,13 @@
  trans_en: massive
 
 -lexeme
+ lex: masivizuar
+ stem: masivizuar.|masivizuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: with mass participation
+
+-lexeme
  lex: maskuar
  stem: maskuar.|maskuar.
  gramm: A,borr,fr,new,deriv
@@ -40898,6 +41864,13 @@
  trans_en: on the other side
 
 -lexeme
+ lex: mataruar
+ stem: mataruar.|mataruar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: put into order, finished up
+
+-lexeme
  lex: matematik
  stem: matematik.
  gramm: A,borr,rom,new
@@ -40926,11 +41899,25 @@
  trans_en: materialist
 
 -lexeme
+ lex: materializuar
+ stem: materializuar.|materializuar.
+ gramm: A,borr,it,deriv
+ paradigm: adj-2-2
+ trans_en: materialized
+
+-lexeme
  lex: materialo-teknik
  stem: materialo-teknik.
  gramm: A,borr,it,rom,new,deriv
  paradigm: adj-3-2
  trans_en: material and technical
+
+-lexeme
+ lex: matufepsur
+ stem: matufepsur.|matufepsur.
+ gramm: A,borr,turk,deriv
+ paradigm: adj-2-2
+ trans_en: dotty, confused
 
 -lexeme
  lex: madh
@@ -40996,6 +41983,13 @@
  trans_en: made blue
 
 -lexeme
+ lex: mavijuar
+ stem: mavijuar.|mavijuar.
+ gramm: A,borr,turk,deriv
+ paradigm: adj-2-2
+ trans_en: colored blue
+
+-lexeme
  lex: maxhoritar
  stem: maxhoritar.
  gramm: A,borr,it,new
@@ -41059,6 +42053,27 @@
  trans_en: bashful
 
 -lexeme
+ lex: mbarsuar
+ stem: mbarcuar.|mbarcuar.
+ gramm: A,nonst,alb,deriv
+ paradigm: adj-2-2
+ trans_en: impregnated; infected
+
+-lexeme
+ lex: mbarsuar
+ stem: mbarsuar.|mbarsuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: impregnated; infected
+
+-lexeme
+ lex: mbarsur
+ stem: mbarsur.|mbarsur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: impregnated; loaded
+
+-lexeme
  lex: mbartës
  stem: mbartës.|mbartës.
  gramm: A,alb,deriv
@@ -41085,6 +42100,34 @@
  gramm: A,alb,borr,greek,deriv
  paradigm: adj-3-1
  trans_en: nationwide
+
+-lexeme
+ lex: mbarështuar
+ stem: mbarështuar.|mbarështuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: managed; breeded
+
+-lexeme
+ lex: mbarësuar
+ stem: mbarësuar.|mbarësuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: on the proper track
+
+-lexeme
+ lex: mbashkuar
+ stem: mbashkuar.|mbashkuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: joined together
+
+-lexeme
+ lex: mbashtruar
+ stem: mbashtruar.|mbashtruar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: cheated
 
 -lexeme
  lex: mbathur
@@ -41185,6 +42228,13 @@
  trans_en: extraordinary powerful
 
 -lexeme
+ lex: mbijetuar
+ stem: mbijetuar.|mbijetuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: surviving
+
+-lexeme
  lex: mbikëqyrës
  stem: mbikëqyrës.|mbikëqyrës.
  gramm: A,alb,deriv
@@ -41269,6 +42319,13 @@
  trans_en: for germinating
 
 -lexeme
+ lex: mbishikuar
+ stem: mbishikuar.|mbishikuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: supervized; inspected
+
+-lexeme
  lex: mbishkruar
  stem: mbishkruar.|mbishkruar.
  gramm: A,borr,lat,deriv
@@ -41290,11 +42347,32 @@
  trans_en: transcending the state
 
 -lexeme
+ lex: mbishtresuar
+ stem: mbishtresuar.|mbishtresuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: overlayed
+
+-lexeme
+ lex: mbisunduar
+ stem: mbisunduar.|mbisunduar.
+ gramm: A,borr,slav,deriv
+ paradigm: adj-2-2
+ trans_en: dominated
+
+-lexeme
  lex: mbisundues
  stem: mbisundues.|mbisundues.
  gramm: A,borr,slav,deriv
  paradigm: adj-1-2
  trans_en: predominating, predominant
+
+-lexeme
+ lex: mbitaksuar
+ stem: mbitaksuar.|mbitaksuar.
+ gramm: A,borr,turk,deriv
+ paradigm: adj-2-2
+ trans_en: overtaxed
 
 -lexeme
  lex: mbitokësor
@@ -41332,11 +42410,32 @@
  trans_en: over a tomb, grave
 
 -lexeme
+ lex: mbivlerësuar
+ stem: mbivlerësuar.|mbivlerësuar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: overestimated
+
+-lexeme
+ lex: mbivështruar
+ stem: mbivështruar.|mbivështruar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: supervized
+
+-lexeme
  lex: mbizotërues
  stem: mbizotërues.|mbizotërues.
  gramm: A,alb,deriv
  paradigm: adj-1-2
  trans_en: superior, dominant
+
+-lexeme
+ lex: mbiçmuar
+ stem: mbiçmuar.|mbiçmuar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: overestimated
 
 -lexeme
  lex: mbjellshëm
@@ -41367,6 +42466,13 @@
  trans_en: aged, old
 
 -lexeme
+ lex: mblatur
+ stem: mblatur.|mblatur.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: consecrated
+
+-lexeme
  lex: mbledhur
  stem: mbledhur.|mbledhur.
  gramm: A,alb,deriv
@@ -41381,11 +42487,25 @@
  trans_en: for gathering, collecting, adding
 
 -lexeme
+ lex: mbllaçitur
+ stem: mbllaçitur.|mbllaçitur.
+ gramm: A,borr,slav,deriv
+ paradigm: adj-2-2
+ trans_en: munched on; muttered
+
+-lexeme
  lex: mbllaçitës
  stem: mbllaçitës.|mbllaçitës.
  gramm: A,borr,slav,deriv
  paradigm: adj-1-2
  trans_en: ruminating; cud-chewing
+
+-lexeme
+ lex: mbodhisur
+ stem: mbodhisur.|mbodhisur.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: delayed
 
 -lexeme
  lex: mbrapshtë

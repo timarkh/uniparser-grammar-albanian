@@ -21208,7 +21208,7 @@
  stem: lagëso.|lagësua.|lagësu.|lagës.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
- trans_en: become moist/damp
+ trans_en: become moist, damp
 
 -lexeme
  lex: lagësoj
@@ -21383,7 +21383,7 @@
  stem: lakmo.|lakmua.|lakmu.|lakm.
  gramm: V,vt,vi,borr,slav,deriv
  paradigm: lexoj
- trans_en: be greedy; have a passion for; covet
+ trans_en: be greedy; have a passion for
 
 -lexeme
  lex: laknoj
@@ -21716,7 +21716,7 @@
  stem: laskaro.|laskarua.|laskaru.|laskar.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
- trans_en: become torn/tattered; fall in a landslide
+ trans_en: become torn, tattered; fall in a landslide
 
 -lexeme
  lex: laskaroj
@@ -21798,10 +21798,9 @@
  trans_en: laud, praise, extol
 
 -lexeme
- lex: lavdurohem
+ lex: lavdërohem
  stem: lavduro.|lavdurua.|lavduru.|lavdur.
- gramm: V,med,borr,lat,deriv
- lexref: lavdëroj
+ gramm: V,med,nonst,borr,lat,deriv
  paradigm: lexoj-1
  trans_en: brag
 
@@ -21831,7 +21830,7 @@
  stem: lavos.
  gramm: V,med,borr,greek
  paradigm: hap-1
- trans_en: get injured/wounded; feel wounded
+ trans_en: get injured, wounded; feel wounded
 
 -lexeme
  lex: lavos
@@ -21873,7 +21872,7 @@
  stem: lebetit.//lebetis.|lebetit.
  gramm: V,med,borr,slav
  paradigm: mat-1
- trans_en: be/become horrified
+ trans_en: be, become terrified
 
 -lexeme
  lex: lebetit
@@ -21922,7 +21921,7 @@
  stem: ledhato.|ledhatua.|ledhatu.|ledhat.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
- trans_en: be pampered/coddled
+ trans_en: be pampered, coddled
 
 -lexeme
  lex: ledhatoj
@@ -21981,18 +21980,16 @@
  trans_en: bark, bay, yap
 
 -lexeme
- lex: lehcoj
+ lex: lehtësoj
  stem: lehco.|lehcua.|lehcu.|lehc.
- gramm: V,med,borr,lat,deriv
- lexref: lehtësoj
+ gramm: V,med,nonst,borr,lat,deriv
  paradigm: lexoj-1
  trans_en: lighten one's load; become lighter; get relieved
 
 -lexeme
- lex: lehcoj
+ lex: lehtësoj
  stem: lehco.|lehcua.|lehcu.|lehc.
- gramm: V,vt,borr,lat,deriv
- lexref: lehtësoj
+ gramm: V,vt,nonst,borr,lat,deriv
  paradigm: lexoj
  trans_en: reduce, lighten; mitigate; facilitate; alleviate, relieve
 
@@ -22748,7 +22745,7 @@
  stem: llangos.
  gramm: V,med,alb,deriv
  paradigm: hap-1
- trans_en: get filthy/bedaubed with mud
+ trans_en: get filthy, bedaubed with mud
 
 -lexeme
  lex: llangos
@@ -22886,7 +22883,7 @@
 -lexeme
  lex: llazdroj
  stem: llazdro.|llazdrua.|llazdru.|llazdr.
- gramm: V,vt,nonst
+ gramm: V,vt,nonst,alb,deriv
  lexref: llastoj
  paradigm: lexoj
  trans_en: pamper, indulge, spoil
@@ -23011,18 +23008,16 @@
  trans_en: gobble down; pillage
 
 -lexeme
- lex: llustroj
+ lex: lustroj
  stem: llustro.|llustrua.|llustru.|llustr.
  gramm: V,vt,nonst,borr,it,deriv
- lexref: lustroj
  paradigm: lexoj
  trans_en: lacquer, polish
 
 -lexeme
- lex: llustros
+ lex: lustros
  stem: llustros.
  gramm: V,vt,nonst,borr,it,deriv
- lexref: lustros
  paradigm: hap
  trans_en: lacquer, polish
 
@@ -23126,18 +23121,16 @@
  trans_en: be dizzy
 
 -lexeme
- lex: lokovit
+ lex: lokavit
  stem: lokovit.//lokovis.|lokovit.
- gramm: V,vt
- lexref: lokavit
+ gramm: V,vt,nonst
  paradigm: mat
  trans_en: shake, move, wag, rattle
 
 -lexeme
- lex: lokoçit
+ lex: lokaçit
  stem: lokoçit.//lokoçis.|lokoçit.
- gramm: V,vt
- lexref: lokaçit
+ gramm: V,vt,nonst
  paradigm: mat
  trans_en: shake, move, wag, rattle
 
@@ -23177,10 +23170,9 @@
  trans_en: wail; speak with a hoarse voice
 
 -lexeme
- lex: los
+ lex: loz
  stem: los.
  gramm: V,vt,vi,nonst,alb,deriv
- lexref: loz
  paradigm: hap
  trans_en: play; be loose (vi); make move; tease (vt); act, perform (vt, vi)
 
@@ -23286,7 +23278,7 @@
 -lexeme
  lex: lulshkroj
  stem: lulshkro.|lulshkrua.|lulshkru.|lulshkr.
- gramm: V,vt,alb,deriv,borr,lat,deriv
+ gramm: V,vt,alb,borr,lat,deriv
  paradigm: lexoj
  trans_en: tattoo
 
@@ -23610,10 +23602,9 @@
  trans_en: laud, praise, extol
 
 -lexeme
- lex: lëftoj
+ lex: luftoj
  stem: lëfto.|lëftua.|lëftu.|lëft.
  gramm: V,vt,vi,nonst,borr,lat,deriv
- lexref: luftoj
  paradigm: lexoj
  trans_en: fight, combat, battle (vt); struggle; throb (vi)
 
@@ -23713,7 +23704,7 @@
  stem: lëndo.|lëndua.|lëndu.|lënd.
  gramm: V,med,borr,lat
  paradigm: lexoj-1
- trans_en: get wounded/hurt; feel hurt
+ trans_en: get wounded, hurt; feel hurt
 
 -lexeme
  lex: lëndoj
@@ -24112,7 +24103,7 @@
  stem: mahnit.//mahnis.|mahnit.
  gramm: V,med,borr,slav
  paradigm: mat-1
- trans_en: be astounded/amazed
+ trans_en: be astounded, amazed
 
 -lexeme
  lex: mahnit
@@ -24262,18 +24253,16 @@
  trans_en: manipulate
 
 -lexeme
- lex: manit
+ lex: mahnit
  stem: manit.//manis.|manit.
  gramm: V,med,nonst,borr,slav
- lexref: mahnit
  paradigm: mat-1
- trans_en: be astounded/amazed
+ trans_en: be astounded, amazed
 
 -lexeme
- lex: manit
+ lex: mahnit
  stem: manit.//manis.|manit.
  gramm: V,vt,nonst,borr,slav
- lexref: mahnit
  paradigm: mat
  trans_en: astound, amaze
 
@@ -24639,10 +24628,9 @@
  trans_en: bear, carry; possess, hold
 
 -lexeme
- lex: mbarcoj
+ lex: mbarsoj
  stem: mbarco.|mbarcua.|mbarcu.|mbarc.
- gramm: V,vt,alb,deriv
- lexref: mbarsoj
+ gramm: V,vt,nonst,alb,deriv
  paradigm: lexoj
  trans_en: impregnate; inseminate; infect
 
@@ -24893,10 +24881,9 @@
  trans_en: nickname
 
 -lexeme
- lex: mbiqyr
+ lex: mbikëqyr
  stem: mbiqyr.
  gramm: V,vt,nonst,alb,deriv
- lexref: mbikëqyr
  paradigm: hap
  trans_en: supervise, oversee; inspect
 
