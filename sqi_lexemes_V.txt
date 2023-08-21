@@ -25370,7 +25370,6 @@
  lex: mburoj
  stem: mburo.|mburua.|mburu.|mbur.
  gramm: V,vt,nonst,alb,deriv
- lexref: mbroj
  paradigm: lexoj
  trans_en: protect, defend; uphold, support
 
@@ -25509,26 +25508,10 @@
  trans_en: get red with anger, get hot, glow, burn
 
 -lexeme
- lex: mbërdhezem
- stem: mbërdhez.
- gramm: V,med,alb,deriv
- lexref: mërdhezem
- paradigm: hap-1
- trans_en: get red with anger, get hot, glow, burn
-
--lexeme
  lex: mbërdhih
  stem: mbërdhih.
  gramm: V,vi
  paradigm: beh
- trans_en: freeze
-
--lexeme
- lex: mbërdhij
- stem: mbërdhi.
- gramm: V,vi
- lexref: mërdhij
- paradigm: arrij
  trans_en: freeze
 
 -lexeme
@@ -25616,10 +25599,9 @@
  trans_en: wrap, coil; envelop, assemble
 
 -lexeme
- lex: mbësoj
+ lex: mësoj
  stem: mbëso.//mbso.|mbësua.//mbso.|mbësu.//mbsu.
- gramm: V,vt,vi,nonst
- lexref: mësoj
+ gramm: V,vt,vi,nonst,borr,lat
  paradigm: lexoj
  paradigm: aor-ind-act-3-sg-c
  trans_en: (vt) teach, train; advise; find out; (vi) study; learn
@@ -25681,10 +25663,9 @@
  trans_en: mechanize
 
 -lexeme
- lex: mekoj
+ lex: mëkoj
  stem: meko.|mekua.|meku.|mek.
- gramm: V,vt,borr,lat
- lexref: mëkoj
+ gramm: V,vt,nonst,borr,lat
  paradigm: lexoj
  trans_en: feed
 
@@ -25759,18 +25740,16 @@
  trans_en: think, consider
 
 -lexeme
- lex: mentoj
+ lex: mendoj
  stem: mento.|mentua.|mentu.|ment.
- gramm: V,med,borr,lat,deriv
- lexref: mendoj
+ gramm: V,med,nonst,borr,lat,deriv
  paradigm: lexoj-1
  trans_en: ponder; think; worry; be conceivable
 
 -lexeme
- lex: mentoj
+ lex: mendoj
  stem: mento.|mentua.|mentu.|ment.
- gramm: V,vi,borr,lat,deriv
- lexref: mendoj
+ gramm: V,vi,nonst,borr,lat,deriv
  paradigm: lexoj
  trans_en: think, consider
 
@@ -25888,10 +25867,9 @@
  trans_en: crossbreed
 
 -lexeme
- lex: mfryj
+ lex: fryj
  stem: mfry.
- gramm: V,vt,vi,alb,deriv
- lexref: fryj
+ gramm: V,vt,vi,nonst,alb,deriv
  paradigm: laj
  trans_en: blow (vi); blow up, inflate; gorge with food (vt)
 
@@ -25903,10 +25881,9 @@
  trans_en: meow
 
 -lexeme
- lex: miaullij
+ lex: mjaullij
  stem: miaulli.
- gramm: V,vi
- lexref: mjaullij
+ gramm: V,vi,nonst,alb,deriv
  paradigm: laj
  trans_en: meow
 
@@ -26005,9 +25982,9 @@
 -lexeme
  lex: miksoj
  stem: mikso.|miksua.|miksu.|miks.
- gramm: V,vt
+ gramm: V,vt,borr,en,new
  paradigm: lexoj
- trans_en: befriend
+ trans_en: mix
 
 -lexeme
  lex: militarizoj
@@ -26102,16 +26079,8 @@
 
 -lexeme
  lex: mirjollogis
- stem: mirjollogis.
- gramm: V,vt
- paradigm: hap
- trans_en: mourn
-
--lexeme
- lex: mirjollojis
- stem: mirjollojis.
- gramm: V,vt
- lexref: mirjollogis
+ stem: mirjollogis.//mirjollojis.
+ gramm: V,vt,borr,greek
  paradigm: hap
  trans_en: mourn
 
@@ -26258,10 +26227,9 @@
  trans_en: improve; benefit
 
 -lexeme
- lex: miserdh
+ lex: mirëserdh
  stem: miserdh.
  gramm: V,vt,nonst,alb,deriv
- lexref: mirëserdh
  paradigm: hap
  trans_en: bade welcome
 
@@ -26473,7 +26441,7 @@
  stem: mjeshtëro.|mjeshtërua.|mjeshtëru.|mjeshtër.
  gramm: V,vt,vi,borr,lat,deriv
  paradigm: lexoj
- trans_en: do/make/perform masterfully; practice
+ trans_en: do, make, perform masterfully; practice
 
 -lexeme
  lex: mjoj
@@ -26485,7 +26453,7 @@
 -lexeme
  lex: mkatëronj
  stem: mkatëro.|mkatërua.|mkatëru.|mkatër.
- gramm: V,vi,nonst
+ gramm: V,vi,nonst,borr,lat,deriv
  lexref: mëkatoj
  paradigm: lexoj
  trans_en: sin
@@ -27797,14 +27765,14 @@
 
 -lexeme
  lex: mërdhezem
- stem: mërdhez.
+ stem: mërdhez.//mbërdhez.
  gramm: V,med,alb,deriv
  paradigm: hap-1
  trans_en: get red with anger, get hot, glow, burn
 
 -lexeme
  lex: mërdhij
- stem: mërdhi.|mardh.
+ stem: mërdhi.//mbërdhi.|mardh.
  gramm: V,vi,alb
  paradigm: arrij
  trans_en: freeze
