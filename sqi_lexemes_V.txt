@@ -27009,10 +27009,9 @@
  trans_en: hide
 
 -lexeme
- lex: msheh
+ lex: fsheh
  stem: msheh.|mshih.
- gramm: V,vt,alb
- lexref: fsheh
+ gramm: V,vt,nonst,alb
  paradigm: fsheh
  trans_en: hide
 
@@ -27149,14 +27148,14 @@
  stem: mullos.
  gramm: V,med,alb,deriv
  paradigm: hap-1
- trans_en: swell up in the belly; become swollen/bloated
+ trans_en: swell up in the belly; become swollen, bloated
 
 -lexeme
  lex: mullos
  stem: mullos.
  gramm: V,vt,alb,deriv
  paradigm: hap
- trans_en: swell up belly
+ trans_en: swell up (belly)
 
 -lexeme
  lex: mund
@@ -27245,7 +27244,7 @@
 -lexeme
  lex: murmoj
  stem: murmo.|murmua.|murmu.|murm.
- gramm: V,vi
+ gramm: V,vi,alb,deriv
  paradigm: lexoj
  trans_en: turn brown, gray
 
@@ -27532,7 +27531,7 @@
 -lexeme
  lex: mângoj
  stem: mângo.|mângua.|mângu.|mâng.
- gramm: V,vt
+ gramm: V,vt,nonst,Gheg
  paradigm: lexoj
  trans_en: mangle, calender
 
@@ -27723,9 +27722,9 @@
 -lexeme
  lex: mënjanoj
  stem: mënjano.|mënjanua.|mënjanu.|mënjan.
- gramm: V,vt
+ gramm: V,vt,alb,deriv
  paradigm: lexoj
- trans_en: turn/move to one side; prevent, avoid; exclude
+ trans_en: turn, move to one side; prevent, avoid; exclude
 
 -lexeme
  lex: mënkoj
@@ -28352,7 +28351,7 @@
 -lexeme
  lex: ndigjoj
  stem: ndigjo.|ndigjua.|ndigju.|ndigj.
- gramm: V,vt,vi,borr,lat
+ gramm: V,vt,vi,nonst,borr,lat
  lexref: dëgjoj
  paradigm: lexoj
  trans_en: hear; obey (vt, vi); listen to; pay attention to (vt)
@@ -28462,7 +28461,7 @@
  stem: ndodh.
  gramm: V,med,alb
  paradigm: hap-1
- trans_en: be situated/located; happen to be (somewhere); be present; be in one's possession at the moment
+ trans_en: be situated, located; happen to be (somewhere); be present; be in one's possession at the moment
 
 -lexeme
  lex: ndodh
@@ -28474,14 +28473,14 @@
 -lexeme
  lex: ndoh
  stem: ndoh.
- gramm: V,vt
+ gramm: V,vt,alb,deriv
  paradigm: beh
  trans_en: befoul
 
 -lexeme
  lex: ndoht
  stem: ndoht.
- gramm: V,vt
+ gramm: V,vt,alb,deriv
  paradigm: hap
  trans_en: befoul
 
@@ -28511,7 +28510,7 @@
  stem: ndot.
  gramm: V,med,alb
  paradigm: hap-1
- trans_en: get filthy; urinate/defecate
+ trans_en: get filthy; urinate, defecate
 
 -lexeme
  lex: ndot
