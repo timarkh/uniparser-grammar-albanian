@@ -925,7 +925,7 @@
 
 -lexeme
  lex: asnjëri
- stem: asnjëri.
+ stem: asnjër.
  gramm: PRO,alb,deriv
  paradigm: recp-indef-pro-m-2
  paradigm: recp-indef-pro-f-2
@@ -4535,6 +4535,20 @@
  gramm: PRO,alb,deriv
  paradigm: det-pro
  trans_en: everything
+
+-lexeme
+ lex: gjithë
+ stem: gjithë.
+ gramm: PRO,alb
+ paradigm: unchangeable
+ trans_en: all
+
+-lexeme
+ lex: gjithë
+ stem: gjith.
+ gramm: PRO,nonst,alb
+ paradigm: unchangeable
+ trans_en: all
 
 -lexeme
  lex: gjithë
@@ -8822,7 +8836,7 @@
 
 -lexeme
  lex: mëdyshas
- stem: mëdyshas.
+ stem: mëdyshas.//mëdyshaz.
  gramm: ADV,alb,deriv
  paradigm: unchangeable
  trans_en: of two minds
@@ -17013,6 +17027,13 @@
  stem: unë.|mua.|meje.|mue.
  gramm: PRO,1,sg,alb
  paradigm: pers-pro-1-2-sg
+ trans_en: I
+
+-lexeme
+ lex: unë
+ stem: un.
+ gramm: PRO,1,sg,nonst,alb
+ paradigm: unchangeable
  trans_en: I
 
 -lexeme
