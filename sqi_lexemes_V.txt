@@ -24457,6 +24457,20 @@
  trans_en: enchant; fascinate
 
 -lexeme
+ lex: magjistroj
+ stem: magjistro.|magjistrua.|magjistru.|magjistr.
+ gramm: V,med,borr,inter,deriv
+ paradigm: lexoj-1
+ trans_en: do master studies
+
+-lexeme
+ lex: magjistroj
+ stem: magjistro.|magjistrua.|magjistru.|magjistr.
+ gramm: V,vi,borr,inter,deriv
+ paradigm: lexoj
+ trans_en: do master studies
+
+-lexeme
  lex: magnetizoj
  stem: magnetizo.|magnetizua.|magnetizu.|magnetiz.
  gramm: V,med,borr,rom,new
@@ -24562,11 +24576,46 @@
  trans_en: fill up to the top; fatten
 
 -lexeme
+ lex: makijazhoj
+ stem: makijazho.//makiazho.|makijazhua.//makiazhua.|makijazhu.//makiazhu.|makijazh.//makiazh.
+ gramm: V,vt,borr,inter,deriv
+ paradigm: lexoj
+ trans_en: do makeup
+
+-lexeme
  lex: makrohet
  stem: makro.|makrua.|makru.|makr.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
  trans_en: form a scum; grow moldy
+
+-lexeme
+ lex: maksimizoj
+ stem: maksimizo.|maksimizua.|maksimizu.|maksimiz.
+ gramm: V,med,borr,inter,deriv
+ paradigm: lexoj-1
+ trans_en: become maximized
+
+-lexeme
+ lex: maksimizoj
+ stem: maksimizo.|maksimizua.|maksimizu.|maksimiz.
+ gramm: V,vt,borr,inter,deriv
+ paradigm: lexoj
+ trans_en: maximize
+
+-lexeme
+ lex: maksimalizoj
+ stem: maksimalizo.|maksimalizua.|maksimalizu.|maksimaliz.
+ gramm: V,med,borr,inter,deriv
+ paradigm: lexoj-1
+ trans_en: become maximal
+
+-lexeme
+ lex: maksimalizoj
+ stem: maksimalizo.|maksimalizua.|maksimalizu.|maksimaliz.
+ gramm: V,vt,borr,inter,deriv
+ paradigm: lexoj
+ trans_en: maximalize
 
 -lexeme
  lex: malcoj
@@ -24581,6 +24630,13 @@
  gramm: V,vt,borr,it,deriv
  paradigm: lexoj
  trans_en: fester; exasperate
+
+-lexeme
+ lex: maltretoj
+ stem: maltreto.|maltretua.|maltretu.|maltret.
+ gramm: V,vt,borr,inter
+ paradigm: lexoj
+ trans_en: maltreat
 
 -lexeme
  lex: mallkoj
@@ -24632,6 +24688,13 @@
  trans_en: card (wool)
 
 -lexeme
+ lex: mandatoj
+ stem: mandato.|mandatua.|mandatu.|mandat.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: authorize, mandate
+
+-lexeme
  lex: manifestoj
  stem: manifesto.|manifestua.|manifestu.|manifest.
  gramm: V,med,borr,rom,new,deriv
@@ -24644,6 +24707,13 @@
  gramm: V,vt,vi,borr,rom,new,deriv
  paradigm: lexoj
  trans_en: demonstrate (vi); manifest, display (vt)
+
+-lexeme
+ lex: manikyros
+ stem: manikyros.
+ gramm: V,vt,borr,fr,new,deriv
+ paradigm: hap
+ trans_en: manicure
 
 -lexeme
  lex: manipuloj
@@ -24682,11 +24752,32 @@
  trans_en: maneuver (vt); go on maneuvers (vi)
 
 -lexeme
+ lex: maqedonizoj
+ stem: maqedonizo.|maqedonizua.|maqedonizu.|maqedoniz.
+ gramm: V,vt
+ paradigm: lexoj
+ trans_en: macedonize
+
+-lexeme
  lex: maqellos
  stem: maqellos.
  gramm: V,vt
  paradigm: hap
  trans_en: butcher, slaughter
+
+-lexeme
+ lex: margjinalizoj
+ stem: margjinalizo.|margjinalizua.|margjinalizu.|margjinaliz.
+ gramm: V,med,borr,rom,new
+ paradigm: lexoj-1
+ trans_en: get marginalized
+
+-lexeme
+ lex: margjinalizoj
+ stem: margjinalizo.|margjinalizua.|margjinalizu.|margjinaliz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: marginalize
 
 -lexeme
  lex: marr
@@ -24711,9 +24802,16 @@
  trans_en: sort
 
 -lexeme
+ lex: marinoj
+ stem: marino.|marinua.|marinu.|marin.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: pickle, marinate
+
+-lexeme
  lex: markoj
  stem: marko.|markua.|marku.|mark.
- gramm: V,vt
+ gramm: V,vt,borr,inter
  paradigm: lexoj
  trans_en: mark
 
@@ -24837,6 +24935,13 @@
  trans_en: massacre
 
 -lexeme
+ lex: masazhoj
+ stem: masazho.|masazhua.|masazhu.|masazh.
+ gramm: V,vt,borr,fr,new
+ paradigm: lexoj
+ trans_en: massage
+
+-lexeme
  lex: mashkulloj
  stem: mashkullo.|mashkullua.|mashkullu.|mashkull.
  gramm: V,vi,borr,lat,deriv
@@ -24940,6 +25045,20 @@
  gramm: V,vt,borr,turk,deriv
  paradigm: hap
  trans_en: make dotty; confuse
+
+-lexeme
+ lex: maturoj
+ stem: maturo.|maturua.|maturu.|matur.
+ gramm: V,med,alb,deriv
+ paradigm: lexoj-1
+ trans_en: mature
+
+-lexeme
+ lex: maturoj
+ stem: maturo.|maturua.|maturu.|matur.
+ gramm: V,vi,alb,deriv
+ paradigm: lexoj
+ trans_en: mature
 
 -lexeme
  lex: matushoj
@@ -25345,6 +25464,13 @@
  trans_en: surtax, overtax
 
 -lexeme
+ lex: mbitheksoj
+ stem: mbithekso.|mbitheksua.|mbitheksu.|mbitheks.
+ gramm: V,vt,alb,deriv
+ paradigm: lexoj
+ trans_en: overemphasize
+
+-lexeme
  lex: mbiudhëheq
  stem: mbiudhëheq.|mbiudhëhiq.|mbiudhëhoq.
  gramm: V,vt,alb,unknwn,deriv
@@ -25352,11 +25478,39 @@
  trans_en: direct, manage
 
 -lexeme
+ lex: mbivendos
+ stem: mbivendos.
+ gramm: V,med,alb,deriv
+ paradigm: hap-1
+ trans_en: settle over
+
+-lexeme
+ lex: mbivendos
+ stem: mbivendos.
+ gramm: V,vt,vi,alb,deriv
+ paradigm: hap
+ trans_en: place, set over (vt); install over (vi)
+
+-lexeme
  lex: mbivlerësoj
  stem: mbivlerëso.|mbivlerësua.|mbivlerësu.|mbivlerës.
  gramm: V,vt,borr,lat,deriv
  paradigm: lexoj
  trans_en: overestimate
+
+-lexeme
+ lex: mbivë
+ stem: mbivë.|mbivi.|mbivën.|mbivur.|mbivu.|mbivër.
+ gramm: V,med,alb,deriv
+ paradigm: zë-1
+ trans_en: place oneself over
+
+-lexeme
+ lex: mbivë
+ stem: mbivë.|mbivi.|mbivën.|mbivur.|mbivu.|mbivër.
+ gramm: V,vt,alb,deriv
+ paradigm: zë
+ trans_en: put over, install
 
 -lexeme
  lex: mbivështroj
@@ -26012,6 +26166,13 @@
  paradigm: lexoj
  paradigm: aor-ind-act-3-sg-c
  trans_en: (vt) teach, train; advise; find out; (vi) study; learn
+
+-lexeme
+ lex: meditoj
+ stem: medito.|meditua.|meditu.|medit.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: meditate
 
 -lexeme
  lex: megjet
@@ -55401,7 +55562,7 @@
  stem: vendos.
  gramm: V,vt,vi,alb,deriv
  paradigm: hap
- trans_en: place, set (vt); install, establish; decide; decide (vi)
+ trans_en: place, set (vt); install, establish; decide (vi)
 
 -lexeme
  lex: venit

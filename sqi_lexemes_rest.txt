@@ -8122,6 +8122,13 @@
  trans_en: in Macedonian
 
 -lexeme
+ lex: margjinalisht
+ stem: margjinalisht.//marginalisht.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-3-1
+ trans_en: marginally
+
+-lexeme
  lex: marramendthi
  stem: marramendthi.
  gramm: ADV,alb,borr,lat,deriv
@@ -8254,6 +8261,13 @@
  gramm: CONJ,alb,deriv
  paradigm: unchangeable
  trans_en: after, due to
+
+-lexeme
+ lex: mbasnesër
+ stem: mbasnesër.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: day after tomorrow
 
 -lexeme
  lex: mbi

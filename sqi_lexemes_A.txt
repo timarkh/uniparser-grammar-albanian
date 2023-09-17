@@ -40806,6 +40806,13 @@
  trans_en: rocking, swinging; fluctuating
 
 -lexeme
+ lex: luhatës
+ stem: luhatës.|luhatës.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2
+ trans_en: swaying, ricking; unstable
+
+-lexeme
  lex: lujtshëm
  stem: lujtshëm.|lujtshm.
  gramm: A,alb,deriv
@@ -40855,6 +40862,13 @@
  trans_en: flowering
 
 -lexeme
+ lex: lulëzuem
+ stem: lulëzuem.|lulëzuem.
+ gramm: A,nonst,Gheg,alb,deriv
+ paradigm: adj-2-2
+ trans_en: flowering
+
+-lexeme
  lex: lulëzueshëm
  stem: lulëzueshëm.|lulëzueshm.
  gramm: A,alb,deriv
@@ -40883,6 +40897,13 @@
  trans_en: of/from Luma
 
 -lexeme
+ lex: lumnuem
+ stem: lumnuem.|lumnuem.
+ gramm: A,nonst,Gheg,alb,deriv
+ paradigm: adj-2-2
+ trans_en: made happy, lucky
+
+-lexeme
  lex: lumor
  stem: lumor.
  gramm: A,borr,lat,deriv
@@ -40904,11 +40925,18 @@
  trans_en: happy, lucky
 
 -lexeme
+ lex: lumtun
+ stem: lumtun.|lumtun.
+ gramm: A,nonst,Gheg,alb,deriv
+ paradigm: adj-2-2
+ trans_en: happy, lucky
+
+-lexeme
  lex: lumturuar
  stem: lumturuar.|lumturuar.
  gramm: A,alb,deriv
  paradigm: adj-2-2
- trans_en: made happy
+ trans_en: made happy, lucky
 
 -lexeme
  lex: lumëbardhë
@@ -41302,6 +41330,13 @@
  gramm: A,alb,borr,lat,deriv
  paradigm: adj-2-2
  trans_en: smooth-skinned
+
+-lexeme
+ lex: lëkurëndritur
+ stem: lëkurëndritur.|lëkurëndritur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: with shining skin
 
 -lexeme
  lex: lëkurënxirë
@@ -41885,6 +41920,13 @@
  trans_en: grown up
 
 -lexeme
+ lex: madhërueshëm
+ stem: madhërueshëm.|madhërueshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: grand, majestic
+
+-lexeme
  lex: madhështor
  stem: madhështor.
  gramm: A,alb,deriv
@@ -42284,6 +42326,20 @@
  trans_en: mountainous, montane
 
 -lexeme
+ lex: mandator
+ stem: mandator.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-3-1
+ trans_en: mandatory
+
+-lexeme
+ lex: mandatuar
+ stem: mandatuar.|mandatuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: authorized, with mandate
+
+-lexeme
  lex: mangët
  stem: mangët.|mangt.
  gramm: A,borr,it,deriv
@@ -42305,11 +42361,25 @@
  trans_en: evident, manifested
 
 -lexeme
+ lex: manikyrosur
+ stem: manikyrosur.|manikyrosur.
+ gramm: A,borr,fr,new,deriv
+ paradigm: adj-2-2
+ trans_en: manicured
+
+-lexeme
  lex: manipuluar
  stem: manipuluar.|manipuluar.
  gramm: A,borr,rom,new,deriv
  paradigm: adj-2-2
  trans_en: manipulated
+
+-lexeme
+ lex: manipulues
+ stem: manipulues.|manipulues.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-1-2
+ trans_en: manipulating
 
 -lexeme
  lex: mahnitur
@@ -42340,6 +42410,20 @@
  trans_en: Macedonian
 
 -lexeme
+ lex: maqedonizuar
+ stem: maqedonizuar.|maqedonizuar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: macedonized
+
+-lexeme
+ lex: maqedonomadh
+ stem: maqedonomadh.|maqedonomadhe.|maqedonomëdhenj.|maqedonomëdha.
+ gramm: A,alb,deriv
+ paradigm: madh
+ trans_en: pan-Macedonian
+
+-lexeme
  lex: maqellosur
  stem: maqellosur.|maqellosur.
  gramm: A
@@ -42361,11 +42445,32 @@
  trans_en: sorted
 
 -lexeme
+ lex: margjinal
+ stem: margjinal.//marginal.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-1
+ trans_en: marginal
+
+-lexeme
+ lex: margjinalizuar
+ stem: margjinalizuar.|margjinalizuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: marginalized
+
+-lexeme
  lex: marksist
  stem: marksist.
  gramm: A
  paradigm: adj-3-1
  trans_en: Marxist
+
+-lexeme
+ lex: markuar
+ stem: markuar.|markuar.
+ gramm: A,borr,inter,deriv
+ paradigm: adj-2-2
+ trans_en: marked
 
 -lexeme
  lex: maroken
@@ -42564,6 +42669,13 @@
  trans_en: masked
 
 -lexeme
+ lex: maskues
+ stem: maskues.|maskues.
+ gramm: A,borr,fr,new,deriv
+ paradigm: adj-1-2
+ trans_en: masking
+
+-lexeme
  lex: masmedial
  stem: masmedial.
  gramm: A,borr,en,new,deriv
@@ -42576,6 +42688,13 @@
  gramm: A,borr,en,new,deriv
  paradigm: adj-3-2
  trans_en: related to/of mass media
+
+-lexeme
+ lex: masonik
+ stem: masonik.
+ gramm: A,borr,fr,new,deriv
+ paradigm: adj-3-2
+ trans_en: masonic
 
 -lexeme
  lex: masovik
@@ -42655,6 +42774,20 @@
  trans_en: big
 
 -lexeme
+ lex: mafioz
+ stem: mafioz.//mafjoz.
+ gramm: A,borr,it,new
+ paradigm: adj-3-1
+ trans_en: mafioso
+
+-lexeme
+ lex: makijazhuar
+ stem: makijazhuar.//makiazhuar.|makijazhuar.//makiazhuar.
+ gramm: A,borr,inter,deriv
+ paradigm: adj-2-2
+ trans_en: made-up
+
+-lexeme
  lex: matjan
  stem: matjan.
  gramm: A
@@ -42718,9 +42851,9 @@
  trans_en: colored blue
 
 -lexeme
- lex: maxhoritar
- stem: maxhoritar.
- gramm: A,borr,it,new
+ lex: mazhoritar
+ stem: maxhoritar.//maxhuritar.//mazhuritar.
+ gramm: A,nonst,borr,it,new
  paradigm: adj-3-1
  trans_en: majority
 
@@ -42746,6 +42879,13 @@
  trans_en: skimmed; made of skimmed milk
 
 -lexeme
+ lex: mazohist
+ stem: mazohist.//mazokist.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-1
+ trans_en: masochist
+
+-lexeme
  lex: mbajtshëm
  stem: mbajtshëm.|mbajtshm.
  gramm: A,alb,deriv
@@ -42756,6 +42896,13 @@
  lex: mbajtur
  stem: mbajtur.|mbajtur.
  gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: well-kept, well-preserved
+
+-lexeme
+ lex: mbajtun
+ stem: mbajtun.|mbajtun.
+ gramm: A,nonst,Gheg,alb,deriv
  paradigm: adj-2-2
  trans_en: well-kept, well-preserved
 
@@ -42816,6 +42963,13 @@
  trans_en: finished
 
 -lexeme
+ lex: mbaruem
+ stem: mbaruem.|mbaruem.
+ gramm: A,nonst,Gheg,alb,deriv
+ paradigm: adj-2-2
+ trans_en: finished
+
+-lexeme
  lex: mbarë
  stem: mbarë.|mbar.
  gramm: A,alb,deriv
@@ -42830,6 +42984,27 @@
  trans_en: nationwide
 
 -lexeme
+ lex: mbarëkosovar
+ stem: mbarëkosovar.
+ gramm: A,alb,deriv
+ paradigm: adj-3-1
+ trans_en: Kosovo-wide
+
+-lexeme
+ lex: mbarënjerëzor
+ stem: mbarënjerëzor.
+ gramm: A,alb,deriv
+ paradigm: adj-3-1
+ trans_en: panhuman
+
+-lexeme
+ lex: mbarështetëror
+ stem: mbarështetëror.
+ gramm: A,alb,borr,lat,deriv
+ paradigm: adj-3-1
+ trans_en: national, nationwide
+
+-lexeme
  lex: mbarështuar
  stem: mbarështuar.|mbarështuar.
  gramm: A,alb,deriv
@@ -42842,6 +43017,13 @@
  gramm: A,alb,deriv
  paradigm: adj-2-2
  trans_en: on the proper track
+
+-lexeme
+ lex: mbarëvajtur
+ stem: mbarëvajtur.|mbarëvajtur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: successful
 
 -lexeme
  lex: mbashkuar
@@ -43152,6 +43334,13 @@
  trans_en: supervized
 
 -lexeme
+ lex: mbizotëruar
+ stem: mbizotëruar.|mbizotëruar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: dominated
+
+-lexeme
  lex: mbizotërues
  stem: mbizotërues.|mbizotërues.
  gramm: A,alb,deriv
@@ -43241,6 +43430,20 @@
  gramm: A,nonst,borr,greek,deriv
  paradigm: adj-2-2
  trans_en: delayed
+
+-lexeme
+ lex: mbrapambetun
+ stem: mbrapambetun.|mbrapambetun.
+ gramm: A,nonst,Gheg,alb,deriv
+ paradigm: adj-2-2
+ trans_en: left behind
+
+-lexeme
+ lex: mbrapambetës
+ stem: mbrapambetës.|mbrapambetës.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2
+ trans_en: held back, passed over
 
 -lexeme
  lex: mbrapshtë
@@ -43537,6 +43740,13 @@
  trans_en: covered, closed
 
 -lexeme
+ lex: mbytshëm
+ stem: mbytshëm.|mbytshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: choking, stifling
+
+-lexeme
  lex: mbytur
  stem: mbytur.|mbytur.
  gramm: A,alb,deriv
@@ -43661,6 +43871,13 @@
  gramm: A
  paradigm: adj-3-1
  trans_en: medicinal
+
+-lexeme
+ lex: meditativ
+ stem: meditativ.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-1
+ trans_en: meditative
 
 -lexeme
  lex: mefshtë
@@ -80437,6 +80654,13 @@
  gramm: A,borr,lat,deriv
  paradigm: adj-3-1
  trans_en: Albanophile
+
+-lexeme
+ lex: shqiptaromadh
+ stem: shqiptaromadh.|shqiptaromadhe.|shqiptaromëdhenj.|shqiptaromëdha.
+ gramm: A,alb,borr,lat,deriv
+ paradigm: madh
+ trans_en: pan-Albanian
 
 -lexeme
  lex: shqiptimor
