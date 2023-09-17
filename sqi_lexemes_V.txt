@@ -16155,13 +16155,6 @@
  trans_en: illustrate
 
 -lexeme
- lex: im
- stem: im.
- gramm: V,vt,alb,deriv
- paradigm: hap
- trans_en: make thin
-
--lexeme
  lex: imaginoj
  stem: imagino.|imaginua.|imaginu.|imagin.
  gramm: V,vt

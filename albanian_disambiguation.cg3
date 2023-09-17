@@ -213,8 +213,8 @@ SECTION    # Adjectives
 REMOVE (ADV) IF (0 (A))
                 (-1 (ART));
 
-# Substantivized adjectives can be detected when used as genitival attributes and after some prepositions - кажется, первое работает плохо, ср. i kemi përjetuar
-SELECT (NOUN gen_dat) IF (0 (A) - (NOUN))
+# Substantivized adjectives can be detected when used as genitival attributes and after some prepositions
+SELECT (NOUN gen_dat) IF (0 (A gen_dat) - (NOUN gen_dat))
 						 (-1 (ART))
 						 (-2 (ART));
 SELECT (NOUN abl) IF (0 (A) - (NOUN))
@@ -276,26 +276,27 @@ SELECT (f) IF (0 (A))
 		      (-1 (NOUN f));
 
 SECTION    # Articles
-# Contact vs. distant position of the article (Upd. 05.2023)
-SELECT (cont) IF (0 (ART))
+# Contact vs. distant position of the article (Upd. 05.2023, 17.09.2023)
+REMOVE (dist) IF (0 (ART))
 				 (-1 (NOUN nom def) OR (NOUN acc def));
-SELECT (dist) IF (0 (ART))
+REMOVE (cont) IF (0 (ART))
 				 (-1 (NOUN nom indef) OR (NOUN acc indef));
-SELECT (dist) IF (0 ("<i>"i) OR ("<e>"i) OR ("<të>"i))
+REMOVE (cont) IF (0 ("<i>"i) OR ("<e>"i) OR ("<të>"i))
 				     (-1 Poss)
 				     (1 (A) OR (NOUN gen_dat sg def) OR (NOUN gen_dat pl));
-SELECT (dist) IF (0 ("<i>"i) OR ("<e>"i))
-				     (-1 ("jam"))
-				     (1 (A) OR (NOUN));
-SELECT (dist nom pl) IF (0 ("<të>"i))
-				     (-1 ("jam"))
-				     (1 (A) OR (NOUN));
+SELECT (cont gen_dat) IF (0 ("<së>"i))
+						 (-1 (NOUN f sg gen_dat def));
+SELECT (dist nom) IF (0 ("<i>"i) OR ("<e>"i) OR ("<të>"i))
+				     (-1 ("jam"));
+#				     (1 (A) OR (NOUN));
+# SELECT (dist nom pl) IF (0 ("<të>"i))
+#				     (-1 ("jam"))
+#				     (1 (A) OR (NOUN));
 SELECT (dist gen_dat) IF (0 (ART))
-						 (-1 (ART))
-						 (1 (NOUN gen_dat sg def) OR (NOUN gen_dat pl));
+						 (-1 (ART));
+#						 (1 (NOUN gen_dat sg def) OR (NOUN gen_dat pl));
 SELECT (dist) IF (0 (ART))
-				 (1 ("cili"i) OR ("gjithë"i) OR (A def))
-				 (NOT 1 (A f pl));
+				 (1 ("cili"i) OR ("gjithë"i));
 
 SECTION    # Pronouns
 # Pronoun "ta" is not a clitic after prepositions (full form is used) and is a clitic before a verb (Upd. 23.07.2023)
@@ -303,21 +304,22 @@ REMOVE (CLIT_PRO) IF (0 ("<ta>"i))
                         (-1 (PR))
 						(NOT 1 (ptcp));
 REMOVE (PRO) IF (0 ("<ta>"i))
-                (1 (V));
+                (1 (V))
+				(-1 (V));
 				
-# Pronouns "tij", "saj", "tyre" are not possessives after prepositions and are possesives after articles
-REMOVE ("tyre") IF (0 ("<tyre>"i))
-                   (-1 (PR));
-SELECT ("tyre") IF (0 ("<tyre>"i))
+# Pronouns "tij", "saj", "tyre" are not possessives after prepositions and are possesives after articles (Upd. 17.09.2023)
+REMOVE ("PRO 3 pl") IF (0 ("<tyre>"i))
                    (-1 (ART));
-REMOVE ("tij") IF (0 ("<tij>"i))
-                  (-1 (PR));
-SELECT ("tij") IF (0 ("<tij>"i))
+SELECT ("PRO 3 pl") IF (0 ("<tyre>"i))
+                   (-1 (PR));
+REMOVE ("PRO 3 sg m") IF (0 ("<tij>"i))
                   (-1 (ART));
-REMOVE ("saj") IF (0 ("<saj>"i))
+SELECT ("PRO 3 sg m") IF (0 ("<tij>"i))
                   (-1 (PR));
-SELECT ("saj") IF (0 ("<saj>"i))
+REMOVE ("PRO 3 sg f") IF (0 ("<saj>"i))
                   (-1 (ART));
+SELECT ("PRO 3 sg f") IF (0 ("<saj>"i))
+                  (-1 (PR));
 
 # Alb i vetëm, i njëjtë: adjectives often used in preposition (01.11.2022)
 SELECT (A sg nom def) IF (0 ("<vetmi>"i) OR ("<njëjti>"i) OR ("<ashtuquajturi>"i))
@@ -353,16 +355,16 @@ REMOVE (VB_PART) IF (0 ("<u>"i))
 					(1 (V ind prs) OR (V ind ipf) OR (V sbjv))
 					(NOT 1 (V ind prs 3sg));
 
-# Alb të të: verb particle + pronominal clitic (01.11.2022)
+# Alb të të: verb particle + pronominal clitic (01.11.2022, Upd. 17.09.2023)
 SELECT (VB_PART) IF (0 ("<të>"i))
 					(1 ("<të>"i) OR ("<ta>"i))
 					(2 (V));
 SELECT (CLIT_PRO) IF (0 ("<të>"i) OR ("<ta>"i))
 					 (-1 ("<të>"i))
 					 (1 (V));
-SELECT (VB_PART) IF (0 ("<t>"i))
-					(1 ("<ia>") OR ("<ua>"))
-					(2 (V));		
+# SELECT (VB_PART) IF (0 ("<t>"i))
+#					(1 ("<ia>") OR ("<ua>"))
+#					(2 (V));		
 
 # Alb të immediately before the verb is either a pronoun or a verbal particle, not an article (01.11.2022) - deleted 23.07.2023
 # REMOVE (ART) IF (0 ("<të>"i) or ("<e>"i))
@@ -384,31 +386,36 @@ SECTION    # Other inter-POS homonymy
 # Alb ajo: PRO vs. V (ajoj-imp.2sg)
 REMOVE (V) IF (0 ("<ajo>"i));
 	  
-# Alb nga: preposition vs. aorist vs. participle - возможно, не работает, см. rrahur nga bashkëshorti i saj
-SELECT (V vt ind aor pass 3sg) IF (0 ("<nga>"i))
-								  (-1 ("<u>"i));
-SELECT (V ind aor med pass 3sg) IF (0 ("<nga>"i))
-								   (-1 ("<u>"i));
-REMOVE (V vt ind aor pass 3sg) IF (0 ("<nga>"i))
-								  (1 (NOUN nom def) OR (PRO nom));
-REMOVE (V ind aor med pass 3sg) IF (0 ("<nga>"i))
-								   (1 (NOUN nom def) OR (PRO nom));
-REMOVE (V vt ptcp nonst) IF (0 ("<nga>"i))
-						    (1 (NOUN nom def) OR (PRO nom));
-REMOVE (V ptcp med nonst) IF (0 ("<nga>"i))
-						     (1 (NOUN nom def) OR (PRO nom));
-REMOVE (V imp act 2sg) IF (0 ("<nga>"i))
-						  (1 (NOUN nom def) OR (PRO nom));
+# Alb nga: preposition vs. aorist vs. participle - возможно, не работает, см. rrahur nga bashkëshorti i saj - Upd. 17.09.2023
+REMOVE (V) IF (0 ("<nga>"i));
+# SELECT (V aor pass 3sg) IF (0 ("<nga>"i))
+#						(-1 ("<u>"i));
+# REMOVE (V aor pass 3sg) IF (0 ("<nga>"i))
+#						(1 (NOUN nom def) OR (PRO nom));
+# REMOVE (V ptcp nonst) IF (0 ("<nga>"i))
+#						   (1 (NOUN nom def) OR (PRO nom));
+# REMOVE (V imp act 2sg) IF (0 ("<nga>"i))
+#						 (1 (NOUN nom def) OR (PRO nom));
 
-# Alb më: pronominal clitic vs. "more"
-REMOVE (CLIT_PRO) IF (0 ("<më>"i))
-					 (-1 (V));
-
-# Alb i and e: pronominal clitic before the verb, not article (05.2023) - Upd. 23.07.2023
-SELECT (CLIT_PRO) IF (0 ("<i>"i) OR ("<e>"i))
-					 (1 (V));
+# Alb më: pronominal clitic vs. "more" - Upd. 17.09.2023
+SELECT (CLIT_PRO acc) IF (0 ("<më>"i))
+					     (1 (V vt));
+SELECT (CLIT_PRO dat) IF (0 ("<më>"i))
+					     (1 (V vi) OR (V med));
+# REMOVE (CLIT_PRO) IF (0 ("<më>"i))
+#					   (-1 (V));
 					 
-# Alb të: Subjunctive particle between two (unambiguous) verbs and in some other contexts. The second verb is not participle. - Upd. 23.07.2023
+# Alb i and e: pronominal clitic before the verb, not article (05.2023) - Upd. 23.07.2023, 17.09.2023
+SELECT (CLIT_PRO) IF (0 ("<e>"i))
+					 (1 (V));
+SELECT (CLIT_PRO acc) IF (0 ("<i>"i))
+						 (1 (V vt));
+SELECT (CLIT_PRO dat) IF (0 ("<i>"i))
+						 (1 (V vi) OR (V med));
+# SELECT (CLIT_PRO) IF (0 ("<i>"i) OR ("<e>"i))
+#					 (1 (V));
+					 
+# Alb të: Subjunctive particle between two (unambiguous) verbs and in some other contexts. The second verb is not participle - Upd. 23.07.2023
 SELECT (VB_PART) IF (0 ("<të>"i))
 					(-1 (V))
 					(1 (V))
@@ -433,30 +440,34 @@ SELECT (CONJ) IF (0 ("<dhe>"i))
               (-1 (A))
 			  (1 (A));
 			  
-# Alb Gheg infinitive vs. noun vs. verb-sbjv.prs.3sg
-REMOVE (V sbjv pres act 3 sg) IF (0 (V) - (NOUN))
-								 (-1 ("<të>"i) OR ("<t>"i) OR ("<ta>"i))
-								 (-2 ("me"i));
+# Alb Gheg infinitive vs. noun vs. verb-sbjv.prs.3sg - Upd. 17.09.2023
+REMOVE (V sbjv) IF (-1 ("<të>"i) OR ("<t>"i) OR ("<ta>"i))
+				   (-2 ("me"i));
 								 
-# Alb nouns vs. adjectives vs. verbs in subjunctive (only verbs occur in constructions like "do të jetë" and "mund të gjeni"; nouns, adjectives and adverbs cannot follow the shortened form of the subjunctive clitic "t" or the combined form "ta" - either personal verb forms or participles occur)
-SELECT (V pres) IF (-1 ("<të>"i))
-                   (-2 ("<do>"i) OR ("<mund>"i));
-REMOVE (NOUN) IF (-2 ("<t>"i));
-REMOVE (A) IF (-2 ("<t>"i));
-REMOVE (ADV) IF (-2 ("<t>"i));
-REMOVE (NOUN) IF (-1 ("<t>"i) OR ("<ta>"i));
-REMOVE (A) IF (-1 ("<t>"i) OR ("<ta>"i));
-REMOVE (ADV) IF (-1 ("<t>"i) OR ("<ta>"i));
+# Alb nouns vs. adjectives vs. verbs in subjunctive (only verbs occur in constructions like "do të jetë" and "mund të gjeni") - Upd. 17.09.2023
+SELECT (V) IF (-1 ("<të>"i) OR ("<ta>"i))
+              (-2 ("<do>"i) OR ("mund"i));
+SELECT (V) IF (-2 ("<t>"i))
+              (-3 ("<do>"i) OR ("mund"i));
+# REMOVE (NOUN) IF (-2 ("<t>"i));
+# REMOVE (A) IF (-2 ("<t>"i));
+# REMOVE (ADV) IF (-2 ("<t>"i));
+# REMOVE (NOUN) IF (-1 ("<t>"i) OR ("<ta>"i));
+# REMOVE (A) IF (-1 ("<t>"i) OR ("<ta>"i));
+# REMOVE (ADV) IF (-1 ("<t>"i) OR ("<ta>"i));
 								 
-# Alb mund: modal verb
-REMOVE (V vt imp act 2 sg) IF (0 ("<mund>"i))
-							  (1 ("<të>"i) OR ("<t>"i));
-REMOVE (V vt ind aor pass 3 sg) IF (0 ("<mund>"i))
-								   (1 ("<të>"i) OR ("<t>"i));
-REMOVE (V ind aor pass med 3 sg) IF (0 ("<mund>"i))
-									(1 ("<të>"i) OR ("<t>"i));
-REMOVE (NOUN) IF (0 ("<mund>"i))
-				 (1 ("<të>"i) OR ("<t>"i));
+# Alb mund: modal verb - Upd 17.09.2023
+SELECT (V) IF (0 ("mund"i))
+			  (1 ("<të>"i) OR ("<ta>"i) OR ("<t>"i))
+			  (NOT -1 ("<një>"i));
+# REMOVE (V vt imp act 2 sg) IF (0 ("<mund>"i))
+#							  (1 ("<të>"i) OR ("<t>"i));
+# REMOVE (V vt ind aor pass 3 sg) IF (0 ("<mund>"i))
+#								   (1 ("<të>"i) OR ("<t>"i));
+# REMOVE (V ind aor pass med 3 sg) IF (0 ("<mund>"i))
+#									(1 ("<të>"i) OR ("<t>"i));
+# REMOVE (NOUN) IF (0 ("<mund>"i))
+#				 (1 ("<të>"i) OR ("<t>"i));
 				 
 # Alb do: future particle vs. verb
 SELECT (VB_PART) IF (0 ("<do>"i))
@@ -470,8 +481,8 @@ SELECT (NOUN sg acc indef) IF (0 ("<vërtetë>"i) OR ("<vërtet>"i))
 							  (-1 ("<të>"i))
 					          (-2 ("<me>"i) or ("<në>"i));
 							  
-# Alb kam 'to be': verb vs. noun or preposition (resolve in analytical perfect forms, e.g. ka filluar, ke filluar, kemi filluar, kanë filluar) 23.07.2023
-SELECT (V) IF (0 ("<kanë>"i) OR ("<ka>"i) OR ("<ke>"i) OR ("<kemi>"i))
+# Alb kam 'to be': verb vs. noun or preposition (resolve in analytical perfect forms, e.g. ka filluar, ke filluar, kanë filluar) 23.07.2023
+SELECT (V) IF (0 ("<kanë>"i) OR ("<ka>"i) OR ("<ke>"i))
 				 (1 (ptcp));				 
 
 # Alb duke: particle vs. noun "dukë" (resolve in analytical forms, e.g. duke filluar) 23.07.2023
