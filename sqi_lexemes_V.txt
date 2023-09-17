@@ -947,6 +947,20 @@
  trans_en: tilt, lean (vt); side, have a bias, take sides; resemble (vi)
 
 -lexeme
+ lex: anoncoj
+ stem: anonco.|anoncua.|anoncu.|anonc.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: announce
+
+-lexeme
+ lex: anoncoj
+ stem: anonço.|anonçua.|anonçu.|anonç.
+ gramm: V,vt,nonst,borr,rom,new
+ paradigm: lexoj
+ trans_en: announce
+
+-lexeme
  lex: anos
  stem: anos.
  gramm: V,med,alb,deriv
@@ -968,15 +982,22 @@
  trans_en: age; beat down, depress
 
 -lexeme
- lex: anuloj
- stem: anullo.|anullua.|anullu.|anull.
- gramm: V,vt,borr,rom,new
+ lex: animoj
+ stem: animo.|animua.|animu.|anim.
+ gramm: V,vt,borr,it,new
+ paradigm: lexoj
+ trans_en: animate
+
+-lexeme
+ lex: anticipoj
+ stem: anticipo.|anticipua.|anticipu.|anticip.
+ gramm: V,vt,borr,inter
  paradigm: lexoj
  trans_en: cancel, annul
 
 -lexeme
  lex: anuloj
- stem: anulo.|anulua.|anulu.|anul.
+ stem: anullo.|anullua.|anullu.|anull.
  gramm: V,vt,borr,rom,new
  paradigm: lexoj
  trans_en: cancel, annul
@@ -999,6 +1020,13 @@
  lex: anëtarësoj
  stem: anëtarëso.|anëtarësua.|anëtarësu.|anëtarës.
  gramm: V,vt,alb,deriv
+ paradigm: lexoj
+ trans_en: admit as member
+
+-lexeme
+ lex: anëtarësoj
+ stem: antarso.//antarëso.|antarsua.//antarësua.|antarsu.//antarësu.|antars.//antarës.
+ gramm: V,vt,nonst,alb,deriv
  paradigm: lexoj
  trans_en: admit as member
 
@@ -1251,6 +1279,20 @@
  trans_en: create hostility, antagonize
 
 -lexeme
+ lex: anmiqësoj
+ stem: anmiqëso.//anmiqso.|anmiqësua.//anmiqsua.|anmiqësu.//anmiqsu.|anmiqës.//anmiqs.
+ gramm: V,med,nonst,Gheg,borr,lat,deriv
+ paradigm: lexoj-1
+ trans_en: get hostile, become antagonistic
+
+-lexeme
+ lex: anmiqësoj
+ stem: anmiqëso.//anmiqso.|anmiqësua.//anmiqsua.|anmiqësu.//anmiqsu.|anmiqës.//anmiqs.
+ gramm: V,vt,nonst,Gheg,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: create hostility, antagonize
+
+-lexeme
  lex: armoj
  stem: armo.|armua.|armu.|arm.
  gramm: V,vt,borr,rom,deriv
@@ -1385,7 +1427,7 @@
 
 -lexeme
  lex: artikulloj
- stem: artikullo.|artikullua.|artikullu.|artikull.
+ stem: artikullo.//artikulo.|artikullua.//artikulua.|artikullu.//artikulu.|artikull.//artikul.
  gramm: V,vt
  paradigm: lexoj
  trans_en: articulate
@@ -6782,9 +6824,30 @@
  trans_en: denounce, disavow
 
 -lexeme
+ lex: depenalizoj
+ stem: depenalizo.|depenalizua.|depenalizu.|depenaliz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: depenalize
+
+-lexeme
+ lex: depersonalizoj
+ stem: depersonalizo.|depersonalizua.|depersonalizu.|depersonaliz.
+ gramm: V,vt,borr,it,new
+ paradigm: lexoj
+ trans_en: depersonalize
+
+-lexeme
+ lex: depiloj
+ stem: depilo.|depilua.|depilu.|depil.
+ gramm: V,vt,borr,en,new
+ paradigm: lexoj
+ trans_en: depilate
+
+-lexeme
  lex: depolitizoj
  stem: depolitizo.|depolitizua.|depolitizu.|depolitiz.
- gramm: V,vt
+ gramm: V,vt,borr,rom,new
  paradigm: lexoj
  trans_en: depoliticize
 
@@ -6794,6 +6857,20 @@
  gramm: V,vt,borr,rom,new
  paradigm: lexoj
  trans_en: testify
+
+-lexeme
+ lex: depopulloj
+ stem: depopullo.|depopullua.|depopullu.|depopull.
+ gramm: V,med,borr,lat,deriv
+ paradigm: lexoj-1
+ trans_en: become depopulated
+
+-lexeme
+ lex: depopulloj
+ stem: depopullo.|depopullua.|depopullu.|depopull.
+ gramm: V,vt,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: depopulate
 
 -lexeme
  lex: deportoj
@@ -6808,6 +6885,13 @@
  gramm: V,vt,borr,it,new,deriv
  paradigm: lexoj
  trans_en: deposit, store
+
+-lexeme
+ lex: deprivoj
+ stem: deprivo.|deprivua.|deprivu.|depriv.
+ gramm: V,vt,borr,en,new
+ paradigm: lexoj
+ trans_en: deprive
 
 -lexeme
  lex: depërtoj
@@ -6859,6 +6943,20 @@
  trans_en: die, be over
 
 -lexeme
+ lex: desantoj
+ stem: desanto.|desantua.|desantu.|desant.
+ gramm: V,med,borr,fr,new,deriv
+ paradigm: lexoj-1
+ trans_en: land (of troops)
+
+-lexeme
+ lex: desantoj
+ stem: desanto.|desantua.|desantu.|desant.
+ gramm: V,vt,vi,borr,fr,new,deriv
+ paradigm: lexoj
+ trans_en: land (of troops)
+
+-lexeme
  lex: deshifroj
  stem: deshifro.|deshifrua.|deshifru.|deshifr.
  gramm: V,vt,borr,fr,new,deriv
@@ -6866,11 +6964,46 @@
  trans_en: decipher
 
 -lexeme
+ lex: deshqiptarizoj
+ stem: deshqiptarizo.|deshqiptarizua.|deshqiptarizu.|deshqiptariz.
+ gramm: V,med,borr,lat,deriv
+ paradigm: lexoj-1
+ trans_en: become de-albanicized
+
+-lexeme
+ lex: deshqiptarizoj
+ stem: deshqiptarizo.|deshqiptarizua.|deshqiptarizu.|deshqiptariz.
+ gramm: V,vt,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: de-albanicize
+
+-lexeme
  lex: deshtem
  stem: desht.
- gramm: V,med
+ gramm: V,med,nonst,alb,deriv
  paradigm: hap-1
  trans_en: abort; fail
+
+-lexeme
+ lex: dështoj
+ stem: deshto.|deshtua.|deshtu.|desht.
+ gramm: V,vi,nonst,alb,deriv
+ paradigm: lexoj
+ trans_en: abort; fail
+
+-lexeme
+ lex: destabilizoj
+ stem: destabilizo.|destabilizua.|destabilizu.|destabiliz.
+ gramm: V,med,borr,rom,new
+ paradigm: lexoj-1
+ trans_en: destabilize
+
+-lexeme
+ lex: destabilizoj
+ stem: destabilizo.|destabilizua.|destabilizu.|destabiliz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: destabilize
 
 -lexeme
  lex: destinoj
@@ -7196,6 +7329,34 @@
  trans_en: diphthongize
 
 -lexeme
+ lex: digjitalizoj
+ stem: digjitalizo.|digjitalizua.|digjitalizu.|digjitaliz.
+ gramm: V,med,borr,en,new,deriv
+ paradigm: lexoj-1
+ trans_en: get digitized
+
+-lexeme
+ lex: digjitalizoj
+ stem: digjitalizo.|digjitalizua.|digjitalizu.|digjitaliz.
+ gramm: V,vt,borr,en,new,deriv
+ paradigm: lexoj
+ trans_en: digitize
+
+-lexeme
+ lex: digjitalizoj
+ stem: dixhitalizo.|dixhitalizua.|dixhitalizu.|dixhitaliz.
+ gramm: V,med,nonst,borr,en,new,deriv
+ paradigm: lexoj-1
+ trans_en: get digitized
+
+-lexeme
+ lex: digjitalizoj
+ stem: dixhitalizo.|dixhitalizua.|dixhitalizu.|digjitaliz.
+ gramm: V,vt,nonst,borr,en,new,deriv
+ paradigm: lexoj
+ trans_en: digitize
+
+-lexeme
  lex: dëgjoj
  stem: digjo.|digjua.|digju.|digj.
  gramm: V,med,nonst,borr,lat
@@ -7245,6 +7406,20 @@
  trans_en: dictate; detect
 
 -lexeme
+ lex: dimensionoj
+ stem: dimensiono.|dimensionua.|dimensionu.|dimension.
+ gramm: V,med,borr,rom,new,deriv
+ paradigm: lexoj-1
+ trans_en: take dimensions
+
+-lexeme
+ lex: dimensionoj
+ stem: dimensiono.|dimensionua.|dimensionu.|dimension.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: dimension
+
+-lexeme
  lex: dimëroj
  stem: dimëro.|dimërua.|dimëru.|dimër.
  gramm: V,vi,alb,deriv
@@ -7266,11 +7441,18 @@
  trans_en: get crammed in
 
 -lexeme
- lex: diplomohem
+ lex: diplomoj
  stem: diplomo.|diplomua.|diplomu.|diplom.
  gramm: V,med,borr,rom,new,deriv
  paradigm: lexoj-1
  trans_en: graduate, receive a diploma
+
+-lexeme
+ lex: diplomoj
+ stem: diplomo.|diplomua.|diplomu.|diplom.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: graduate, give a diploma
 
 -lexeme
  lex: dirgjem
@@ -7313,6 +7495,13 @@
  gramm: V,vt,vi,borr,rom,new,deriv
  paradigm: lexoj
  trans_en: recess, regress
+
+-lexeme
+ lex: disbursoj
+ stem: disburso.|disbursua.|disbursu.|disburs.
+ gramm: V,vt,borr,inter
+ paradigm: lexoj
+ trans_en: disburse
 
 -lexeme
  lex: disekuilibroj
@@ -7420,6 +7609,27 @@
  trans_en: spend the day (vi); pasture during the day (vt)
 
 -lexeme
+ lex: divorcoj
+ stem: divorco.|divorcua.|divorcu.|divorc.
+ gramm: V,med,borr,it,new,deriv
+ paradigm: lexoj-1
+ trans_en: get divorced
+
+-lexeme
+ lex: divorcoj
+ stem: divorco.|divorcua.|divorcu.|divorc.
+ gramm: V,vt,borr,it,new,deriv
+ paradigm: lexoj
+ trans_en: divorce
+
+-lexeme
+ lex: divulgoj
+ stem: divulgo.|divulgua.|divulgu.|divulg.
+ gramm: V,vt,borr,inter
+ paradigm: lexoj
+ trans_en: divulge
+
+-lexeme
  lex: divënoj
  stem: divëno.|divënua.|divënu.|divën.
  gramm: V,vi,borr,it
@@ -7446,6 +7656,20 @@
  gramm: V,vt,nonst,borr,fr,new
  paradigm: lexoj
  trans_en: disinfect, decontaminate
+
+-lexeme
+ lex: dezinformoj
+ stem: dizinformo.|dizinformua.|dizinformu.|dizinform.
+ gramm: V,vt,nonst,borr,rom,new
+ paradigm: lexoj
+ trans_en: disinform
+
+-lexeme
+ lex: dezintegroj
+ stem: dizintegro.|dizintegrua.|dizintegru.|dizintegr.
+ gramm: V,vt,nonst,borr,rom,new
+ paradigm: lexoj
+ trans_en: disassemble, dissolve, break apart; disintegrate
 
 -lexeme
  lex: djallos
@@ -7625,6 +7849,13 @@
  trans_en: glorify
 
 -lexeme
+ lex: doktoroj
+ stem: doktoro.|doktorua.|doktoru.|doktor.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: get a doctor degree
+
+-lexeme
  lex: dokumentoj
  stem: dokumento.|dokumentua.|dokumentu.|dokument.
  gramm: V,vt,borr,rom,new,deriv
@@ -7667,6 +7898,35 @@
  trans_en: adorn
 
 -lexeme
+ lex: dorëheq
+ stem: dorëheq.|dorëhiq.|dorëhoq.
+ gramm: V,med,alb,deriv
+ paradigm: heq-1
+ trans_en: resign, retire
+
+-lexeme
+ lex: dorëheq
+ stem: dorëheq.|dorëhiq.|dorëhoq.
+ gramm: V,vi,alb,deriv
+ paradigm: heq
+ trans_en: resign, retire
+
+-lexeme
+ lex: dorështrëngoj
+ stem: dorështrëngo.|dorështrëngua.|dorështrëngu.|dorështrëng.
+ gramm: V,med,alb,borr,lat,deriv
+ paradigm: lexoj-1
+ trans_en: be restricted, with tied hands
+
+-lexeme
+ lex: dorështrëngoj
+ stem: dorështrëngo.|dorështrëngua.|dorështrëngu.|dorështrëng.
+ gramm: V,vt,alb,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: restrict
+
+
+-lexeme
  lex: dorëtrokas
  stem: dorëtrokas.|dorëtroket.|dorëtrokit.//dorëtrokis.|dorëtrokit.
  gramm: V,vi,alb,deriv
@@ -7685,7 +7945,7 @@
  stem: dorëzano.|dorëzanua.|dorëzanu.|dorëzan.
  gramm: V,vt,alb,deriv
  paradigm: lexoj
- trans_en: stand behind/act as a guarantor
+ trans_en: stand behind, act as a guarantor
 
 -lexeme
  lex: dorëzoj
@@ -7769,7 +8029,7 @@
  stem: drejto.|drejtua.|drejtu.|drejt.
  gramm: V,med,borr,lat,deriv
  paradigm: lexoj-1
- trans_en: get straight; address/direct oneself; become oriented
+ trans_en: get straight; address, direct oneself; become oriented
 
 -lexeme
  lex: drejtoj
@@ -7791,6 +8051,20 @@
  gramm: V,vt,borr,lat,deriv
  paradigm: lexoj
  trans_en: put in a straight line
+
+-lexeme
+ lex: drejtësoj
+ stem: drejtëso.|drejtësua.|drejtësu.|drejtës.
+ gramm: V,med,borr,lat,deriv
+ paradigm: lexoj-1
+ trans_en: get straight; address, direct oneself; become oriented
+
+-lexeme
+ lex: drejtësoj
+ stem: drejtëso.|drejtësua.|drejtësu.|drejtës.
+ gramm: V,vt,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: direct, drive, manage; straighten; repair
 
 -lexeme
  lex: drejtvendos
@@ -7877,6 +8151,13 @@
  trans_en: screw up; bedevil
 
 -lexeme
+ lex: dribloj
+ stem: driblo.|driblua.|driblu.|dribl.
+ gramm: V,vt,borr,en,new
+ paradigm: lexoj
+ trans_en: dribble
+
+-lexeme
  lex: dridh
  stem: dridh.
  gramm: V,med,alb,deriv
@@ -7935,6 +8216,20 @@
 -lexeme
  lex: drithtoj
  stem: drithto.|drithtua.|drithtu.|dritht.
+ gramm: V,vt,vi,alb,deriv
+ paradigm: lexoj
+ trans_en: tremble, shiver, shudder (vi); cause to tremble, upset greatly (vt)
+
+-lexeme
+ lex: drithtëroj
+ stem: drithtëro.|drithtërua.|drithtëru.|drithtër.
+ gramm: V,med,alb,deriv
+ paradigm: lexoj-1
+ trans_en: tremble, shiver, shudder, quake
+
+-lexeme
+ lex: drithtëroj
+ stem: drithtëro.|drithtërua.|drithtëru.|drithtër.
  gramm: V,vt,vi,alb,deriv
  paradigm: lexoj
  trans_en: tremble, shiver, shudder (vi); cause to tremble, upset greatly (vt)
@@ -8001,6 +8296,13 @@
  gramm: V,med,borr,rom,new,deriv
  paradigm: lexoj-1
  trans_en: take, use a narcotic drug
+
+-lexeme
+ lex: drogoj
+ stem: drogo.|drogua.|drogu.|drog.
+ gramm: V,med,borr,rom,new,deriv
+ paradigm: lexoj-1
+ trans_en: use a narcotic drug
 
 -lexeme
  lex: dromcoj
@@ -8156,9 +8458,23 @@
 -lexeme
  lex: dubloj
  stem: dublo.|dublua.|dublu.|dubl.
- gramm: V,vi,borr,fr,new
+ gramm: V,vt,borr,fr,new
  paradigm: lexoj
  trans_en: repeat; substitute for
+
+-lexeme
+ lex: dublikoj
+ stem: dubliko.|dublikua.|dubliku.|dublik.
+ gramm: V,vt,borr,fr,new,deriv
+ paradigm: lexoj
+ trans_en: repeat, duplicate
+
+-lexeme
+ lex: dublifikoj
+ stem: dublifiko.|dublifikua.|dublifiku.|dublifik.
+ gramm: V,vt,borr,fr,new,deriv
+ paradigm: lexoj
+ trans_en: repeat, duplicate
 
 -lexeme
  lex: due
@@ -8788,6 +9104,20 @@
  lex: dëshmoj
  stem: dëshmo.|dëshmua.|dëshmu.|dëshm.
  gramm: V,vt,borr,lat
+ paradigm: lexoj
+ trans_en: testify, attest
+
+-lexeme
+ lex: dëshmoj
+ stem: deshmo.|deshmua.|deshmu.|deshm.
+ gramm: V,med,nonst,borr,lat
+ paradigm: lexoj-1
+ trans_en: be attested, be manifested
+
+-lexeme
+ lex: dëshmoj
+ stem: deshmo.|deshmua.|deshmu.|deshm.
+ gramm: V,vt,nonst,borr,lat
  paradigm: lexoj
  trans_en: testify, attest
 
@@ -17119,6 +17449,20 @@
  gramm: V,vt,borr,turk,deriv
  paradigm: lexoj
  trans_en: whip
+
+-lexeme
+ lex: kanabizoj
+ stem: kanabizo.|kanabizua.|kanabizu.|kanabiz.
+ gramm: V,med,borr,inter,deriv
+ paradigm: lexoj-1
+ trans_en: get dependent of cannabis
+
+-lexeme
+ lex: kanabizoj
+ stem: kanabizo.|kanabizua.|kanabizu.|kanabiz.
+ gramm: V,vt,borr,inter,deriv
+ paradigm: lexoj
+ trans_en: fill with, make dependent of cannabis
 
 -lexeme
  lex: kanalizoj
@@ -29291,6 +29635,13 @@
  trans_en: triumph (vi); vanquish (vt)
 
 -lexeme
+ lex: ngadhënjej
+ stem: ngadhnje.|ngadhnjye.
+ gramm: V,vt,vi,nonst,borr,it,deriv
+ paradigm: kthej
+ trans_en: triumph (vi); vanquish (vt)
+
+-lexeme
  lex: ngajkoj
  stem: ngajko.|ngajkua.|ngajku.|ngajk.
  gramm: V,vt,alb,deriv
@@ -29497,6 +29848,20 @@
  lex: ngatërroj
  stem: ngatërro.|ngatërrua.|ngatërru.|ngatërr.
  gramm: V,vt,alb,deriv
+ paradigm: lexoj
+ trans_en: tangle; embroil, entangle; confuse, upset, complicate
+
+-lexeme
+ lex: ngatërroj
+ stem: ngatrro.|ngatrrua.|ngatrru.|ngatrr.
+ gramm: V,med,nonst,alb,deriv
+ paradigm: lexoj-1
+ trans_en: be tangled; become embroiled, entangled; get confused; get more complicated
+
+-lexeme
+ lex: ngatërroj
+ stem: ngatrro.|ngatrrua.|ngatrru.|ngatrr.
+ gramm: V,vt,nonst,alb,deriv
  paradigm: lexoj
  trans_en: tangle; embroil, entangle; confuse, upset, complicate
 
@@ -30900,10 +31265,9 @@
  trans_en: get red; become flushed, blush
 
 -lexeme
- lex: nkuq
+ lex: kuq
  stem: nkuq.
  gramm: V,vt,nonst,alb,deriv
- lexref: kuq
  paradigm: hap
  trans_en: make red; fry
 
@@ -30917,14 +31281,14 @@
 -lexeme
  lex: nomatis
  stem: nomatis.
- gramm: V,vt
+ gramm: V,vt,borr,greek
  paradigm: hap
- trans_en: invoke, incacnt; cite
+ trans_en: invoke, conjure up, incant; cite
 
 -lexeme
  lex: nominoj
  stem: nomino.|nominua.|nominu.|nomin.
- gramm: V,vt
+ gramm: V,vt,borr,rom,new
  paradigm: lexoj
  trans_en: nominate
 
@@ -30957,6 +31321,34 @@
  trans_en: establish standards
 
 -lexeme
+ lex: normatizoj
+ stem: normatizo.|normatizua.|normatizu.|normatiz.
+ gramm: V,med,borr,rom,new,deriv
+ paradigm: lexoj-1
+ trans_en: become standardized
+
+-lexeme
+ lex: normatizoj
+ stem: normatizo.|normatizua.|normatizu.|normatiz.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: standardize
+
+-lexeme
+ lex: normativizoj
+ stem: normativizo.|normativizua.|normativizu.|normativiz.
+ gramm: V,med,borr,rom,new,deriv
+ paradigm: lexoj-1
+ trans_en: become standardized
+
+-lexeme
+ lex: normativizoj
+ stem: normativizo.|normativizua.|normativizu.|normativiz.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: standardize
+
+-lexeme
  lex: normëzoj
  stem: normëzo.|normëzua.|normëzu.|normëz.
  gramm: V,med,borr,rom,new,deriv
@@ -30969,6 +31361,27 @@
  gramm: V,vt,borr,rom,new,deriv
  paradigm: lexoj
  trans_en: standardize
+
+-lexeme
+ lex: noterizoj
+ stem: noterizo.//notarizo.|noterizua.//notarizua.|noterizu.//notarizu.|noteriz.//notariz.
+ gramm: V,vi,borr,fr,new,deriv
+ paradigm: lexoj
+ trans_en: notarize
+
+-lexeme
+ lex: noteroj
+ stem: notero.|noterua.|noteru.|noter.
+ gramm: V,vi,borr,fr,new,deriv
+ paradigm: lexoj
+ trans_en: notarize
+
+-lexeme
+ lex: notifikoj
+ stem: notifiko.|notifikua.|notifiku.|notifik.
+ gramm: V,vi,borr,inter,deriv
+ paradigm: lexoj
+ trans_en: notify
 
 -lexeme
  lex: notoj
@@ -32716,6 +33129,13 @@
  gramm: V,vt,borr,lat,deriv
  paradigm: lexoj
  trans_en: make fruitful, use to advantage
+
+-lexeme
+ lex: penalizoj
+ stem: penalizo.|penalizua.|penalizu.|penaliz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: penalize
 
 -lexeme
  lex: pendarohem
@@ -34663,7 +35083,7 @@
 -lexeme
  lex: prezentoj
  stem: prezento.|prezentua.|prezentu.|prezent.
- gramm: V,vt
+ gramm: V,vt,borr,en,new
  paradigm: lexoj
  trans_en: present
 
@@ -34708,6 +35128,27 @@
  gramm: V,vt,borr,greek,deriv
  paradigm: hap
  trans_en: endow
+
+-lexeme
+ lex: prindëroj
+ stem: prindëro.|prindërua.|prindëru.|prindër.
+ gramm: V,vi,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: adopt, father/mother
+
+-lexeme
+ lex: printoj
+ stem: printo.|printua.|printu.|print.
+ gramm: V,vi,borr,en,new,deriv
+ paradigm: lexoj
+ trans_en: print
+
+-lexeme
+ lex: prioritizoj
+ stem: prioritizo.|prioritizua.|prioritizu.|prioritiz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: prioritize
 
 -lexeme
  lex: prish
@@ -40786,14 +41227,14 @@
 -lexeme
  lex: reprezantoj
  stem: reprezanto.|reprezantua.|reprezantu.|reprezant.
- gramm: V,vt
+ gramm: V,vt,borr,rom,new
  paradigm: lexoj
  trans_en: represent
 
 -lexeme
  lex: reprezentoj
  stem: reprezento.|reprezentua.|reprezentu.|reprezent.
- gramm: V,vt
+ gramm: V,vt,borr,en,new
  paradigm: lexoj
  trans_en: represent
 
@@ -47945,7 +48386,7 @@
  stem: shqiptarizo.|shqiptarizua.|shqiptarizu.|shqiptariz.
  gramm: V,med,borr,lat,deriv
  paradigm: lexoj-1
- trans_en: become Albanicized
+ trans_en: become albanicized
 
 -lexeme
  lex: shqiptarizoj
@@ -49723,6 +50164,13 @@
  gramm: V,med,borr,it,new
  paradigm: lexoj-1
  trans_en: feel scandalized; be outraged
+
+-lexeme
+ lex: skanoj
+ stem: skano.|skanua.|skanu.|skan.
+ gramm: V,vi,borr,en,new,deriv
+ paradigm: lexoj
+ trans_en: scan
 
 -lexeme
  lex: skopat

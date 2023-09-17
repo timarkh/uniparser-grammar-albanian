@@ -2389,6 +2389,20 @@
  trans_en: so; oh, really?; oh, sure!
 
 -lexeme
+ lex: dëshpërimisht
+ stem: dëshpërimisht.
+ gramm: ADV,borr,lat,deriv
+ paradigm: unchangeable
+ trans_en: desperately
+
+-lexeme
+ lex: dëshpërimisht
+ stem: deshpërimisht.
+ gramm: ADV,nonst,borr,lat,deriv
+ paradigm: unchangeable
+ trans_en: desperately
+
+-lexeme
  lex: dëllëngthi
  stem: dëllëngthi.
  gramm: ADV,borr,turk,deriv
@@ -2670,6 +2684,20 @@
  trans_en: (play) a kind of hockey
 
 -lexeme
+ lex: doktrinalisht
+ stem: doktrinalisht.
+ gramm: ADV,borr,rom,new,deriv
+ paradigm: unchangeable
+ trans_en: doctrinally
+
+-lexeme
+ lex: dokumentarisht
+ stem: dokumentarisht.
+ gramm: ADV,borr,rom,new,deriv
+ paradigm: unchangeable
+ trans_en: documentally
+
+-lexeme
  lex: dokurdo
  stem: dokurdo.
  gramm: ADV,alb,deriv
@@ -2769,6 +2797,13 @@
  trans_en: meanwhile
 
 -lexeme
+ lex: dorështrënguar
+ stem: dorështrënguar.
+ gramm: ADV,alb,borr,lat,deriv
+ paradigm: unchangeable
+ trans_en: stingy, miserly; restricted, with tied hands
+
+-lexeme
  lex: dot
  stem: dot.
  gramm: PART,alb
@@ -2817,6 +2852,27 @@
  gramm: ADV,alb,deriv
  paradigm: unchangeable
  trans_en: in curves
+
+-lexeme
+ lex: dredhisht
+ stem: dredhisht.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: slyly, cunningly
+
+-lexeme
+ lex: dredhërisht
+ stem: dredhërisht.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: slyly, cunningly
+
+-lexeme
+ lex: dredhka-dredhka
+ stem: dredhka-dredhka.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: with curves, curly
 
 -lexeme
  lex: drejt
@@ -2896,6 +2952,13 @@
  trans_en: Dropulli-style
 
 -lexeme
+ lex: drudha-drudha
+ stem: drudha-drudha.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: with curves, curly
+
+-lexeme
  lex: druese
  stem: druese.
  gramm: ADV
@@ -2917,16 +2980,23 @@
  trans_en: empty-handed
 
 -lexeme
- lex: duarbrazur
- stem: duarbrazur.
+ lex: duarhapur
+ stem: duarhapur.
  gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: with open arms
+
+-lexeme
+ lex: duarzbrazur
+ stem: duarzbrazur.
+ gramm: ADV,alb,borr,slav,deriv
  paradigm: unchangeable
  trans_en: empty-handed
 
 -lexeme
- lex: duarbrazët
- stem: duarbrazët.
- gramm: ADV,alb,deriv
+ lex: duarzbrazët
+ stem: duarzbrazët.
+ gramm: ADV,alb,borr,slav,deriv
  paradigm: unchangeable
  trans_en: empty-handed
 
@@ -2945,11 +3015,32 @@
  trans_en: with arms crossed, with hands tied
 
 -lexeme
+ lex: duarlirë
+ stem: duarlirë.
+ gramm: ADV,alb,borr,lat,deriv
+ paradigm: unchangeable
+ trans_en: hands-free, with free hands
+
+-lexeme
+ lex: duarmbushur
+ stem: duarmbushur.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: full of good things, of success
+
+-lexeme
+ lex: duarndotur
+ stem: duarndotur.|duarndotur.
+ gramm: ADV,alb,deriv
+ paradigm: adj-2-2
+ trans_en: dirty-handed, light-fingered
+
+-lexeme
  lex: duarplot
  stem: duarplot.
  gramm: ADV,alb,deriv
  paradigm: unchangeable
- trans_en: full of good things/success
+ trans_en: full of good things, of success
 
 -lexeme
  lex: duarthatë
@@ -3519,9 +3610,9 @@
  trans_en: (to play) a shell game with inverted teacups hiding small objects
 
 -lexeme
- lex: finaciarisht
- stem: finaciarisht.
- gramm: ADV
+ lex: financiarisht
+ stem: financiarisht.
+ gramm: ADV,borr,it,new,deriv
  paradigm: unchangeable
  trans_en: financially
 
@@ -7343,6 +7434,13 @@
  trans_en: leaving foot tracks, little by little
 
 -lexeme
+ lex: këmbëhapur
+ stem: këmbëhapur.|këmbëhapur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: with open up legs
+
+-lexeme
  lex: këmbëklizë
  stem: këmbëklizë.
  gramm: ADV,alb,deriv
@@ -8116,6 +8214,20 @@
  trans_en: face to face, openly
 
 -lexeme
+ lex: mbanë
+ stem: mbanë.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: alongside, nearby
+
+-lexeme
+ lex: mbanë
+ stem: mbanë.
+ gramm: PR,with_abl,alb,deriv
+ paradigm: unchangeable
+ trans_en: beside, by, next to
+
+-lexeme
  lex: mbarazi
  stem: mbarazi.
  gramm: ADV,alb,deriv
@@ -8465,6 +8577,13 @@
  gramm: PR,with_abl
  paradigm: unchangeable
  trans_en: between; among
+
+-lexeme
+ lex: minimalisht
+ stem: minimalisht.
+ gramm: ADV,borr,rom,new,deriv
+ paradigm: unchangeable
+ trans_en: minimally
 
 -lexeme
  lex: minimum
@@ -10200,6 +10319,13 @@
  trans_en: normally
 
 -lexeme
+ lex: normativisht
+ stem: normativisht.
+ gramm: ADV,borr,rom,new,deriv
+ paradigm: unchangeable
+ trans_en: in a standardized way
+
+-lexeme
  lex: norvegjisht
  stem: norvegjisht.
  gramm: ADV
@@ -11794,7 +11920,7 @@
  stem: portugalisht.
  gramm: ADV
  paradigm: unchangeable
- trans_en: in Potuguese
+ trans_en: in Portuguese
 
 -lexeme
  lex: pos
@@ -11846,11 +11972,53 @@
  trans_en: below
 
 -lexeme
+ lex: posi
+ stem: posi.
+ gramm: CONJ,alb,deriv
+ paradigm: unchangeable
+ trans_en: like, as, as if
+
+-lexeme
+ lex: posi
+ stem: posi.
+ gramm: PART,alb,deriv
+ paradigm: unchangeable
+ trans_en: of course, oh sure!
+
+-lexeme
+ lex: posikundër
+ stem: posikundër.
+ gramm: CONJ,alb,borr,lat,deriv
+ paradigm: unchangeable
+ trans_en: just as
+
+-lexeme
+ lex: posikundërqë
+ stem: posikundërqë.
+ gramm: CONJ,alb,borr,lat,deriv
+ paradigm: unchangeable
+ trans_en: just as
+
+-lexeme
+ lex: posikur
+ stem: posikur.
+ gramm: CONJ,alb,deriv
+ paradigm: unchangeable
+ trans_en: just as if
+
+-lexeme
  lex: posë
  stem: posë.
  gramm: ADV
  paradigm: unchangeable
  trans_en: apart
+
+-lexeme
+ lex: potencialisht
+ stem: potencialisht.
+ gramm: ADV,borr,it,new,deriv
+ paradigm: unchangeable
+ trans_en: potentially
 
 -lexeme
  lex: pothuaj
@@ -15161,9 +15329,16 @@
 -lexeme
  lex: shumëkush
  stem: shumëkush.|shumëkujt.|shumëkë.
- gramm: PRO,indef,alb,borr,lat,deriv
+ gramm: PRO,alb,borr,lat,deriv
  paradigm: interrog-pro
  trans_en: many
+
+-lexeme
+ lex: shumëçka
+ stem: shumëçka.
+ gramm: PRO,alb,deriv
+ paradigm: det-pro
+ trans_en: much, many
 
 -lexeme
  lex: shurdh
@@ -18624,6 +18799,13 @@
  gramm: ADV,alb,borr,lat,deriv
  paradigm: unchangeable
  trans_en: at any time
+
+-lexeme
+ lex: çdokush
+ stem: çdokush.|çdokujt.|çdokë.//çdokënd.
+ gramm: PRO,alb,deriv
+ paradigm: interrog-pro
+ trans_en: everyone, everybody
 
 -lexeme
  lex: çdolloj
