@@ -32,7 +32,7 @@ REMOVE (V imp) IF (-1 Clitics OR ("<e>"i))
 REMOVE (V imp) IF (1 (PRO 1 sg nom) OR (PRO 2 sg nom) OR (PRO 3 sg m nom) OR (PRO 3 sg f nom));				  
 # REMOVE (V imp act 2 pl) IF (-2 ("<mund>"i) OR ("<do>"i) OR ("<duhet>"i) OR ("<duhej>"i)); (more general rule added, see below)
 # REMOVE (V imp act 2 pl) IF (-3 ("<mund>"i) OR ("<do>"i) OR ("<duhet>"i) OR ("<duhej>"i))
-						   (-1 ("<i>") OR ("<u>") OR ("<ua>") OR ("<iu>") OR ("<ia>") OR ("<ju>") OR ("<ja>"));
+#						   (-1 ("<i>") OR ("<u>") OR ("<ua>") OR ("<iu>") OR ("<ia>") OR ("<ju>") OR ("<ja>"));
 REMOVE (V imp) IF (-2 Verbs)
 				  (-1 Clitics or ("<të>"));		   
 					  
@@ -488,7 +488,7 @@ SELECT (V) IF (0 ("<kanë>"i) OR ("<ka>"i) OR ("<ke>"i))
 # Alb duke: particle vs. noun "dukë" (resolve in analytical forms, e.g. duke filluar) 23.07.2023
 SELECT (VB_PART) IF (0 ("<duke>"i))
 				    (1 (ptcp));	
-SELECT (VB_PART) IF (0 "<duke>"i)
+SELECT (VB_PART) IF (0 ("<duke>"i))
 				    (1 ("<na>"i))
 					(2 ("<i>"i) OR ("<e>"i))
 					(3 (ptcp));
