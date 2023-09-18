@@ -4062,26 +4062,34 @@
  -flex: <2>.
   gramm: abl
 
--paradigm: pers-pro-3-sg-pl
+-paradigm: pers-pro-3-sg
  -flex: <0>.
   gramm: nom
  -flex: <1>.
   gramm: gen_dat
- -flex: <1>.ve
+ -flex: <2>.
+  gramm: acc
+ -flex: <1>.//<3>.
+  gramm: abl
+ -flex: <4>.
+  gramm: abl,nonst
+
+-paradigm: pers-pro-3-pl
+ -flex: <0>.
+  gramm: nom
+ -flex: <1>.
+  gramm: gen_dat
+ -flex: <1>.ve//<4>.//<4>.ve
   gramm: gen_dat,nonst
- -flex: <4>.//<4>.ve
-  gramm: gen_dat,nonst
- -flex: <5>.//<5>.ve
+ -flex: <6>.//<6>.ve
   gramm: gen_dat,nonst,Gheg
  -flex: <2>.
   gramm: acc
  -flex: <1>.//<3>.
   gramm: abl
- -flex: <1>.ve
+ -flex: <1>.ve//<4>.//<4>.ve//<5>.
   gramm: abl,nonst
- -flex: <4>.//<4>.ve//<6>.
-  gramm: abl,nonst
- -flex: <5>.//<5>.ve//<7>.
+ -flex: <6>.//<6>.ve//<7>.
   gramm: abl,nonst,Gheg
 
 -paradigm: interrog-pro

@@ -97999,6 +97999,13 @@
  trans_en: difficult
 
 -lexeme
+ lex: vështirë
+ stem: vështir.|NOSTEM.
+ gramm: A,nonst,alb,deriv
+ paradigm: adj-2-1
+ trans_en: difficult
+
+-lexeme
  lex: vështirësuar
  stem: vështirësuar.|vështirësuar.
  gramm: A,alb,deriv

@@ -21518,13 +21518,6 @@
  trans_en: garrison
 
 -lexeme
- lex: kushtoj
- stem: kështo.|kështua.|kështu.|kësht.
- gramm: V,vt,vi,nonst,borr,it,deriv
- paradigm: lexoj
- trans_en: dedicate, consecrate (vt); devote; cost (vi)
-
--lexeme
  lex: labërgoj
  stem: labërgo.|labërgua.|labërgu.|labërg.
  gramm: V,med,alb,deriv
@@ -27737,7 +27730,14 @@
  stem: mund.
  gramm: V,vt,alb
  paradigm: hap
- trans_en: be able; be capable; can, could; may, might (semi-auxiliary modal); beat; defeat (vt)
+ trans_en: beat; defeat
+
+-lexeme
+ lex: mund
+ stem: mund.
+ gramm: VB_PART,alb
+ paradigm: unchangeable
+ trans_en: be able; be capable; can, could; may, might
 
 -lexeme
  lex: mundoj
@@ -51826,16 +51826,16 @@
 
 -lexeme
  lex: sëmuhem
- stem: sëmuh.
+ stem: sëmu.|sëmujt.
  gramm: V,med,nonst,alb,deriv
- paradigm: hap-1
+ paradigm: brej-1
  trans_en: be sick
 
 -lexeme
  lex: sëmuj
- stem: sëmu.|sëmua.|sëmu.
+ stem: sëmu.|sëmujt.
  gramm: V,vt,nonst,alb,deriv
- paradigm: lexoj
+ paradigm: brej
  trans_en: make sick
 
 -lexeme
@@ -54637,13 +54637,6 @@
  trans_en: guide
 
 -lexeme
- lex: uj
- stem: uj.
- gramm: V,vt,alb,deriv
- paradigm: beh
- trans_en: dilute
-
--lexeme
  lex: hujaks
  stem: ujaks.
  gramm: V,med,nonst,borr,greek
@@ -57388,20 +57381,6 @@
  gramm: V,vt,borr,slav
  paradigm: mat
  trans_en: hurl
-
--lexeme
- lex: vështir
- stem: vështir.
- gramm: V,med,alb,deriv
- paradigm: hap-1
- trans_en: be disgusting
-
--lexeme
- lex: vështir
- stem: vështir.
- gramm: V,vt,alb,deriv
- paradigm: hap
- trans_en: tell smth. disgusting
 
 -lexeme
  lex: vështiros

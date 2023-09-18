@@ -11,7 +11,7 @@ LIST Clitics = "<më>" "<ma>" "<të>" "<ta>" "<i>" "<na>" "<ju>" "<u>" "<ia>" "<
 SET BOSPunct = (punct) | BOS;
 
 SECTION    # Verbs
-# Choose correct person for verbs in 1-3, sg, present tense: look at pronominal subjects +
+# Choose correct person for verbs in 1-3, sg, present tense: look at pronominal subjects (19.09.2023 - добавить во 2 лицо (NOT 0 ("<do>"i)))
 SELECT (V ind pres act 1 sg) IF (0 Verbs)
 								(-1 (PRO 1 sg nom))
 								(NOT -2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
@@ -22,7 +22,7 @@ SELECT (V ind pres act 3 sg) IF (0 Verbs)
 								(-1 (PRO 3 sg m nom) OR (PRO 3 sg f nom))
 								(NOT -2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
 								
-# Imp,2,pl vs. prs,2,pl: future tense and modals +- (Upd. 23.07.2023)
+# Imp,2,pl vs. prs,2,pl: future tense and modals +- (Upd. 23.07.2023) - 19.09.2023 не получилось проверить
 # REMOVE (V imp act 2 pl) IF (-1 ("<po>"i)); (not correct, because "po" as an exclamative particle can precede imperatives)
 # REMOVE (V imp act 2 sg) IF (-1 ("<po>"i)); (not correct, because "po" as an exclamative particle can precede imperatives)
 # REMOVE (V imp act 2 pl) IF (-1 (PRO 2 pl nom) OR WhQuestions); (improved, see below)
@@ -36,7 +36,7 @@ REMOVE (V imp) IF (1 (PRO 1 sg nom) OR (PRO 2 sg nom) OR (PRO 3 sg m nom) OR (PR
 REMOVE (V imp) IF (-2 Verbs)
 				  (-1 Clitics or ("<të>"));		   
 					  
-# Analytical perfect (select "participle", not "adjective") +
+# Analytical perfect (select "participle", not "adjective") 19.09.2023 +
 SELECT (ptcp) IF (0 (ptcp) - (A))
 				 (-1 ("kam") OR ("jam"));
 
@@ -180,9 +180,10 @@ REMOVE (pl) IF  (0 (NOUN))
 REMOVE (pl) IF  (0 (NOUN))
 				(-1 ("<një>"i));
 				
-# Alb nouns immediately after numerals are plural, not singular (01.11.2022)
+# Alb nouns immediately after numerals are plural, not singular (01.11.2022, Upd 19.09.2023)
 REMOVE (sg) IF  (0 (NOUN))
-				(-1 (NUM));
+				(-1 (NUM))
+				(NOT -1 ("<një>"i));
 				 
 # Nominative after the prepositions "tek" and "nga" (Upd on 01.02.2022 - një added, nga + (një +) ART added) (01.11.2022)
 SELECT (nom def) IF (0 (NOUN) OR (PRO) OR (ART))
@@ -366,9 +367,9 @@ SELECT (CLIT_PRO) IF (0 ("<të>"i) OR ("<ta>"i))
 #					(1 ("<ia>") OR ("<ua>"))
 #					(2 (V));		
 
-# Alb të immediately before the verb is either a pronoun or a verbal particle, not an article (01.11.2022) - deleted 23.07.2023
-# REMOVE (ART) IF (0 ("<të>"i) or ("<e>"i))
-#				(1 (V));
+# Alb të immediately before the verb is either a pronoun or a verbal particle, not an article (01.11.2022; updated 19.09.2023)
+REMOVE (ART) IF (0 ("<të>"i))
+				(1 (V sbjv 2 sg));
 				
 # Alb në immediately before the verb is a conjunction, not a preposition (01.11.2022) - не работает 23.07.2023, убирает и лишние разборы у глагола
 # REMOVE (PR) IF (0 ("<në>"i))
@@ -496,4 +497,13 @@ SELECT (VB_PART) IF (0 ("<duke>"i))
 					(1 Clitics)
 					(NOT 1 ("<të>"))
 					(2 (ptcp));
+
+# Alb mund: particle vs. verb (resolve in forms with të, e.g. mund të shkoj) 19.09.2023
+SELECT (VB_PART) IF (0 ("<mund>"i))
+				    (1 ("<të>"i) OR ("<t>"i) OR ("<ta>"i))
+					(NOT 2 (A) OR (NOUN));	
+
+# Medial verbs do not have analytical perfect with "kam" (select "vt vi" participle) 19.09.2023
+REMOVE (med) IF (0 (ptcp))
+				(-1 ("kam"));
 			

@@ -168,16 +168,16 @@
 
 -lexeme
  lex: ai
- stem: ai.|atij.|atë.//të.|asi.//tij.|NOSTEM.|NOSTEM.|NOSTEM.|NOSTEM.
+ stem: ai.|atij.|atë.//të.|asi.//tij.|NOSTEM.
  gramm: PRO,3,sg,m,alb
- paradigm: pers-pro-3-sg-pl
+ paradigm: pers-pro-3-sg
  trans_en: he
 
 -lexeme
  lex: ajo
- stem: ajo.|asaj.|atë.//të.|aso.//saj.|soje.|NOSTEM.|NOSTEM.|NOSTEM.
+ stem: ajo.|asaj.|atë.//të.|aso.//saj.|soje.
  gramm: PRO,3,sg,f,alb
- paradigm: pers-pro-3-sg-pl
+ paradigm: pers-pro-3-sg
  trans_en: she
 
 -lexeme
@@ -989,9 +989,9 @@
 
 -lexeme
  lex: ata
- stem: ata.|atyre.|ata.//ta.|asish.//sish.|atire.|atyne.//atine.|syresh.//siresh.//tyre.//tire.|tyne.//tine.
+ stem: ata.|atyre.|ata.//ta.|asish.//sish.//tyre.|atire.|syresh.//siresh.//tire.|atyne.//atine.|tyne.//tine.
  gramm: PRO,3,pl,m,alb
- paradigm: pers-pro-3-sg-pl
+ paradigm: pers-pro-3-pl
  trans_en: they (male)
 
 -lexeme
@@ -1031,9 +1031,9 @@
 
 -lexeme
  lex: ato
- stem: ato.|atyre.|ato.//to.|asosh.//sosh.|atire.|atyne.//atine.|syresh.//siresh.//tyre.//tire.|tyne.//tine.
+ stem: ato.|atyre.|ato.//to.|asosh.//sosh.//tyre.|atire.|syresh.//siresh.//tire.|atyne.//atine.|tyne.//tine.
  gramm: PRO,3,pl,f,alb
- paradigm: pers-pro-3-sg-pl
+ paradigm: pers-pro-3-pl
  trans_en: they (female)
 
 -lexeme
