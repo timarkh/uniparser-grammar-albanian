@@ -8272,7 +8272,7 @@
 -lexeme
  lex: mbi
  stem: mbi.
- gramm: PR,with_acc,with_loc,alb
+ gramm: PR,with_acc,alb
  paradigm: unchangeable
  trans_en: over
 
@@ -8385,7 +8385,7 @@
  lex: mbë
  stem: mbë.//mb.
  lexref: mbi
- gramm: PR,with_acc,with_loc,nonst,alb
+ gramm: PR,with_acc,nonst,alb
  paradigm: unchangeable
  trans_en: on, upon
 
@@ -9342,7 +9342,7 @@
  lex: ndrë
  stem: ndrë.
  lexref: ndër
- gramm: PR,with_acc,with_loc,nonst
+ gramm: PR,with_acc,nonst
  paradigm: unchangeable
  trans_en: between; among, amidst, in; throughout
 
@@ -9392,14 +9392,14 @@
  lex: ndë
  stem: ndë.//nd.
  lexref: në
- gramm: PR,with_acc,with_loc,nonst
+ gramm: PR,with_acc,nonst
  paradigm: unchangeable
  trans_en: in; on
 
 -lexeme
  lex: ndënë
  stem: ndën.
- gramm: PR,with_acc,with_loc,nonst
+ gramm: PR,with_acc,nonst
  paradigm: unchangeable
  lexref: nën
  trans_en: under
@@ -9408,7 +9408,7 @@
  lex: ndënë
  stem: ndënë.
  lexref: nën
- gramm: PR,with_acc,with_loc,nonst
+ gramm: PR,with_acc,nonst
  paradigm: unchangeable
  trans_en: under
 
@@ -10411,15 +10411,29 @@
 
 -lexeme
  lex: në
- stem: në.//n.
+ stem: në.
  gramm: CONJ,alb
  paradigm: unchangeable
  trans_en: if, whether
 
 -lexeme
  lex: në
- stem: në.//n.
- gramm: PR,with_acc,with_loc,alb
+ stem: në.
+ gramm: PR,with_acc,alb
+ paradigm: unchangeable
+ trans_en: in; on
+
+-lexeme
+ lex: në
+ stem: n.
+ gramm: CONJ,nonst,alb
+ paradigm: unchangeable
+ trans_en: if, whether
+
+-lexeme
+ lex: në
+ stem: n.
+ gramm: PR,with_acc,nonst,alb
  paradigm: unchangeable
  trans_en: in; on
 
@@ -10433,7 +10447,7 @@
 -lexeme
  lex: nën
  stem: nën.
- gramm: PR,with_acc,with_loc,alb
+ gramm: PR,with_acc,alb
  paradigm: unchangeable
  trans_en: under
 
@@ -10461,7 +10475,7 @@
 -lexeme
  lex: nëpër
  stem: nëpër.
- gramm: PR,with_acc,with_loc,alb,deriv
+ gramm: PR,with_acc,alb,deriv
  paradigm: unchangeable
  trans_en: among
 
@@ -10483,6 +10497,34 @@
  lex: nëpërmjet
  stem: nëpërmjet.
  gramm: PR,with_abl,alb,deriv
+ paradigm: unchangeable
+ trans_en: by means of, through
+
+-lexeme
+ lex: nëpër
+ stem: ndëpër.
+ gramm: PR,nonst,with_acc,alb,deriv
+ paradigm: unchangeable
+ trans_en: among
+
+-lexeme
+ lex: nëpërmes
+ stem: ndëpërmes.
+ gramm: ADV,nonst,alb,deriv
+ paradigm: unchangeable
+ trans_en: across
+
+-lexeme
+ lex: nëpërmes
+ stem: ndëpërmes.
+ gramm: PR,nonst,with_abl,alb,deriv
+ paradigm: unchangeable
+ trans_en: through
+
+-lexeme
+ lex: nëpërmjet
+ stem: ndëpërmjet.
+ gramm: PR,nonst,with_abl,alb,deriv
  paradigm: unchangeable
  trans_en: by means of, through
 
@@ -10671,7 +10713,7 @@
 -lexeme
  lex: pa
  stem: pa.
- gramm: PR,with_acc,with_loc,alb
+ gramm: PR,with_acc,alb
  paradigm: unchangeable
  trans_en: without
 
@@ -11406,7 +11448,7 @@
 -lexeme
  lex: për
  stem: per.//pr.
- gramm: PR,with_acc,with_abl,with_loc,nonst,alb
+ gramm: PR,with_acc,with_abl,nonst,alb
  paradigm: unchangeable
  trans_en: for, about
 
@@ -12380,7 +12422,7 @@
 -lexeme
  lex: për
  stem: për.
- gramm: PR,with_acc,with_abl,with_loc,alb
+ gramm: PR,with_acc,with_abl,alb
  paradigm: unchangeable
  trans_en: for, about
 
@@ -12849,7 +12891,7 @@
 -lexeme
  lex: përmbi
  stem: përmbi.
- gramm: PR,with_acc,with_loc,alb,deriv
+ gramm: PR,with_acc,alb,deriv
  paradigm: unchangeable
  trans_en: over
 
@@ -15495,13 +15537,6 @@
  trans_en: as, like
 
 -lexeme
- lex: simbas
- stem: simbas.
- gramm: PR,with_abl
- paradigm: unchangeable
- trans_en: according to
-
--lexeme
  lex: sindonja
  stem: sindonja.
  gramm: ADV,alb,deriv
@@ -15517,7 +15552,7 @@
 
 -lexeme
  lex: sipas
- stem: sipas.
+ stem: sipas.//simbas.
  gramm: PR,with_abl
  paradigm: unchangeable
  trans_en: according to
@@ -16222,6 +16257,13 @@
  gramm: ADV,alb,deriv
  paradigm: unchangeable
  trans_en: deeply, deep down
+
+-lexeme
+ lex: thellë
+ stem: thellë.
+ gramm: ADV,alb
+ paradigm: unchangeable
+ trans_en: deeply, profoundly
 
 -lexeme
  lex: thellësisht
@@ -19057,6 +19099,6 @@
 -lexeme
  lex: etj
  stem: etj.
- gramm: ABBR,alb
+ gramm: ABBR
  paradigm: unchangeable
  trans_en: etc.

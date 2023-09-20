@@ -34414,6 +34414,13 @@
  trans_en: for copying, duplicating
 
 -lexeme
+ lex: kopjueshëm
+ stem: kopjueshëm.|kopjueshm.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-1-2-a
+ trans_en: copiable
+
+-lexeme
  lex: kopsitur
  stem: kopsitur.|kopsitur.
  gramm: A,borr,slav,deriv
@@ -35674,6 +35681,13 @@
  trans_en: qualifying
 
 -lexeme
+ lex: kualifikueshëm
+ stem: kualifikueshëm.|kualifikueshm.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-1-2-a
+ trans_en: qualifiable
+
+-lexeme
  lex: kualitativ
  stem: kualitativ.
  gramm: A
@@ -36462,7 +36476,7 @@
  stem: kurorëzuar.|kurorëzuar.
  gramm: A,borr,lat,deriv
  paradigm: adj-2-2
- trans_en: married
+ trans_en: married, spliced
 
 -lexeme
  lex: kurrizbreshkë
@@ -36631,6 +36645,13 @@
  gramm: A,borr,it,deriv
  paradigm: adj-2-2
  trans_en: conditioned, conditional
+
+-lexeme
+ lex: kushtëzueshëm
+ stem: kushtëzueshëm.|kushtëzueshm.
+ gramm: A,borr,it,deriv
+ paradigm: adj-1-2-a
+ trans_en: subject to constraints, limitations
 
 -lexeme
  lex: kusuremadh
@@ -37275,6 +37296,13 @@
  gramm: A,alb,deriv
  paradigm: adj-2-2
  trans_en: protruding, bulging
+
+-lexeme
+ lex: kërcyeshëm
+ stem: kërcyeshëm.|kërcyeshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: overcomable, traversable
 
 -lexeme
  lex: kërcënuar
@@ -39160,6 +39188,13 @@
  trans_en: profitable, advantageous, fruitful
 
 -lexeme
+ lex: leverdishëm
+ stem: leverdisshëm.|leverdisshm.
+ gramm: A,nonst,borr,turk,deriv
+ paradigm: adj-1-2-a
+ trans_en: profitable, advantageous, fruitful
+
+-lexeme
  lex: leverdisur
  stem: leverdisur.|leverdisur.
  gramm: A,borr,turk,deriv
@@ -40652,6 +40687,13 @@
  trans_en: movable, unstable
 
 -lexeme
+ lex: luajtshëm
+ stem: luejtshëm.//lujtshëm.|luejtshm.//lujtshm.
+ gramm: A,nonst,Gheg,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: movable, unstable
+
+-lexeme
  lex: luajtur
  stem: luajtur.|luajtur.
  gramm: A,alb,deriv
@@ -41668,6 +41710,13 @@
  trans_en: issuing
 
 -lexeme
+ lex: lëshueshëm
+ stem: lëshueshëm.|lëshueshm.
+ gramm: A,borr,rom,deriv
+ paradigm: adj-1-2-a
+ trans_en: lettable, hireable
+
+-lexeme
  lex: lëthurur
  stem: lëthurur.|lëthurur.
  gramm: A,alb,deriv
@@ -42613,6 +42662,13 @@
  trans_en: married
 
 -lexeme
+ lex: martuem
+ stem: martuem.//martumun.|martuem.//martumun.
+ gramm: A,nonst,Gheg,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: married
+
+-lexeme
  lex: masakruar
  stem: masakruar.|masakruar.
  gramm: A,borr,rom,new,deriv
@@ -42814,6 +42870,13 @@
  gramm: A,borr,turk,deriv
  paradigm: adj-2-2
  trans_en: in one's dotage; senile
+
+-lexeme
+ lex: maturuar
+ stem: maturuar.|maturuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: matured
 
 -lexeme
  lex: matur
@@ -43145,6 +43208,13 @@
  trans_en: surviving
 
 -lexeme
+ lex: mbikëqyrur
+ stem: mbikëqyrur.|mbikëqyrur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: supervised
+
+-lexeme
  lex: mbikëqyrës
  stem: mbikëqyrës.|mbikëqyrës.
  gramm: A,alb,deriv
@@ -43393,6 +43463,13 @@
  lex: mbledhur
  stem: mbledhur.|mbledhur.
  gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: compact; calm and collected
+
+-lexeme
+ lex: mbledhun
+ stem: mbledhun.|mbledhun.
+ gramm: A,nondt,Gheg,alb,deriv
  paradigm: adj-2-2
  trans_en: compact; calm and collected
 
@@ -47134,7 +47211,7 @@
  stem: mprapsur.|mprapsur.
  gramm: A,alb,deriv
  paradigm: adj-2-2
- trans_en: 
+ trans_en: repelled, pushed backwards
 
 -lexeme
  lex: mushkazëm
@@ -47470,7 +47547,7 @@
  stem: mëkëmbur.|mëkëmbur.
  gramm: A,alb,deriv
  paradigm: adj-2-2
- trans_en: standing/walking on one's own feet
+ trans_en: standing, walking on one's own feet
 
 -lexeme
  lex: mëlcuar
@@ -55225,6 +55302,13 @@
  trans_en: uncoordinated
 
 -lexeme
+ lex: pakopjueshëm
+ stem: pakopjueshëm.|pakopjueshm.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-1-2-a
+ trans_en: uncopiable
+
+-lexeme
  lex: pakorrigjuar
  stem: pakorrigjuar.|pakorrigjuar.
  gramm: A,borr,it,new,deriv
@@ -55341,7 +55425,14 @@
  stem: pakryer.|pakryer.
  gramm: A,alb,deriv
  paradigm: adj-2-2
- trans_en: unfinished
+ trans_en: unfinished, imperfective
+
+-lexeme
+ lex: pakryem
+ stem: pakryem.//pakrymun.|pakryem.//pakrymun.
+ gramm: A,nonst,Gheg,alb,deriv
+ paradigm: adj-2-2
+ trans_en: unfinished, imperfective
 
 -lexeme
  lex: pakthellueshëm
@@ -55376,7 +55467,7 @@
  stem: paktë.|pakt.
  gramm: A,borr,lat,deriv
  paradigm: adj-2-1
- trans_en: small in quantity/number
+ trans_en: small in quantity, number
 
 -lexeme
  lex: pakualifikuar
@@ -55384,6 +55475,13 @@
  gramm: A,borr,it,new,deriv
  paradigm: adj-2-2
  trans_en: unqualified
+
+-lexeme
+ lex: pakualifikueshëm
+ stem: pakualifikueshëm.|pakualifikueshm.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-1-2-a
+ trans_en: unqualifiable
 
 -lexeme
  lex: pakuar
@@ -55396,6 +55494,13 @@
  lex: pakufishëm
  stem: pakufishëm.|pakufishm.
  gramm: A,borr,it,deriv
+ paradigm: adj-1-2-a
+ trans_en: boundless
+
+-lexeme
+ lex: pakufishëm
+ stem: pakufijshëm.|pakufijshm.
+ gramm: A,nonst,borr,it,deriv
  paradigm: adj-1-2-a
  trans_en: boundless
 
@@ -55484,6 +55589,13 @@
  trans_en: senseless, meaningless
 
 -lexeme
+ lex: pakuptuar
+ stem: pakuptuar.|pakuptuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: not understood
+
+-lexeme
  lex: pakuptueshëm
  stem: pakuptueshëm.|pakuptueshm.
  gramm: A,alb,deriv
@@ -55502,7 +55614,14 @@
  stem: pakurorë.|pakuror.
  gramm: A,borr,lat,deriv
  paradigm: adj-2-1
- trans_en: umarried
+ trans_en: umarried, unspliced
+
+-lexeme
+ lex: pakurorëzuar
+ stem: pakurorëzuar.|pakurorëzuar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: unmarried, unspliced
 
 -lexeme
  lex: pakursyer
@@ -55524,6 +55643,13 @@
  gramm: A,borr,it,deriv
  paradigm: adj-2-2
  trans_en: independent
+
+-lexeme
+ lex: pakushtëzueshëm
+ stem: pakushtëzueshëm.|pakushtëzueshm.
+ gramm: A,borr,it,deriv
+ paradigm: adj-1-2-a
+ trans_en: not subject to constraints, limitations
 
 -lexeme
  lex: pakyçur
@@ -55603,6 +55729,27 @@
  trans_en: unbroken
 
 -lexeme
+ lex: pakërcyeshëm
+ stem: pakërcyeshëm.|pakërcyeshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: untraversable
+
+-lexeme
+ lex: pakërcënueshëm
+ stem: pakërcënueshëm.|pakërcënueshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: non-threatening, harmless
+
+-lexeme
+ lex: pakërkueshëm
+ stem: pakërkueshëm.|pakërkueshm.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-1-2-a
+ trans_en: not in great demand, non-findable
+
+-lexeme
  lex: pakërrusur
  stem: pakërrusur.|pakërrusur.
  gramm: A,alb,deriv
@@ -55612,7 +55759,7 @@
 -lexeme
  lex: pakëshillueshëm
  stem: pakëshillueshëm.|pakëshillueshm.
- gramm: A
+ gramm: A,borr,lat,deriv
  paradigm: adj-1-2-a
  trans_en: inadvisable
 
@@ -55645,6 +55792,13 @@
  trans_en: waterproof
 
 -lexeme
+ lex: palajmëruar
+ stem: palajmëruar.|palajmëruar.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-2-2
+ trans_en: uninformed, unnotified
+
+-lexeme
  lex: palajthishëm
  stem: palajthishëm.|palajthishm.
  gramm: A,borr,greek,deriv
@@ -55657,6 +55811,20 @@
  gramm: A,borr,greek,deriv
  paradigm: adj-2-2
  trans_en: unerring
+
+-lexeme
+ lex: palakmuar
+ stem: palakmuar.|palakmuar.
+ gramm: A,borr,slav,deriv
+ paradigm: adj-2-2
+ trans_en: undesired, unwished
+
+-lexeme
+ lex: palakmueshëm
+ stem: palakmueshëm.|palakmueshm.
+ gramm: A,borr,slav,deriv
+ paradigm: adj-1-2-a
+ trans_en: not desirable
 
 -lexeme
  lex: palakuar
@@ -55820,6 +55988,20 @@
  trans_en: disadvantageous, unprofitable
 
 -lexeme
+ lex: paleverdisshëm
+ stem: paleverdisshëm.|paleverdisshm.
+ gramm: A,nonst,borr,turk,deriv
+ paradigm: adj-1-2-a
+ trans_en: disadvantageous, unprofitable
+
+-lexeme
+ lex: palexuar
+ stem: palexuar.|palexuar.
+ gramm: A,borr,it,deriv
+ paradigm: adj-2-2
+ trans_en: unread
+
+-lexeme
  lex: palexueshëm
  stem: palexueshëm.|palexueshm.
  gramm: A,borr,it,deriv
@@ -55844,6 +56026,13 @@
  lex: palicencuar
  stem: palicencuar.|palicencuar.
  gramm: A,borr,it,new,deriv
+ paradigm: adj-2-2
+ trans_en: unlicensed
+
+-lexeme
+ lex: palicencuar
+ stem: paliçencuar.|paliçencuar.
+ gramm: A,nonst,borr,it,new,deriv
  paradigm: adj-2-2
  trans_en: unlicensed
 
@@ -55960,6 +56149,13 @@
  trans_en: illogical
 
 -lexeme
+ lex: palokalizuar
+ stem: palokalizuar.|palokalizuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: unlocalized
+
+-lexeme
  lex: palosshëm
  stem: palosshëm.|palosshm.
  gramm: A,alb,deriv
@@ -56003,7 +56199,7 @@
 
 -lexeme
  lex: paluejtshëm
- stem: paluejtshëm.|paluejtshm.
+ stem: paluejtshëm.//palujtshëm.|paluejtshm.//palujtshm.
  gramm: A,nonst,Gheg,alb,deriv
  lexref: paluajtshëm
  paradigm: adj-1-2-a
@@ -56101,11 +56297,25 @@
  trans_en: not juicy
 
 -lexeme
+ lex: palënduar
+ stem: palënduar.|palënduar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: unhurt
+
+-lexeme
  lex: palëruar
  stem: palëruar.|palëruar.
  gramm: A,borr,lat,deriv
  paradigm: adj-2-2
  trans_en: unplowed
+
+-lexeme
+ lex: palëshueshëm
+ stem: palëshueshëm.|palëshueshm.
+ gramm: A,borr,rom,deriv
+ paradigm: adj-1-2-a
+ trans_en: unlettable, unhireable; intolerant
 
 -lexeme
  lex: palëtuar
@@ -56178,6 +56388,13 @@
  trans_en: unmarried
 
 -lexeme
+ lex: pamartuem
+ stem: pamartuem.//pamartumun.|pamartuem.//pamartumun.
+ gramm: A,nonst,Gheg,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: unmarried
+
+-lexeme
  lex: pamashkull
  stem: pamashkull.|pamashkull.
  gramm: A,borr,lat,deriv
@@ -56213,6 +56430,13 @@
  trans_en: immoderate; unmeasured
 
 -lexeme
+ lex: pamaturuar
+ stem: pamaturuar.|pamaturuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: immature
+
+-lexeme
  lex: pamazitur
  stem: pamazitur.|pamazitur.
  gramm: A,alb,deriv
@@ -56225,6 +56449,13 @@
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: interminable; endless
+
+-lexeme
+ lex: pambajtshëm
+ stem: pambajtshëm.|pambajtshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: insupportable
 
 -lexeme
  lex: pambarimshëm
@@ -56248,6 +56479,13 @@
  trans_en: unfinished; uncompleted
 
 -lexeme
+ lex: pambaruem
+ stem: pambaruem.//pambarumun.|pambaruem.//pambarumun.
+ gramm: A,nonst,Gheg,alb,deriv
+ paradigm: adj-2-2
+ trans_en: unfinished; uncompleted
+
+-lexeme
  lex: pambaruarshëm
  stem: pambaruarshëm.|pambaruarshm.
  gramm: A,alb,deriv
@@ -56262,6 +56500,13 @@
  trans_en: inexhaustible
 
 -lexeme
+ lex: pambikëqyrur
+ stem: pambikëqyrur.|pambikëqyrur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: unsupervised
+
+-lexeme
  lex: pambirë
  stem: pambirë.|pambir.
  gramm: A,alb,deriv
@@ -56274,6 +56519,20 @@
  gramm: A,alb,deriv
  paradigm: adj-2-1
  trans_en: unsown
+
+-lexeme
+ lex: pambledhur
+ stem: pambledhur.|pambledhur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: uncompact; uncollected
+
+-lexeme
+ lex: pambledhun
+ stem: pambledhun.|pambledhun.
+ gramm: A,nondt,Gheg,alb,deriv
+ paradigm: adj-2-2
+ trans_en: uncompact; uncollected
 
 -lexeme
  lex: pambrojtshëm
@@ -56304,11 +56563,46 @@
  trans_en: uncovered
 
 -lexeme
+ lex: pambuluem
+ stem: pambuluem.//pambulumun.|pambuluem.//pambulumun.
+ gramm: A,nonst,Gheg,alb,deriv
+ paradigm: adj-2-2
+ trans_en: uncovered
+
+-lexeme
+ lex: pambulueshëm
+ stem: pambulueshëm.|pambulueshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: uncoverable
+
+-lexeme
  lex: pambyllur
  stem: pambyllur.|pambyllur.
  gramm: A,alb,deriv
  paradigm: adj-2-2
  trans_en: unclosed
+
+-lexeme
+ lex: pambytur
+ stem: pambytur.|pambytur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: undrowned, unsoaked; non-vague
+
+-lexeme
+ lex: pambërthyer
+ stem: pambërthyer.|pambërthyer.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: unbuttoned; unattached
+
+-lexeme
+ lex: pamenaxhueshëm
+ stem: pamenaxhueshëm.|pamenaxhueshm.
+ gramm: A,borr,en,new,deriv
+ paradigm: adj-1-2-a
+ trans_en: unmanageable
 
 -lexeme
  lex: pamenduar
@@ -56318,9 +56612,37 @@
  trans_en: mindless; thoughtless
 
 -lexeme
+ lex: pamenduem
+ stem: pamenduem.//pamendumun.|pamenduem.//pamendumun.
+ gramm: A,nonst,Gheg,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: mindless; thoughtless
+
+-lexeme
+ lex: pamendët
+ stem: pamendët.|pamendt.//pamendët.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2-a
+ trans_en: crazy, empty-headed
+
+-lexeme
+ lex: pamerakosur
+ stem: pamerakosur.|pamerakosur.
+ gramm: A,borr,turk,deriv
+ paradigm: adj-2-2
+ trans_en: unworried
+
+-lexeme
  lex: pamerituar
  stem: pamerituar.|pamerituar.
  gramm: A,borr,it,deriv
+ paradigm: adj-2-2
+ trans_en: unmerited
+
+-lexeme
+ lex: pamerituem
+ stem: pamerituem.//pameritumun.|pamerituem.//pameritumun.
+ gramm: A,nonst,Gheg,borr,it,deriv
  paradigm: adj-2-2
  trans_en: unmerited
 
@@ -56346,6 +56668,62 @@
  trans_en: improper; unpleasant
 
 -lexeme
+ lex: pamirëfilltë
+ stem: pamirëfilltë.|pamirëfillt.
+ gramm: A,alb,borr,lat,deriv
+ paradigm: adj-2-1
+ trans_en: non-genuine, unreal
+
+-lexeme
+ lex: pamirëfilltë
+ stem: pamirfilltë.|pamirfillt.
+ gramm: A,nonst,alb,borr,lat,deriv
+ paradigm: adj-2-1
+ trans_en: non-genuine, unreal
+
+-lexeme
+ lex: pamirëmbajtur
+ stem: pamirëmbajtur.|pamirëmbajtur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: not well-maintained
+
+-lexeme
+ lex: pamirëmbajtur
+ stem: pamirmbajtur.|pamirmbajtur.
+ gramm: A,nonst,alb,deriv
+ paradigm: adj-2-2
+ trans_en: not well-maintained
+
+-lexeme
+ lex: pamirëmenaxhuar
+ stem: pamirëmenaxhuar.|pamirëmenaxhuar.
+ gramm: A,alb,borr,en,new,deriv
+ paradigm: adj-2-2
+ trans_en: not well-managed, well-directed
+
+-lexeme
+ lex: pamirëmenaxhuar
+ stem: pamirmenaxhuar.|pamirmenaxhuar.
+ gramm: A,nonst,alb,borr,en,new,deriv
+ paradigm: adj-2-2
+ trans_en: not well-managed, well-directed
+
+-lexeme
+ lex: pamirëpritur
+ stem: pamirëpritur.|pamirëpritur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: not welcome
+
+-lexeme
+ lex: pamirëpritur
+ stem: pamirpritur.|pamirpritur.
+ gramm: A,nonst,alb,deriv
+ paradigm: adj-2-2
+ trans_en: not welcome
+
+-lexeme
  lex: pamish
  stem: pamish.
  gramm: A,alb,deriv
@@ -56365,6 +56743,13 @@
  gramm: A,borr,lat,deriv
  paradigm: adj-2-1
  trans_en: insufficient, inadequate
+
+-lexeme
+ lex: pamjekuar
+ stem: pamjekuar.|pamjekuar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: medically untreated
 
 -lexeme
  lex: pamjekueshëm
@@ -56395,6 +56780,13 @@
  trans_en: ever-smiling
 
 -lexeme
+ lex: pamohuar
+ stem: pamohuar.|pamohuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: undenied; undisclaimed
+
+-lexeme
  lex: pamohueshëm
  stem: pamohueshëm.|pamohueshm.
  gramm: A,alb,deriv
@@ -56407,6 +56799,20 @@
  gramm: A,borr,fr,new,deriv
  paradigm: adj-2-2
  trans_en: unmonitored, uncontrolled
+
+-lexeme
+ lex: pamontuar
+ stem: pamontuar.|pamontuar.
+ gramm: A,borr,fr,new,deriv
+ paradigm: adj-2-2
+ trans_en: unmounted, unassembled
+
+-lexeme
+ lex: pamontueshëm
+ stem: pamontueshëm.|pamontueshm.
+ gramm: A,borr,fr,new,deriv
+ paradigm: adj-1-2-a
+ trans_en: not mountable
 
 -lexeme
  lex: pamor
@@ -56437,11 +56843,25 @@
  trans_en: immortal
 
 -lexeme
+ lex: pamotivuar
+ stem: pamotivuar.|pamotivuar.
+ gramm: A
+ paradigm: adj-2-2
+ trans_en: unmotivated
+
+-lexeme
+ lex: pamotivuem
+ stem: pamotivuem.|pamotivuem.
+ gramm: A,nonst,Gheg
+ paradigm: adj-2-2
+ trans_en: unmotivated
+
+-lexeme
  lex: pamotivueshëm
  stem: pamotivueshëm.|pamotivueshm.
  gramm: A
  paradigm: adj-1-2-a
- trans_en: unmotivated
+ trans_en: not motivated
 
 -lexeme
  lex: pamposhtshëm
@@ -56456,6 +56876,13 @@
  gramm: A,alb,deriv
  paradigm: adj-2-2
  trans_en: undefeated
+
+-lexeme
+ lex: pamprapsur
+ stem: pamprapsur.|pamprapsur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: not repelled, pushed backwards
 
 -lexeme
  lex: pamundimshëm
@@ -56500,11 +56927,25 @@
  trans_en: never absent; ever available
 
 -lexeme
+ lex: pamëkatshëm
+ stem: pamëkatshëm.|pamëkatshm.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-1-2-a
+ trans_en: without sin
+
+-lexeme
  lex: pamëkatë
  stem: pamëkatë.|pamëkat.
  gramm: A,borr,lat,deriv
  paradigm: adj-2-1
  trans_en: without sin
+
+-lexeme
+ lex: pamëkëmbur
+ stem: pamëkëmbur.|pamëkëmbur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: unable to stand, walk on one's own feet; unsteady
 
 -lexeme
  lex: pamënjanueshëm

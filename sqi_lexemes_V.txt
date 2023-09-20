@@ -16689,7 +16689,7 @@
 
 -lexeme
  lex: jam
- stem: ja.|je.//jë.|ësh.//ish.|qen.//klen.|ish.|qe.//kle.|ji.|qo.//klo.|ken.|ash.//âsh.|qën.//klën.
+ stem: ja.|je.//jë.|ësh.//ish.|qen.//klen.|ish.|qe.//kle.|ji.|qo.//klo.|ash.//âsh.|qën.//klën.
  gramm: V,vi,alb
  paradigm: jam
  trans_en: be
@@ -32373,6 +32373,20 @@
  trans_en: decrease, reduce, lessen; subtract
 
 -lexeme
+ lex: pakësoj
+ stem: pakso.|paksua.|paksu.|paks.
+ gramm: V,med,nonst,borr,lat,deriv
+ paradigm: lexoj-1
+ trans_en: get smaller; decrease; abate
+
+-lexeme
+ lex: pakësoj
+ stem: pakso.|paksua.|paksu.|paks.
+ gramm: V,vt,nonst,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: decrease, reduce, lessen; subtract
+
+-lexeme
  lex: palandyj
  stem: palandy.
  gramm: V,med,alb,deriv
@@ -32497,6 +32511,20 @@
  gramm: V,vt,alb,deriv
  paradigm: lexoj
  trans_en: fold, pleat; wrinkle
+
+-lexeme
+ lex: pamundësoj
+ stem: pamundëso.|pamundësua.|pamundësu.|pamundës.
+ gramm: V,med,alb,deriv
+ paradigm: lexoj-1
+ trans_en: be, become impossible
+
+-lexeme
+ lex: pamundësoj
+ stem: pamundëso.|pamundësua.|pamundësu.|pamundës.
+ gramm: V,vt,alb,deriv
+ paradigm: lexoj
+ trans_en: make impossible
 
 -lexeme
  lex: pandeh
@@ -62764,7 +62792,7 @@
 -lexeme
  lex: hospitalizoj
  stem: hospitalizo.|hospitalizua.
- gramm: V,vt
+ gramm: V,vt,borr,inter
  paradigm: lexoj
  trans_en: hospitalize
 

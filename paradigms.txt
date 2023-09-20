@@ -3044,7 +3044,7 @@
   gramm: m,sg,nom,cont
  -flex: <2>.
   gramm: m,sg,gen_dat,cont
- -flex: <1>.//<2>.
+ -flex: <1>.
   gramm: m,sg,acc,cont
  -flex: <2>.
   gramm: m,sg,abl,cont
@@ -3058,11 +3058,11 @@
   gramm: m,sg,abl,dist
  -flex: <1>.
   gramm: f,sg,nom,cont
- -flex: <3>.//<2>.
+ -flex: <3>.
   gramm: f,sg,gen_dat,cont
- -flex: <1>.//<2>.
+ -flex: <1>.
   gramm: f,sg,acc,cont
- -flex: <3>.//<2>.
+ -flex: <3>.
   gramm: f,sg,abl,cont
  -flex: <1>.
   gramm: f,sg,nom,dist
@@ -3072,15 +3072,15 @@
   gramm: f,sg,acc,dist
  -flex: <3>.//<2>.
   gramm: f,sg,abl,dist
- -flex: <1>.//<2>.
+ -flex: <1>.
   gramm: n,sg,nom,cont
  -flex: <2>.
   gramm: n,sg,gen_dat,cont 
- -flex: <1>.//<2>.
+ -flex: <1>.
   gramm: n,sg,acc,cont
  -flex: <2>.
   gramm: n,sg,abl,cont
- -flex: <1>.//<2>.
+ -flex: <2>.
   gramm: n,sg,nom,dist
  -flex: <2>.
   gramm: n,sg,gen_dat,dist
@@ -3088,11 +3088,11 @@
   gramm: n,sg,acc,dist
  -flex: <2>.
   gramm: n,sg,abl,dist
- -flex: <1>.//<2>.
+ -flex: <1>.
   gramm: pl,nom,cont
  -flex: <2>.
   gramm: pl,gen_dat,cont 
- -flex: <1>.//<2>.
+ -flex: <1>.
   gramm: pl,acc,cont
  -flex: <2>.
   gramm: pl,abl,cont
@@ -3501,6 +3501,70 @@
  -flex: <2>.t
   gramm: sg,abl,def
 
+-paradigm: abbreviation-m-1
+ -flex: <0>.
+  gramm: sg,unmkd
+ -flex: <0>.
+  gramm: sg,nom,indef
+ -flex: <0>.
+  gramm: sg,acc,indef
+ -flex: <0>.-i
+  gramm: sg,nom,def
+ -flex: <0>.-it
+  gramm: sg,gen_dat,def
+ -flex: <0>.-in
+  gramm: sg,acc,def
+ -flex: <0>.-it
+  gramm: sg,abl,def
+
+-paradigm: abbreviation-m-2
+ -flex: <0>.
+  gramm: sg,unmkd
+ -flex: <0>.
+  gramm: sg,nom,indef
+ -flex: <0>.
+  gramm: sg,acc,indef
+ -flex: <0>.-u
+  gramm: sg,nom,def
+ -flex: <0>.-ut
+  gramm: sg,gen_dat,def
+ -flex: <0>.-un
+  gramm: sg,acc,def
+ -flex: <0>.-ut
+  gramm: sg,abl,def
+
+-paradigm: abbreviation-f-1
+ -flex: <0>.
+  gramm: sg,unmkd
+ -flex: <0>.
+  gramm: sg,nom,indef
+ -flex: <0>.
+  gramm: sg,acc,indef
+ -flex: <0>.-ja
+  gramm: sg,nom,def
+ -flex: <0>.-së
+  gramm: sg,gen_dat,def
+ -flex: <0>.-në
+  gramm: sg,acc,def
+ -flex: <0>.-së
+  gramm: sg,abl,def
+
+-paradigm: abbreviation-f-2
+ -flex: <0>.
+  gramm: sg,unmkd
+ -flex: <0>.
+  gramm: sg,nom,indef
+ -flex: <0>.
+  gramm: sg,acc,indef
+ -flex: <0>.-ja
+  gramm: sg,nom,def
+ -flex: <0>.-s
+  gramm: sg,gen_dat,def
+ -flex: <0>.-n
+  gramm: sg,acc,def
+ -flex: <0>.-s
+  gramm: sg,abl,def
+
 -paradigm: 5a
  -flex: <0>.
   gramm: pl,nom,indef
@@ -3570,12 +3634,16 @@
   gramm: pl,abl2,indef
  -flex: <0>.të
   gramm: pl,nom,def
+ -flex: <0>.t
+  gramm: pl,nom,def,nonst
  -flex: <0>.ve
   gramm: pl,gen_dat,def
  -flex: <0>.vet
   gramm: pl,gen_dat,def,nonst
  -flex: <0>.të
   gramm: pl,acc,def
+ -flex: <0>.t
+  gramm: pl,acc,def,nonst
  -flex: <0>.ve
   gramm: pl,abl,def
  -flex: <0>.vet
@@ -8305,7 +8373,7 @@
   gramm: 3,sg,pres,ind,act
  -flex: <2>.t
   gramm: 3,sg,pres,ind,act,nonst
- -flex: <9>.t
+ -flex: <8>.t//<8>.të
   gramm: 3,sg,pres,ind,act,nonst,Gheg
  -flex: <1>.mi
   gramm: 1,pl,pres,ind,act
@@ -8348,15 +8416,13 @@
  -flex: <7>.<.>
   gramm: 
   paradigm: pres-opt-act-c
- -flex: <8>.ë
-  gramm: ptcp,nonst
- -flex: <10>.<.>
+ -flex: <9>.<.>
   gramm: nonst
   paradigm: pres-adm-act
   paradigm: pres-adm-act-nonst
   paradigm: ipf-adm-act
   paradigm: ipf-adm-act-nonst,Gheg
- -flex: <10>.ë
+ -flex: <9>.ë
   gramm: ptcp,nonst
 
 -paradigm: kam

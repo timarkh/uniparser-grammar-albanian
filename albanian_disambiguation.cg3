@@ -32,21 +32,21 @@ REMOVE (V imp) IF (-1 Clitics OR ("<e>"i))
 REMOVE (V imp) IF (1 (PRO 1 sg nom) OR (PRO 2 sg nom) OR (PRO 3 sg m nom) OR (PRO 3 sg f nom));				  
 # REMOVE (V imp act 2 pl) IF (-2 ("<mund>"i) OR ("<do>"i) OR ("<duhet>"i) OR ("<duhej>"i)); (more general rule added, see below)
 # REMOVE (V imp act 2 pl) IF (-3 ("<mund>"i) OR ("<do>"i) OR ("<duhet>"i) OR ("<duhej>"i))
-#						   (-1 ("<i>") OR ("<u>") OR ("<ua>") OR ("<iu>") OR ("<ia>") OR ("<ju>") OR ("<ja>"));
+#						   (-1 ("<i>"i) OR ("<u>"i) OR ("<ua>"i) OR ("<iu>"i) OR ("<ia>"i) OR ("<ju>"i) OR ("<ja>"i));
 REMOVE (V imp) IF (-2 Verbs)
 				  (-1 Clitics or ("<të>"));		   
 					  
-# Analytical perfect (select "participle", not "adjective") 19.09.2023 +
+# Analytical perfect (select "participle", not "adjective"), 19.09.2023 - добавить (NOT 0 ("<sëmurë>") OR ("<përballë>"))
 SELECT (ptcp) IF (0 (ptcp) - (A))
-				 (-1 ("kam") OR ("jam"));
+				 (-1 ("kam"i) OR ("jam"i));
 
-# Aorist (select "vt, vi", not "med" in Aorist when there is no reflexive particle "u"; remove "act" after definitely reflexive "u") +- (Upd. 23.07.2023)
+# Aorist (select "vt, vi", not "med" in Aorist when there is no reflexive particle "u"; remove "act" after definitely reflexive "u") (Upd. 23.07.2023, 20.09.2023 - capital letters)
 REMOVE (med) IF (0 (V aor))
-				(NOT -1 ("<u>") OR ("<iu>") OR ("<ju>"));
+				(NOT -1 ("<u>"i) OR ("<iu>"i) OR ("<ju>"i));
 REMOVE (ind pres act) IF (0 (V))
-						 (-1 ("<iu>"));
+						 (-1 ("<iu>"i));
 				 
-# Analytical construction "për të + participle" (select "participle", not "adjective" or "noun") +- (какое-то из правил про артикли все испортило)
+# Analytical construction "për të + participle" (select "participle", not "adjective" or "noun") - some rules not checked (20.09.2023)
 SELECT (ptcp) IF (0 (ptcp) - (A))
 				 (-1 ("<ta>"i))
 				 (-2 ("<për>"i));
@@ -72,7 +72,7 @@ SELECT (ptcp) IF (0 (ptcp) - (NOUN))
 				 (-3 ("<të>"i) OR ("<t>"i))
 				 (-4 ("<për>"i));
 
-# Analytical constructions "duke + participle" and "pa + participle" (select "participle", not "adjective" or "noun")
+# Analytical constructions "duke + participle" and "pa + participle" (select "participle", not "adjective" or "noun") - 20.09.2023 добавить mos 
 SELECT (ptcp) IF (0 (ptcp) - (A))
 				 (-1 ("<duke>"i) OR ("<tue>"i) OR ("<pa>"i));
 SELECT (ptcp) IF (0 (ptcp) - (A))
@@ -92,11 +92,11 @@ SELECT (ptcp) IF (0 (ptcp) - (NOUN))
 				 (-2 ("<na>"i))
 				 (-3 ("<duke>"i) OR ("<tue>"i) OR ("<pa>"i));
 				 
-# "participle" vs. "adjective" after article e and së
+# "participle" vs. "adjective" after article së - Upd. 20.09.2023, можно объединить со 139
 REMOVE (ptcp) IF (0 (ptcp) - (A))
-				 (-1 ("<e>"i) OR ("<së>"i));				 
+				 (-1 ("<së>"i));				 
 
-# "noun" vs. "adjective" and "verb" after article së in "së bëri"
+# "noun" vs. "adjective" and "verb" after article së in "së bëri" - 20.09.2023 добавить про глагол (иначе për së dyti неправильно разбирается)
 REMOVE (A abl indef) IF (0 (A) - (NOUN))
 				 (-1 ("<së>"));
 REMOVE (A gen_dat indef) IF (0 (A) - (NOUN))
@@ -119,7 +119,7 @@ REMOVE (V vt opt pres act 3 sg) IF (-1 ("<u>"i))
 REMOVE (V vi opt pres act 3 sg) IF (-1 ("<u>"i))
 								   (-3 ("<me>"i));
 
-# Optative vs. adjective (ultë, shkathtë, flaktë, etc.)
+# Optative vs. adjective (ultë, shkathtë, flaktë, etc.) - 20.09.2023 не все удалось проверить, вообще странное правило
 REMOVE (V vt opt pres act 3 sg) IF (-1 ("<i>"i) OR ("<e>"i) OR ("<të>"i))
 								   (-2 ("jam") OR ("<mund>"i) OR ("<do>"i) OR ("<më>"i) OR ("<tepër>"i) OR ("<shumë>"i) 
 								   OR ("<mjaft>"i) OR ("<tejet>"i) OR ("<fare>"i) OR ("<sa>"i) OR ("<çdo>"i));
@@ -136,16 +136,16 @@ REMOVE (V vt opt pres act 3 sg) IF (0 ("<patë>"i) OR ("<vratë>"i));
 REMOVE (V opt pres med act 3 sg) IF (0 ("<leshtë>"i))
 									(NOT -1 ("<u>"i));
 				
-# Verbs cannot be used after "së" (not "-së" in abbreviations)
+# Verbs cannot be used after "së" (not "-së" in abbreviations) - 20.09.2023 можно объединить с 95
 REMOVE (V) IF (-1 ("<së>"i))
 			  (NOT -1 ("<-së>"i));
 
 SECTION    # Nouns
-# Nominative after the prepositions "tek" and "nga"
+# Nominative after the prepositions "tek" and "nga" - 20.09.2023 добавить, чтобы это не затрагивало числительные (nga katër gra)
 SELECT (nom def) IF (0 (NOUN) OR (PRO) OR (ART))
 					(-1 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
 					
-# Accusative after the prepositions "me", "nëpër", "në" et al.
+# Accusative after the prepositions "me", "nëpër", "në" et al. - 20.09.2023 добавить, чтобы это не затрагивало числительные (deri në katër gra)
 SELECT (acc) IF (0 (NOUN) OR (PRO) OR (ART))
 				(-1 ("<me>"i) OR ("<në>"i) OR ("<nëpër>"i) OR ("<nën>"i) OR ("<mbi>"i) OR ("<ndër>"i));
 					
@@ -159,12 +159,12 @@ REMOVE (gen_dat) IF (0 (NOUN) OR (PRO) OR (ART))
 SELECT (abl) IF (0 (NOUN) OR (PRO) OR (ART))
 				(-1 ("<sipas>"i) OR ("<prej>"i) OR ("<përtej>"i) OR ("<tej>"i) OR ("<ndërmjet>"i));
 
-# Genitive-dative in genitival phrases
-SELECT (NOUN gen_dat) IF (*0 (NOUN))
+# Genitive-dative in genitival phrases - Upd. 20.09.2023 добавить про një, ky, ai
+SELECT (NOUN gen_dat) IF (0 (NOUN))
 						 (-1 (ART))
-						 (*-2 (NOUN));
+						 (-2 (NOUN));
 
-# Indefinite ablative in "genitival" phrases
+# Indefinite ablative in "genitival" phrases - 20.09.2023 если есть një, убирать и номинатив (lindi Isaku, një kapërcim ylberi)
 REMOVE (NOUN sg gen_dat indef) IF (0 (NOUN sg indef))
 								  (-1 (NOUN indef));
 
@@ -176,37 +176,36 @@ REMOVE (V) IF  (0 (V) - (NOUN))
 REMOVE (pl) IF  (0 (NOUN))
 				(-1 ("<një>"i));
 				
-# Alb nouns immediately after një and demonstratives are definite nominatives (01.11.2022)
-REMOVE (pl) IF  (0 (NOUN))
-				(-1 ("<një>"i));
+# Alb nouns immediately after një and demonstratives are definite nominatives (01.11.2022) - какой-то повтор предыдущего
+# REMOVE (pl) IF  (0 (NOUN))
+#				(-1 ("<një>"i));
 				
-# Alb nouns immediately after numerals are plural, not singular (01.11.2022, Upd 19.09.2023)
+# Alb nouns immediately after numerals are plural, not singular (01.11.2022) 20.09.2023 - добавить (NOT -1 ("<një>"i)) и исключить слово "dhe" в 0, а то неправильно работает
 REMOVE (sg) IF  (0 (NOUN))
-				(-1 (NUM))
-				(NOT -1 ("<një>"i));
+				(-1 (NUM));
 				 
-# Nominative after the prepositions "tek" and "nga" (Upd on 01.02.2022 - një added, nga + (një +) ART added) (01.11.2022)
-SELECT (nom def) IF (0 (NOUN) OR (PRO) OR (ART))
-					(-1 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
+# Nominative after the prepositions "tek" and "nga" (Upd on 01.02.2022 - një added, tek + (një +) ART added) (01.11.2022) - 20.09.2023 перенести выше; nga një kafe - плохо разб.
+# SELECT (nom def) IF (0 (NOUN) OR (PRO) OR (ART))
+#					(-1 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
 SELECT (nom sg indef) IF (0 (NOUN))
 					     (-1 ("<një>"i))
-					     (-2 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
+					     (-2 ("<tek>"i) OR ("<te>"i));
 SELECT (nom sg indef) IF (0 ("<tjetër>"i))
 					     (-1 ("<një>"i))
 					     (-2 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
-SELECT (ART) IF (0 ("<i>"i) OR ("<e>"i))
-				(1 (NOUN))
-			    (-1 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
+SELECT (ART nom dist) IF (0 ("<i>"i) OR ("<e>"i))
+						 (1 (NOUN)) - 20.09.2023 - добавить кроме panë, ka
+						 (-1 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
 SELECT (ART) IF (0 ("<i>"i) OR ("<e>"i))
 				(1 (NOUN))
 				(-1 ("<një>"i))
 			    (-2 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
 				
-# unmarked case: pseudopartitive and quantitative constructions (dy kilogram sheqer, një gotë ujë) (01.11.2022)
+# unmarked case: pseudopartitive and quantitative constructions (dy kilogramë sheqer, një gotë ujë) (01.11.2022) - Upd. 20.09.2023
 REMOVE (unmkd) IF (0 (NOUN))
 				  (-1 (NUM) or (PRO) or (PR));
 SELECT (unmkd) IF (0 (NOUN))
-				  (*-1 (NOUN))
+				  (-1 (NOUN indef))
 				  (-2 (NUM));					
 				  
 SECTION    # Adjectives
@@ -214,7 +213,7 @@ SECTION    # Adjectives
 REMOVE (ADV) IF (0 (A))
                 (-1 (ART));
 
-# Substantivized adjectives can be detected when used as genitival attributes and after some prepositions
+# Substantivized adjectives can be detected when used as genitival attributes and after some prepositions - 20.09.2023 можно добавить то же для cili, tjerë (të të cilit)
 SELECT (NOUN gen_dat) IF (0 (A gen_dat) - (NOUN gen_dat))
 						 (-1 (ART))
 						 (-2 (ART));
@@ -222,66 +221,66 @@ SELECT (NOUN abl) IF (0 (A) - (NOUN))
                      (-1 (ART))
 				     (-2 ("sipas"i) OR ("prej"i));
 
-# Countable words used after quantifiers are nouns, not unarticulated adjectives (05.2023) - убирает наречия типа mirë, bukur; Upd. 23.07.2023
+# Countable words used after quantifiers are nouns, not unarticulated adjectives (05.2023) - убирает наречия типа mirë, bukur; Upd. 23.07.2023 - есть странные разборы, но сойдет
 # SELECT (NOUN) IF (0 (A) - (NOUN))
 #			  (-1 (NUM) OR ("disa"i) OR ("ca"i) OR ("shumë"i) OR ("pak"i));
 REMOVE (A) IF (0 (A) - (NOUN))
 			  (-1 (NUM) OR ("<disa>"i) OR ("<ca>"i));
 						 
-# Postpositive adjectives do not have case forms (UPDATED on 21.11.2022 - numerals like "të dy" added)
+# Postpositive adjectives do not have case forms (Upd. 21.11.2022 - numerals like "të dy" added)
 REMOVE (A nom indef) IF (0 (A))
-						(-1 (NOUN));
+						(-1 (NOUN)); 20.09.2023 - дурацкие разборы после si, dhe
 REMOVE (A acc indef) IF (0 (A))
-						(-1 (NOUN));
-REMOVE (A nom indef) IF (0 (A))
-						(-1 (ART))
-						(-2 (NOUN));
-REMOVE (A acc indef) IF (0 (A))
-						(-1 (ART))
-						(-2 (NOUN));
-SELECT (NUM nom indef) IF (0 (NUM))
+						(-1 (NOUN)); 20.09.2023 - то же
+# REMOVE (A nom indef) IF (0 (A)) 20.09.2023 - кажется, бесполезное правило; убираем, чтобы посмотреть, что будет
+#						(-1 (ART))
+#						(-2 (NOUN));
+# REMOVE (A acc indef) IF (0 (A))
+#						(-1 (ART))
+#						(-2 (NOUN));
+SELECT (NUM nom indef) IF (0 (NUM)) - 20.09.2023 это правило не дает действовать следующему (të dy); лучше через REMOVE
 						  (-1 (ART));
 SELECT (NUM acc indef) IF (0 (NUM))
 						  (-1 (ART));
 
 # Pl/sg of feminine non-articulated and masculine articulated adjectives (Upd 05.2023) +- кажется, дает неправильные разборы в аналитических формах типа për të shkuar; убраны 
-# звездочки (23.07.2023)
-SELECT (sg) IF (0 (A))
-				(-1 (NOUN sg));
-SELECT (pl) IF (0 (A))
-				(-1 (NOUN pl));
-SELECT (sg) IF (0 (A m))
-				(-1 (ART))
-				(-2 (NOUN sg));
-SELECT (pl) IF (0 (A m))
-				(-1 (ART))
-				(-2 (NOUN pl));
+# звездочки (23.07.2023) - 20.09.2023 все равно плохо работает, убираем
+# SELECT (sg) IF (0 (A))
+#			     (-1 (NOUN sg));
+# SELECT (pl) IF (0 (A))
+#			     (-1 (NOUN pl));
+# SELECT (sg) IF (0 (A m))
+#				  (-1 (ART))
+#				  (-2 (NOUN sg));
+# SELECT (pl) IF (0 (A m))
+#				 (-1 (ART))
+#				 (-2 (NOUN pl));
 
-# gender of adjectives depends on nouns: dita e nxehtë, shoqja besnike, male të larta (01.11.2022) +- кажется, дает неправильные разборы в аналитических формах типа për të shkuar;
-# убраны звездочки (23.07.2023)
-SELECT (m) IF (0 (A))
-			  (-1 (ART))
-		      (-2 (NOUN m));
-SELECT (f) IF (0 (A))
-			  (-1 (ART))
-		      (-2 (NOUN f));
-SELECT (m) IF (0 (A))
-			  (-1 (ART))
-		      (-2 (NOUN mf sg));
-SELECT (f) IF (0 (A))
-			  (-1 (ART))
-		      (-2 (NOUN mf pl));
-SELECT (m) IF (0 (A))
-		      (-1 (NOUN m));
-SELECT (f) IF (0 (A))
-		      (-1 (NOUN f));
+# Gender of adjectives depends on nouns: dita e nxehtë, shoqja besnike, male të larta (01.11.2022) +- кажется, дает неправильные разборы в аналитических формах типа për të shkuar;
+# убраны звездочки (23.07.2023) - 20.09.2023 все равно плохо работает, убираем
+# SELECT (m) IF (0 (A))
+#			  (-1 (ART))
+#		      (-2 (NOUN m));
+# SELECT (f) IF (0 (A))
+#			  (-1 (ART))
+#		      (-2 (NOUN f));
+# SELECT (m) IF (0 (A))
+#			  (-1 (ART))
+#		      (-2 (NOUN mf sg));
+# SELECT (f) IF (0 (A))
+#			  (-1 (ART))
+#		      (-2 (NOUN mf pl));
+# SELECT (m) IF (0 (A))
+#		      (-1 (NOUN m));
+# SELECT (f) IF (0 (A))
+#		      (-1 (NOUN f));
 
 SECTION    # Articles
-# Contact vs. distant position of the article (Upd. 05.2023, 17.09.2023)
+# Contact vs. distant position of the article (Upd. 05.2023, 09.2023)
 REMOVE (dist) IF (0 (ART))
 				 (-1 (NOUN nom def) OR (NOUN acc def));
-REMOVE (cont) IF (0 (ART))
-				 (-1 (NOUN nom indef) OR (NOUN acc indef));
+# REMOVE (cont) IF (0 (ART))
+#				 (-1 (NOUN nom indef) OR (NOUN acc indef)); - 20.09.2023 существительные в неопределенной форме плохо определяются
 REMOVE (cont) IF (0 ("<i>"i) OR ("<e>"i) OR ("<të>"i))
 				     (-1 Poss)
 				     (1 (A) OR (NOUN gen_dat sg def) OR (NOUN gen_dat pl));
@@ -289,50 +288,50 @@ SELECT (cont gen_dat) IF (0 ("<së>"i))
 						 (-1 (NOUN f sg gen_dat def));
 SELECT (dist nom) IF (0 ("<i>"i) OR ("<e>"i) OR ("<të>"i))
 				     (-1 ("jam"));
-#				     (1 (A) OR (NOUN));
+#				     (1 (A) OR (NOUN)); - 20.09.2023 исключить gjithë
 # SELECT (dist nom pl) IF (0 ("<të>"i))
 #				     (-1 ("jam"))
 #				     (1 (A) OR (NOUN));
-SELECT (dist gen_dat) IF (0 (ART))
-						 (-1 (ART));
+# SELECT (dist gen_dat) IF (0 (ART))
+#						 (-1 (ART));
 #						 (1 (NOUN gen_dat sg def) OR (NOUN gen_dat pl));
 SELECT (dist) IF (0 (ART))
-				 (1 ("cili"i) OR ("gjithë"i));
+				 (1 ("cili"i) OR ("gjithë"i)); - 20.09.2023 можно еще убрать разбор "клитика"
 
 SECTION    # Pronouns
 # Pronoun "ta" is not a clitic after prepositions (full form is used) and is a clitic before a verb (Upd. 23.07.2023)
-REMOVE (CLIT_PRO) IF (0 ("<ta>"i))
-                        (-1 (PR))
-						(NOT 1 (ptcp));
+# REMOVE (CLIT_PRO) IF (0 ("<ta>"i))
+#                        (-1 (PR))
+#						(NOT 1 (ptcp));
 REMOVE (PRO) IF (0 ("<ta>"i))
                 (1 (V))
 				(-1 (V));
 				
-# Pronouns "tij", "saj", "tyre" are not possessives after prepositions and are possesives after articles (Upd. 17.09.2023)
+# Pronouns "tij", "saj", "tyre" are not possessives after prepositions and are possesives after articles (Upd. 17.09.2023) - 20.09.2023 возможно, часть про предлоги не нужна
 REMOVE ("PRO 3 pl") IF (0 ("<tyre>"i))
                    (-1 (ART));
-SELECT ("PRO 3 pl") IF (0 ("<tyre>"i))
-                   (-1 (PR));
+# SELECT ("PRO 3 pl") IF (0 ("<tyre>"i))
+#                   (-1 (PR));
 REMOVE ("PRO 3 sg m") IF (0 ("<tij>"i))
                   (-1 (ART));
-SELECT ("PRO 3 sg m") IF (0 ("<tij>"i))
-                  (-1 (PR));
+# SELECT ("PRO 3 sg m") IF (0 ("<tij>"i))
+#                  (-1 (PR));
 REMOVE ("PRO 3 sg f") IF (0 ("<saj>"i))
                   (-1 (ART));
-SELECT ("PRO 3 sg f") IF (0 ("<saj>"i))
-                  (-1 (PR));
+# SELECT ("PRO 3 sg f") IF (0 ("<saj>"i))
+#                  (-1 (PR));
 
-# Alb i vetëm, i njëjtë: adjectives often used in preposition (01.11.2022)
+# Alb i vetëm, i njëjtë: adjectives often used in preposition (01.11.2022) - 20.09.2023 можно продолжить это правило другими падежами; исключить слово dhe в 1
 SELECT (A sg nom def) IF (0 ("<vetmi>"i) OR ("<njëjti>"i) OR ("<ashtuquajturi>"i))
 						 (-1 ("<i>"i))
 						 (1 (NOUN indef));
 						 
-# Alb i vetëm, i njëjtë: noun is "unmkd" if the adjective is in preposition (01.11.2022)
-SELECT (NOUN unmkd) IF (0 (NOUN))
-					   (-1 ("vetëm"i) OR ("njëjtë"i) OR ("ashtuquajtur"i))
-					   (-2 (ART));
+# Alb i vetëm, i njëjtë: noun is "unmkd" if the adjective is in preposition (01.11.2022) - 20.09.2023 вообще, это не так; убрать
+# SELECT (NOUN unmkd) IF (0 (NOUN))
+#					   (-1 ("vetëm"i) OR ("njëjtë"i) OR ("ashtuquajtur"i))
+#					   (-2 (ART));
 
-# Alb herë: numeral adjectives often used in preposition (01.11.2022)
+# Alb herë: numeral adjectives often used in preposition (01.11.2022) - 20.09.2023 не удалось проверить все правила
 SELECT (A sg nom def) IF (-1 ("<e>"i))
 						 (1 ("<herë>"i));
 SELECT (A sg acc def) IF (-1 ("<të>"i))
@@ -341,12 +340,12 @@ SELECT (A sg abl indef) IF (0 ("<pari>"i) OR ("<dyti>"i) OR ("<treti>"i) OR ("<f
 						   (-1 ("<së>"i))
 						   (1 ("<herë>"i));
 						 
-# Alb herë: noun is "unmkd" if a numeral adjective is in preposition (01.11.2022)
-SELECT (NOUN unmkd) IF (0 ("<herë>"i))
-					   (*-1 (A def))
-					   (-2 (ART));
+# Alb herë: noun is "unmkd" if a numeral adjective is in preposition (01.11.2022) - 20.09.2023 странное правило, надо убрать
+# SELECT (NOUN unmkd) IF (0 ("<herë>"i))
+#					   (-1 (A def))
+#					   (-2 (ART));
 
-# Alb i gjithë, i tërë: noun is "def" after these pronouns (01.11.2022)
+# Alb i gjithë, i tërë: noun is "def" after these pronouns (01.11.2022) - 20.09.2023 лучше описать через REMOVE, иначе неправильно разбирается të gjithë dinin
 SELECT (NOUN def) IF (-1 ("gjithë"i) OR ("tërë"i))
 					   (-2 (ART));
 					   
@@ -356,7 +355,7 @@ REMOVE (VB_PART) IF (0 ("<u>"i))
 					(1 (V ind prs) OR (V ind ipf) OR (V sbjv))
 					(NOT 1 (V ind prs 3sg));
 
-# Alb të të: verb particle + pronominal clitic (01.11.2022, Upd. 17.09.2023)
+# Alb të të: verb particle + pronominal clitic (01.11.2022, Upd. 17.09.2023) - 20.09.2023 отсечь причастия, они тоже глаголы
 SELECT (VB_PART) IF (0 ("<të>"i))
 					(1 ("<të>"i) OR ("<ta>"i))
 					(2 (V));
@@ -377,7 +376,7 @@ REMOVE (ART) IF (0 ("<të>"i))
 
 # Alb në immediately before the (pro)noun is a preposition, not a conjunction (01.11.2022)
 REMOVE (CONJ) IF (0 ("<në>"i))
-				 (1 (NOUN) OR (PRO));
+				 (1 (NOUN acc) OR (PRO));
 
 # preposition nga is not a form of the verb ngas (не включать это правило в гегских текстах, т.к. там будет kam nga, jam nga) (01.11.2022)
 SELECT (PR) IF (0 ("<nga>"i))
@@ -387,8 +386,8 @@ SECTION    # Other inter-POS homonymy
 # Alb ajo: PRO vs. V (ajoj-imp.2sg)
 REMOVE (V) IF (0 ("<ajo>"i));
 	  
-# Alb nga: preposition vs. aorist vs. participle - возможно, не работает, см. rrahur nga bashkëshorti i saj - Upd. 17.09.2023
-REMOVE (V) IF (0 ("<nga>"i));
+# Alb nga: preposition vs. aorist vs. participle - возможно, не работает, см. rrahur nga bashkëshorti i saj - 20.09.2023 убрать, выше уже есть правило для nga
+# REMOVE (V) IF (0 ("<nga>"i));
 # SELECT (V aor pass 3sg) IF (0 ("<nga>"i))
 #						(-1 ("<u>"i));
 # REMOVE (V aor pass 3sg) IF (0 ("<nga>"i))
@@ -408,7 +407,7 @@ SELECT (CLIT_PRO dat) IF (0 ("<më>"i))
 					 
 # Alb i and e: pronominal clitic before the verb, not article (05.2023) - Upd. 23.07.2023, 17.09.2023
 SELECT (CLIT_PRO) IF (0 ("<e>"i))
-					 (1 (V));
+					 (1 (V)); - 20.09.2023 më e qetë плохо разбирается, м.б. прописать что только однозначные глаголы
 SELECT (CLIT_PRO acc) IF (0 ("<i>"i))
 						 (1 (V vt));
 SELECT (CLIT_PRO dat) IF (0 ("<i>"i))
@@ -416,77 +415,93 @@ SELECT (CLIT_PRO dat) IF (0 ("<i>"i))
 # SELECT (CLIT_PRO) IF (0 ("<i>"i) OR ("<e>"i))
 #					 (1 (V));
 					 
-# Alb të: Subjunctive particle between two (unambiguous) verbs and in some other contexts. The second verb is not participle - Upd. 23.07.2023
-SELECT (VB_PART) IF (0 ("<të>"i))
+# Alb të: Subjunctive particle between two verbs and after "do", "mund" particle.
+# The second verb is not participle
+SELECT (VB_PART) IF (0 ("të"i))
 					(-1 (V))
 					(1 (V))
 					(NOT 1 (ptcp));
-SELECT (VB_PART) IF (0 ("<të>"i))
-					(-1 ("<do>"i))
+SELECT (VB_PART) IF (0 ("të"i))
+					(-1 ("<do>"i) OR ("<mund>"i))
 					(1 (V))
 					(NOT 1 (ptcp) - (A));
 
-# Alb dhe: and vs. give-aor.2sg vs. land - убраны звездочки (23.07.2023)
+# Alb dhe: and vs. give-aor.2sg vs. land
+# 20.09.2023 будет лучше снимать, если будет решена проблема с дефисом в аббревиатурах
 REMOVE (V) IF (0 ("<dhe>"i))
-              (-1 ("<të>"i) OR ("<ju>"i));
+              (-1 ("<të>"i) OR ("<ju>"i) OR ("<nuk>"i) OR ("<mos>"i));
 SELECT (V) IF (0 ("<dhe>"i))
-              (-1 ("<më>"i) OR ("<na>"i) OR ("<u>"i) OR ("<ma>"i));
+              (-1 ("<na>"i) OR ("<i>"i) OR ("<u>"i) OR ("<ma>"i) OR ("<ia>"i));
 SELECT (CONJ) IF (0 ("<dhe>"i))
-              (-1 (NOUN))
-			  (1 (NOUN));
+				 (-1 ("<më>"i))
+				 (-2 (V));
 SELECT (CONJ) IF (0 ("<dhe>"i))
-              (-1 (V))
-			  (1 (V));
+				 (-1 (NOUN))
+				 (1 (NOUN));
 SELECT (CONJ) IF (0 ("<dhe>"i))
-              (-1 (A))
-			  (1 (A));
+				 (-1 (V))
+				 (1 (V));
+SELECT (CONJ) IF (0 ("<dhe>"i))
+				 (-1 (A))
+				 (1 (A));
+SELECT (CONJ) IF (0 ("<dhe>"i))
+				 (-1 (A))
+				 (1 (ART))
+				 (2 (A));
 			  
-# Alb Gheg infinitive vs. noun vs. verb-sbjv.prs.3sg - Upd. 17.09.2023
+# Alb Gheg infinitive vs. verb-sbjv.prs.3sg
+# 20.09.2023 не проверено, но должно работать
 REMOVE (V sbjv) IF (-1 ("<të>"i) OR ("<t>"i) OR ("<ta>"i))
 				   (-2 ("me"i));
 								 
-# Alb nouns vs. adjectives vs. verbs in subjunctive (only verbs occur in constructions like "do të jetë" and "mund të gjeni") - Upd. 17.09.2023
-SELECT (V) IF (-1 ("<të>"i) OR ("<ta>"i))
+# Alb nouns vs. adjectives vs. verbs in subjunctive:
+# only verbs occur in constructions "do të jetë", "mund të gjeni", "të na e japin"
+SELECT (V) IF (-1 ("të"i) OR ("<ta>"i))
               (-2 ("<do>"i) OR ("mund"i));
-SELECT (V) IF (-2 ("<t>"i))
+SELECT (V) IF (-2 ("të"i))
               (-3 ("<do>"i) OR ("mund"i));
-# REMOVE (NOUN) IF (-2 ("<t>"i));
-# REMOVE (A) IF (-2 ("<t>"i));
-# REMOVE (ADV) IF (-2 ("<t>"i));
-# REMOVE (NOUN) IF (-1 ("<t>"i) OR ("<ta>"i));
-# REMOVE (A) IF (-1 ("<t>"i) OR ("<ta>"i));
-# REMOVE (ADV) IF (-1 ("<t>"i) OR ("<ta>"i));
-								 
-# Alb mund: modal verb - Upd 17.09.2023
-SELECT (V) IF (0 ("mund"i))
-			  (1 ("<të>"i) OR ("<ta>"i) OR ("<t>"i))
-			  (NOT -1 ("<një>"i));
-# REMOVE (V vt imp act 2 sg) IF (0 ("<mund>"i))
-#							  (1 ("<të>"i) OR ("<t>"i));
-# REMOVE (V vt ind aor pass 3 sg) IF (0 ("<mund>"i))
-#								   (1 ("<të>"i) OR ("<t>"i));
-# REMOVE (V ind aor pass med 3 sg) IF (0 ("<mund>"i))
-#									(1 ("<të>"i) OR ("<t>"i));
-# REMOVE (NOUN) IF (0 ("<mund>"i))
-#				 (1 ("<të>"i) OR ("<t>"i));
+SELECT (V) IF (-1 ("të"i))
+			  (-2 ("na"i))
+			  (-3 ("<i>"i) OR ("<e>"i));
 				 
 # Alb do: future particle vs. verb
+# 20.09.2023 не снимает омонимию в ед.ч. презенса (при 2-м и 3-м лице м.б. глагол "dua";
+# 1-е лицо совпадает с 3-м, если 3-е написано с ошибкой, напр. "(të) hap")
 SELECT (VB_PART) IF (0 ("<do>"i))
-					(2 (V 1) OR (V 2 pl) OR (V 3 pl));
+					(1 (V));
 SELECT (VB_PART) IF (0 ("<do>"i))
+					(2 (V pl) OR (V 1 sg ipf) OR (V 1 sg pass) OR (V 1 sg sbjv));
+SELECT (VB_PART) IF (0 ("<do>"i))
+					(1 ("të"i))
 					(2 Clitics)
-					(3 (V 1) OR (V 2 pl) OR (V 3 pl));
+					(3 (V pl) OR (V 1 sg ipf) OR (V 1 sg pass) OR (V 1 sg sbjv));
+SELECT (VB_PART) IF (0 ("<do>"i))
+					(1 ("të"i))
+				    (2 ("na"i))
+					(3 ("<i>"i) OR ("<e>"i))
+					(4 (V pl) OR (V 1 sg ipf) OR (V 1 sg pass) OR (V 1 sg sbjv));
+SELECT (VB_PART) IF (0 ("<do>"i))
+				    (1 ("na"i))
+					(2 ("<i>"i) OR ("<e>"i))
+					(3 (V pl) OR (V 1 sg ipf) OR (V 1 sg pass) OR (V 1 sg sbjv));
 
-# Alb me/në të vërtet(ë): vërtet(ë) is an accusative noun
+# Alb mund: particle vs. verb (resolve in forms with "të", e.g. mund të shkoj) 20.09.2023
+SELECT (VB_PART) IF (0 ("<mund>"i))
+				    (1 ("<të>"i) OR ("<t>"i) OR ("<ta>"i))
+					(NOT 2 (A) OR (NOUN));	
+
+# Alb me/në të vërtet(ë): "vërtet(ë)" is an accusative noun
+# 20.09.2023 не проверено, но должно работать
 SELECT (NOUN sg acc indef) IF (0 ("<vërtetë>"i) OR ("<vërtet>"i))
 							  (-1 ("<të>"i))
 					          (-2 ("<me>"i) or ("<në>"i));
 							  
-# Alb kam 'to be': verb vs. noun or preposition (resolve in analytical perfect forms, e.g. ka filluar, ke filluar, kanë filluar) 23.07.2023
+# Alb verb "kam" vs. noun "ka" vs. preposition "ke" (resolve in analytical perfect forms, e.g. ka/ke/kanë filluar)
 SELECT (V) IF (0 ("<kanë>"i) OR ("<ka>"i) OR ("<ke>"i))
 				 (1 (ptcp));				 
 
-# Alb duke: particle vs. noun "dukë" (resolve in analytical forms, e.g. duke filluar) 23.07.2023
+# Alb duke: Gerund particle vs. noun "dukë" (resolve in analytical Gerund forms, e.g. duke filluar)
+# 20.09.2023 "duke na i/e bërë" не проверено, но должно работать
 SELECT (VB_PART) IF (0 ("<duke>"i))
 				    (1 (ptcp));	
 SELECT (VB_PART) IF (0 ("<duke>"i))
@@ -494,16 +509,108 @@ SELECT (VB_PART) IF (0 ("<duke>"i))
 					(2 ("<i>"i) OR ("<e>"i))
 					(3 (ptcp));
 SELECT (VB_PART) IF (0 ("<duke>"i))
-					(1 Clitics)
+					(1 Clitics OR ("<e>"i))
 					(NOT 1 ("<të>"))
 					(2 (ptcp));
 
-# Alb mund: particle vs. verb (resolve in forms with të, e.g. mund të shkoj) 19.09.2023
-SELECT (VB_PART) IF (0 ("<mund>"i))
-				    (1 ("<të>"i) OR ("<t>"i) OR ("<ta>"i))
-					(NOT 2 (A) OR (NOUN));	
-
+# New
 # Medial verbs do not have analytical perfect with "kam" (select "vt vi" participle) 19.09.2023
 REMOVE (med) IF (0 (ptcp))
 				(-1 ("kam"));
-			
+
+# Alb më, të, etc.: citic pronoun (resolve in analytical constructions, e.g. duke na shkruar) 20.09.2023
+SELECT (CLIT_PRO) IF (0 Clitics OR ("<e>"i))
+					 (NOT 0 ("<u>"i))
+				     (1 (ptcp))
+					 (-1 ("<duke>"i));
+SELECT (CLIT_PRO) IF (0 Clitics OR ("<e>"i))
+					 (NOT 0 ("<u>"i))
+				     (1 ("<ptcp>"i))
+					 (-1 ("<të>"i) OR ("<t>"i))
+					 (-2 ("<për>"i));
+SELECT (CLIT_PRO) IF (0 Clitics OR ("<e>"i))
+					 (NOT 0 ("<u>"i))
+				     (1 ("<ptcp>"i))
+					 (-1 ("<pa>"i))
+					 (NOT -2 ("<e>"i));
+SELECT (CLIT_PRO) IF (0 Clitics OR ("<e>"i))
+					 (NOT 0 ("<të>"i) OR ("<u>"i))
+				     (1 (ptcp Gheg))
+					 (-1 ("<me>"i));
+
+# Articulated adjectives do not have case/definiteness in predicates (jam e mirë) 20.09.2023
+REMOVE (A indef) IF (0 (A))
+				    (-1 (ART))
+				    (-2 ("jam"));
+REMOVE (A indef) IF (0 (A))
+					(-1 (ART))
+					(-2 ("<më>"i) OR ("<ma>"i) OR ("<shumë>"i) OR ("<tepër>"i))
+				    (-3 ("jam"));
+					
+# Disambiguation in constructions of the type "e kam të qartë" 20.09.2023
+SELECT (ART acc sg dist) IF (0 ("<të>"i))
+				            (1 (A))
+					        (-1 ("kam"i))
+					        (-2 ("<e>"i));
+SELECT (CLIT_PRO) IF (0 ("<e>"i))
+					 (1 ("kam"i))
+					 (2 ("<të>"i))
+					 (3 (A));
+SELECT (A) IF (-1 ("<të>"i))
+			  (-2 ("kam"i))
+			  (-3 ("<e>"i) OR ("<i>"i));
+SELECT (ART acc pl dist) IF (0 ("<të>"i))
+				            (1 (A))
+					        (-1 ("kam"i))
+					        (-2 ("<i>"i));
+SELECT (CLIT_PRO pl) IF (0 ("<i>"i))
+						(1 ("kam"i))
+						(2 ("<të>"i))
+						(3 (A));
+						
+# Unarticulated "gjithë" do not have case/definiteness 20.09.2023
+REMOVE (indef) IF (0 ("<gjithë>"i))
+				  (-1 NOT (ART));
+
+# Disambiguation of articulated nouns after "në" 20.09.2023
+SELECT (NOUN) IF (-1 ("<të>"i))
+				 (-2 ("<në>"i))
+				 (NOT 1 (NOUN unmkd));
+
+# Disambiguation in noun phrases with Accusative prepositions "me", "në" et al. 20.09.2023
+SELECT (ART acc dist) IF (0 ("<të>"i))
+				         (1 (A) OR Poss)
+					     (-1 (NOUN acc indef))
+						 (-2 ("<me>"i) OR ("<në>"i) OR ("<nëpër>"i) OR ("<nën>"i) OR ("<mbi>"i) OR ("<ndër>"i) OR (("<për>"i)));
+SELECT (ART acc cont) IF (0 ("<e>"i))
+				         (1 (A) OR Poss)
+					     (-1 (NOUN acc def))
+						 (-2 ("<me>"i) OR ("<në>"i) OR ("<nëpër>"i) OR ("<nën>"i) OR ("<mbi>"i) OR ("<ndër>"i) OR ("<për>"i));
+
+# Disambiguation in noun phrases with Nominative prepositions "nga", "tek" et al. 20.09.2023
+SELECT (ART nom cont) IF (0 ("<i>"i) OR ("<e>"i))
+				         (1 (A) OR Poss)
+					     (-1 (NOUN nom def))
+						 (-2 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
+SELECT (nom) IF (0 (NOUN sg indef))
+				(-1 ("<tjetër>"i))
+				(-2 ("<një>"i))
+				(-3 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
+
+# Disambiguation in noun phrases with Ablative prepositions "prej", "sipas" et al. 20.09.2023
+SELECT (ART abl pl) IF (0 ("<të>"i))
+				       (1 (A) OR Poss)
+					   (-1 (NOUN abl pl))
+				       (-2 ("<sipas>"i) OR ("<prej>"i) OR ("<përtej>"i) OR ("<tej>"i) OR ("<ndërmjet>"i));
+SELECT (ART abl cont) IF (0 ("<së>"i))
+				       (1 (A) OR Poss)
+					   (-1 (NOUN f sg abl def))
+				       (-2 ("<sipas>"i) OR ("<prej>"i) OR ("<përtej>"i) OR ("<tej>"i) OR ("<ndërmjet>"i));
+SELECT (ART abl cont) IF (0 ("<të>"i))
+				       (1 (A) OR Poss))
+					   (-1 (NOUN m sg abl def))
+				       (-2 ("<sipas>"i) OR ("<prej>"i) OR ("<përtej>"i) OR ("<tej>"i) OR ("<ndërmjet>"i));
+SELECT (ART abl dist) IF (0 ("<të>"i))
+				       (1 (A) OR Poss)
+					   (-1 (NOUN sg abl indef))
+				       (-2 ("<sipas>"i) OR ("<prej>"i) OR ("<përtej>"i) OR ("<tej>"i) OR ("<ndërmjet>"i));
