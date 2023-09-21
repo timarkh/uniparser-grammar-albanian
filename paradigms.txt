@@ -3503,7 +3503,7 @@
 
 -paradigm: abbreviation-m-1
  -flex: <0>.
-  gramm: sg,unmkd
+  gramm: sg
  -flex: <0>.
   gramm: sg,nom,indef
  -flex: <0>.
@@ -3519,7 +3519,7 @@
 
 -paradigm: abbreviation-m-2
  -flex: <0>.
-  gramm: sg,unmkd
+  gramm: sg
  -flex: <0>.
   gramm: sg,nom,indef
  -flex: <0>.
@@ -3535,7 +3535,7 @@
 
 -paradigm: abbreviation-f-1
  -flex: <0>.
-  gramm: sg,unmkd
+  gramm: sg
  -flex: <0>.
   gramm: sg,nom,indef
  -flex: <0>.
@@ -3551,7 +3551,7 @@
 
 -paradigm: abbreviation-f-2
  -flex: <0>.
-  gramm: sg,unmkd
+  gramm: sg
  -flex: <0>.
   gramm: sg,nom,indef
  -flex: <0>.
@@ -3783,7 +3783,31 @@
  -flex: <0>.et
   gramm: pl,gen_dat,def,nonst
 
-
+-paradigm: vjeherr
+ -flex: <1>.
+  gramm: pl,nom,indef
+ -flex: <0>.ve//<1>.ve
+  gramm: pl,gen_dat,indef
+ -flex: <1>.
+  gramm: pl,acc,indef
+ -flex: <0>.ve//<1>.ve
+  gramm: pl,abl,indef
+ -flex: <0>.sh//<1>.sh
+  gramm: pl,abl2,indef
+ -flex: <1>.t
+  gramm: pl,nom,def
+ -flex: <0>.ve//<1>.ve
+  gramm: pl,gen_dat,def
+ -flex: <0>.vet//<1>.vet
+  gramm: pl,gen_dat,def,nonst
+ -flex: <1>.t
+  gramm: pl,acc,def
+ -flex: <0>.ve//<1>.ve
+  gramm: pl,abl,def
+ -flex: <0>.vet//<1>.vet
+  gramm: pl,abl,def,nonst
+ -flex: <0>.shit//<1>.shit
+  gramm: pl,abl2,def,nonst
 
 
 

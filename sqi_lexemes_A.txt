@@ -94169,6 +94169,13 @@
  trans_en: poor
 
 -lexeme
+ lex: vorfën
+ stem: vorfën.|vorfn.
+ gramm: A,nonst,Gheg,borr,lat
+ paradigm: adj-2-2
+ trans_en: poor
+
+-lexeme
  lex: varfëror
  stem: varfëror.
  gramm: A,borr,lat,deriv
@@ -94179,6 +94186,13 @@
  lex: varfëruar
  stem: varfëruar.|varfëruar.
  gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: impoverished, depleted
+
+-lexeme
+ lex: vorfënuem
+ stem: vorfënuem.//vorfnuem.//vorfënumun.//vorfnumun.|vorfënuem.//vorfnuem.//vorfënumun.//vorfnumun.
+ gramm: A,nonst,Gheg,borr,lat,deriv
  paradigm: adj-2-2
  trans_en: impoverished, depleted
 
@@ -96381,6 +96395,13 @@
  trans_en: self-evaluated
 
 -lexeme
+ lex: vetëvlerësues
+ stem: vetëvlerësues.|vetëvlerësues.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-1-2
+ trans_en: self-evaluating
+
+-lexeme
  lex: vetëvrarë
  stem: vetëvrarë.|vetëvrar.
  gramm: A,alb,deriv
@@ -96393,6 +96414,13 @@
  gramm: A,alb,deriv
  paradigm: adj-1-2
  trans_en: suicidal
+
+-lexeme
+ lex: vetëzgjedhur
+ stem: vetëzgjedhur.|vetëzgjedhur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: self-elected
 
 -lexeme
  lex: vetëzhvilluar
@@ -96423,9 +96451,9 @@
  trans_en: trimmed with decorative braid or ribbon
 
 -lexeme
- lex: vezhgonjës
+ lex: vëzhgonjës
  stem: vezhgonjës.|vezhgonjës.
- gramm: A
+ gramm: A,nonst,borr,lat,deriv
  paradigm: adj-1-2
  trans_en: observant
 
@@ -96437,24 +96465,38 @@
  trans_en: egg-shaped, oval
 
 -lexeme
+ lex: vezullonjës
+ stem: vezullonjës.//vezëllonjës.|vezullonjës.//vezëllonjës.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2
+ trans_en: flickering, glittering
+
+-lexeme
  lex: vezullor
- stem: vezullor.
+ stem: vezullor.//vezëllor.
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: flickering, glittering
 
 -lexeme
  lex: vezulluar
- stem: vezulluar.|vezulluar.
+ stem: vezulluar.//vezëlluar.|vezulluar.//vezëlluar.
  gramm: A,alb,deriv
  paradigm: adj-2-2
  trans_en: flickering, glittering
 
 -lexeme
  lex: vezullues
- stem: vezullues.|vezullues.
+ stem: vezullues.//vezëllues.|vezullues.//vezëllues.
  gramm: A,alb,deriv
  paradigm: adj-1-2
+ trans_en: flickering, glittering
+
+-lexeme
+ lex: vezullueshëm
+ stem: vezullueshëm.//vezëllueshëm.|vezullueshm.//vezëllueshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
  trans_en: flickering, glittering
 
 -lexeme
@@ -96600,7 +96642,7 @@
 -lexeme
  lex: vigjiluar
  stem: vigjiluar.|vigjiluar.
- gramm: A,borr,it,deriv
+ gramm: A,borr,it,new,deriv
  paradigm: adj-2-2
  trans_en: vigil
 
@@ -96608,6 +96650,20 @@
  lex: vigjilues
  stem: vigjilues.|vigjilues.
  gramm: A,borr,it,new,deriv
+ paradigm: adj-1-2
+ trans_en: vigilant
+
+-lexeme
+ lex: vigjiluar
+ stem: vigjëlluar.//vigjëluar.|vigjëlluar.//vigjëluar.
+ gramm: A,nonst,borr,it,new,deriv
+ paradigm: adj-2-2
+ trans_en: vigil
+
+-lexeme
+ lex: vigjilues
+ stem: vigjëllues.//vigjëlues.|vigjëllues.//vigjëlues.
+ gramm: A,nonst,borr,it,new,deriv
  paradigm: adj-1-2
  trans_en: vigilant
 
@@ -96696,6 +96752,27 @@
  trans_en: screaming
 
 -lexeme
+ lex: viktimistik
+ stem: viktimistik.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-2
+ trans_en: victimistic
+
+-lexeme
+ lex: viktimizuar
+ stem: viktimizuar.|viktimizuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: victimized
+
+-lexeme
+ lex: viktimizues
+ stem: viktimizues.|viktimizues.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-1-2
+ trans_en: victimizing
+
+-lexeme
  lex: vilanisur
  stem: vilanisur.|vilanisur.
  gramm: A,borr,rum,deriv
@@ -96754,9 +96831,16 @@
 -lexeme
  lex: virtual
  stem: virtual.
- gramm: A
+ gramm: A,borr,rom,new
  paradigm: adj-3-1
  trans_en: virtual
+
+-lexeme
+ lex: virtualizuar
+ stem: virtualizuar.|virtualizuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-3-1
+ trans_en: virtualized
 
 -lexeme
  lex: virtuoz
@@ -96771,6 +96855,13 @@
  gramm: A,borr,lat,deriv
  paradigm: adj-1-2-a
  trans_en: virtuous
+
+-lexeme
+ lex: virulent
+ stem: virulent.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-1
+ trans_en: virulent
 
 -lexeme
  lex: virusal
@@ -96845,7 +96936,7 @@
 -lexeme
  lex: vital
  stem: vital.
- gramm: A
+ gramm: A,borr,rom,new
  paradigm: adj-3-1
  trans_en: vital
 
@@ -96885,6 +96976,13 @@
  trans_en: droopy-rumped
 
 -lexeme
+ lex: vithezhveshur
+ stem: vithezhveshur.|vithezhveshur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: with naked buttocks
+
+-lexeme
  lex: vithisur
  stem: vithisur.|vithisur.
  gramm: A,borr,greek,deriv
@@ -96904,6 +97002,13 @@
  gramm: A,alb,deriv
  paradigm: zi
  trans_en: very unlucky, miserable
+
+-lexeme
+ lex: vitrinëzuar
+ stem: vitrinëzuar.|vitrinëzuar.
+ gramm: A,borr,fr,new,deriv
+ paradigm: adj-2-2
+ trans_en: vitrified, glassified
 
 -lexeme
  lex: vizak
@@ -96927,6 +97032,13 @@
  trans_en: having lines
 
 -lexeme
+ lex: vizionar
+ stem: vizionar.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-1
+ trans_en: visionary
+
+-lexeme
  lex: vizituar
  stem: vizituar.|vizituar.
  gramm: A,borr,rom,deriv
@@ -96934,10 +97046,24 @@
  trans_en: visited
 
 -lexeme
- lex: vezulluar
- stem: vizlluar.|vizlluar.
- gramm: A,nonst,alb,deriv
+ lex: vizitueshëm
+ stem: vizitueshëm.|vizitueshm.
+ gramm: A,borr,rom,deriv
+ paradigm: adj-1-2-a
+ trans_en: visitable, attractive for visitors
+
+-lexeme
+ lex: vizëlluar
+ stem: vizlluar.//vizëlluar.|vizlluar.//vizëlluar.
+ gramm: A,alb,deriv
  paradigm: adj-2-2
+ trans_en: flickering, glittering
+
+-lexeme
+ lex: vizëllueshëm
+ stem: vizëllueshëm.//vizllueshëm.|vizëllueshm.//vizllueshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
  trans_en: flickering, glittering
 
 -lexeme
@@ -96946,6 +97072,13 @@
  gramm: A,borr,lat,deriv
  paradigm: adj-3-1
  trans_en: lined
+
+-lexeme
+ lex: vizual
+ stem: vizual.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-1
+ trans_en: visual
 
 -lexeme
  lex: vizuar
@@ -97011,8 +97144,15 @@
  trans_en: vomited up
 
 -lexeme
- lex: vjelshëm
- stem: vjelshëm.|vjelshm.
+ lex: vjellës
+ stem: vjellës.|vjellës.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2
+ trans_en: vomiting up
+
+-lexeme
+ lex: vjellshëm
+ stem: vjellshëm.|vjellshm.
  gramm: A,alb,deriv
  paradigm: adj-1-2-a
  trans_en: nauseating, sickening
@@ -97221,6 +97361,13 @@
  trans_en: evaluative
 
 -lexeme
+ lex: vleftësueshëm
+ stem: vleftësueshëm.|vleftësueshm.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-1-2-a
+ trans_en: capable of being evaluated
+
+-lexeme
  lex: vlershëm
  stem: vlershëm.|vlershm.
  gramm: A,borr,lat,deriv
@@ -97403,6 +97550,13 @@
  trans_en: little
 
 -lexeme
+ lex: vogëlan
+ stem: vogëlan.
+ gramm: A,alb,deriv
+ paradigm: adj-3-1
+ trans_en: little; junior
+
+-lexeme
  lex: vogëlosh
  stem: vogëlosh.
  gramm: A,alb,deriv
@@ -97450,6 +97604,20 @@
  gramm: A,borr,it,new
  paradigm: adj-3-1
  trans_en: vocal
+
+-lexeme
+ lex: vokalik
+ stem: vokalik.
+ gramm: A,borr,it,new
+ paradigm: adj-3-2
+ trans_en: vocalic
+
+-lexeme
+ lex: vokalistik
+ stem: vokalistik.
+ gramm: A,borr,it,new
+ paradigm: adj-3-2
+ trans_en: vocalic
 
 -lexeme
  lex: vokan
@@ -97691,6 +97859,13 @@
  trans_en: overcast, cloudy
 
 -lexeme
+ lex: vrenjtur
+ stem: vrejtur.|vrejtur.
+ gramm: A,nonst,unknwn,deriv
+ paradigm: adj-2-2
+ trans_en: overcast, cloudy
+
+-lexeme
  lex: vrerosur
  stem: vrerosur.|vrerosur.
  gramm: A,borr,lat,deriv
@@ -97747,6 +97922,13 @@
  trans_en: sudden
 
 -lexeme
+ lex: vrimosur
+ stem: vrimosur.|vrimosur.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: pierced, punctured
+
+-lexeme
  lex: vrimuar
  stem: vrimuar.|vrimuar.
  gramm: A,alb,deriv
@@ -97780,6 +97962,13 @@
  gramm: A,alb,deriv
  paradigm: adj-1-2
  trans_en: observational
+
+-lexeme
+ lex: vrojtueshëm
+ stem: vrojtueshëm.|vrojtueshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: observable
 
 -lexeme
  lex: vruar
@@ -97877,6 +98066,13 @@
  stem: vrundulluar.|vrundulluar.
  gramm: A,borr,greek,deriv
  paradigm: adj-2-2
+ trans_en: rushing, dashing
+
+-lexeme
+ lex: vrundullues
+ stem: vrundullues.|vrundullues.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-1-2
  trans_en: rushing, dashing
 
 -lexeme
@@ -98480,6 +98676,13 @@
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: having dewlaps
+
+-lexeme
+ lex: vëzhgonjës
+ stem: vëzhgonjës.|vëzhgonjës.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-1-2
+ trans_en: observant
 
 -lexeme
  lex: vëzhguar

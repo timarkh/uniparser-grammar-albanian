@@ -55282,6 +55282,20 @@
  trans_en: impoverish; deplete
 
 -lexeme
+ lex: vorfënoj
+ stem: vorfëno.//vorfno.|vorfënue.//vorfnue.|vorfënu.//vorfnu.|vorfën.//vorfn.
+ gramm: V,med,nonst,Gheg,borr,lat,deriv
+ paradigm: lexoj-1
+ trans_en: become poor; become depleted
+
+-lexeme
+ lex: vorfënoj
+ stem: vorfëno.//vorfno.|vorfënue.//vorfnue.|vorfënu.//vorfnu.|vorfën.//vorfn.
+ gramm: V,vt,nonst,Gheg,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: impoverish; deplete
+
+-lexeme
  lex: vargoj
  stem: vargo.|vargua.|vargu.|varg.
  gramm: V,med,alb,deriv
@@ -56260,6 +56274,34 @@
  trans_en: suicide
 
 -lexeme
+ lex: vetëzbuloj
+ stem: vetëzbulo.|vetëzbulua.|vetëzbulu.|vetëzbul.
+ gramm: V,med,alb,deriv
+ paradigm: lexoj-1
+ trans_en: uncover oneself
+
+-lexeme
+ lex: vetëzbuloj
+ stem: vetëzbulo.|vetëzbulua.|vetëzbulu.|vetëzbul.
+ gramm: V,vi,alb,deriv
+ paradigm: lexoj
+ trans_en: uncover, disclose oneself
+
+-lexeme
+ lex: vetëzgjedh
+ stem: vetëzgjedh.|vetëzgjidh.|vetëzgjodh.
+ gramm: V,med,alb,deriv
+ paradigm: heq-1
+ trans_en: select, choose oneself; elect oneself
+
+-lexeme
+ lex: vetëzgjedh
+ stem: vetëzgjedh.|vetëzgjidh.|vetëzgjodh.
+ gramm: V,vi,alb,deriv
+ paradigm: heq
+ trans_en: select, choose oneself; elect oneself
+
+-lexeme
  lex: vetëzhvilloj
  stem: vetëzhvillo.|vetëzhvillua.|vetëzhvillu.|vetëzhvill.
  gramm: V,vi,alb,deriv
@@ -56281,8 +56323,22 @@
  trans_en: lay eggs
 
 -lexeme
+ lex: vezullij
+ stem: vezulli.//vezëlli.
+ gramm: V,vi,alb,deriv
+ paradigm: laj
+ trans_en: flicker, glitter, glint, twinkle
+
+-lexeme
+ lex: vezullit
+ stem: vezullis.//vezullit.//vezëllis.//vezëllit.|vezullit.//vezëllit.
+ gramm: V,vi,alb,deriv
+ paradigm: mat
+ trans_en: flicker, glitter, glint, twinkle
+
+-lexeme
  lex: vezulloj
- stem: vezullo.|vezullua.|vezullu.|vezull.
+ stem: vezullo.//vezëllo.|vezullua.//vezëllua.|vezullu.//vezëllu.|vezull.//vezëll.
  gramm: V,vi,alb,deriv
  paradigm: lexoj
  trans_en: flicker, glitter, glint, twinkle
@@ -56352,8 +56408,8 @@
 
 -lexeme
  lex: vigjiloj
- stem: vigjëllo.|vigjëllua.|vigjëllu.|vigjëll.
- gramm: V,vi,nonst
+ stem: vigjëllo.//vigjëlo.|vigjëllua.//vigjëlua.|vigjëllu.//vigjëlu.|vigjëll.//vigjël.
+ gramm: V,vi,nonst,borr,it,new
  paradigm: lexoj
  trans_en: stand vigil
 
@@ -56407,6 +56463,13 @@
  trans_en: scream
 
 -lexeme
+ lex: viktimizoj
+ stem: viktimizo.|viktimizua.|viktimizu.|viktimiz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: victimize
+
+-lexeme
  lex: vilanis
  stem: vilanis.
  gramm: V,vi,borr,rum,deriv
@@ -56442,6 +56505,13 @@
  trans_en: abandon
 
 -lexeme
+ lex: virtualizoj
+ stem: virtualizo.|virtualizua.|virtualizu.|virtualiz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: virtualize
+
+-lexeme
  lex: vishkoj
  stem: vishko.|vishkua.|vishku.|vishk.
  gramm: V,vt,alb,deriv
@@ -56463,6 +56533,13 @@
  trans_en: stamp a visa
 
 -lexeme
+ lex: vitalizoj
+ stem: vitalizo.|vitalizua.|vitalizu.|vitaliz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: vitalize
+
+-lexeme
  lex: vithis
  stem: vithis.
  gramm: V,med,borr,greek
@@ -56475,6 +56552,13 @@
  gramm: V,vt,borr,greek
  paradigm: hap
  trans_en: cause to sink into the ground; hurl down
+
+-lexeme
+ lex: vitrinëzoj
+ stem: vitrinëzo.|vitrinëzua.|vitrinëzu.|vitrinëz.
+ gramm: V,vt,borr,fr,new,deriv
+ paradigm: lexoj
+ trans_en: vitrify, glassify
 
 -lexeme
  lex: vizat
@@ -56498,6 +56582,13 @@
  trans_en: draw, sketch; sketch out
 
 -lexeme
+ lex: vizionoj
+ stem: viziono.|vizionua.|vizionu.|vizion.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: imagine
+
+-lexeme
  lex: vizitoj
  stem: vizito.|vizitua.|vizitu.|vizit.
  gramm: V,vt,borr,rom,deriv
@@ -56505,9 +56596,9 @@
  trans_en: visit
 
 -lexeme
- lex: vezulloj
- stem: vizllo.|vizllua.|vizllu.|vizll.
- gramm: V,vi,nonst,alb,deriv
+ lex: vizëlloj
+ stem: vizllo.//vizëllo.|vizllua.//vizëllua.|vizllu.//vizëllu.|vizll.//vizëll.
+ gramm: V,vi,alb,deriv
  paradigm: lexoj
  trans_en: flicker, glitter, glint, twinkle
 
@@ -56524,6 +56615,13 @@
  gramm: V,vt,borr,lat,deriv
  paradigm: lexoj
  trans_en: line, rule, stripe; stamp a visa
+
+-lexeme
+ lex: vizualizoj
+ stem: vizualizo.|vizualizua.|vizualizu.|vizualiz.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: visualize
 
 -lexeme
  lex: vjedh
@@ -56633,6 +56731,20 @@
 -lexeme
  lex: vjetroj
  stem: vjetro.|vjetrua.|vjetru.|vjetr.
+ gramm: V,vt,unknwn,deriv
+ paradigm: lexoj
+ trans_en: make old, age; wear out
+
+-lexeme
+ lex: vjetëroj
+ stem: vjetëro.|vjetërua.|vjetëru.|vjetër.
+ gramm: V,med,unknwn,deriv
+ paradigm: lexoj-1
+ trans_en: age; become worn, outworn; become outdated
+
+-lexeme
+ lex: vjetëroj
+ stem: vjetëro.|vjetërua.|vjetëru.|vjetër.
  gramm: V,vt,unknwn,deriv
  paradigm: lexoj
  trans_en: make old, age; wear out
@@ -56821,11 +56933,53 @@
  trans_en: delay (vt); be late (vi)
 
 -lexeme
+ lex: vorbullohem
+ stem: vorbullo.|vorbullua.|vorbullu.|vorbull.
+ gramm: V,med,borr,lat,deriv
+ paradigm: lexoj-1
+ trans_en: get whirled
+
+-lexeme
+ lex: vorbulloj
+ stem: vorbullo.|vorbullua.|vorbullu.|vorbull.
+ gramm: V,vi,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: whirl
+
+-lexeme
+ lex: vorbullëzohem
+ stem: vorbullëzo.|vorbullëzua.|vorbullëzu.|vorbullëz.
+ gramm: V,med,borr,lat,deriv
+ paradigm: lexoj-1
+ trans_en: get whirled
+
+-lexeme
+ lex: vorbullëzoj
+ stem: vorbullëzo.|vorbullëzua.|vorbullëzu.|vorbullëz.
+ gramm: V,vi,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: whirl
+
+-lexeme
  lex: votoj
  stem: voto.|votua.|votu.|vot.
  gramm: V,vi,borr,rom,new,deriv
  paradigm: lexoj
  trans_en: vote
+
+-lexeme
+ lex: votëbesoj
+ stem: votëbeso.|votëbesua.|votëbesu.|votëbes.
+ gramm: V,med,alb,borr,rom,new,deriv
+ paradigm: lexoj-1
+ trans_en: be voted, poll
+
+-lexeme
+ lex: votëbesoj
+ stem: votëbeso.|votëbesua.|votëbesu.|votëbes.
+ gramm: V,vt,vi,alb,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: cast a vote
 
 -lexeme
  lex: vozgoj
@@ -56847,6 +57001,13 @@
  gramm: V,vt,alb,deriv
  paradigm: lexoj
  trans_en: mark
+
+-lexeme
+ lex: vrangëllij
+ stem: vrangëlli.
+ gramm: V,vi
+ paradigm: laj
+ trans_en: swing
 
 -lexeme
  lex: vrapoj
@@ -56975,6 +57136,13 @@
  trans_en: pierce, puncture, bore
 
 -lexeme
+ lex: vrimëzoj
+ stem: vrimëzo.|vrimëzua.|vrimëzu.|vrimëz.
+ gramm: V,vt,alb,deriv
+ paradigm: lexoj
+ trans_en: pierce, puncture, bore
+
+-lexeme
  lex: vringëllij
  stem: vringëlli.
  gramm: V,vt,vi,alb,deriv
@@ -57038,6 +57206,20 @@
  trans_en: cause downy mildew to form on; make gloomy; ruin, destroy
 
 -lexeme
+ lex: vrugnoj
+ stem: vrugno.|vrugnua.|vrugnu.|vrugn.
+ gramm: V,med,borr,lat,deriv
+ paradigm: lexoj-1
+ trans_en: suffer mildew blight; darken; become sullied
+
+-lexeme
+ lex: vrugnoj
+ stem: vrugno.|vrugnua.|vrugnu.|vrugn.
+ gramm: V,vt,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: cause downy mildew to form on; make gloomy; ruin, destroy
+
+-lexeme
  lex: vrujoj
  stem: vrujo.|vrujua.|vruju.|vruj.
  gramm: V,vi,borr,slav,deriv
@@ -57059,10 +57241,24 @@
  trans_en: rush, dash, swoop
 
 -lexeme
+ lex: vrumbullij
+ stem: vrumbulli.
+ gramm: V,vi,alb,deriv
+ paradigm: laj
+ trans_en: roar; buzz; gurgle
+
+-lexeme
  lex: vrumbullit
  stem: vrumbullis.//vrumbullit.|vrumbullit.
  gramm: V,vi,alb,deriv
  paradigm: mat
+ trans_en: roar; buzz; gurgle
+
+-lexeme
+ lex: vrumbulloj
+ stem: vrumbullo.|vrumbullua.|vrumbullu.|vrumbull.
+ gramm: V,vi,alb,deriv
+ paradigm: lexoj
  trans_en: roar; buzz; gurgle
 
 -lexeme
@@ -57295,6 +57491,13 @@
  lex: vërej
  stem: vëre.|vërejt.
  gramm: V,vt,alb,deriv
+ paradigm: brej
+ trans_en: observe; notice, note; look after
+
+-lexeme
+ lex: vërej
+ stem: vre.|vrejt.
+ gramm: V,vt,nonst,alb,deriv
  paradigm: brej
  trans_en: observe; notice, note; look after
 

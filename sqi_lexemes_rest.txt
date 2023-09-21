@@ -17790,6 +17790,13 @@
  trans_en: apart, separately, in addition
 
 -lexeme
+ lex: veçantërisht
+ stem: veçantërisht.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: particularly, especially
+
+-lexeme
  lex: veçanërisht
  stem: veçanrisht.
  gramm: ADV,nonst,alb,deriv
@@ -17853,6 +17860,13 @@
  trans_en: continuously
 
 -lexeme
+ lex: vijueshmërisht
+ stem: vijueshmërisht.
+ gramm: ADV,borr,lat,deriv
+ paradigm: unchangeable
+ trans_en: continuously, consequently
+
+-lexeme
  lex: vijë
  stem: vijë.
  gramm: ADV,borr,lat,deriv
@@ -17865,6 +17879,20 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: (of cloth) rolled in a bolt
+
+-lexeme
+ lex: virgjërisht
+ stem: virgjërisht.
+ gramm: ADV,borr,lat,deriv
+ paradigm: unchangeable
+ trans_en: virtuously, cleanly
+
+-lexeme
+ lex: virtualisht
+ stem: virtualisht.
+ gramm: ADV,borr,rom,new,deriv
+ paradigm: unchangeable
+ trans_en: virtually
 
 -lexeme
  lex: vishkull
@@ -17937,6 +17965,13 @@
  trans_en: last year
 
 -lexeme
+ lex: vlefshmërisht
+ stem: vlefshmërisht.
+ gramm: ADV,borr,lat,deriv
+ paradigm: unchangeable
+ trans_en: worthy, worthwhile
+
+-lexeme
  lex: vllahisht
  stem: vllahisht.
  gramm: ADV
@@ -17963,6 +17998,13 @@
  gramm: ADV,borr,slav,deriv
  paradigm: unchangeable
  trans_en: in poverty
+
+-lexeme
+ lex: vogëlisht
+ stem: vogëlisht.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: miserably
 
 -lexeme
  lex: vonë
@@ -17994,6 +18036,13 @@
  trans_en: rapidly, immediately
 
 -lexeme
+ lex: vrazhdas
+ stem: vrazhdas.
+ gramm: ADV,borr,slav,deriv
+ paradigm: unchangeable
+ trans_en: roughly, harshly
+
+-lexeme
  lex: vrazhdë
  stem: vrazhd.
  gramm: ADV,nonst,borr,slav
@@ -18006,6 +18055,13 @@
  gramm: ADV,borr,slav
  paradigm: unchangeable
  trans_en: roughly, harshly
+
+-lexeme
+ lex: vrerazi
+ stem: vrerazi.
+ gramm: ADV,borr,lat,deriv
+ paradigm: unchangeable
+ trans_en: with bitter sorrow
 
 -lexeme
  lex: vrerët
@@ -18050,11 +18106,25 @@
  trans_en: whirling around
 
 -lexeme
+ lex: vrulltaz
+ stem: vrulltaz.
+ gramm: ADV,borr,slav,deriv
+ paradigm: unchangeable
+ trans_en: in a burst of energy, dashing
+
+-lexeme
+ lex: vrulltazi
+ stem: vrulltazi.
+ gramm: ADV,borr,slav,deriv
+ paradigm: unchangeable
+ trans_en: in a burst of energy, dashing
+
+-lexeme
  lex: vrundull
  stem: vrundu.
  gramm: ADV,nonst,borr,greek,deriv
  paradigm: unchangeable
- trans_en: in a wave of energy/force
+ trans_en: in a wave of energy, force
 
 -lexeme
  lex: vrundull
