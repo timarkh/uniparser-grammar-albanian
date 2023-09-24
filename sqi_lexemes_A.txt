@@ -8164,7 +8164,7 @@
 
 -lexeme
  lex: brendshëm
- stem: brëndshëm.|brëndshm.//brëndëshm.
+ stem: brëndshëm.//mbrendëshëm.|brëndshm.//brëndëshm.//mbrëndëshm.
  gramm: A,nonst,alb,deriv
  paradigm: adj-1-2-a
  trans_en: interior
@@ -30150,6 +30150,13 @@
  trans_en: not pertaining to social classes
 
 -lexeme
+ lex: jokoherent
+ stem: jokoherent.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-3-1
+ trans_en: noncoherent
+
+-lexeme
  lex: jokombëtar
  stem: jokombëtar.
  gramm: A,borr,greek,deriv
@@ -30169,6 +30176,27 @@
  gramm: A,borr,rom,new,deriv
  paradigm: adj-3-1
  trans_en: non-communicative
+
+-lexeme
+ lex: jokonkurrues
+ stem: jokonkurrues.|jokonkurrues.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-1-2
+ trans_en: noncompeting
+
+-lexeme
+ lex: jokonsekuent
+ stem: jokonsekuent.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-3-1
+ trans_en: inconsistent
+
+-lexeme
+ lex: jokonsistent
+ stem: jokonsistent.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-3-1
+ trans_en: inconsistent
 
 -lexeme
  lex: jokonvencial
@@ -30332,9 +30360,23 @@
  trans_en: non-party
 
 -lexeme
+ lex: joparësor
+ stem: joparësor.
+ gramm: A,alb,deriv
+ paradigm: adj-3-1
+ trans_en: nonprimary
+
+-lexeme
  lex: joperformues
  stem: joperformues.|joperformues.
  gramm: A,borr,en,new,deriv
+ paradigm: adj-1-2
+ trans_en: nonperforming
+
+-lexeme
+ lex: joperformues
+ stem: jopërformues.|jopërformues.
+ gramm: A,nonst,borr,en,new,deriv
  paradigm: adj-1-2
  trans_en: nonperforming
 
@@ -30400,6 +30442,13 @@
  gramm: A,alb,deriv
  paradigm: adj-1-2
  trans_en: nonresponsible
+
+-lexeme
+ lex: jopërfundimtar
+ stem: jopërfundimtar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-3-1
+ trans_en: nonfinal
 
 -lexeme
  lex: jopërparimtar
@@ -30897,6 +30946,13 @@
  gramm: A,borr,lat,deriv
  paradigm: adj-1-2-a
  trans_en: of long ago
+
+-lexeme
+ lex: kahmotshëm
+ stem: kahmotshëm.|kahmotshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: of ages ago, former
 
 -lexeme
  lex: kahnitur
@@ -32279,6 +32335,13 @@
  trans_en: on the part of four parties
 
 -lexeme
+ lex: katëpikësh
+ stem: katëpikësh.|katëpikësh.
+ gramm: A,alb,deriv
+ paradigm: adj-1-5
+ trans_en: four-drip
+
+-lexeme
  lex: katërqindtë
  stem: katërqindtë.|katërqindt.
  gramm: A,alb,deriv
@@ -32839,6 +32902,13 @@
  trans_en: named
 
 -lexeme
+ lex: koalicionues
+ stem: koalicionues.|koalicionues.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-1-2
+ trans_en: making a coalition
+
+-lexeme
  lex: kobash
  stem: kobash.
  gramm: A,borr,slav,deriv
@@ -32977,6 +33047,20 @@
  gramm: A,borr,lat,deriv
  paradigm: adj-3-1
  trans_en: hilly
+
+-lexeme
+ lex: kohabituar
+ stem: kohabituar.|kohabituar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: cohabited
+
+-lexeme
+ lex: kohabitues
+ stem: kohabitues.|kohabitues.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-1-2
+ trans_en: cohabited
 
 -lexeme
  lex: koherent
@@ -33413,6 +33497,13 @@
  trans_en: collected
 
 -lexeme
+ lex: kolateral
+ stem: kolateral.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-1
+ trans_en: collateral
+
+-lexeme
  lex: kolauduar
  stem: kolauduar.|kolauduar.
  gramm: A,borr,it,new,deriv
@@ -33581,6 +33672,13 @@
  trans_en: national
 
 -lexeme
+ lex: kombëtarist
+ stem: kombëtarist.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-3-1
+ trans_en: nationalist
+
+-lexeme
  lex: kombëtarizuar
  stem: kombëtarizuar.|kobmëtarizuar.
  gramm: A,borr,greek,new,deriv
@@ -33635,6 +33733,13 @@
  gramm: A,borr,rom,new
  paradigm: adj-3-1
  trans_en: compact
+
+-lexeme
+ lex: kompatibël
+ stem: kompatibël.
+ gramm: A,borr,en,new
+ paradigm: adj-3-1
+ trans_en: compatible
 
 -lexeme
  lex: kompensuar
@@ -33733,6 +33838,13 @@
  gramm: A,borr,rom,new,deriv
  paradigm: adj-3-1
  trans_en: compositional
+
+-lexeme
+ lex: kompozitorial
+ stem: kompozitorial.
+ gramm: A,borr,it,new
+ paradigm: adj-3-1
+ trans_en: compozitorial
 
 -lexeme
  lex: kompozuar
@@ -33861,6 +33973,13 @@
  trans_en: condensed
 
 -lexeme
+ lex: kondicional
+ stem: kondicional.
+ gramm: A,borr,inter
+ paradigm: adj-3-1
+ trans_en: conditional
+
+-lexeme
  lex: kondicionuar
  stem: kondicionuar.|kondicionuar.
  gramm: A,borr,inter,deriv
@@ -33870,9 +33989,16 @@
 -lexeme
  lex: konfidencial
  stem: konfidencial.
- gramm: A
+ gramm: A,borr,inter
  paradigm: adj-3-1
  trans_en: confidential
+
+-lexeme
+ lex: konfident
+ stem: konfident.
+ gramm: A,borr,inter
+ paradigm: adj-3-1
+ trans_en: confident
 
 -lexeme
  lex: konfirmuar
@@ -33987,11 +34113,18 @@
  trans_en: preserved
 
 -lexeme
+ lex: konservues
+ stem: konservues.|konservues.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-1-2
+ trans_en: preserving
+
+-lexeme
  lex: konsideruar
  stem: konsideruar.|konsideruar.
  gramm: A,borr,rom,new,deriv
  paradigm: adj-2-2
- trans_en: 
+ trans_en: considered
 
 -lexeme
  lex: konsiderueshëm
@@ -34006,6 +34139,13 @@
  gramm: A,borr,it,new,deriv
  paradigm: adj-2-2
  trans_en: consolidated
+
+-lexeme
+ lex: konsolidues
+ stem: konsolidues.|konsolidues.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-1-2
+ trans_en: consolidating
 
 -lexeme
  lex: konspektuar
@@ -35100,6 +35240,13 @@
  trans_en: criminal
 
 -lexeme
+ lex: kriminalizuar
+ stem: kriminalizuar.|kriminalizuar.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-2-2
+ trans_en: criminalized
+
+-lexeme
  lex: kripanik
  stem: kripanik.
  gramm: A,alb,deriv
@@ -35436,11 +35583,25 @@
  trans_en: bug-headed
 
 -lexeme
+ lex: kryemafioz
+ stem: kryemafioz.//kryemafjoz.
+ gramm: A,alb,borr,it,new,deriv
+ paradigm: adj-3-1
+ trans_en: main mafioso
+
+-lexeme
  lex: kryeneç
  stem: kryeneç.
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: obstinate, stubborn
+
+-lexeme
+ lex: kryengritur
+ stem: kryengritur.|kryengritur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: insurgent
 
 -lexeme
  lex: kryengritës
@@ -35583,9 +35744,23 @@
  trans_en: crossing
 
 -lexeme
+ lex: kryqëzor
+ stem: kryqëzor.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-3-1
+ trans_en: crossing
+
+-lexeme
  lex: kryqëzuar
  stem: kryqëzuar.|kryqëzuar.
  gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: crossed; crucified
+
+-lexeme
+ lex: kryqëzuem
+ stem: kryqëzuem.//kryqzuem.|kryqëzuem.//kryqzuem.
+ gramm: A,nonst,Gheg,borr,lat,deriv
  paradigm: adj-2-2
  trans_en: crossed; crucified
 
@@ -35984,14 +36159,14 @@
 -lexeme
  lex: kundërajror
  stem: kundërajror.
- gramm: A
+ gramm: A,borr,it,new,deriv
  paradigm: adj-3-1
  trans_en: anti-aircraft
 
 -lexeme
  lex: kundëratomik
  stem: kundëratomik.
- gramm: A
+ gramm: A,borr,rom,new,deriv
  paradigm: adj-3-2
  trans_en: anti-atomic
 
@@ -36106,6 +36281,13 @@
  gramm: A,borr,rom,new,deriv
  paradigm: adj-3-1
  trans_en: counterproductive
+
+-lexeme
+ lex: kundërqeveritar
+ stem: kundërqeveritar.
+ gramm: A,borr,greek,deriv
+ paradigm: adj-3-1
+ trans_en: anti-governmental
 
 -lexeme
  lex: kundërqëndruar
@@ -36400,6 +36582,13 @@
  gramm: A,alb,deriv
  paradigm: adj-2-2
  trans_en: reddened
+
+-lexeme
+ lex: kuranor
+ stem: kuranor.
+ gramm: A,borr,turk,deriv
+ paradigm: adj-3-1
+ trans_en: pertaining to Koran
 
 -lexeme
  lex: kurdisur
@@ -37368,6 +37557,13 @@
  trans_en: in great demand
 
 -lexeme
+ lex: kërleshur
+ stem: kërleshur.|kërleshur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: having hair stand on end; entangled
+
+-lexeme
  lex: kërmillor
  stem: kërmillor.
  gramm: A,alb,deriv
@@ -37492,6 +37688,20 @@
  gramm: A,alb,borr,lat,deriv
  paradigm: adj-2-1
  trans_en: giving good advices
+
+-lexeme
+ lex: kështjellor
+ stem: kështjellor.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-3-1
+ trans_en: of fortress
+
+-lexeme
+ lex: kësollojtë
+ stem: kësollojtë.|kësollojt.
+ gramm: A,alb,borr,greek,deriv
+ paradigm: adj-2-1
+ trans_en: of this kind
 
 -lexeme
  lex: kësulëbardhë
@@ -38150,6 +38360,13 @@
  gramm: A,borr,lat,deriv
  paradigm: adj-1-2
  trans_en: distancing
+
+-lexeme
+ lex: largvajtës
+ stem: largvajtës.|largvajtës.
+ gramm: A,alb,borr,lat,deriv
+ paradigm: adj-1-2
+ trans_en: far-reaching
 
 -lexeme
  lex: largët
@@ -39300,6 +39517,13 @@
  trans_en: liberal-democratic
 
 -lexeme
+ lex: liberalizuar
+ stem: liberalizuar.|liberalizuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: liberal
+
+-lexeme
  lex: libian
  stem: libian.
  gramm: A
@@ -39690,6 +39914,13 @@
  gramm: A,borr,en,new,deriv
  paradigm: adj-2-2
  trans_en: lynched
+
+-lexeme
+ lex: linçues
+ stem: linçues.|linçues.
+ gramm: A,borr,en,new,deriv
+ paradigm: adj-1-2
+ trans_en: lynching
 
 -lexeme
  lex: lipjanas
@@ -40503,6 +40734,13 @@
  gramm: A,borr,it,new,deriv
  paradigm: adj-1-2-a
  trans_en: logical, reasonable
+
+-lexeme
+ lex: logopedik
+ stem: logopedik.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-2
+ trans_en: logopedic
 
 -lexeme
  lex: logorisur
@@ -41976,6 +42214,13 @@
  trans_en: grand, majestic
 
 -lexeme
+ lex: madhnueshëm
+ stem: madhnueshëm.|madhnueshm.
+ gramm: A,nonst,Gheg,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: grand, majestic
+
+-lexeme
  lex: madhështor
  stem: madhështor.
  gramm: A,alb,deriv
@@ -42443,6 +42688,13 @@
  gramm: A,borr,it,new,deriv
  paradigm: adj-1-2-a
  trans_en: maneuverable
+
+-lexeme
+ lex: mantelbardhë
+ stem: mantelbardhë.|mantelbardh.
+ gramm: A,alb,borr,it,deriv
+ paradigm: adj-2-1
+ trans_en: with white overcoats
 
 -lexeme
  lex: mançurian
@@ -43194,6 +43446,13 @@
  trans_en: adjectivized
 
 -lexeme
+ lex: mbifaturuar
+ stem: mbifaturuar.|mbifaturuar.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-2-2
+ trans_en: overcharged
+
+-lexeme
  lex: mbifuqishëm
  stem: mbifuqishëm.|mbifuqishm.
  gramm: A,alb,deriv
@@ -43220,6 +43479,13 @@
  gramm: A,alb,deriv
  paradigm: adj-1-2
  trans_en: supervising; supervisory
+
+-lexeme
+ lex: mbinacional
+ stem: mbinacional.
+ gramm: A,borr,it,new
+ paradigm: adj-3-1
+ trans_en: supernational
 
 -lexeme
  lex: mbinatyror
@@ -43957,6 +44223,13 @@
  trans_en: meditative
 
 -lexeme
+ lex: meditues
+ stem: meditues.|meditues.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-1-2
+ trans_en: meditating
+
+-lexeme
  lex: mefshtë
  stem: mefshtë.|mefsht.
  gramm: A,alb,deriv
@@ -44406,7 +44679,7 @@
 
 -lexeme
  lex: menduar
- stem: mentuar.|mentuar.
+ stem: mentuar.//mejtuar.|mentuar.//mejtuar.
  gramm: A,nonst,borr,lat,deriv
  paradigm: adj-2-2
  trans_en: thoughtful
@@ -44415,6 +44688,13 @@
  lex: mendueshëm
  stem: mendueshëm.|mendueshm.
  gramm: A,borr,lat,deriv
+ paradigm: adj-1-2-a
+ trans_en: thoughtful
+
+-lexeme
+ lex: mendueshëm
+ stem: mentueshëm.//mejtueshëm.|mentueshm.//mejtueshm.
+ gramm: A,nonst,borr,lat,deriv
  paradigm: adj-1-2-a
  trans_en: thoughtful
 
@@ -45461,6 +45741,13 @@
  gramm: A,alb,borr,rom,new,deriv
  paradigm: adj-2-2
  trans_en: well-sophisticated
+
+-lexeme
+ lex: mirëstudiuar
+ stem: mirëstudiuar.|vstudiuar.
+ gramm: A,alb,borr,it,deriv
+ paradigm: adj-2-2
+ trans_en: well-studied
 
 -lexeme
  lex: mirësuar
@@ -46674,6 +46961,13 @@
  trans_en: motorized
 
 -lexeme
+ lex: motorizues
+ stem: motorizues.|motorizues.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-1-2
+ trans_en: motorizing
+
+-lexeme
  lex: motës
  stem: motës.|motës.
  gramm: A,alb,deriv
@@ -47186,6 +47480,13 @@
  trans_en: dark gray
 
 -lexeme
+ lex: murosur
+ stem: murosur.|murosur.
+ gramm: A,borr,it,deriv
+ paradigm: adj-2-2
+ trans_en: walled in; immured
+
+-lexeme
  lex: murtuar
  stem: murtuar.|murtuar.
  gramm: A,alb,deriv
@@ -47352,6 +47653,13 @@
  gramm: A,borr,it,new
  paradigm: adj-3-1
  trans_en: musical
+
+-lexeme
+ lex: muzikologjik
+ stem: muzikologjik.
+ gramm: A,borr,it,new
+ paradigm: adj-3-2
+ trans_en: musicological
 
 -lexeme
  lex: muzikor
@@ -47583,6 +47891,20 @@
  gramm: A
  paradigm: adj-2-2
  trans_en: grafted
+
+-lexeme
+ lex: mëmëdhesor
+ stem: mëmëdhesor.
+ gramm: A,alb,deriv
+ paradigm: adj-3-1
+ trans_en: native, of motherland
+
+-lexeme
+ lex: mëmësor
+ stem: mëmësor.
+ gramm: A,alb,deriv
+ paradigm: adj-3-1
+ trans_en: maternal
 
 -lexeme
  lex: mëndafshtë
@@ -48038,6 +48360,13 @@
  gramm: A,alb,deriv
  paradigm: adj-1-2-a
  trans_en: autonomous, independent
+
+-lexeme
+ lex: mëvetësuar
+ stem: mëvetësuar.|mëvetësuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: autonomized
 
 -lexeme
  lex: mëvonshëm

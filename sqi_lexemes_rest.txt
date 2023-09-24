@@ -7266,6 +7266,20 @@
  trans_en: nobody
 
 -lexeme
+ lex: kurrkush
+ stem: kërrkush.|kërrkujt.|kërrkënd.
+ gramm: PRO,nonst,alb,deriv
+ paradigm: interrog-pro
+ trans_en: nobody
+
+-lexeme
+ lex: kurrnjëfarë
+ stem: kurrnjëfarë.
+ gramm: PRO,alb,deriv
+ paradigm: unchangeable
+ trans_en: no
+
+-lexeme
  lex: kurrqysh
  stem: kurrqysh.
  gramm: ADV,alb,deriv
@@ -7317,6 +7331,13 @@
 -lexeme
  lex: kushdo
  stem: kushdo.|kujtdo.|këdo.
+ gramm: PRO,alb,deriv
+ paradigm: interrog-pro
+ trans_en: anyone, anybody, everyone, everybody
+
+-lexeme
+ lex: kushdoqoftë
+ stem: kushdoqoftë.|kujtdoqoftë.|këdoqoftë.
  gramm: PRO,alb,deriv
  paradigm: interrog-pro
  trans_en: anyone, anybody, everyone, everybody
@@ -10245,6 +10266,12 @@
  stem: njëri-tjetr.
  gramm: PRO,alb,deriv
  paradigm: recp-indef-pro-m-2
+ trans_en: each other
+
+-lexeme
+ lex: njëri-tjetri
+ stem: njëra-tjetr.
+ gramm: PRO,alb,deriv
  paradigm: recp-indef-pro-f-2
  trans_en: each other
 

@@ -3783,6 +3783,16 @@
  -flex: <0>.et
   gramm: pl,gen_dat,def,nonst
 
+-paradigm: abbreviation-pl-1
+ -flex: <0>.-të
+  gramm: pl,nom,def
+ -flex: <0>.-ve
+  gramm: pl,gen_dat,def
+ -flex: <0>.-të
+  gramm: pl,acc,def
+ -flex: <0>.-ve
+  gramm: pl,abl,def
+
 -paradigm: vjeherr
  -flex: <1>.
   gramm: pl,nom,indef
@@ -4934,10 +4944,16 @@
   gramm: f,sg,nom,def
  -flex: <2>.ës
   gramm: f,sg,gen_dat,def
+ -flex: <2>.ësë
+  gramm: f,sg,gen_dat,def,nonst
  -flex: <2>.ën
   gramm: f,sg,acc,def
+ -flex: <2>.ënë
+  gramm: f,sg,acc,def,nonst
  -flex: <2>.ës
   gramm: f,sg,abl,def
+ -flex: <2>.ësë
+  gramm: f,sg,abl,def,nonst
  -flex: <1>.ë
   gramm: m,pl,nom,indef
  -flex: <1>.ëve
@@ -5010,11 +5026,13 @@
 -paradigm: recp-indef-pro-m-2
  -flex: <0>.i
   gramm: sg,nom
- -flex: <0>.it//<1>.t
+ -flex: <0>.it
   gramm: sg,gen_dat
- -flex: <0>.in//<0>.në//<1>.n
+ -flex: <0>.in
   gramm: sg,acc
- -flex: <0>.it//<1>.t
+ -flex: <0>.inë
+  gramm: sg,acc,nonst
+ -flex: <0>.it
   gramm: sg,abl
 
 -paradigm: recp-indef-pro-f-2
@@ -5022,10 +5040,16 @@
   gramm: sg,nom
  -flex: <0>.ës
   gramm: sg,gen_dat
+ -flex: <0>.ësë
+  gramm: sg,gen_dat,nonst
  -flex: <0>.ën
   gramm: sg,acc
+ -flex: <0>.ënë
+  gramm: sg,acc,nonst
  -flex: <0>.ës
   gramm: sg,abl
+ -flex: <0>.ësë
+  gramm: sg,alb,nonst
 
 -paradigm: cilido
  -flex: .i.

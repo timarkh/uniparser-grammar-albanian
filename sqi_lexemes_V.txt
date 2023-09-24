@@ -17934,6 +17934,13 @@
  trans_en: proclaim, announce
 
 -lexeme
+ lex: kastroj
+ stem: kastro.|kastrua.|kastru.|kastr.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: castrate
+
+-lexeme
  lex: katalogizoj
  stem: katalogizo.|katalogizua.|katalogizu.|katalogiz.
  gramm: V,vt,borr,rom,new,deriv
@@ -17953,6 +17960,13 @@
  gramm: V,vt,vi,borr,greek
  paradigm: hap
  trans_en: reduce to misery; reduce in value (vt); be brought low (vi)
+
+-lexeme
+ lex: katapultoj
+ stem: katapulto.|katapultua.|katapultu.|katapult.
+ gramm: V,vt,borr,it,new,deriv
+ paradigm: lexoj
+ trans_en: catapult
 
 -lexeme
  lex: kategorizoj
@@ -18459,6 +18473,20 @@
  trans_en: call by a name, give name
 
 -lexeme
+ lex: klonoj
+ stem: klono.|klonua.|klonu.|klon.
+ gramm: V,med,borr,en,new
+ paradigm: lexoj-1
+ trans_en: be cloned
+
+-lexeme
+ lex: klonoj
+ stem: klono.|klonua.|klonu.|klon.
+ gramm: V,vt,borr,en,new
+ paradigm: lexoj
+ trans_en: clone
+
+-lexeme
  lex: kobashit
  stem: kobashit.//kobashis.|kobashit.
  gramm: V,vt,borr,slav,deriv
@@ -18492,6 +18520,13 @@
  gramm: V,vt,borr,fr,new,deriv
  paradigm: lexoj
  trans_en: encode
+
+-lexeme
+ lex: kohabitoj
+ stem: kohabito.|kohabitua.|kohabitu.|kohabit.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: cohabit
 
 -lexeme
  lex: koincidoj
@@ -18597,6 +18632,13 @@
  gramm: V,vt
  paradigm: mat
  trans_en: collect
+
+-lexeme
+ lex: kolapsoj
+ stem: kolapso.|kolapsua.|kolapsu.|kolaps.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: collapse
 
 -lexeme
  lex: kolaudoj
@@ -18779,6 +18821,13 @@
  gramm: V,vt
  paradigm: lexoj
  trans_en: complicate
+
+-lexeme
+ lex: komplimentoj
+ stem: komplimento.|komplimentua.|komplimentu.|kompliment.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: complement
 
 -lexeme
  lex: komplotoj
@@ -19003,6 +19052,20 @@
  gramm: V,vt
  paradigm: lexoj
  trans_en: contest, dispute
+
+-lexeme
+ lex: kontrabandoj
+ stem: kontrabando.|kontrabandua.|kontrabandu.|kontraband.
+ gramm: V,med,borr,it,new,deriv
+ paradigm: lexoj-1
+ trans_en: be smuggled, brought as contraband
+
+-lexeme
+ lex: kontrabandoj
+ stem: kontrabando.|kontrabandua.|kontrabandu.|kontraband.
+ gramm: V,vt,borr,it,new,deriv
+ paradigm: lexoj
+ trans_en: smuggle, bring as contraband
 
 -lexeme
  lex: kontraktoj
@@ -20358,6 +20421,13 @@
  trans_en: pasture, feed (vt); graze, browse (vi)
 
 -lexeme
+ lex: kulminoj
+ stem: kulmino.|kulminua.|kulminu.|kulmin.
+ gramm: V,vt,vi,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: culminate
+
+-lexeme
  lex: kulmoj
  stem: kulmo.|kulmua.|kulmu.|kulm.
  gramm: V,vt,vi,borr,lat,deriv
@@ -20599,6 +20669,20 @@
  lex: kuptoj
  stem: kupto.|kuptua.|kuptu.|kupt.
  gramm: V,vt,vi,alb,deriv
+ paradigm: lexoj
+ trans_en: understand, comprehend, realize
+
+-lexeme
+ lex: kuptoj
+ stem: kupëto.|kupëtua.|kupëtu.|kupët.
+ gramm: V,med,nonst,alb,deriv
+ paradigm: lexoj-1
+ trans_en: arrive at an understanding, come to realize; be understandable
+
+-lexeme
+ lex: kuptoj
+ stem: kupëto.|kupëtua.|kupëtu.|kupët.
+ gramm: V,vt,vi,nonst,alb,deriv
  paradigm: lexoj
  trans_en: understand, comprehend, realize
 
@@ -21332,7 +21416,7 @@
  gramm: V,med,alb,deriv
  lexref: ngërleshem
  paradigm: hap-1
- trans_en: have hair stand on end; fight; to get interwoven; get entangled/complicated
+ trans_en: have hair stand on end; fight; to get interwoven; get entangled, complicated
 
 -lexeme
  lex: kërleshem
@@ -24802,6 +24886,13 @@
  trans_en: pickle, marinate
 
 -lexeme
+ lex: marketoj
+ stem: marketo.|marketua.|marketu.|market.
+ gramm: V,vt,borr,en,new
+ paradigm: lexoj
+ trans_en: market
+
+-lexeme
  lex: markoj
  stem: marko.|markua.|marku.|mark.
  gramm: V,vt,borr,inter
@@ -25217,6 +25308,13 @@
  trans_en: manage; breed
 
 -lexeme
+ lex: mbarështroj
+ stem: mbarështro.|mbarështrua.|mbarështru.|mbarështr.
+ gramm: V,vt,alb,deriv
+ paradigm: lexoj
+ trans_en: get into good order; tidy up
+
+-lexeme
  lex: mbarësoj
  stem: mbarëso.|mbarësua.|mbarësu.|mbarës.
  gramm: V,med,alb,deriv
@@ -25238,18 +25336,25 @@
  trans_en: join together
 
 -lexeme
- lex: mbashtroj
+ lex: mashtroj
  stem: mbashtro.|mbashtrua.|mbashtru.|mbashtr.
- gramm: V,vt
+ gramm: V,vt,nonst,borr,it
  paradigm: lexoj
- trans_en: feed from the hand, cheat
+ trans_en: feed from the hand; cheat
 
 -lexeme
- lex: mbashtroj
+ lex: mashtroj
  stem: mbashtro.|mbashtrua.|mbashtru.|mbashtr.
- gramm: V,vt
+ gramm: V,vt,nonst,borr,it
  paradigm: lexoj
- trans_en: feed from the hand; bribe
+ trans_en: feed from the hand, bribe
+
+-lexeme
+ lex: masturboj
+ stem: masturbo.|masturbua.|masturbu.|masturb.
+ gramm: V,vi,borr,rom,new
+ paradigm: lexoj
+ trans_en: masturbate
 
 -lexeme
  lex: mbat
@@ -25738,6 +25843,20 @@
  trans_en: reign
 
 -lexeme
+ lex: mbretnoj
+ stem: mbretno.|mbretnua.|mbretnu.|mbretn.
+ gramm: V,vt,nonst,Gheg,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: reign
+
+-lexeme
+ lex: mbërrij
+ stem: mbrri.//mbri.|mbrrit.//mbrit.
+ gramm: V,vt,vi,nonst,alb,deriv
+ paradigm: arrij
+ trans_en: arrive (vt); suffice, survive; reach, attain, achieve (vi)
+
+-lexeme
  lex: mbrijohem
  stem: mbrijo.|mbrijua.|mbriju.|mbrij.
  gramm: V,med
@@ -25816,7 +25935,7 @@
 
 -lexeme
  lex: mbërrutem
- stem: mbrrut.
+ stem: mbrrut.//mbrut.
  gramm: V,med,nonst,unknwn,deriv
  paradigm: hap-1
  trans_en: dry up, wither
@@ -25909,6 +26028,20 @@
  lex: mbuloj
  stem: mbulo.|mbulua.|mbulu.|mbul.
  gramm: V,vt,alb,deriv
+ paradigm: lexoj
+ trans_en: cover; bury
+
+-lexeme
+ lex: mbuloj
+ stem: mblo.|mblua.|mblu.|mbl.
+ gramm: V,med,nonst,alb,deriv
+ paradigm: lexoj-1
+ trans_en: put on a covering
+
+-lexeme
+ lex: mbuloj
+ stem: mblo.|mblua.|mblu.|mbl.
+ gramm: V,vt,nonst,alb,deriv
  paradigm: lexoj
  trans_en: cover; bury
 
@@ -26302,14 +26435,14 @@
 
 -lexeme
  lex: mendoj
- stem: mento.|mentua.|mentu.|ment.
+ stem: mento.//mejto.|mentua.//mejtua.|mentu.//mejtu.|ment.//mejt.
  gramm: V,med,nonst,borr,lat,deriv
  paradigm: lexoj-1
  trans_en: ponder; think; worry; be conceivable
 
 -lexeme
  lex: mendoj
- stem: mento.|mentua.|mentu.|ment.
+ stem: mento.//mejto.|mentua.//mejtua.|mentu.//mejtu.|ment.//mejt.
  gramm: V,vi,nonst,borr,lat,deriv
  paradigm: lexoj
  trans_en: think, consider
@@ -28628,6 +28761,20 @@
  gramm: V,med,alb,deriv
  paradigm: hap-1
  trans_en: worsen
+
+-lexeme
+ lex: mëvetësoj
+ stem: mëvetëso.|mëvetësua.|mëvetësu.|mëvetës.
+ gramm: V,med,alb,deriv
+ paradigm: lexoj-1
+ trans_en: get isolated, autonomous
+
+-lexeme
+ lex: mëvetësoj
+ stem: mëvetëso.|mëvetësua.|mëvetësu.|mëvetës.
+ gramm: V,vt,alb,deriv
+ paradigm: lexoj
+ trans_en: isolate, autonomize
 
 -lexeme
  lex: mëzej
