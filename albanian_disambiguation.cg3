@@ -7,7 +7,7 @@ LIST BOS = (>>>);
 LIST Verbs = vi vt med;
 LIST Poss = "im" "yt" "tij" "saj" "ynë" "juaj" "tyre";
 # The pronominal clitic "e" is not included in the list of clitics, because it is problematic.
-LIST Clitics = "<më>" "<ma>" "<të>" "<ta>" "<i>" "<na>" "<ju>" "<u>" "<ia>" "<ja>" "<ua>" "<iu>";
+LIST Clitics = "<më>"i "<ma>"i "<të>"i "<ta>"i "<i>"i "<na>"i "<ju>"i "<u>"i "<ia>"i "<ja>"i "<ua>"i "<iu>"i;
 SET BOSPunct = (punct) | BOS;
 
 SECTION    # Verbs
@@ -15,14 +15,14 @@ SECTION    # Verbs
 # Последнее не проверено.
 SELECT (V ind pres act 1 sg) IF (0 Verbs)
 								(-1 (PRO 1 sg nom))
-								(NOT -2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
+								(NEGATE -2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
 SELECT (V ind pres act 2 sg) IF (0 Verbs)
-								(NOT 0 ("<do>"i))
+								(NEGATE 0 ("<do>"i))
 								(-1 (PRO 2 sg nom))
-								(NOT -2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
+								(NEGATE -2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
 SELECT (V ind pres act 3 sg) IF (0 Verbs)
 								(-1 (PRO 3 sg m nom) OR (PRO 3 sg f nom))
-								(NOT -2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
+								(NEGATE -2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
 								
 # Imp,2,pl vs. prs,2,pl: future tense and modals 
 # 20.09.2023 не получилось проверить
@@ -35,12 +35,12 @@ REMOVE (V imp) IF (-2 Verbs)
 					  
 # 20.09.2023 Analytical perfect (select "participle", not "adjective").
 SELECT (ptcp) IF (0 (ptcp) - (A))
-				 (NOT 0 ("<sëmurë>") OR ("<përballë>"))
+				 (NEGATE 0 ("<sëmurë>") OR ("<përballë>"))
 				 (-1 ("kam"i) OR ("jam"i));
 
 # Aorist (select "vt, vi", not "med" in Aorist when there is no reflexive particle "u"; remove "act" after definitely reflexive "u").
 REMOVE (med) IF (0 (V aor))
-				(NOT -1 ("<u>"i) OR ("<iu>"i) OR ("<ju>"i));
+				(NEGATE -1 ("<u>"i) OR ("<iu>"i) OR ("<ju>"i));
 REMOVE (ind pres act) IF (0 (V))
 						 (-1 ("<iu>"i));
 				 
@@ -177,7 +177,7 @@ REMOVE (V vi opt pres act 3 sg) IF (-1 ("<i>"i) OR ("<e>"i) OR ("<të>"i))
 # Alb patë, vratë, leshtë cannot be the optative of kam, vras, leshem.
 REMOVE (V vt opt pres act 3 sg) IF (0 ("<patë>"i) OR ("<vratë>"i));
 REMOVE (V opt pres med act 3 sg) IF (0 ("<leshtë>"i))
-									(NOT -1 ("<u>"i));
+									(NEGATE -1 ("<u>"i));
 
 # 20.09.2023 Medial verbs do not have analytical perfect with "kam" (select "vt vi" participle).
 REMOVE (med) IF (0 (ptcp))
@@ -196,12 +196,12 @@ REMOVE (V sbjv) IF (-1 ("<të>"i) OR ("<t>"i) OR ("<ta>"i))
 SECTION    # Nouns
 # 20.09.2023 Nominative after the prepositions "tek" and "nga". 
 SELECT (nom def) IF (0 (NOUN) OR (PRO) OR (ART))
-					(NOT 0 (NUM))
+					(NEGATE 0 (NUM))
 					(-1 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
 					
 # 20.09.2023 Accusative after the prepositions "me", "nëpër", "në" et al.
 SELECT (acc) IF (0 (NOUN) OR (PRO) OR (ART))
-				(NOT 0 (NUM))
+				(NEGATE 0 (NUM))
 				(-1 ("<me>"i) OR ("<në>"i) OR ("<nëpër>"i) OR ("<nën>"i) OR ("<mbi>"i) OR ("<ndër>"i));
 					
 # Ablative and accusative after the preposition "për"
@@ -240,9 +240,9 @@ REMOVE (pl) IF  (0 (NOUN))
 				
 # 20.09.2023 Nouns immediately after numerals are plural, not singular.
 REMOVE (sg) IF  (0 (NOUN))
-				(NOT 0 ("<dhe>"i))
+				(NEGATE 0 ("<dhe>"i))
 				(-1 (NUM))
-				(NOT -1 ("<një>"i));
+				(NEGATE -1 ("<një>"i));
 				 
 # 20.09.2023 Nominative after the prepositions "tek" and "nga": indefinite contexts.
 # Последнее не проверено
@@ -254,7 +254,7 @@ SELECT (nom sg indef) IF (0 ("<tjetër>"i))
 					     (-2 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
 SELECT (ART nom dist) IF (0 ("<i>"i) OR ("<e>"i))
 						 (1 (NOUN))
-						 (1 NOT 1 ("<panë>"i) OR ("<ka>"i))
+						 (NEGATE 1 ("<panë>"i) OR ("<ka>"i))
 						 (-1 ("<tek>"i) OR ("<te>"i) OR ("<nga>"i));
 SELECT (ART) IF (0 ("<i>"i) OR ("<e>"i))
 				(1 (NOUN))
@@ -271,7 +271,7 @@ SELECT (unmkd) IF (0 (NOUN))
 # 20.09.2023 Disambiguation of articulated nouns after "në".
 SELECT (NOUN) IF (-1 ("<të>"i))
 				 (-2 ("<në>"i))
-				 (NOT 1 (NOUN unmkd));
+				 (NEGATE 1 (NOUN unmkd));
 				 
 SECTION    # Adjectives
 # Most adjectives can also work as adverbs. If an adjective has an article, it is not an adverb.
@@ -352,7 +352,7 @@ SELECT (cont acc) IF (0 ("<e>"i))
 SELECT (cont nom) IF (0 ("<i>"i) OR ("<e>"i))
 				     (1 (A) OR Poss)
 					 (-1 (NOUN nom def))
-					 (-2 (PR with_nom);
+					 (-2 (PR with_nom));
 SELECT (nom) IF (0 (NOUN sg indef))
 				(-1 ("<tjetër>"i))
 				(-2 ("<një>"i))
@@ -363,22 +363,22 @@ SELECT (abl pl) IF (0 ("<të>"i))
 				   (1 (A) OR Poss)
 				   (-1 (NOUN abl pl))
 				   (-2 (PR with_abl))
-				   (-2 NOT ("<për>"i));
+				   (NEGATE -2 ("<për>"i));
 SELECT (cont abl) IF (0 ("<së>"i))
 				     (1 (A) OR Poss)
 					 (-1 (NOUN f sg abl def))
 				     (-2 (PR with_abl))
-					 (-2 NOT ("<për>"i));
+					 (NEGATE -2 ("<për>"i));
 SELECT (cont abl) IF (0 ("<të>"i))
-				     (1 (A) OR Poss))
+				     (1 (A) OR Poss)
 					 (-1 (NOUN m sg abl def))
 				     (-2 (PR with_abl))
-					 (-2 NOT ("<për>"i));
+					 (NEGATE -2 ("<për>"i));
 SELECT (dist abl) IF (0 ("<të>"i))
 				     (1 (A) OR Poss)
 					 (-1 (NOUN sg abl indef))
-				     (-2 (PR with_abl)
-					 (-2 NOT ("<për>"i));
+				     (-2 (PR with_abl))
+					 (NEGATE -2 ("<për>"i));
 
 SECTION    # Pronouns and pronominal clitics
 # Pronoun "ta" is not a clitic after prepositions (full form is used) and is a clitic before a verb.
@@ -400,23 +400,23 @@ REMOVE (NOUN indef) IF (-1 ("gjithë"i) OR ("tërë"i))
 
 # 20.09.2023 Unarticulated gjithë do not have case and definiteness
 REMOVE (indef) IF (0 ("<gjithë>"i))
-				  (-1 NOT (ART));
+				  (NEGATE -1 (ART));
 				  
 SECTION    # Unchangeable POS
 # Reflexive particle u
 REMOVE (VB_PART) IF (0 ("<u>"i))
 					(1 (V ind prs) OR (V ind ipf) OR (V sbjv))
-					(NOT 1 (V ind prs 3sg));
+					(NEGATE 1 (V ind prs 3sg));
 
 # Alb të të: verb particle + pronominal clitic 
 SELECT (VB_PART) IF (0 ("të"i))
 					(1 ("të"i) OR ("<ta>"i))
 					(2 (V))
-					(NOT 2 (ptcp));
+					(NEGATE 2 (ptcp));
 SELECT (CLIT_PRO) IF (0 ("<të>"i) OR ("<ta>"i))
 					 (-1 ("të"i))
 					 (1 (V))
-					 (NOT 1 (ptcp));	
+					 (NEGATE 1 (ptcp));	
 
 # Alb në immediately before the (pro)noun is a preposition, not a conjunction.
 REMOVE (CONJ) IF (0 ("<në>"i))
@@ -425,48 +425,48 @@ REMOVE (CONJ) IF (0 ("<në>"i))
 # Preposition nga is not a form of the verb ngas.
 # Не включать это правило в гегских текстах, т.к. там будет kam nga, jam nga
 SELECT (PR) IF (0 ("<nga>"i))
-			   (NOT -1 ("<u>"i));
+			   (NEGATE -1 ("<u>"i));
 				 
 # 20.09.2023 Alb më, të, i, and e: pronominal clitic vs. article vs. "more".
 # Accusative clitic is used before transitive verbs, dative clitic before intransitive and medial verbs.
 SELECT (CLIT_PRO) IF (0 ("<e>"i))
 					 (1 (V vt))
-					 (NOT 1 (ptcp))
-					 (NOT -1 ("<më>"i));
+					 (NEGATE 1 (ptcp))
+					 (NEGATE -1 ("<më>"i));
 SELECT (ART dist) IF (0 ("<e>"i) OR ("<i>"i) OR ("<të>"i) OR ("<së>"i))
 					 (-1 ("<më>"i));
 SELECT (ADV) IF (0 ("<më>"i))
 				(1 ("<e>"i) OR ("<i>"i) OR ("<të>"i) OR ("<së>"i));
 SELECT (CLIT_PRO acc) IF (0 ("<më>"i))
 					     (1 (V vt))
-						 (NOT 1 (ptcp));
+						 (NEGATE 1 (ptcp));
 SELECT (CLIT_PRO dat) IF (0 ("<më>"i))
 					     (1 (V vi) OR (V med))
-						 (NOT 1 (ptcp));
+						 (NEGATE 1 (ptcp));
 SELECT (CLIT_PRO acc) IF (0 ("<i>"i))
 						 (1 (V vt))
-						 (NOT 1 (ptcp));
+						 (NEGATE 1 (ptcp));
 SELECT (CLIT_PRO dat) IF (0 ("<i>"i))
 						 (1 (V vi) OR (V med))
-						 (NOT 1 (ptcp));
+						 (NEGATE 1 (ptcp));
 
 # 20.09.2023 Alb më, të, etc.: citic pronoun (resolve in analytical constructions, e.g. duke na shkruar)
 SELECT (CLIT_PRO) IF (0 Clitics OR ("<e>"i))
-					 (NOT 0 ("<u>"i))
+					 (NEGATE 0 ("<u>"i))
 				     (1 (ptcp))
 					 (-1 ("<duke>"i));
 SELECT (CLIT_PRO) IF (0 Clitics OR ("<e>"i))
-					 (NOT 0 ("<u>"i))
+					 (NEGATE 0 ("<u>"i))
 				     (1 ("<ptcp>"i))
 					 (-1 ("<të>"i) OR ("<t>"i))
 					 (-2 ("<për>"i));
 SELECT (CLIT_PRO) IF (0 Clitics OR ("<e>"i))
-					 (NOT 0 ("<u>"i))
+					 (NEGATE 0 ("<u>"i))
 				     (1 ("<ptcp>"i))
 					 (-1 ("<pa>"i))
-					 (NOT -2 ("<e>"i));
+					 (NEGATE -2 ("<e>"i));
 SELECT (CLIT_PRO) IF (0 Clitics OR ("<e>"i))
-					 (NOT 0 ("<të>"i) OR ("<u>"i))
+					 (NEGATE 0 ("<të>"i) OR ("<u>"i))
 				     (1 (ptcp Gheg))
 					 (-1 ("<me>"i));
 				 
@@ -475,16 +475,16 @@ SELECT (CLIT_PRO) IF (0 Clitics OR ("<e>"i))
 SELECT (VB_PART) IF (0 ("të"i))
 					(-1 (V))
 					(1 (V))
-					(NOT 1 (ptcp));
+					(NEGATE 1 (ptcp));
 SELECT (VB_PART) IF (0 ("të"i))
 					(-1 ("<do>"i) OR ("<mund>"i))
 					(1 (V))
-					(NOT 1 (ptcp) - (A));
+					(NEGATE 1 (ptcp) - (A));
 					
 # 20.09.2023 Alb mund: particle vs. verb (resolve in forms with "të", e.g. mund të shkoj)
 SELECT (VB_PART) IF (0 ("<mund>"i))
 				    (1 ("<të>"i) OR ("<t>"i) OR ("<ta>"i))
-					(NOT 2 (A) OR (NOUN));
+					(NEGATE 2 (A) OR (NOUN));
 
 # Alb do: future particle vs. verb
 # 20.09.2023 не снимает омонимию в ед.ч. презенса (при 2-м и 3-м лице м.б. глагол "dua";
@@ -564,7 +564,7 @@ SELECT (VB_PART) IF (0 ("<duke>"i))
 					(3 (ptcp));
 SELECT (VB_PART) IF (0 ("<duke>"i))
 					(1 Clitics OR ("<e>"i))
-					(NOT 1 ("<të>"))
+					(NEGATE 1 ("<të>"))
 					(2 (ptcp));
 
 # 20.09.2023 Disambiguation in constructions of the type "e kam të qartë".
