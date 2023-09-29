@@ -6395,6 +6395,13 @@
  trans_en: love
 
 -lexeme
+ lex: dashunoj
+ stem: dashuno.|dashunua.|dashunu.|dashun.
+ gramm: V,vt,nonst,Gheg,alb,deriv
+ paradigm: lexoj
+ trans_en: love
+
+-lexeme
  lex: dasmoj
  stem: dasmo.|dasmua.|dasmu.|dasm.
  gramm: V,vi,alb,deriv
@@ -6416,6 +6423,20 @@
  trans_en: date (vt); be dated (vi)
 
 -lexeme
+ lex: datësoj
+ stem: datëso.|datësua.|datësu.|datës.
+ gramm: V,med,borr,it,new,deriv
+ paradigm: lexoj-1
+ trans_en: be dated, be datable
+
+-lexeme
+ lex: datësoj
+ stem: datëso.|datësua.|datësu.|datës.
+ gramm: V,vt,vi,borr,it,new,deriv
+ paradigm: lexoj
+ trans_en: date (vt); be dated (vi)
+
+-lexeme
  lex: davarit
  stem: davarit.//davaris.|davarit.
  gramm: V,med,alb,deriv
@@ -6428,6 +6449,34 @@
  gramm: V,vt,alb,deriv
  paradigm: mat
  trans_en: disperse, scatter; dispel, alleviate
+
+-lexeme
+ lex: deaktivizoj
+ stem: deaktivizo.|deaktivizua.|deaktivizu.|deaktiviz.
+ gramm: V,med,borr,rom,new
+ paradigm: lexoj-1
+ trans_en: cease taking an active part; become deactivated
+
+-lexeme
+ lex: deaktivizoj
+ stem: deaktivizo.|deaktivizua.|deaktivizu.|deaktiviz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: deactivate
+
+-lexeme
+ lex: dealkoolizoj
+ stem: dealkoolizo.|dealkoolizua.|dealkoolizu.|dealkooliz.
+ gramm: V,med,borr,rom,new
+ paradigm: lexoj-1
+ trans_en: quit drinking alcohol; have alcohol removed
+
+-lexeme
+ lex: dealkoolizoj
+ stem: dealkoolizo.|dealkoolizua.|dealkoolizu.|dealkooliz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: remove alcohol from
 
 -lexeme
  lex: debatoj
@@ -6451,6 +6500,20 @@
  trans_en: unblock
 
 -lexeme
+ lex: deburokratizoj
+ stem: deburokratizo.|deburokratizua.|deburokratizu.|deburokratiz.
+ gramm: V,med,borr,rom,new
+ paradigm: lexoj-1
+ trans_en: stop behaving bureaucratically
+
+-lexeme
+ lex: deburokratizoj
+ stem: deburokratizo.|deburokratizua.|deburokratizu.|deburokratiz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: debureaucratize
+
+-lexeme
  lex: debutoj
  stem: debuto.|debutua.|debutu.|debut.
  gramm: V,vi,borr,fr,new
@@ -6460,7 +6523,7 @@
 -lexeme
  lex: decentralizoj
  stem: decentralizo.|decentralizua.|decentralizu.|decentraliz.
- gramm: V,vt
+ gramm: V,vt,borr,rom,new
  paradigm: lexoj
  trans_en: decentralize
 
@@ -6479,6 +6542,13 @@
  trans_en: dedicate, devote
 
 -lexeme
+ lex: dedukoj
+ stem: deduko.|dedukua.|deduku.|deduk.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: deduce
+
+-lexeme
  lex: deduktoj
  stem: dedukto.|deduktua.|deduktu.|dedukt.
  gramm: V,vt,borr,rom,new
@@ -6491,6 +6561,20 @@
  gramm: V,vt,borr,rom,new,deriv
  paradigm: lexoj
  trans_en: de-factor
+
+-lexeme
+ lex: defavorizoj
+ stem: defavorizo.|defavorizua.|defavorizu.|defavoriz.
+ gramm: V,vt,borr,it,new,deriv
+ paradigm: lexoj
+ trans_en: unfavor
+
+-lexeme
+ lex: defiloj
+ stem: defilo.|defilua.|defilu.|defil.
+ gramm: V,vt,borr,fr,new,deriv
+ paradigm: lexoj
+ trans_en: defile, parade
 
 -lexeme
  lex: definoj
@@ -6519,6 +6603,13 @@
  gramm: V,vt,borr,rom,new,deriv
  paradigm: lexoj
  trans_en: deform, distort, deface, warp
+
+-lexeme
+ lex: defunksionalizoj
+ stem: defunksionalizo.|defunksionalizua.|defunksionalizu.|defunksionaliz.
+ gramm: V,vi,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: defunctionalize
 
 -lexeme
  lex: degaroj
@@ -6553,7 +6644,7 @@
  stem: degdis.
  gramm: V,vt,borr,turk
  paradigm: hap
- trans_en: deport; pass/hand along
+ trans_en: deport; pass, hand along
 
 -lexeme
  lex: degjeneroj
@@ -6582,6 +6673,13 @@
  gramm: V,vt,borr,rom,new
  paradigm: lexoj
  trans_en: demote, degrade
+
+-lexeme
+ lex: degustoj
+ stem: degusto.|degustua.|degustu.|degust.
+ gramm: V,vt,borr,it,new
+ paradigm: lexoj
+ trans_en: degustate
 
 -lexeme
  lex: degëzoj
@@ -6626,11 +6724,95 @@
  trans_en: inebriate, intoxicate
 
 -lexeme
+ lex: deheroizoj
+ stem: deheroizo.|deheroizua.|deheroizu.|deheroiz.
+ gramm: V,vt,borr,fr,new,deriv
+ paradigm: lexoj
+ trans_en: deheroicize
+
+-lexeme
+ lex: dehidroj
+ stem: dehidro.|dehidrua.|dehidru.|dehidr.
+ gramm: V,med,borr,rom,new
+ paradigm: lexoj-1
+ trans_en: become dehydrated
+
+-lexeme
+ lex: dehidroj
+ stem: dehidro.|dehidrua.|dehidru.|dehidr.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: dehydrate
+
+-lexeme
+ lex: dehidratoj
+ stem: dehidrato.|dehidratua.|dehidratu.|dehidrat.
+ gramm: V,med,borr,rom,new
+ paradigm: lexoj-1
+ trans_en: become dehydrated
+
+-lexeme
+ lex: dehidratoj
+ stem: dehidrato.|dehidratua.|dehidratu.|dehidrat.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: dehydrate
+
+-lexeme
+ lex: dehumanizoj
+ stem: dehumanizo.|dehumanizua.|dehumanizu.|dehumaniz.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: dehumanize
+
+-lexeme
+ lex: deindustrializoj
+ stem: deindustrializo.|deindustrializua.|deindustrializu.|deindustrializ.
+ gramm: V,med,borr,rom,new,deriv
+ paradigm: lexoj-1
+ trans_en: become deindustrialized
+
+-lexeme
+ lex: deindustrializoj
+ stem: deindustrializo.|deindustrializua.|deindustrializu.|deindustrializ.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: deindustrialize
+
+-lexeme
  lex: deinstitucionalizoj
  stem: deinstitucionalizo.|deinstitucionalizua.|deinstitucionalizu.|deinstitucionaliz.
  gramm: V,vt,borr,rom,new,deriv
  paradigm: lexoj
  trans_en: deinstitutionalize
+
+-lexeme
+ lex: dekanabizoj
+ stem: dekanabizo.|dekanabizua.|dekanabizu.|dekanabiz.
+ gramm: V,med,borr,inter,deriv
+ paradigm: lexoj-1
+ trans_en: break free from cannabis
+
+-lexeme
+ lex: dekanabizoj
+ stem: dekanabizo.|dekanabizua.|dekanabizu.|dekanabiz.
+ gramm: V,vt,borr,inter,deriv
+ paradigm: lexoj
+ trans_en: clean of, break free from cannabis
+
+-lexeme
+ lex: dekarbonizoj
+ stem: dekarbonizo.|dekarbonizua.|dekarbonizu.|dekarboniz.
+ gramm: V,med,borr,it,new,deriv
+ paradigm: lexoj-1
+ trans_en: become decarbonized
+
+-lexeme
+ lex: dekarbonizoj
+ stem: dekarbonizo.|dekarbonizua.|dekarbonizu.|dekarboniz.
+ gramm: V,vt,borr,it,new,deriv
+ paradigm: lexoj
+ trans_en: decarbonize
 
 -lexeme
  lex: deklamoj
@@ -11621,6 +11803,13 @@
  trans_en: precipitate
 
 -lexeme
+ lex: funksionalizoj
+ stem: funksionalizo.|funksionalizua.|funksionalizu.|funksionaliz.
+ gramm: V,vi,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: functionalize
+
+-lexeme
  lex: funksionoj
  stem: funksiono.|funksionua.|funksionu.|funksion.
  gramm: V,vi,borr,rom,new,deriv
@@ -15476,6 +15665,13 @@
  trans_en: dig
 
 -lexeme
+ lex: heroizoj
+ stem: heroizo.|heroizua.|heroizu.|heroiz.
+ gramm: V,vt,borr,fr,new,deriv
+ paradigm: lexoj
+ trans_en: heroicize
+
+-lexeme
  lex: herr
  stem: herr.
  gramm: V,vt,alb,deriv
@@ -15537,6 +15733,13 @@
  gramm: V,vt,alb,deriv
  paradigm: lexoj
  trans_en: make bitter, sour; make sad
+
+-lexeme
+ lex: hidratoj
+ stem: hidrato.|hidratua.|hidratu.|hidrat.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: hydrate
 
 -lexeme
  lex: higjienizoj
@@ -15906,10 +16109,9 @@
  trans_en: plow a furrow; roll out
 
 -lexeme
- lex: hulmëtoj
+ lex: hulumtoj
  stem: hulmëto.|hulmëtua.|hulmëtu.|hulmët.
- gramm: V,vt,borr,lat,deriv
- lexref: hulumtoj
+ gramm: V,vt,nonst,borr,lat,deriv
  paradigm: lexoj
  trans_en: sniff out, search closely; investigate
 
@@ -15933,6 +16135,13 @@
  gramm: V,vt,vi,alb,deriv
  paradigm: humbas
  trans_en: lose (vt); wipe out; get lost, disappear (vi)
+
+-lexeme
+ lex: humanizoj
+ stem: humanizo.|humanizua.|humanizu.|humaniz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: humanize
 
 -lexeme
  lex: humboj
@@ -18550,6 +18759,13 @@
  trans_en: clone
 
 -lexeme
+ lex: koalicionoj
+ stem: koaliciono.|koalicionua.|koalicionu.|koalicion.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: make a coalition
+
+-lexeme
  lex: kobashit
  stem: kobashit.//kobashis.|kobashit.
  gramm: V,vt,borr,slav,deriv
@@ -18858,6 +19074,13 @@
  trans_en: compensate
 
 -lexeme
+ lex: komponoj
+ stem: kompono.|komponua.|komponu.|kompon.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: assemble, link together
+
+-lexeme
  lex: kompiloj
  stem: kompilo.|kompilua.|kompilu.|kompil.
  gramm: V,vt,borr,rom,new
@@ -18956,6 +19179,13 @@
  trans_en: conceptionalize
 
 -lexeme
+ lex: koncertoj
+ stem: koncerto.|koncertua.|koncertu.|koncert.
+ gramm: V,vi,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: make a concert
+
+-lexeme
  lex: koncoj
  stem: konco.|koncua.|koncu.|konc.
  gramm: V,vt
@@ -18984,9 +19214,16 @@
  trans_en: roost (vi); lodge; quarter (vt)
 
 -lexeme
+ lex: konfiguroj
+ stem: konfiguro.|konfigurua.|konfiguru.|konfigur.
+ gramm: V,vt,borr,en,new
+ paradigm: lexoj
+ trans_en: confirm
+
+-lexeme
  lex: konfirmoj
  stem: konfirmo.|konfirmua.|konfirmu.|konfirm.
- gramm: V,vt
+ gramm: V,vt,borr,rom,new
  paradigm: lexoj
  trans_en: confirm
 
@@ -18996,6 +19233,13 @@
  gramm: V,vt,borr,rom,new
  paradigm: lexoj
  trans_en: confiscate
+
+-lexeme
+ lex: konfrontoj
+ stem: konfronto.|konfrontua.|konfrontu.|konfront.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: confront
 
 -lexeme
  lex: kondis
@@ -19065,7 +19309,7 @@
  stem: konspekto.|konspektua.|konspektu.|konspekt.
  gramm: V,vt,borr,inter,deriv
  paradigm: lexoj
- trans_en: give an overview/digest of
+ trans_en: give an overview, digest of
 
 -lexeme
  lex: konspiroj
@@ -19080,6 +19324,13 @@
  gramm: V,vt,borr,rom,new
  paradigm: lexoj
  trans_en: notice; ascertain
+
+-lexeme
+ lex: konstituoj
+ stem: konstituo.|konstituua.|konstituu.|konstitu.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: constitute
 
 -lexeme
  lex: konsultoj
@@ -19136,6 +19387,13 @@
  gramm: V,vt,borr,fr,new
  paradigm: lexoj
  trans_en: contract for
+
+-lexeme
+ lex: kontrastoj
+ stem: kontrasto.|kontrastua.|kontrastu.|kontrast.
+ gramm: V,vt
+ paradigm: lexoj
+ trans_en: contrast
 
 -lexeme
  lex: kontribuoj
@@ -20211,6 +20469,20 @@
  trans_en: turn; bend; alter; convert (vt); return; recover (vt, vi); change one's mind (vi)
 
 -lexeme
+ lex: kthej
+ stem: këthe.|këthye.
+ gramm: V,med,nonst,alb
+ paradigm: kthej-1
+ trans_en: return; turn; drop in; recover
+
+-lexeme
+ lex: kthej
+ stem: këthe.|këthye.
+ gramm: V,vt,vi,nonst,alb
+ paradigm: kthej
+ trans_en: turn; bend; alter; convert (vt); return; recover (vt, vi); change one's mind (vi)
+
+-lexeme
  lex: kthill
  stem: kthill.
  gramm: V,med
@@ -20363,6 +20635,13 @@
  gramm: V,med,borr,lat,deriv
  paradigm: lexoj-1
  trans_en: take care; be concerned, be worried
+
+-lexeme
+ lex: kujdestaroj
+ stem: kujdestaro.|kujdestarua.|kujdestaru.|kujdestar.
+ gramm: V,vt,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: take care
 
 -lexeme
  lex: kujit
@@ -22027,8 +22306,15 @@
 
 -lexeme
  lex: lansoj
+ stem: lanço.//lanco.|lançua.//lancua.|lançu.//lancu.|lanç.//lanc.
+ gramm: V,vt,nonst,borr,fr,new
+ paradigm: lexoj
+ trans_en: launch
+
+-lexeme
+ lex: lansoj
  stem: lanso.|lansua.|lansu.|lans.
- gramm: V,vt
+ gramm: V,vt,borr,fr,new
  paradigm: lexoj
  trans_en: launch
 
@@ -22772,6 +23058,20 @@
  trans_en: flavor; make good-looking
 
 -lexeme
+ lex: liberalizoj
+ stem: liberalizo.|liberalizua.|liberalizu.|liberaliz.
+ gramm: V,med,borr,rom,new,deriv
+ paradigm: lexoj-1
+ trans_en: become liberal
+
+-lexeme
+ lex: liberalizoj
+ stem: liberalizo.|liberalizua.|liberalizu.|liberaliz.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: liberalize
+
+-lexeme
  lex: liboj
  stem: libo.|libua.|libu.|lib.
  gramm: V,vt
@@ -22968,6 +23268,13 @@
  trans_en: file down, file smooth
 
 -lexeme
+ lex: limitoj
+ stem: limito.|limitua.|limitu.|limit.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: limit
+
+-lexeme
  lex: limoj
  stem: limo.|limua.|limu.|lim.
  gramm: V,vt,borr,lat,deriv
@@ -23109,6 +23416,13 @@
  gramm: V,vt
  paradigm: mat
  trans_en: flood
+
+-lexeme
+ lex: listoj
+ stem: listo.|listua.|listu.|list.
+ gramm: V,vt,borr,it,new,deriv
+ paradigm: lexoj
+ trans_en: list
 
 -lexeme
  lex: livadhis

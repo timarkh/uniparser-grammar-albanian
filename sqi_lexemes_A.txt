@@ -2858,7 +2858,7 @@
  lex: anmiqësuem
  stem: anmiqësuem.//anmiqsuem.|anmiqësuem.//anmiqsuem.
  gramm: A,nonst,Gheg,borr,lat,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: antagonized
 
 -lexeme
@@ -10642,6 +10642,13 @@
  trans_en: distinguished
 
 -lexeme
+ lex: dalluem
+ stem: dalluem.|dalluem.
+ gramm: A,nonst,Gheg,unknwn,deriv
+ paradigm: adj-1-2
+ trans_en: distinguished
+
+-lexeme
  lex: dallues
  stem: dallues.|dallues.
  gramm: A,unknwn,deriv
@@ -10663,11 +10670,32 @@
  trans_en: Dalmatian
 
 -lexeme
+ lex: dalmatinas
+ stem: dalmatinas.|dalmatinas.
+ gramm: A
+ paradigm: adj-1-2
+ trans_en: Dalmatian
+
+-lexeme
+ lex: daltonik
+ stem: daltonik.
+ gramm: A,borr,inter
+ paradigm: adj-3-2
+ trans_en: daltonian
+
+-lexeme
  lex: daltuar
  stem: daltuar.|daltuar.
  gramm: A,borr,slav
  paradigm: adj-2-2
  trans_en: chiseled, sculpted
+
+-lexeme
+ lex: dalëngadalshëm
+ stem: dalëngadalshëm.|dalëngadalshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: slow
 
 -lexeme
  lex: dalës
@@ -10810,6 +10838,13 @@
  trans_en: loving
 
 -lexeme
+ lex: dashurueshëm
+ stem: dashurueshëm.|dashurueshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: beloved, desirable
+
+-lexeme
  lex: dashëm
  stem: dashëm.|dashm.
  gramm: A,alb,deriv
@@ -10874,6 +10909,13 @@
  trans_en: debated, disputed
 
 -lexeme
+ lex: debatueshëm
+ stem: debatueshëm.|debatueshm.
+ gramm: A,borr,fr,new,deriv
+ paradigm: adj-1-2-a
+ trans_en: debated, disputed
+
+-lexeme
  lex: debil
  stem: debil.
  gramm: A,borr,fr,new
@@ -10895,6 +10937,13 @@
  trans_en: unblocked
 
 -lexeme
+ lex: debllokues
+ stem: debllokues.|debllokues.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-1-2
+ trans_en: unblocking
+
+-lexeme
  lex: debutues
  stem: debutues.|debutues.
  gramm: A,borr,fr,new,deriv
@@ -10904,9 +10953,16 @@
 -lexeme
  lex: decentralizuar
  stem: decentralizuar.|decentralizuar.
- gramm: A
+ gramm: A,borr,rom,new,deriv
  paradigm: adj-2-2
  trans_en: decentralized
+
+-lexeme
+ lex: decentralizues
+ stem: decentralizues.|decentralizues.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-1-2
+ trans_en: decentralizing
 
 -lexeme
  lex: decimal
@@ -10930,6 +10986,20 @@
  trans_en: dedicated, devoted
 
 -lexeme
+ lex: dedikuem
+ stem: dedikuem.|dedikuem.
+ gramm: A,nonst,Gheg,borr,it,new,deriv
+ paradigm: adj-1-2
+ trans_en: dedicated, devoted
+
+-lexeme
+ lex: dedikues
+ stem: dedikues.|dedikues.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-1-2
+ trans_en: dedicating, devoting
+
+-lexeme
  lex: deduktiv
  stem: deduktiv.
  gramm: A,borr,fr,new
@@ -10949,6 +11019,27 @@
  gramm: A,borr,rom,new,deriv
  paradigm: adj-1-2
  trans_en: de-factorizing
+
+-lexeme
+ lex: defavorizuar
+ stem: defavorizuar.|defavorizuar.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-2-2
+ trans_en: unfavored
+
+-lexeme
+ lex: defavorizues
+ stem: defavorizues.|defavorizues.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-1-2
+ trans_en: de-favorizing
+
+-lexeme
+ lex: defektiv
+ stem: defektiv.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-1
+ trans_en: defective
 
 -lexeme
  lex: deficitar
@@ -10979,11 +11070,32 @@
  trans_en: defining
 
 -lexeme
+ lex: definueshëm
+ stem: definueshëm.|definueshm.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-1-2-a
+ trans_en: definable
+
+-lexeme
+ lex: deflacionar
+ stem: deflacionar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-3-1
+ trans_en: deflationary
+
+-lexeme
  lex: defokusuar
  stem: defokusuar.|defokusuar.
  gramm: A,borr,rom,new,deriv
  paradigm: adj-2-2
  trans_en: defocused
+
+-lexeme
+ lex: deformativ
+ stem: deformativ.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-1
+ trans_en: deformative
 
 -lexeme
  lex: deformuar
@@ -11159,6 +11271,34 @@
  gramm: A,alb,deriv
  paradigm: adj-1-2
  trans_en: giving off branches
+
+-lexeme
+ lex: deheroik
+ stem: deheroik.
+ gramm: A,borr,fr,new
+ paradigm: adj-3-2
+ trans_en: unheroic
+
+-lexeme
+ lex: deheroizuar
+ stem: deheroizuar.|deheroizuar.
+ gramm: A,borr,fr,new,deriv
+ paradigm: adj-2-2
+ trans_en: de-heroicized
+
+-lexeme
+ lex: dehidratuar
+ stem: dehidratuar.|dehidratuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: dehydrated
+
+-lexeme
+ lex: dehumanizuar
+ stem: dehumanizuar.|dehumanizuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: dehumanized
 
 -lexeme
  lex: dehur
@@ -13595,7 +13735,7 @@
  lex: dobësuem
  stem: dobësuem.|dobësuem.
  gramm: A,nonst,Gheg,borr,slav,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: weak, enfeebled
 
 -lexeme
@@ -13665,7 +13805,7 @@
  lex: doktoruem
  stem: doktoruem.|doktoruem.
  gramm: A,nonst,Gheg,borr,rom,new,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: having received a doctor degree
 
 -lexeme
@@ -14113,7 +14253,7 @@
  lex: dorështrënguem
  stem: dorështrënguem.|dorështrënguem.
  gramm: A,nonst,Gheg,alb,borr,lat,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: stingy, miserly; restricted, with tied hands
 
 -lexeme
@@ -16371,9 +16511,23 @@
  trans_en: harmful, damaging
 
 -lexeme
+ lex: damprurës
+ stem: damprurës.|damprurës.
+ gramm: A,nonst,Gheg,alb,borr,lat,deriv
+ paradigm: adj-1-2
+ trans_en: harmful, damaging
+
+-lexeme
  lex: dëmshëm
  stem: dëmshëm.|dëmshm.
  gramm: A,borr,lat,deriv
+ paradigm: adj-1-2-a
+ trans_en: dangerous, capable of doing harm
+
+-lexeme
+ lex: damshëm
+ stem: damshëm.|damshm.
+ gramm: A,nonst,Gheg,borr,lat,deriv
  paradigm: adj-1-2-a
  trans_en: dangerous, capable of doing harm
 
@@ -19433,7 +19587,7 @@
 -lexeme
  lex: fiskal
  stem: fiskal.
- gramm: A
+ gramm: A,borr,rom,new
  paradigm: adj-3-1
  trans_en: fiscal
 
@@ -26832,6 +26986,13 @@
  trans_en: heroic
 
 -lexeme
+ lex: heroizuar
+ stem: heroizuar.|heroizuar.
+ gramm: A,borr,fr,new,deriv
+ paradigm: adj-2-2
+ trans_en: heroicized
+
+-lexeme
  lex: hershëm
  stem: hershëm.|hershm.
  gramm: A,borr,lat,deriv
@@ -26935,6 +27096,13 @@
  gramm: A,borr,rom,new,deriv
  paradigm: adj-2-2
  trans_en: hybridized
+
+-lexeme
+ lex: hidratuar
+ stem: hidratuar.|hidratuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: hydrated
 
 -lexeme
  lex: hidhtak
@@ -27663,6 +27831,13 @@
  gramm: A,borr,rom,new
  paradigm: adj-3-1
  trans_en: humanitarian
+
+-lexeme
+ lex: humanizuar
+ stem: humanizuar.|humanizuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: humanized
 
 -lexeme
  lex: humbalaq
@@ -33581,6 +33756,13 @@
  trans_en: collective
 
 -lexeme
+ lex: kolektivist
+ stem: kolektivist.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-1
+ trans_en: collectivist
+
+-lexeme
  lex: kolektivizuar
  stem: kolektivizuar.|kolektivizuar.
  gramm: A,borr,rom,new,deriv
@@ -34431,7 +34613,7 @@
  lex: kontrolluem
  stem: kontrolluem.//kontroluem.|kontrolluem.//kontroluem.
  gramm: A,nonst,Gheg,borr,rom,new,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: controlled
 
 -lexeme
@@ -34836,14 +35018,21 @@
 -lexeme
  lex: kozmik
  stem: kozmik.
- gramm: A,borr,inter,deriv
+ gramm: A,borr,inter
  paradigm: adj-3-2
  trans_en: cosmic
 
 -lexeme
+ lex: kozmogonik
+ stem: kozmogonik.
+ gramm: A,borr,inter
+ paradigm: adj-3-2
+ trans_en: cosmogonic
+
+-lexeme
  lex: kozmografik
  stem: kozmografik.
- gramm: A,borr,inter,deriv
+ gramm: A,borr,inter
  paradigm: adj-3-2
  trans_en: cosmographic
 
@@ -35751,6 +35940,13 @@
  trans_en: head-bowed
 
 -lexeme
+ lex: kryeunjur
+ stem: kryeunjur.|kryeunjur.
+ gramm: A,nonst,alb,deriv
+ paradigm: adj-2-2
+ trans_en: head-bowed
+
+-lexeme
  lex: kryezbuluar
  stem: kryezbuluar.|kryezbuluar.
  gramm: A,alb,deriv
@@ -35810,7 +36006,7 @@
  lex: kryqëzuem
  stem: kryqëzuem.//kryqzuem.|kryqëzuem.//kryqzuem.
  gramm: A,nonst,Gheg,borr,lat,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: crossed; crucified
 
 -lexeme
@@ -36183,6 +36379,13 @@
  gramm: A,borr,lat,deriv
  paradigm: adj-2-2
  trans_en: reported, known
+
+-lexeme
+ lex: kundraligjshëm
+ stem: kundraligjshëm.|kundraligjshm.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-1-2-a
+ trans_en: illegal
 
 -lexeme
  lex: kundraproduktiv
@@ -36855,6 +37058,13 @@
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: rousing, exhortative
+
+-lexeme
+ lex: kushtues
+ stem: kushtues.|kushtues.
+ gramm: A,borr,it,deriv
+ paradigm: adj-1-2
+ trans_en: valuable
 
 -lexeme
  lex: kushtueshëm
@@ -37711,6 +37921,13 @@
  trans_en: advisory, consultative
 
 -lexeme
+ lex: këshilluar
+ stem: këshilluar.|këshilluar.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-2-2
+ trans_en: advised
+
+-lexeme
  lex: këshillues
  stem: këshillues.|këshillues.
  gramm: A,borr,lat,deriv
@@ -38103,11 +38320,18 @@
  trans_en: accidentaly mistaken
 
 -lexeme
+ lex: lakadredhës
+ stem: lakadredhës.|lakadredhës.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-1-2
+ trans_en: winding, twisting
+
+-lexeme
  lex: lakander
  stem: lakander.
  gramm: A,borr,lat,deriv
  paradigm: adj-3-1
- trans_en: of poor/shaky character
+ trans_en: of poor, shaky character
 
 -lexeme
  lex: lakanisur
@@ -38829,6 +39053,13 @@
  gramm: A,borr,slav,deriv
  paradigm: adj-2-2
  trans_en: terrified
+
+-lexeme
+ lex: lebetitës
+ stem: lebetitës.|lebetitës.
+ gramm: A,borr,slav,deriv
+ paradigm: adj-1-2
+ trans_en: terrifying
 
 -lexeme
  lex: lebrosur
@@ -40127,21 +40358,21 @@
 
 -lexeme
  lex: licencuar
- stem: liçencuar.|liçencuar.
+ stem: liçencuar.//liçensuar.|liçencuar.//liçensuar.
  gramm: A,nonst,borr,it,new,deriv
  paradigm: adj-2-2
  trans_en: licensed
 
 -lexeme
  lex: licencues
- stem: liçencues.|liçencues.
+ stem: liçencues.//liçensues.|liçencues.//liçensues.
  gramm: A,nonst,borr,it,new,deriv
  paradigm: adj-1-2
  trans_en: licensing
 
 -lexeme
  lex: licencëdhënës
- stem: liçencëdhënës.|liçencëdhënës.
+ stem: liçencëdhënës.//liçensëdhënës.|liçencëdhënës.//liçensëdhënës.
  gramm: A,nonst,alb,borr,it,new,deriv
  paradigm: adj-1-2
  trans_en: licensing
@@ -40150,7 +40381,7 @@
  lex: ljipsurë
  stem: ljipsurë.|ljipsur.
  lexref: bekuar
- gramm: A
+ gramm: A,borr,greek,deriv
  paradigm: adj-2-2
  trans_en: pitiful
 
@@ -41194,7 +41425,7 @@
  lex: lulëzuem
  stem: lulëzuem.|lulëzuem.
  gramm: A,nonst,Gheg,alb,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: flowering
 
 -lexeme
@@ -41229,7 +41460,7 @@
  lex: lumnuem
  stem: lumnuem.|lumnuem.
  gramm: A,nonst,Gheg,alb,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: made happy, lucky
 
 -lexeme
@@ -42620,6 +42851,13 @@
  trans_en: cursed, damned
 
 -lexeme
+ lex: mallkuem
+ stem: mallkuem.|mallkuem.
+ gramm: A,nonst,Gheg,borr,lat,deriv
+ paradigm: adj-1-2
+ trans_en: cursed, damned
+
+-lexeme
  lex: mallosur
  stem: mallosur.|mallosur.
  gramm: A,borr,lat,deriv
@@ -42964,9 +43202,9 @@
 
 -lexeme
  lex: martuem
- stem: martuem.//martumun.|martuem.//martumun.
+ stem: martuem.|martuem.
  gramm: A,nonst,Gheg,borr,lat,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: married
 
 -lexeme
@@ -43330,7 +43568,7 @@
  lex: mbaruem
  stem: mbaruem.|mbaruem.
  gramm: A,nonst,Gheg,alb,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: finished
 
 -lexeme
@@ -43360,6 +43598,27 @@
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: panhuman
+
+-lexeme
+ lex: mbarëqytetar
+ stem: mbarëqytetar.
+ gramm: A,alb,borr,lat,deriv
+ paradigm: adj-3-1
+ trans_en: of all citizens
+
+-lexeme
+ lex: mbarëshoqëror
+ stem: mbarëshoqëror.
+ gramm: A,alb,borr,lat,deriv
+ paradigm: adj-3-1
+ trans_en: of all society
+
+-lexeme
+ lex: mbarëshqiptar
+ stem: mbarëshqiptar.
+ gramm: A,alb,borr,lat,deriv
+ paradigm: adj-3-1
+ trans_en: pan-Albanian
 
 -lexeme
  lex: mbarështetëror
@@ -43513,6 +43772,13 @@
  stem: mbijetuar.|mbijetuar.
  gramm: A,alb,deriv
  paradigm: adj-2-2
+ trans_en: survived
+
+-lexeme
+ lex: mbijetues
+ stem: mbijetues.|mbijetues.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2
  trans_en: surviving
 
 -lexeme
@@ -56767,9 +57033,9 @@
 
 -lexeme
  lex: pamartuem
- stem: pamartuem.//pamartumun.|pamartuem.//pamartumun.
+ stem: pamartuem.|pamartuem.
  gramm: A,nonst,Gheg,borr,lat,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: unmarried
 
 -lexeme
@@ -56858,9 +57124,9 @@
 
 -lexeme
  lex: pambaruem
- stem: pambaruem.//pambarumun.|pambaruem.//pambarumun.
+ stem: pambaruem.|pambaruem.
  gramm: A,nonst,Gheg,alb,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: unfinished; uncompleted
 
 -lexeme
@@ -56942,9 +57208,9 @@
 
 -lexeme
  lex: pambuluem
- stem: pambuluem.//pambulumun.|pambuluem.//pambulumun.
+ stem: pambuluem.|pambuluem.
  gramm: A,nonst,Gheg,alb,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: uncovered
 
 -lexeme
@@ -56991,9 +57257,9 @@
 
 -lexeme
  lex: pamenduem
- stem: pamenduem.//pamendumun.|pamenduem.//pamendumun.
+ stem: pamenduem.|pamenduem.
  gramm: A,nonst,Gheg,borr,lat,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: mindless; thoughtless
 
 -lexeme
@@ -57019,9 +57285,9 @@
 
 -lexeme
  lex: pamerituem
- stem: pamerituem.//pameritumun.|pamerituem.//pameritumun.
+ stem: pamerituem.|pamerituem.
  gramm: A,nonst,Gheg,borr,it,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: unmerited
 
 -lexeme
@@ -57231,7 +57497,7 @@
  lex: pamotivuem
  stem: pamotivuem.|pamotivuem.
  gramm: A,nonst,Gheg
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: unmotivated
 
 -lexeme
@@ -58632,7 +58898,7 @@
  lex: papërshkuem
  stem: papërshkuem.|papërshkuem.
  gramm: A,nonst,Gheg,alb,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: unpentrated
 
 -lexeme
@@ -59435,10 +59701,10 @@
  trans_en: prescribed
 
 -lexeme
- lex: parashkruar
- stem: parashkruem.//parashkrumun.|parashkruem.//parashkrumun.
+ lex: parashkruem
+ stem: parashkruem.|parashkruem.
  gramm: A,nonst,Gheg,borr,lat,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: prescribed
 
 -lexeme
@@ -65052,7 +65318,7 @@
  lex: privatizuem
  stem: privatizuem.|privatizuem.
  gramm: A,borr,nonst,Gheg,it,new,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: privatized
 
 -lexeme
@@ -84208,9 +84474,9 @@
 
 -lexeme
  lex: shejtuem
- stem: shejtuem.//shejtumun.|shejtuem.//shejtumun.
+ stem: shejtuem.|shejtuem.
  gramm: A,nonst,Gheg,borr,lat,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: sanctified
 
 -lexeme
@@ -93037,7 +93303,7 @@
  lex: turpnuem
  stem: turpnuem.|turpnuem.
  gramm: A,nonst,Gheg,borr,lat,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: ashamed
 
 -lexeme
@@ -94057,7 +94323,7 @@
 
 -lexeme
  lex: urdhëruem
- stem: urdhëruem.//urdhërumun.|urdhëruem.//urdhërumun.
+ stem: urdhëruem.|urdhëruem.
  lexref: urdhëruar
  gramm: A,nonst,Gheg,borr,lat,deriv
  paradigm: adj-1-2
@@ -94835,9 +95101,9 @@
 
 -lexeme
  lex: vorfënuem
- stem: vorfënuem.//vorfnuem.//vorfënumun.//vorfnumun.|vorfënuem.//vorfnuem.//vorfënumun.//vorfnumun.
+ stem: vorfënuem.//vorfnuem.|vorfënuem.//vorfnuem.
  gramm: A,nonst,Gheg,borr,lat,deriv
- paradigm: adj-2-2
+ paradigm: adj-1-2
  trans_en: impoverished, depleted
 
 -lexeme

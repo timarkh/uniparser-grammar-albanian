@@ -2192,6 +2192,13 @@
  trans_en: slowly, quietly; gradually
 
 -lexeme
+ lex: dalëngadalë
+ stem: dalëngadal.
+ gramm: ADV,nonst,alb,deriv
+ paradigm: unchangeable
+ trans_en: slowly, quietly; gradually
+
+-lexeme
  lex: damas
  stem: damas.
  gramm: ADV
@@ -2241,6 +2248,13 @@
  trans_en: giddyup!
 
 -lexeme
+ lex: deduktivisht
+ stem: deduktivisht.
+ gramm: ADV,borr,rom,new,deriv
+ paradigm: unchangeable
+ trans_en: deductively
+
+-lexeme
  lex: definitivisht
  stem: definitivisht.
  gramm: ADV,borr,rom,new,deriv
@@ -2260,6 +2274,13 @@
  gramm: ADV,alb
  paradigm: unchangeable
  trans_en: erect, straight
+
+-lexeme
+ lex: dehshëm
+ stem: dehshëm.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: alcoholically
 
 -lexeme
  lex: dej
@@ -7736,6 +7757,13 @@
  trans_en: from above
 
 -lexeme
+ lex: lartësisht
+ stem: lartësisht.
+ gramm: ADV,borr,lat,deriv
+ paradigm: unchangeable
+ trans_en: high
+
+-lexeme
  lex: lashtë
  stem: lasht.
  gramm: ADV,nonst,alb,deriv
@@ -7840,6 +7868,20 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: at a distance
+
+-lexeme
+ lex: letonisht
+ stem: letonisht.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: in Latvian
+
+-lexeme
+ lex: letrarisht
+ stem: letrarisht.
+ gramm: ADV,borr,rom,deriv
+ paradigm: unchangeable
+ trans_en: in standard language
 
 -lexeme
  lex: lezëm
@@ -8136,6 +8178,13 @@
  trans_en: then
 
 -lexeme
+ lex: manualisht
+ stem: manualisht.
+ gramm: ADV,borr,it,new,deriv
+ paradigm: unchangeable
+ trans_en: manually
+
+-lexeme
  lex: maqedonisht
  stem: maqedonisht.
  gramm: ADV
@@ -8145,8 +8194,8 @@
 -lexeme
  lex: margjinalisht
  stem: margjinalisht.//marginalisht.
- gramm: A,borr,rom,new,deriv
- paradigm: adj-3-1
+ gramm: ADV,borr,rom,new,deriv
+ paradigm: unchangeable
  trans_en: marginally
 
 -lexeme
