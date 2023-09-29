@@ -15979,9 +15979,16 @@
 -lexeme
  lex: ta
  stem: ta.
+ gramm: VB_PART,CLIT_PRO,acc_3sg
+ paradigm: unchangeable
+ trans_en: subjunctive particle + him/her/it
+
+-lexeme
+ lex: ta
+ stem: ta.
  gramm: CLIT_PRO,dat_2sg,acc_3sg
  paradigm: unchangeable
- trans_en: (to/for/of) you + him /her/it
+ trans_en: (to/for/of) you + him/her/it
 
 -lexeme
  lex: tamam
