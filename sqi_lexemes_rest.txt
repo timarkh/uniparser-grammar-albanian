@@ -15858,6 +15858,13 @@
  trans_en: without needing to look
 
 -lexeme
+ lex: syngulur
+ stem: syngulur.|syngulur.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: wall-eyed
+
+-lexeme
  lex: sypërmbysur
  stem: sypërmbysur.
  gramm: ADV,alb,deriv
@@ -16160,6 +16167,20 @@
  trans_en: broken-down
 
 -lexeme
+ lex: tendencionalisht
+ stem: tendencionalisht.
+ gramm: ADV,borr,it,new,deriv
+ paradigm: unchangeable
+ trans_en: by tendency
+
+-lexeme
+ lex: teoretikisht
+ stem: teoretikisht.
+ gramm: ADV,borr,rom,new,deriv
+ paradigm: unchangeable
+ trans_en: theoretically
+
+-lexeme
  lex: teorikisht
  stem: teorikisht.
  gramm: ADV,borr,rom,new,deriv
@@ -16344,6 +16365,13 @@
 -lexeme
  lex: thjesht
  stem: thjesht.
+ gramm: ADV,alb
+ paradigm: unchangeable
+ trans_en: simply, clearly
+
+-lexeme
+ lex: thjeshtërisht
+ stem: thjeshtërisht.
  gramm: ADV,alb
  paradigm: unchangeable
  trans_en: simply, clearly

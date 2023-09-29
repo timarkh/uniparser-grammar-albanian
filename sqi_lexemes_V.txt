@@ -2096,6 +2096,13 @@
  trans_en: bathe, immerse
 
 -lexeme
+ lex: bankrotoj
+ stem: bankroto.//bankëroto.|bankrotua.//bankërotua.|bankrotu.//bankërotu.|bankrot.//bankërot.
+ gramm: V,vt,vi,borr,inter
+ paradigm: lexoj
+ trans_en: bankrupt, go bankrupt
+
+-lexeme
  lex: banoj
  stem: bano.|banua.|banu.|ban.
  gramm: V,vi,alb,deriv
@@ -2131,11 +2138,53 @@
  trans_en: equalize, balance; equate; tie, draw
 
 -lexeme
+ lex: baraslargoj
+ stem: baraslargo.|baraslargua.|baraslargu.|baraslarg.
+ gramm: V,vt,borr,turk,lat,deriv
+ paradigm: lexoj
+ trans_en: equally distance
+
+-lexeme
  lex: baraspeshoj
  stem: baraspesho.|baraspeshua.|baraspeshu.|baraspesh.
  gramm: V,vt,borr,turk,lat,deriv
  paradigm: lexoj
  trans_en: balance, counterpose
+
+-lexeme
+ lex: baraspeshoj
+ stem: barazpesho.|barazpeshua.|barazpeshu.|barazpesh.
+ gramm: V,vt,nonst,borr,turk,lat,deriv
+ paradigm: lexoj
+ trans_en: balance, counterpose
+
+-lexeme
+ lex: barasvlerësoj
+ stem: barasvlerëso.|barasvlerësua.|barasvlerësu.|barasvlerës.
+ gramm: V,med,borr,turk,lat,deriv
+ paradigm: lexoj-1
+ trans_en: be equalized
+
+-lexeme
+ lex: barasvlerësoj
+ stem: barasvlerëso.|barasvlerësua.|barasvlerësu.|barasvlerës.
+ gramm: V,vt,borr,turk,lat,deriv
+ paradigm: lexoj
+ trans_en: equalize
+
+-lexeme
+ lex: barasvlerësoj
+ stem: barazvlerëso.|barazvlerësua.|barazvlerësu.|barazvlerës.
+ gramm: V,med,nonst,borr,turk,lat,deriv
+ paradigm: lexoj-1
+ trans_en: be equalized
+
+-lexeme
+ lex: barasvlerësoj
+ stem: barazvlerëso.|barazvlerësua.|barazvlerësu.|barazvlerës.
+ gramm: V,vt,nonst,borr,turk,lat,deriv
+ paradigm: lexoj
+ trans_en: equalize
 
 -lexeme
  lex: barazoj
@@ -2234,6 +2283,20 @@
  gramm: V,vt,alb,deriv
  paradigm: hap
  trans_en: treat with medication
+
+-lexeme
+ lex: barrikadoj
+ stem: barrikado.|barrikadua.|barrikadu.|barrikad.
+ gramm: V,vt,borr,fr,new,deriv
+ paradigm: lexoj
+ trans_en: barricade
+
+-lexeme
+ lex: barrikadoj
+ stem: barikado.|barikadua.|barikadu.|barikad.
+ gramm: V,vt,nonst,borr,fr,new,deriv
+ paradigm: lexoj
+ trans_en: barricade
 
 -lexeme
  lex: barriroj
@@ -32295,6 +32358,13 @@
  trans_en: rumble, roar (vi); resound; try, test (vt)
 
 -lexeme
+ lex: oshëtij
+ stem: ushëti.
+ gramm: V,vt,vi,nonst,alb,deriv
+ paradigm: laj
+ trans_en: rumble, roar (vi); resound; try, test (vt)
+
+-lexeme
  lex: paanësoj
  stem: paanëso.|paanësua.|paanësu.|paanës.
  gramm: V,vt,alb,deriv
@@ -51832,6 +51902,27 @@
  trans_en: reign, rule (vi); rule over (vt); dominate
 
 -lexeme
+ lex: supervizoj
+ stem: supervizo.|supervizua.|supervizu.|superviz.
+ gramm: V,med,borr,en,new
+ paradigm: lexoj-1
+ trans_en: be supervised
+
+-lexeme
+ lex: supervizoj
+ stem: supervizo.|supervizua.|supervizu.|superviz.
+ gramm: V,vt,borr,en,new
+ paradigm: lexoj
+ trans_en: supervise
+
+-lexeme
+ lex: suportoj
+ stem: suporto.|suportua.|suportu.|suport.
+ gramm: V,vt,borr,en,new
+ paradigm: lexoj
+ trans_en: 
+
+-lexeme
  lex: supozoj
  stem: supozo.|supozua.|supozu.|supoz.
  gramm: V,med,borr,fr,new
@@ -51879,6 +51970,20 @@
  gramm: V,med
  paradigm: hap-1
  trans_en: have diarrhea
+
+-lexeme
+ lex: surprizoj
+ stem: surprizo.|surprizua.|surprizu.|surpriz.
+ gramm: V,med,borr,fr,new
+ paradigm: lexoj-1
+ trans_en: be surprised
+
+-lexeme
+ lex: surprizoj
+ stem: surprizo.|surprizua.|surprizu.|surpriz.
+ gramm: V,vt,borr,fr,new,deriv
+ paradigm: lexoj
+ trans_en: surprise
 
 -lexeme
  lex: survejoj
@@ -52187,6 +52292,27 @@
  gramm: V,vt
  paradigm: hap
  trans_en: win all money, clean out
+
+-lexeme
+ lex: targetoj
+ stem: targeto.|targetua.|targetu.|target.
+ gramm: V,vt,borr,en,new
+ paradigm: lexoj
+ trans_en: target
+
+-lexeme
+ lex: tarifoj
+ stem: tarifo.|tarifua.|tarifu.|tarif.
+ gramm: V,med,borr,it,new,deriv
+ paradigm: lexoj-1
+ trans_en: be tariffed, rated
+
+-lexeme
+ lex: tarifoj
+ stem: tarifo.|tarifua.|tarifu.|tarif.
+ gramm: V,vt,borr,it,new,deriv
+ paradigm: lexoj
+ trans_en: tariff, rate
 
 -lexeme
  lex: taroj
@@ -52502,6 +52628,13 @@
  gramm: V,vi,borr,it
  paradigm: lexoj
  trans_en: attempt, try
+
+-lexeme
+ lex: teoretizoj
+ stem: teoretizo.|teoretizua.|teoretizu.|teoretiz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: theorize
 
 -lexeme
  lex: teorizoj
@@ -52941,6 +53074,20 @@
  lex: ther
  stem: ther.
  gramm: V,vt,alb
+ paradigm: hap
+ trans_en: slaughter; stab, prick, sting
+
+-lexeme
+ lex: ther
+ stem: therr.
+ gramm: V,med,nonst,alb
+ paradigm: hap-1
+ trans_en: engage in mutual slaughter; cut, prick oneself
+
+-lexeme
+ lex: ther
+ stem: therr.
+ gramm: V,vt,nonst,alb
  paradigm: hap
  trans_en: slaughter; stab, prick, sting
 
@@ -53547,6 +53694,13 @@
  trans_en: betray
 
 -lexeme
+ lex: tradhtoj
+ stem: tradhëto.|tradhëtua.|tradhëtu.|tradhët.
+ gramm: V,vt,nonst,borr,it,deriv
+ paradigm: lexoj
+ trans_en: betray
+
+-lexeme
  lex: trafikoj
  stem: trafiko.|trafikua.|trafiku.|trafik.
  gramm: V,vt,borr,it,new,deriv
@@ -53673,6 +53827,20 @@
  trans_en: transform
 
 -lexeme
+ lex: tranzitoj
+ stem: transito.//tranzito.|transitua.//tranzitua.|transitu.//tranzitu.|transit.//tranzit.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: transit
+
+-lexeme
+ lex: transkriboj
+ stem: transkribo.|transkribua.|transkribu.|transkrib.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: transcribe
+
+-lexeme
  lex: transkriptoj
  stem: transkripto.|transkriptua.|transkriptu.|transkript.
  gramm: V,vt,borr,rom,new
@@ -53692,6 +53860,20 @@
  gramm: V,vt,borr,rom,new
  paradigm: lexoj
  trans_en: transmit
+
+-lexeme
+ lex: transplantoj
+ stem: transplanto.|transplantua.|transplantu.|transplant.
+ gramm: V,vt,borr,inter
+ paradigm: lexoj
+ trans_en: transplant
+
+-lexeme
+ lex: transponoj
+ stem: transpono.|transponua.|transponu.|transpon.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: transpone
 
 -lexeme
  lex: transportoj
@@ -53766,7 +53948,7 @@
 -lexeme
  lex: traumatizoj
  stem: traumatizo.|traumatizua.|traumatizu.|traumatiz.
- gramm: V,vt
+ gramm: V,vt,borr,rom,new
  paradigm: lexoj
  trans_en: traumatize
 
@@ -53932,6 +54114,13 @@
  trans_en: tinkle; clink, clank; knock
 
 -lexeme
+ lex: tringëllit
+ stem: tringëllit.//tringëllis.|tringëllit.
+ gramm: V,vi,alb,deriv
+ paradigm: mat
+ trans_en: tinkle; clink, clank; knock
+
+-lexeme
  lex: tringëlloj
  stem: tringëllo.|tringëllua.|tringëllu.|tringëll.
  gramm: V,vi,alb,deriv
@@ -53993,6 +54182,13 @@
  gramm: V,vt,vi,alb,deriv
  paradigm: lexoj
  trans_en: get filthy (vt); tatter; massacre, devastate; trot (vi)
+
+-lexeme
+ lex: trokëllij
+ stem: trokëlli.
+ gramm: V,vt,vi,alb,deriv
+ paradigm: laj
+ trans_en: knock (vi); beat; clatter; tap (vt)
 
 -lexeme
  lex: trokëllit
@@ -54079,6 +54275,20 @@
  lexref: truaj
  paradigm: shkruaj
  trans_en: dedicate to; invoke a devil in cursing
+
+-lexeme
+ lex: trukoj
+ stem: truko.|trukua.|truku.|truk.
+ gramm: V,med,borr,it,new,deriv
+ paradigm: lexoj-1
+ trans_en: be tricked
+
+-lexeme
+ lex: trukoj
+ stem: truko.|trukua.|truku.|truk.
+ gramm: V,vt,borr,it,new,deriv
+ paradigm: lexoj
+ trans_en: trick
 
 -lexeme
  lex: trulloj
@@ -54629,6 +54839,13 @@
  trans_en: alienate
 
 -lexeme
+ lex: tëhuajësoj
+ stem: tëhuajëso.|tëhuajësua.|tëhuajësu.|tëhuajës.
+ gramm: V,vt,alb,deriv
+ paradigm: lexoj
+ trans_en: alienate
+
+-lexeme
  lex: tëholl
  stem: tëhull.
  gramm: V,vt,nonst,alb,deriv
@@ -54932,6 +55149,14 @@
  trans_en: howl
 
 -lexeme
+ lex: ulërij
+ stem: uluri.|ulurit.
+ gramm: V,vi,nonst,alb,deriv
+ paradigm: arrij
+ paradigm: laj
+ trans_en: howl
+
+-lexeme
  lex: unazoj
  stem: unazo.|unazua.|unazu.|unaz.
  gramm: V,vi,alb,deriv
@@ -54995,6 +55220,20 @@
  trans_en: bless
 
 -lexeme
+ lex: urbanizoj
+ stem: urbanizo.|urbanizua.|urbanizu.|urbaniz.
+ gramm: V,med,borr,it,new,deriv
+ paradigm: lexoj-1
+ trans_en: become urbanized
+
+-lexeme
+ lex: urbanizoj
+ stem: urbanizo.|urbanizua.|urbanizu.|urbaniz.
+ gramm: V,vt,borr,it,new,deriv
+ paradigm: lexoj
+ trans_en: urbanize
+
+-lexeme
  lex: urdhëroj
  stem: urdhëro.|urdhërua.|urdhëru.|urdhër.
  gramm: V,vt,vi,borr,lat,deriv
@@ -55014,6 +55253,13 @@
  gramm: V,vt
  paradigm: hap
  trans_en: bloat belly; beat hard; exasperate
+
+-lexeme
+ lex: urinoj
+ stem: urino.|urinua.|urinu.|urin.
+ gramm: V,vi,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: urinate
 
 -lexeme
  lex: uritem
@@ -55313,6 +55559,13 @@
  lex: vallëzoj
  stem: vallëzo.|vallëzua.|vallëzu.|vallëz.
  gramm: V,vi,alb,deriv
+ paradigm: lexoj
+ trans_en: dance
+
+-lexeme
+ lex: vallëzoj
+ stem: vallzo.|vallzua.|vallzu.|vallz.
+ gramm: V,vi,nonst,alb,deriv
  paradigm: lexoj
  trans_en: dance
 

@@ -8365,6 +8365,9 @@
   gramm: 
   paradigm: pres-sbjv-act-2-sg
   paradigm: imper-act-sg-a
+ -flex: <1>.j<.>
+  gramm: 2,sg,imp,act,nonst
+  paradigm: IO_clitics_vowel_final
  -flex: <2>.<.>
   gramm: 
   paradigm: pres-ind-act-2-pl
@@ -8389,6 +8392,20 @@
   gramm: 
   paradigm: ipf-ind-act-c
   paradigm: ipf-ind-act-nonst
+ -flex: <4>.<.>
+  gramm: nonst
+ -flex: .nim
+  gramm: 1,pl,ipf,ind,act
+ -flex: .nit
+  gramm: 2,pl,ipf,ind,act
+ -flex: .nin
+  gramm: 3,pl,ipf,ind,act
+ -flex: .më
+  gramm: 1,pl,aor,ind,act
+ -flex: .të
+  gramm: 2,pl,aor,ind,act
+ -flex: .në
+  gramm: 3,pl,aor,ind,act
  -flex: <5>.<.>
   gramm: 
   paradigm: aor-ind-act-1-3-sg
