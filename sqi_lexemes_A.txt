@@ -14635,6 +14635,13 @@
  trans_en: gone to the devil
 
 -lexeme
+ lex: dribluar
+ stem: dribluar.|dribluar.
+ gramm: A,borr,en,new,deriv
+ paradigm: adj-2-2
+ trans_en: dribbled
+
+-lexeme
  lex: drëndak
  stem: drëndak.
  gramm: A,alb,deriv
@@ -14654,6 +14661,13 @@
  gramm: A,alb,deriv
  paradigm: adj-1-2-a
  trans_en: tremulous
+
+-lexeme
+ lex: dridhtueshëm
+ stem: dridhtueshëm.|dridhtueshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: tremulous, shivering
 
 -lexeme
  lex: dridhur
@@ -15727,6 +15741,13 @@
  trans_en: two-week old
 
 -lexeme
+ lex: dykahshëm
+ stem: dykahshëm.|dykahshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: bidirectional
+
+-lexeme
  lex: dykanatësh
  stem: dykanatësh.|dykanatësh.
  gramm: A,alb,borr,turk,deriv
@@ -15755,6 +15776,20 @@
  trans_en: two-cycle
 
 -lexeme
+ lex: dykokësh
+ stem: dykokësh.|dykokësh.
+ gramm: A,borr,lat,deriv
+ paradigm: adj-1-5
+ trans_en: two-headed
+
+-lexeme
+ lex: dykombëtar
+ stem: dykombëtar.
+ gramm: A,alb,borr,greek,deriv
+ paradigm: adj-3-1
+ trans_en: with dual citizenship
+
+-lexeme
  lex: dykrahësh
  stem: dykrahësh.|dykrahësh.
  gramm: A,alb,deriv
@@ -15776,11 +15811,25 @@
  trans_en: two-headed
 
 -lexeme
+ lex: dykrenësh
+ stem: dykrenësh.|dykrenësh.
+ gramm: A,nonst,Gheg,alb,deriv
+ paradigm: adj-1-5
+ trans_en: two-headed
+
+-lexeme
  lex: dykryegjymtyrësh
  stem: dykryegjymtyrësh.|dykryegjymtyrësh.
  gramm: A,alb,borr,lat,deriv
  paradigm: adj-1-5
  trans_en: two-member
+
+-lexeme
+ lex: dykuptimor
+ stem: dykuptimor.
+ gramm: A,alb,deriv
+ paradigm: adj-3-1
+ trans_en: ambiguous
 
 -lexeme
  lex: dykuptimshëm
@@ -15794,6 +15843,13 @@
  stem: dykuptimtë.|dykuptimt.
  gramm: A,alb,deriv
  paradigm: adj-2-1
+ trans_en: ambiguous
+
+-lexeme
+ lex: dykuptimësh
+ stem: dykuptimësh.|dykuptimësh.
+ gramm: A,alb,deriv
+ paradigm: adj-1-5
  trans_en: ambiguous
 
 -lexeme
@@ -15814,6 +15870,13 @@
  lex: dykëmbësh
  stem: dykëmbësh.|dykëmbësh.
  gramm: A,alb,deriv
+ paradigm: adj-1-5
+ trans_en: two-legged
+
+-lexeme
+ lex: dykambësh
+ stem: dykambësh.|dykambësh.
+ gramm: A,nonst,Gheg,alb,deriv
  paradigm: adj-1-5
  trans_en: two-legged
 
@@ -15874,11 +15937,25 @@
  trans_en: still doughy
 
 -lexeme
+ lex: dyluftues
+ stem: dyluftues.|dyluftues.
+ gramm: A,alb,borr,lat,deriv
+ paradigm: adj-1-2
+ trans_en: duelling
+
+-lexeme
  lex: dylugët
  stem: dylugët.|dylugt.
  gramm: A,alb,deriv
  paradigm: adj-2-2-a
  trans_en: biconcave
+
+-lexeme
+ lex: dymbretëror
+ stem: dymbretëror.
+ gramm: A,alb,borr,lat,deriv
+ paradigm: adj-3-1
+ trans_en: with two monarchs
 
 -lexeme
  lex: dymbëdhjetë
@@ -15942,6 +16019,13 @@
  gramm: A,alb,borr,rom,new,deriv
  paradigm: adj-2-1
  trans_en: two-millionth
+
+-lexeme
+ lex: dymilionësh
+ stem: dymilionësh.|dymilionësh.
+ gramm: A,alb,borr,rom,new,deriv
+ paradigm: adj-1-5
+ trans_en: two-million
 
 -lexeme
  lex: dymotak
@@ -16105,6 +16189,13 @@
  trans_en: having doubts
 
 -lexeme
+ lex: dyshimshëm
+ stem: dyshimshëm.|dyshimshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: uncertain
+
+-lexeme
  lex: dyshimtë
  stem: dyshimtë.|dyshimt.
  gramm: A,alb,deriv
@@ -16252,6 +16343,13 @@
  trans_en: bivalent
 
 -lexeme
+ lex: dyvargësh
+ stem: dyvargësh.|dyvargësh.
+ gramm: A,alb,deriv
+ paradigm: adj-1-5
+ trans_en: composed of two lines
+
+-lexeme
  lex: dyvendësh
  stem: dyvendësh.|dyvendësh.
  gramm: A,alb,deriv
@@ -16394,6 +16492,20 @@
 -lexeme
  lex: dëbuar
  stem: dëbuar.|dëbuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: forced out/away, kicked out
+
+-lexeme
+ lex: dëbuem
+ stem: dëbuem.|dëbuem.
+ gramm: A,nonst,Gheg,alb,deriv
+ paradigm: adj-1-2
+ trans_en: forced out/away, kicked out
+
+-lexeme
+ lex: dëbueshëm
+ stem: dëbueshëm.|dëbueshm.
  gramm: A,alb,deriv
  paradigm: adj-2-2
  trans_en: forced out/away, kicked out
@@ -16833,6 +16945,13 @@
  trans_en: educated
 
 -lexeme
+ lex: edukuem
+ stem: edukuem.|edukuem.
+ gramm: A,nonst,Gheg,borr,it,new,deriv
+ paradigm: adj-1-2
+ trans_en: educated
+
+-lexeme
  lex: edukues
  stem: edukues.|edukues.
  gramm: A,borr,it,new,deriv
@@ -17242,6 +17361,27 @@
  lex: ekzistues
  stem: ekzistues.|ekzistues.
  gramm: A,borr,rom,new,deriv
+ paradigm: adj-1-2
+ trans_en: existing
+
+-lexeme
+ lex: ekzistencial
+ stem: egzistencial.
+ gramm: A,nonst,borr,rom,new,deriv
+ paradigm: adj-3-1
+ trans_en: existential
+
+-lexeme
+ lex: ekzistencialist
+ stem: egzistencialist.
+ gramm: A,nonst,borr,it,new
+ paradigm: adj-3-1
+ trans_en: existentialist
+
+-lexeme
+ lex: ekzistues
+ stem: egzistues.|egzistues.
+ gramm: A,nonst,borr,rom,new,deriv
  paradigm: adj-1-2
  trans_en: existing
 

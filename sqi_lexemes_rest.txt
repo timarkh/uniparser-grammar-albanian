@@ -8469,7 +8469,7 @@
 -lexeme
  lex: me
  stem: me.
- gramm: PR,with_acc,with_loc
+ gramm: PR,with_acc
  paradigm: unchangeable
  trans_en: with
 
@@ -9485,7 +9485,7 @@
 -lexeme
  lex: ndër
  stem: ndër.
- gramm: PR,with_acc,with_loc
+ gramm: PR,with_acc
  paradigm: unchangeable
  trans_en: among
 
@@ -17092,7 +17092,7 @@
 
 -lexeme
  lex: të
- stem: të.
+ stem: të.//t.
  gramm: CLIT_PRO,acc_2sg
  paradigm: unchangeable
  trans_en: you

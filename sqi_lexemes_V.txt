@@ -7048,6 +7048,20 @@
  trans_en: thicken, intensify
 
 -lexeme
+ lex: dendësoj
+ stem: dëndëso.|dëndësua.|dëndësu.|dëndës.
+ gramm: V,med,nonst,alb,deriv
+ paradigm: lexoj-1
+ trans_en: thicken; become more dense, frequent
+
+-lexeme
+ lex: dendësoj
+ stem: dëndëso.|dëndësua.|dëndësu.|dëndës.
+ gramm: V,vt,nonst.alb,deriv
+ paradigm: lexoj
+ trans_en: thicken, intensify
+
+-lexeme
  lex: denigroj
  stem: denigro.|denigrua.|denigru.|denigr.
  gramm: V,vt,borr,rom,new
@@ -8928,6 +8942,20 @@
  trans_en: rock, jolt; stir into action
 
 -lexeme
+ lex: dypunësoj
+ stem: dypunëso.|dypunësua.|dypunësu.|dypunës.
+ gramm: V,med,alb,deriv
+ paradigm: lexoj-1
+ trans_en: be employed in two places
+
+-lexeme
+ lex: dypunësoj
+ stem: dypunëso.|dypunësua.|dypunësu.|dypunës.
+ gramm: V,vt,alb,deriv
+ paradigm: lexoj
+ trans_en: employ in two places
+
+-lexeme
  lex: dyshemetis
  stem: dyshemetis.
  gramm: V,vt,borr,turk,deriv
@@ -9144,6 +9172,13 @@
  gramm: V,vt,borr,lat
  paradigm: lexoj
  trans_en: condemn, convict; punish, penalize
+
+-lexeme
+ lex: dërdëllij
+ stem: dërdëlli.
+ gramm: V,vt,alb,deriv
+ paradigm: laj
+ trans_en: prattle
 
 -lexeme
  lex: dërdëllit
@@ -9395,6 +9430,13 @@
  trans_en: walk, go, move, flow; go on, proceed; work, operate
 
 -lexeme
+ lex: editoj
+ stem: edito.|editua.|editu.|edit.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: edit
+
+-lexeme
  lex: edukoj
  stem: eduko.|edukua.|eduku.|eduk.
  gramm: V,med,borr,it,new
@@ -9453,9 +9495,16 @@
 -lexeme
  lex: ejektoj
  stem: ejekto.|ejektua.|ejektu.|ejekt.
- gramm: V,vt
+ gramm: V,vt,borr,fr,new
  paradigm: lexoj
  trans_en: eject
+
+-lexeme
+ lex: ejakuloj
+ stem: ejakulo.|ejakulua.|ejakulu.|ejakul.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: ejaculate
 
 -lexeme
  lex: eklipsoj
@@ -9594,6 +9643,13 @@
  lex: ekzekutoj
  stem: ekzekuto.|ekzekutua.|ekzekutu.|ekzekut.
  gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: execute
+
+-lexeme
+ lex: ekzekutoj
+ stem: egzekuto.|egzekutua.|egzekutu.|egzekut.
+ gramm: V,vt,nonst,borr,rom,new
  paradigm: lexoj
  trans_en: execute
 
@@ -36431,6 +36487,13 @@
  gramm: V,vt,vi,alb,deriv
  paradigm: lexoj
  trans_en: work; go well (vi); process; perfect (vt)
+
+-lexeme
+ lex: punësoj
+ stem: punëso.|punësua.|punësu.|punës.
+ gramm: V,med,alb,deriv
+ paradigm: lexoj-1
+ trans_en: be employed
 
 -lexeme
  lex: punësoj
