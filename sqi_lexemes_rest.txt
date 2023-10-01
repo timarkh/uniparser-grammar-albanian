@@ -2440,13 +2440,6 @@
 -lexeme
  lex: dhe
  stem: dhe.
- gramm: ADV
- paradigm: unchangeable
- trans_en: even
-
--lexeme
- lex: dhe
- stem: dhe.
  gramm: CONJ
  paradigm: unchangeable
  trans_en: and, both
@@ -4650,22 +4643,17 @@
 
 -lexeme
  lex: gjithë
- stem: gjithë.
- gramm: PRO,alb
- paradigm: unchangeable
- trans_en: all
-
--lexeme
- lex: gjithë
- stem: gjith.
+ stem: gjith.|NOSTEM.
  gramm: PRO,nonst,alb
  paradigm: unchangeable
+ paradigm: dem-pro-tillë
  trans_en: all
 
 -lexeme
  lex: gjithë
  stem: gjithë.|gjith.
  gramm: PRO,alb
+ paradigm: unchangeable
  paradigm: dem-pro-tillë
  trans_en: all
 
@@ -16469,11 +16457,18 @@
 
 -lexeme
  lex: tij
- stem: tij.//tijh.
+ stem: tij.
  gramm: PRO,alb
  paradigm: unchangeable
  paradigm: poss-pro-3-sg-m
- trans_en: (of) his, its; him, it
+ trans_en: (of) his, its
+
+-lexeme
+ lex: tij
+ stem: tijh.
+ gramm: PRO,nonst,alb
+ paradigm: unchangeable
+ trans_en: (of) his, its
 
 -lexeme
  lex: tillë
@@ -17073,7 +17068,7 @@
  gramm: PRO,alb
  paradigm: unchangeable
  paradigm: poss-pro-3-pl
- trans_en: of theirs, their; them
+ trans_en: of theirs, their
 
 -lexeme
  lex: tyre
@@ -17081,7 +17076,7 @@
  gramm: PRO,nonst
  paradigm: unchangeable
  paradigm: poss-pro-3-pl
- trans_en: of theirs, their; them
+ trans_en: of theirs, their
 
 -lexeme
  lex: tytë
@@ -17214,6 +17209,7 @@
  lex: tërë
  stem: tërë.|tër.
  gramm: PRO,unknwn
+ paradigm: unchangeable
  paradigm: dem-pro-tillë
  trans_en: (the) entire, whole
 

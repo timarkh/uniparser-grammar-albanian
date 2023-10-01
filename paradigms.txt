@@ -3066,11 +3066,11 @@
   gramm: f,sg,abl,cont
  -flex: <1>.
   gramm: f,sg,nom,dist
- -flex: <3>.//<2>.
+ -flex: <2>.
   gramm: f,sg,gen_dat,dist
  -flex: <2>.
   gramm: f,sg,acc,dist
- -flex: <3>.//<2>.
+ -flex: <2>.
   gramm: f,sg,abl,dist
  -flex: <1>.
   gramm: n,sg,nom,cont
@@ -4541,6 +4541,8 @@
   gramm: f,pl,abl,def,nonst
 
 -paradigm: poss-pro-3-sg-m
+ -flex: <0>.a
+  gramm: f,pl,nonst
  -flex: <0>.i
   gramm: m,sg,nom,def
  -flex: <0>.it
@@ -4551,15 +4553,19 @@
   gramm: m,sg,abl,def
  -flex: <0>.të
   gramm: m,pl,nom,def
+ -flex: <0>.ët
+  gramm: m,pl,nom,def,nonst
  -flex: <0>.ve
   gramm: m,pl,gen_dat,def
- -flex: <0>.vet
+ -flex: <0>.vet//<0>.ëvet//<0>.ëve
   gramm: m,pl,gen_dat,def,nonst
  -flex: <0>.të
   gramm: m,pl,acc,def
+ -flex: <0>.ët
+  gramm: m,pl,acc,def,nonst
  -flex: <0>.ve
   gramm: m,pl,abl,def
- -flex: <0>.vet
+ -flex: <0>.vet//<0>.ëvet//<0>.ëve
   gramm: m,pl,abl,def,nonst
  -flex: <0>.a
   gramm: f,sg,nom,def
@@ -4569,16 +4575,12 @@
   gramm: f,sg,acc,def
  -flex: <0>.ës
   gramm: f,sg,abl,def
- -flex: <0>.//<0>.a
-  gramm: f,pl,nom,nonst
  -flex: <0>.at
   gramm: f,pl,nom,def
  -flex: <0>.ave
   gramm: f,pl,gen_dat,def
  -flex: <0>.avet
   gramm: f,pl,gen_dat,def,nonst
- -flex: <0>.//<0>.a
-  gramm: f,pl,acc,nonst
  -flex: <0>.at
   gramm: f,pl,acc,def
  -flex: <0>.ave
@@ -4587,6 +4589,8 @@
   gramm: f,pl,abl,def,nonst
 
 -paradigm: poss-pro-3-sg-f
+ -flex: <0>.a
+  gramm: f,pl,nonst
  -flex: <0>.i
   gramm: m,sg,nom,def
  -flex: <0>.it
@@ -4599,13 +4603,13 @@
   gramm: m,pl,nom,def
  -flex: <0>.ve
   gramm: m,pl,gen_dat,def
- -flex: <0>.vet
+ -flex: <0>.vet//<0>.ëvet//<0>.ëve
   gramm: m,pl,gen_dat,def,nonst
  -flex: <0>.të
   gramm: m,pl,acc,def
  -flex: <0>.ve
   gramm: m,pl,abl,def
- -flex: <0>.vet
+ -flex: <0>.vet//<0>.ëvet//<0>.ëve
   gramm: m,pl,abl,def,nonst
  -flex: <0>.a
   gramm: f,sg,nom,def
@@ -4615,15 +4619,13 @@
   gramm: f,sg,acc,def
  -flex: <0>.ës
   gramm: f,sg,abl,def
- -flex: <0>.//<0>.a
-  gramm: f,pl,nom,nonst
  -flex: <0>.at
   gramm: f,pl,nom,def
  -flex: <0>.ave
   gramm: f,pl,gen_dat,def
  -flex: <0>.avet
   gramm: f,pl,gen_dat,def,nonst
- -flex: <0>.a.//<0>.at
+ -flex: <0>.at
   gramm: f,pl,acc,def
  -flex: <0>.ave
   gramm: f,pl,abl,def
@@ -4653,8 +4655,6 @@
   gramm: m,pl,abl,def,nonst
  -flex: <1>.ja
   gramm: f,sg,nom,def
- -flex: <0>.ja
-  gramm: f,sg,nom,def,nonst
  -flex: <0>.s
   gramm: f,sg,gen_dat,def
  -flex: <0>.n

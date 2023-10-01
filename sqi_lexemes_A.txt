@@ -6379,21 +6379,28 @@
 -lexeme
  lex: biokimik
  stem: biokimik.
- gramm: A,borr,it,new
+ gramm: A,borr,it,new,deriv
  paradigm: adj-3-2
  trans_en: biochemical
 
 -lexeme
+ lex: biokompatibël
+ stem: biokompatibël.//biokompatibil.
+ gramm: A,borr,inter,deriv
+ paradigm: adj-3-1
+ trans_en: biocompatible
+
+-lexeme
  lex: biologjik
  stem: biologjik.
- gramm: A,borr,inter
+ gramm: A,borr,rom,new
  paradigm: adj-3-2
  trans_en: biological
 
 -lexeme
  lex: biometrik
  stem: biometrik.
- gramm: A,borr,inter
+ gramm: A,borr,rom.new
  paradigm: adj-3-2
  trans_en: biometric
 
@@ -6748,6 +6755,13 @@
  trans_en: covered with bitumen
 
 -lexeme
+ lex: bivalent
+ stem: bivalent.
+ gramm: A,alb,borr,rom,new,deriv
+ paradigm: adj-3-1
+ trans_en: bivalent
+
+-lexeme
  lex: bizantin
  stem: bizantin.
  gramm: A
@@ -6767,6 +6781,13 @@
  gramm: A,inter
  paradigm: adj-3-1
  trans_en: belonging to the "White Guard" in the Russian Revolution; counterrevolutionary
+
+-lexeme
+ lex: bjellorus
+ stem: bjellorus.
+ gramm: A
+ paradigm: adj-3-1
+ trans_en: Belorussian
 
 -lexeme
  lex: bjerrafat
@@ -6804,6 +6825,13 @@
  trans_en: blond
 
 -lexeme
+ lex: blasfemik
+ stem: blasfemik.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-3-1
+ trans_en: blasphemous
+
+-lexeme
  lex: blatuar
  stem: blatuar.|blatuar.
  gramm: A,borr,lat,deriv
@@ -6825,9 +6853,23 @@
  trans_en: undressed, naked
 
 -lexeme
+ lex: blegtar
+ stem: blegtar.
+ gramm: A,borr,slav,deriv
+ paradigm: adj-3-1
+ trans_en: pertaining to stock farming; pastoral
+
+-lexeme
  lex: blegtor
  stem: blegtor.
  gramm: A,borr,slav,deriv
+ paradigm: adj-3-1
+ trans_en: pertaining to stock farming; pastoral
+
+-lexeme
+ lex: blegtor
+ stem: blektor.
+ gramm: A,nonst,borr,slav,deriv
  paradigm: adj-3-1
  trans_en: pertaining to stock farming; pastoral
 
@@ -6839,11 +6881,32 @@
  trans_en: pertaining to stock farming; pastoral
 
 -lexeme
+ lex: blegërues
+ stem: blegërues.|blegërues.
+ gramm: A,borr,slav,deriv
+ paradigm: adj-1-2
+ trans_en: bleating
+
+-lexeme
  lex: blenuar
  stem: blenuar.|blenuar.
  gramm: A
  paradigm: adj-2-2
  trans_en: sawn together
+
+-lexeme
+ lex: blerimor
+ stem: blerimor.
+ gramm: A,alb,deriv
+ paradigm: adj-3-1
+ trans_en: verdant, green
+
+-lexeme
+ lex: blerimtar
+ stem: blerimtar.
+ gramm: A,alb,deriv
+ paradigm: adj-3-1
+ trans_en: verdant, green
 
 -lexeme
  lex: blerosh
@@ -6914,6 +6977,13 @@
  gramm: A,borr,rom,new,deriv
  paradigm: adj-2-2
  trans_en: blocked
+
+-lexeme
+ lex: bllokues
+ stem: bllokues.|bllokues.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-1-2
+ trans_en: blocking
 
 -lexeme
  lex: bliruar
@@ -7042,6 +7112,13 @@
  trans_en: vinegar-red in color
 
 -lexeme
+ lex: bojëdalë
+ stem: bojëdalë.|bojëdal.
+ gramm: A,alb,borr,turk,deriv
+ paradigm: adj-2-1
+ trans_en: bright-colored
+
+-lexeme
  lex: bojëfinjë
  stem: bojëfinjë.|bojëfinj.
  gramm: A,alb,borr,turk,deriv
@@ -7054,6 +7131,20 @@
  gramm: A,alb,borr,turk,deriv
  paradigm: adj-3-2
  trans_en: blood-red
+
+-lexeme
+ lex: bojëgjelbër
+ stem: bojëgjelbër.|bojëgjelbr.
+ gramm: A,borr,turk,lat,deriv
+ paradigm: adj-2-2
+ trans_en: green-colored
+
+-lexeme
+ lex: bojëgri
+ stem: bojëgri.
+ gramm: A,borr,turk,fr,new,deriv
+ paradigm: unchangeable
+ trans_en: gray-colored
 
 -lexeme
  lex: bojëgrurë
@@ -7126,6 +7217,13 @@
  trans_en: orange-colored
 
 -lexeme
+ lex: bojëqielltë
+ stem: bojëqielltë.//bojqielltë.|bojëqiellt.//bojqiellt.
+ gramm: A,borr,turk,lat,deriv
+ paradigm: adj-2-1
+ trans_en: blue-colored
+
+-lexeme
  lex: bojëshegë
  stem: bojëshegë.|bojësheg.
  gramm: A,alb,borr,turk,deriv
@@ -7171,6 +7269,13 @@
  lex: bokërimtë
  stem: bokërimtë.|bokërimt.
  gramm: A,borr,slav,deriv
+ paradigm: adj-2-1
+ trans_en: barren
+
+-lexeme
+ lex: bokërimtë
+ stem: bokërrimtë.|bokërrimt.
+ gramm: A,nonst,borr,slav,deriv
  paradigm: adj-2-1
  trans_en: barren
 
@@ -24865,6 +24970,13 @@
  trans_en: strike-breaking
 
 -lexeme
+ lex: gri
+ stem: gri.
+ gramm: A,borr,fr,new
+ paradigm: unchangeable
+ trans_en: gray
+
+-lexeme
  lex: grihur
  stem: grihur.|grihur.
  gramm: A,alb,deriv
@@ -34107,8 +34219,8 @@
 
 -lexeme
  lex: kompatibël
- stem: kompatibël.
- gramm: A,borr,en,new
+ stem: kompatibël.//kompatibil.
+ gramm: A,borr,inter
  paradigm: adj-3-1
  trans_en: compatible
 

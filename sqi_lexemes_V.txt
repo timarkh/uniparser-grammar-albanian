@@ -3125,11 +3125,18 @@
  trans_en: bear pods
 
 -lexeme
- lex: bishtnoj
- stem: bishtno.|bishtnua.|bishtnu.|bishtn.
+ lex: bishtëroj
+ stem: bishtëro.|bishtërua.|bishtëru.|bishtër.
  gramm: V,vi,alb,deriv
  paradigm: lexoj
- trans_en: sneak away, be evasive
+ trans_en: sneak away; be evasive, subterfuge
+
+-lexeme
+ lex: bishtnoj
+ stem: bishtno.//bishtëno.|bishtnua.//bishtënua.|bishtnu.//bishtënu.|bishtn.//bishtën.
+ gramm: V,vi,alb,deriv
+ paradigm: lexoj
+ trans_en: sneak away; be evasive, subterfuge
 
 -lexeme
  lex: bishtoj
@@ -3202,6 +3209,13 @@
  trans_en: stain
 
 -lexeme
+ lex: blasfemoj
+ stem: blasfemo.|blasfemua.|blasfemu.|blasfem.
+ gramm: V,vt,borr,it,new,deriv
+ paradigm: lexoj
+ trans_en: blaspheme
+
+-lexeme
  lex: blatoj
  stem: blato.|blatua.|blatu.|blat.
  gramm: V,med,borr,lat,deriv
@@ -3247,6 +3261,13 @@
  lex: blegërij
  stem: blegëri.|blegërit.
  gramm: V,vi,borr,slav,deriv
+ paradigm: arrij
+ trans_en: bleat; wail
+
+-lexeme
+ lex: blegërij
+ stem: blegri.|blegrit.
+ gramm: V,vi,nonst,borr,slav,deriv
  paradigm: arrij
  trans_en: bleat; wail
 
@@ -3312,6 +3333,13 @@
  gramm: V,vi,alb,deriv
  paradigm: mat
  trans_en: mumble; prattle, babble
+
+-lexeme
+ lex: blofoj
+ stem: blofo.//bllofo.|bllofua.//blofua.|bllofu.//blofu.|bllof.//blof.
+ gramm: V,vt,borr,germ,new,deriv
+ paradigm: lexoj
+ trans_en: bluff
 
 -lexeme
  lex: bllokoj
