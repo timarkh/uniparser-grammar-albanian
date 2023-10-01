@@ -3288,15 +3288,15 @@
 -paradigm: 3c-1
  -flex: <1>.
   gramm: sg,nom,indef
- -flex: <5>.e
+ -flex: <4>.e
   gramm: sg,gen_dat,indef
  -flex: <1>.
   gramm: sg,acc,indef
- -flex: <5>.e
+ -flex: <4>.e
   gramm: sg,abl,indef
  -flex: <1>.
   gramm: sg,unmkd,indef
- -flex: <4>.a
+ -flex: <3>.a
   gramm: sg,nom,def
  -flex: <2>.së
   gramm: sg,gen_dat,def
@@ -3492,13 +3492,13 @@
   gramm: sg,acc,indef
  -flex: <1>.
   gramm: sg,unmkd,indef
- -flex: <2>.i
+ -flex: <1>.
   gramm: sg,nom,def
- -flex: <2>.t
+ -flex: <1>.t
   gramm: sg,gen_dat,def
- -flex: <2>.n
+ -flex: <1>.n
   gramm: sg,acc,def
- -flex: <2>.t
+ -flex: <1>.t
   gramm: sg,abl,def
 
 -paradigm: abbreviation-m-1
