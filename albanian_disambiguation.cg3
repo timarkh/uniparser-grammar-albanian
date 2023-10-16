@@ -272,7 +272,7 @@ SELECT (dist abl sg) IF (0 ("<të>"i))
 						(NEGATE -2 ("<për>"i));
 SELECT (dist abl sg) IF (0 ("<të>"i))
 						(-1 (NOUN sg abl indef))
-						(-2 ("<një>"i) OR ("ky"i) OR "<atij>"i) OR ("<asaj>"i))
+						(-2 ("<një>"i) OR ("ky"i) OR ("<atij>"i) OR ("<asaj>"i))
 						(-3 (PR with_abl))
 						(NEGATE -3 ("<për>"i));
 
@@ -286,7 +286,7 @@ SELECT (PRO) IF (0 ("<ta>"i))
 				
 # Pronouns "tij", "saj", "tyre" are are possesive pronouns after articles and personal pronouns after prepositions.
 REMOVE ("abl") IF (0 ("<tyre>"i))
-				  (-1 (ART)));
+				  (-1 (ART));
 SELECT ("abl") IF (0 ("<tyre>"i))
 				  (-1 (PR with_abl));
 REMOVE ("abl") IF (0 ("<tij>"i))
