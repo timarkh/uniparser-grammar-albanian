@@ -38,11 +38,11 @@ class AlbanianAnalyzer(Analyzer):
         If format == 'json', the analyses are JSON objects (dictionaries).
         Perform CG3 disambiguation if disambiguate == True and CG3 is installed.
         """
-        # if disambiguate:
-        #     with as_file(files(self.dirName) / 'albanian_disambiguation.cg3') as cgFile:
-        #         cgFilePath = str(cgFile)
-        #         return super().analyze_words(words, format=format, disambiguate=True,
-        #                                      cgFile=cgFilePath)
+        if disambiguate:
+            with as_file(files(self.dirName) / 'albanian_disambiguation.cg3') as cgFile:
+                cgFilePath = str(cgFile)
+                return super().analyze_words(words, format=format, disambiguate=True,
+                                             cgFile=cgFilePath)
         return super().analyze_words(words, format=format, disambiguate=False)
 
 
@@ -64,9 +64,8 @@ if __name__ == '__main__':
     for ana in analyses:
         print(ana)
     analyses = a.analyze_words([['i'], ['Të', 'dua', '.']],
-                               format='conll')
+                               format='conll', disambiguate=False)
     print(analyses)
     analyses = a.analyze_words(['Morfologjinë', [['i'], ['Të', 'dua', '.']]],
-                               format='json')
-    for ana in analyses:
-        print(ana)
+                               format='conll', disambiguate=True)
+    print(analyses)
