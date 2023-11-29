@@ -282,7 +282,11 @@ SELECT (VB_PART) IF (0 ("<ta>"i))
 					(1 (V))
 					(-1 (V) OR (Questions) OR ("<po>"i));
 SELECT (PRO) IF (0 ("<ta>"i))
-				(-1 (PR with_acc));
+				(-1 (PR with_acc))
+                (NEGATE 1 (ptcp));
+SELECT (VB_PART) IF (0 ("<ta>"i))
+				    (-1 ("<për>"i))
+                    (1 (ptcp));
 				
 # Pronouns "tij", "saj", "tyre" are are possesive pronouns after articles and personal pronouns after prepositions.
 REMOVE ("abl") IF (0 ("<tyre>"i))
