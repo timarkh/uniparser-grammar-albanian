@@ -11099,6 +11099,13 @@
 -lexeme
  lex: fle
  stem: fle.|fli.|fjet.//flejt.|fler.
+ gramm: V,vi,vt,alb
+ paradigm: di
+ trans_en: (vi) sleep; (vt) take to spend the night, leave overnight
+
+-lexeme
+ lex: fle
+ stem: fle.|fli.|fjet.//flejt.|fler.
  gramm: V,med,alb
  paradigm: di
  trans_en: get sleepy; fall asleep; be conducive to sleeping
