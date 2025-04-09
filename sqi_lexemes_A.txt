@@ -99743,8 +99743,15 @@
 
 -lexeme
  lex: vërtetë
- stem: vërtetë.//vertetë.|vërtet.//vertet.
+ stem: vërtetë.|vërtet.
  gramm: A,borr,lat
+ paradigm: adj-2-1
+ trans_en: true
+
+-lexeme
+ lex: vërtetë
+ stem: vertetë.//vërtet.|vertet.
+ gramm: A,nonst,borr,lat
  paradigm: adj-2-1
  trans_en: true
 

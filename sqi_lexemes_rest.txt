@@ -7388,14 +7388,28 @@
 
 -lexeme
  lex: ky
- stem: ky.|këtij.//kësi.|këtë.//ket.//ktë.|kjo.|kësaj.//këso.|këta.|këtyre.//kësi.//kësish.|këto.|këtyre.//këso.//kësosh.|këtyne.
+ stem: ky.|këtij.//kësi.|këtë.|kjo.|kësaj.//këso.|këta.|këtyre.//kësi.//kësish.|këto.|këtyre.//këso.//kësosh.|këtyne.
  gramm: PRO,alb
  paradigm: dem-pro-sg-pl
  trans_en: this
 
 -lexeme
+ lex: ky
+ stem: NOSTEM.|ktij.//ksi.|ket.//ktë.|NOSTEM.|ksaj.//kso.|kta.|ktyre.//ksi.//ksish.|kto.|ktyre.//kso.//ksosh.|ktyre.
+ gramm: PRO,alb,nonst,alb,deriv
+ paradigm: dem-pro-sg-pl
+ trans_en: this
+
+-lexeme
+ lex: ky
+ stem: NOSTEM.|NOSTEM.|NOSTEM.|NOSTEM.|NOSTEM.|NOSTEM.|ktyne.//këtyne.|NOSTEM.|ktyne.//këtyne.|ktyne.//këtyne.
+ gramm: PRO,alb,nonst,Gheg,alb,deriv
+ paradigm: dem-pro-sg-pl
+ trans_en: this
+
+-lexeme
  lex: qeky
- stem: qeky.//qiky.|këtij.//kësi.//qekëtij.//qekësi.//qikëtij.//qikësi.|këtë.//ket.//ktë.//qekëtë.//qeket.//qektë.//qikëtë.//qiket.//qiktë.|kjo.//qekjo.//qikjo.|kësaj.//këso.//qekësaj.//qekëso.//qikësaj.//qikëso.|këta.//qekëta.//qikëta.//qekta.//qikta.|këtyne.//kësi.//kësish.//qekëtyne.//qekësi.//qekësish.//qikëtyne.//qikësi.//qikësish.|këto.//qekëto.//qikëto.//qekto.//qikto.|këtyne.//këso.//kësosh.//qekëtyne.//qekëso.//qekësosh.//qikëtyne.//qikëso.//qikësosh.|këtyne.//qekëtyne.//qikëtyne.
+ stem: qeky.//qiky.|qekëtij.//qekësi.//qikëtij.//qikësi.//qektij.//qeksi.//qiktij.//qiksi.|qekëtë.//qeket.//qektë.//qikëtë.//qiket.//qiktë.|qekjo.//qikjo.|qekësaj.//qekëso.//qikësaj.//qikëso.//qeksaj.//qekso.//qiksaj.//qikso.|qekëta.//qikëta.//qekta.//qikta.|qekëtyne.//qekësi.//qekësish.//qikëtyne.//qikësi.//qikësish.//qektyne.//qeksi.//qeksish.//qiktyne.//qiksi.//qiksish.|qekëto.//qikëto.//qekto.//qikto.|qekëtyne.//qekëso.//qekësosh.//qikëtyne.//qikëso.//qikësosh.//qektyne.//qekso.//qeksosh.//qiktyne.//qikso.//qiksosh.|qekëtyne.//qikëtyne.//qektyne.//qiktyne.
  gramm: PRO,alb,nonst,Gheg,alb,deriv
  paradigm: dem-pro-sg-pl
  trans_en: this very
@@ -10054,7 +10068,7 @@
 
 -lexeme
  lex: njiky
- stem: njiky.|njikëtij.//njikësi.|njikëtë.//njiket.|njikjo.|njikësaj.//njikëso.|njikëta.|njikëtyre.//njikësi.//njikësish.//njikëtyne.|njikëto.|njikëtyre.//njikëso.//njikësosh.//njikëtyne.
+ stem: njiky.|njikëtij.//njikësi.//njiktij.//njiksi.|njikëtë.//njiket.//njiktë.|njikjo.|njikësaj.//njikëso.//njiksaj.//njikso.|njikëta.//njikta.|njikëtyne.//njikësi.//njikësish.//njiktyne.//njiksi.//njiksish.|njikëto.//njikto.|njikëtyne.//njikëso.//njikësosh.//njiktyne.//njikso.//njiksosh.
  gramm: PRO,nonst,Gheg,alb,deriv
  paradigm: dem-pro-sg-pl
  trans_en: this very one
@@ -13577,7 +13591,7 @@
 
 -lexeme
  lex: qai
- stem: qai.//qay.|qatij.//qasi.|qatë.//qate.|qajo.|qasaj.//qaso.|qata.|qatyre.//qasi.//qasish.//qatyne.|qato.|qatyre.//qaso.//qasosh.//qatyne.|NOSTEM.
+ stem: qai.//qay.|qatij.//qasi.|qatë.//qate.|qajo.|qasaj.//qaso.|qata.|qatyne.//qasi.//qasish.|qato.|qatyne.//qaso.//qasosh.|NOSTEM.
  gramm: PRO,nonst,Gheg,alb,deriv
  paradigm: dem-pro-sg-pl
  trans_en: that very one
