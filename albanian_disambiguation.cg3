@@ -553,3 +553,6 @@ SELECT (PART) IF (0 ("<më>"i))
 SELECT (PRO) IF (0 ("<sa>"i))
 				(1 ("<më>"i))
 				(2 ("<parë>"i) OR ("<mirë>"i) OR ("<pak>"i) OR ("<shumë>"i));
+
+# Only use NMLZ derivation if word not already in the dictionary
+REMOVE (NOUN nmlz) IF (0 (NOUN nmlz deriv));

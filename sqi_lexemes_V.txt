@@ -43354,7 +43354,7 @@
 
 -lexeme
  lex: rrah
- stem: rrah.|rreh.|rrih.
+ stem: rrah.|rreh.|rrih.|NOSTEM.
  gramm: V,med,alb
  paradigm: njoh-1
  trans_en: quarrel, fight; gain experience
@@ -45694,6 +45694,7 @@
  lex: psherëtij
  stem: sherëti.
  gramm: V,vi,nonst,borr,lat
+ paradigm: laj
  trans_en: breathe a sigh
 
 -lexeme
@@ -54674,7 +54675,7 @@
 
 -lexeme
  lex: truej
- stem: true.|tru.|cljskjsk.
+ stem: true.|tru.|NOSTEM.
  gramm: V,med,nonst,Gheg,borr,lat
  lexref: truaj
  paradigm: shkruaj-1
@@ -54682,7 +54683,7 @@
 
 -lexeme
  lex: truej
- stem: true.|tru.
+ stem: true.|tru.|NOSTEM.
  gramm: V,vt,nonst,Gheg,borr,lat
  lexref: truaj
  paradigm: shkruaj
@@ -59756,7 +59757,7 @@
 
 -lexeme
  lex: zgjoj
- stem: zgjo.|zgjua.
+ stem: zgjo.|zgjua.|zgju.|zgj.
  gramm: V,vt,alb
  paradigm: lexoj
  trans_en: wake up, awaken
@@ -63806,42 +63807,42 @@
 
 -lexeme
  lex: hospitalizoj
- stem: hospitalizo.|hospitalizua.
+ stem: hospitalizo.|hospitalizua.|hospitalizu.|hospitaliz.
  gramm: V,vt,borr,inter
  paradigm: lexoj
  trans_en: hospitalize
 
 -lexeme
  lex: vetizoloj
- stem: vetëizolo.|vetëizolua.
+ stem: vetëizolo.|vetëizolua.|vetëizolu.|vetëizol.
  gramm: V,vt,nonst,borr,it,new,deriv
  paradigm: lexoj
  trans_en: self-isolate
 
 -lexeme
  lex: vetëkarantinoj
- stem: vetëkarantino.|vetëkarantinua.
+ stem: vetëkarantino.|vetëkarantinua.|vetëkarantinu.|vetëkarantin.
  gramm: V,vt,borr,rom,new,deriv
  paradigm: lexoj
  trans_en: self-quarantine
 
 -lexeme
  lex: vetëkarantinoj
- stem: vetkarantino.|vetkarantinua.
+ stem: vetkarantino.|vetkarantinua.|vetkarantinu.|vetkarantin.
  gramm: V,vt,nonst,borr,rom,new,deriv
  paradigm: lexoj
  trans_en: self-quarantine
 
 -lexeme
  lex: karantifikoj
- stem: karantifiko.|karantifikua.
+ stem: karantifiko.|karantifikua.|karantifiku.|karantifik.
  gramm: V,vt,borr,rom,new,deriv
  paradigm: lexoj
  trans_en: quarantine
 
 -lexeme
  lex: karantinoj
- stem: karantino.|karantinua.
+ stem: karantino.|karantinua.|karantinu.|karantin.
  gramm: V,vt,borr,rom,new,deriv
  paradigm: lexoj
  trans_en: quarantine
