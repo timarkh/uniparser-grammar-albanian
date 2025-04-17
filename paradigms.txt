@@ -3793,6 +3793,30 @@
  -flex: <0>.-ve
   gramm: pl,abl,def
 
+-paradigm: abbreviation-pl-2
+ -flex: <0>.-t
+  gramm: pl,nom,def
+ -flex: <0>.-ve
+  gramm: pl,gen_dat,def
+ -flex: <0>.-t
+  gramm: pl,acc,def
+ -flex: <0>.-ve
+  gramm: pl,abl,def
+
+-paradigm: abbreviation-pl-3
+ -flex: <0>.-e
+  gramm: pl,nom,indef
+ -flex: <0>.-et
+  gramm: pl,nom,def
+ -flex: <0>.-eve
+  gramm: pl,gen_dat,def
+ -flex: <0>.-e
+  gramm: pl,acc,indef
+ -flex: <0>.-et
+  gramm: pl,acc,def
+ -flex: <0>.-eve
+  gramm: pl,abl,def
+
 -paradigm: vjeherr
  -flex: <1>.
   gramm: pl,nom,indef
