@@ -15713,6 +15713,13 @@
  trans_en: late
 
 -lexeme
+ lex: skenikisht
+ stem: skenikisht.
+ gramm: ADV,borr,rom,new,deriv
+ paradigm: unchangeable
+ trans_en: theatrically
+
+-lexeme
  lex: skiç
  stem: skiç.
  gramm: ADV,borr,turk,deriv

@@ -46849,11 +46849,25 @@
  trans_en: mobilized
 
 -lexeme
+ lex: mobilizuem
+ stem: mobilizuem.|mobilizuem.
+ gramm: A,nonst,Gheg,borr,fr,new,deriv
+ paradigm: adj-2-2
+ trans_en: mobilized
+
+-lexeme
  lex: mobilizues
  stem: mobilizues.|mobilizues.
  gramm: A,borr,fr,new,deriv
  paradigm: adj-1-2
  trans_en: mobilizing
+
+-lexeme
+ lex: mobilizueshëm
+ stem: mobilizueshëm.|mobilizueshm.
+ gramm: A,borr,fr,new,deriv
+ paradigm: adj-1-2-a
+ trans_en: mobilizable
 
 -lexeme
  lex: mobiluar
@@ -60016,6 +60030,13 @@
  trans_en: already mentioned; predicted
 
 -lexeme
+ lex: parauniversitar
+ stem: parauniversitar.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-3-1
+ trans_en: pre-university
+
+-lexeme
  lex: paraushtarak
  stem: paraushtarak.
  gramm: A,alb,deriv
@@ -72576,6 +72597,13 @@
  trans_en: reformed
 
 -lexeme
+ lex: reformues
+ stem: reformues.|reformues.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-1-2
+ trans_en: reformative
+
+-lexeme
  lex: refraktar
  stem: refraktar.
  gramm: A,borr,rom,new
@@ -80155,7 +80183,7 @@
  stem: shmobilizuar.|shmobilizuar.
  gramm: A,nonst,borr,fr,new,deriv
  paradigm: adj-2-2
- trans_en: mobilized
+ trans_en: demobilized
 
 -lexeme
  lex: shmërzitur
@@ -81340,6 +81368,13 @@
  gramm: A,borr,turk,deriv
  paradigm: adj-2-2
  trans_en: having lost its feathers
+
+-lexeme
+ lex: shpupurisur
+ stem: shpupurisur.|shpupurisur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: dishevelled
 
 -lexeme
  lex: shpupurishur
@@ -83927,6 +83962,13 @@
  trans_en: much-desired
 
 -lexeme
+ lex: shumëetnik
+ stem: shumëetnik.
+ gramm: A
+ paradigm: adj-3-2
+ trans_en: multiethnic
+
+-lexeme
  lex: shumëfaqësh
  stem: shumëfaqësh.|shumëfaqësh.
  gramm: A,borr,lat,deriv
@@ -84016,6 +84058,13 @@
  gramm: A,alb,borr,lat,deriv
  paradigm: adj-1-5
  trans_en: having many members
+
+-lexeme
+ lex: shumëfunksional
+ stem: shumëfunksional.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-3-1
+ trans_en: multifunctional
 
 -lexeme
  lex: shumëgarësh
@@ -105576,6 +105625,13 @@
  lex: çlodhës
  stem: çlodhës.|çlodhës.
  gramm: A,alb,deriv
+ paradigm: adj-1-2
+ trans_en: restful, refreshing
+
+-lexeme
+ lex: çlodhës
+ stem: shlodhës.|shlodhës.
+ gramm: A,nonst,alb,deriv
  paradigm: adj-1-2
  trans_en: restful, refreshing
 

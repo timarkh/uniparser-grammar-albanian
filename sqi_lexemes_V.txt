@@ -997,7 +997,7 @@
 
 -lexeme
  lex: anuloj
- stem: anullo.|anullua.|anullu.|anull.
+ stem: anulo.|anulua.|anulu.|anul.
  gramm: V,vt,borr,rom,new
  paradigm: lexoj
  trans_en: cancel, annul
@@ -3663,6 +3663,13 @@
  gramm: V,vt,nonst,Gheg,borr,lat,deriv
  paradigm: shkruej
  trans_en: inscribe one geometric figure inside another
+
+-lexeme
+ lex: brendoj
+ stem: brendo.|brendua.|brendu.|brend.
+ gramm: V,vt,borr,en,new,deriv
+ paradigm: lexoj
+ trans_en: brand
 
 -lexeme
  lex: brengem
@@ -42379,6 +42386,20 @@
  trans_en: republish
 
 -lexeme
+ lex: ribrendoj
+ stem: ribrando.|ribrandua.|ribrandu.|ribrand.
+ gramm: V,vt,nonst,borr,en,new,deriv
+ paradigm: lexoj
+ trans_en: rebrand
+
+-lexeme
+ lex: ribrendoj
+ stem: ribrendo.|ribrendua.|ribrendu.|ribrend.
+ gramm: V,vt,borr,en,new,deriv
+ paradigm: lexoj
+ trans_en: rebrand
+
+-lexeme
  lex: ribëj
  stem: ribë.|ribër.
  gramm: V,vt,alb,deriv
@@ -42853,6 +42874,13 @@
  gramm: V,vt,alb,deriv
  paradigm: lexoj
  trans_en: rejuvenate
+
+-lexeme
+ lex: rinovoj
+ stem: rinovo.|rinovua.|rinovu.|rinov.
+ gramm: V,vt,borr,it,new
+ paradigm: lexoj
+ trans_en: renovate
 
 -lexeme
  lex: rinxeh
@@ -47713,6 +47741,20 @@
  trans_en: transform
 
 -lexeme
+ lex: shndërroj
+ stem: shndrro.|shndrrua.|shndrru.|shndrr.
+ gramm: V,med,nonst,borr,lat,deriv
+ paradigm: lexoj-1
+ trans_en: undergo radical transformation
+
+-lexeme
+ lex: shndërroj
+ stem: shndrro.|shndrrua.|shndrru.|shndrr.
+ gramm: V,vt,nonst,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: transform
+
+-lexeme
  lex: shngul
  stem: shngul.
  gramm: V,vt,alb,deriv
@@ -51503,6 +51545,20 @@
  trans_en: spy on
 
 -lexeme
+ lex: sponsorizoj
+ stem: sponsorizo.|sponsorizua.|sponsorizu.|sponsoriz.
+ gramm: V,vt,borr,en,new,deriv
+ paradigm: lexoj
+ trans_en: sponsor
+
+-lexeme
+ lex: spostoj
+ stem: sposto.|spostua.|spostu.|spost.
+ gramm: V,vt,borr,it,new
+ paradigm: lexoj
+ trans_en: withdraw
+
+-lexeme
  lex: spraps
  stem: spraps.
  gramm: V,med,alb,deriv
@@ -54286,7 +54342,7 @@
  stem: transpono.|transponua.|transponu.|transpon.
  gramm: V,vt,borr,rom,new
  paradigm: lexoj
- trans_en: transpone
+ trans_en: transpose
 
 -lexeme
  lex: transportoj
@@ -62813,6 +62869,13 @@
  lex: çlodh
  stem: çlodh.
  gramm: V,med,alb,deriv
+ paradigm: hap-1
+ trans_en: rest, be refreshed, relax; take vacation
+
+-lexeme
+ lex: çlodh
+ stem: shlodh.
+ gramm: V,med,nonst,alb,deriv
  paradigm: hap-1
  trans_en: rest, be refreshed, relax; take vacation
 
