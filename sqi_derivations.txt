@@ -1,6 +1,40 @@
 -deriv-type: N-im
  lex: <3>[.]im
- stem: <3>[.]ime.|<0>[.]im.
+ stem: <3>[.]ime.|<3>[.]im.
  paradigm: 1a
  paradigm: 5a
  gramm: NOUN,nmlz,mf,inanim
+-deriv-type: pa-A-1
+ lex: pa[.]<0>.
+ stem: pa[.]<0>.|pa[.]<1>.
+ paradigm: adj-1-1
+ paradigm: adj-1-1-a
+ paradigm: adj-1-2
+ paradigm: adj-1-2-a
+ paradigm: adj-2-1
+ paradigm: adj-2-2
+ gramm: A
+-deriv-type: pa-A-2
+ lex: pa[.]<0>.
+ stem: pa[.]<0>.
+ paradigm: adj-3-1
+ paradigm: adj-3-2
+ gramm: A
+-deriv-type: mos-A-1
+ lex: mos[.]<0>.
+ stem: mos[.]<0>.|mos[.]<1>.
+ paradigm: adj-1-1
+ paradigm: adj-1-1-a
+ paradigm: adj-1-2
+ paradigm: adj-1-2-a
+ paradigm: adj-2-1
+ paradigm: adj-2-2
+ gramm: A
+ trans_en: un-, in-, -less
+-deriv-type: mos-A-2
+ lex: mos[.]<0>.
+ stem: mos[.]<0>.
+ paradigm: adj-3-1
+ paradigm: adj-3-2
+ gramm: A
+ trans_en: un-, in-, -less

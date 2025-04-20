@@ -5396,6 +5396,13 @@
  trans_en: in connection with; jointly
 
 -lexeme
+ lex: bashkëlidhur
+ stem: bashkalidhur.|bashkalidhur.
+ gramm: A,nonst,alb,deriv
+ paradigm: adj-2-2
+ trans_en: in connection with; jointly
+
+-lexeme
  lex: bashkëlindur
  stem: bashkëlindur.|bashkëlindur.
  gramm: A,alb,deriv
@@ -39938,7 +39945,7 @@
 
 -lexeme
  lex: leverdishëm
- stem: leverdisshëm.|leverdisshm.
+ stem: leverdisshëm.//levërdishëm|leverdisshm.//levërdishëm.
  gramm: A,nonst,borr,turk,deriv
  paradigm: adj-1-2-a
  trans_en: profitable, advantageous, fruitful
@@ -39956,6 +39963,13 @@
  gramm: A,nonst,borr,it,new
  paradigm: adj-3-1
  trans_en: legendary
+
+-lexeme
+ lex: leximtar
+ stem: leximtar.|leximtar.
+ gramm: A,borr,it,deriv
+ paradigm: adj-3-1
+ trans_en: related to reading
 
 -lexeme
  lex: lexuar
@@ -40056,6 +40070,13 @@
  trans_en: liberal
 
 -lexeme
+ lex: liberator
+ stem: liberator.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-1
+ trans_en: liberating
+
+-lexeme
  lex: libian
  stem: libian.
  gramm: A
@@ -40124,6 +40145,13 @@
  gramm: A,alb,deriv
  paradigm: adj-3-1
  trans_en: connective
+
+-lexeme
+ lex: lidhshëm
+ stem: lidhshëm.|lidhshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: connectable
 
 -lexeme
  lex: lidhur
@@ -58131,9 +58159,30 @@
  trans_en: unnecessary
 
 -lexeme
+ lex: pangacmuar
+ stem: pangacmuar.|pangacmuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: unirritated; unexcited
+
+-lexeme
+ lex: pangadalësuar
+ stem: pangadalësuar.|pangadalësuar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: unslowed
+
+-lexeme
  lex: pangadhënjyeshëm
  stem: pangadhënjyeshëm.|pangadhënjyeshm.
  gramm: A,borr,it,deriv
+ paradigm: adj-1-2-a
+ trans_en: unconquerable, invincible
+
+-lexeme
+ lex: pangadhënjyeshëm
+ stem: pangadhnueshëm.|pangadhnueshm.
+ gramm: A,nonst,borr,it,deriv
  paradigm: adj-1-2-a
  trans_en: unconquerable, invincible
 
@@ -58187,6 +58236,20 @@
  trans_en: dissimilar
 
 -lexeme
+ lex: pangjerman
+ stem: pangjerman.
+ gramm: A
+ paradigm: adj-3-1
+ trans_en: pan-German
+
+-lexeme
+ lex: pangjermanist
+ stem: pangjermanist.
+ gramm: A
+ paradigm: adj-3-1
+ trans_en: pan-German
+
+-lexeme
  lex: pangjeshur
  stem: pangjeshur.|pangjeshur.
  gramm: A,alb,deriv
@@ -58194,11 +58257,39 @@
  trans_en: uncompressed, loose
 
 -lexeme
+ lex: pangjitshëm
+ stem: pangjitshëm.|pangjitshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: unadhesive, unsticky
+
+-lexeme
+ lex: pangjitur
+ stem: pangjitur.|pangjitur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: unstuck, unattached
+
+-lexeme
+ lex: pangjyrosur
+ stem: pangjyrosur.|pangjyrosur.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: uncolored
+
+-lexeme
  lex: pangjyrshëm
  stem: pangjyrshëm.|pangjyrshm.
  gramm: A,alb,deriv
  paradigm: adj-1-2-a
  trans_en: colorless
+
+-lexeme
+ lex: pangjyruar
+ stem: pangjyruar.|pangjyruar.
+ gramm: A,alb,deriv
+ paradigm: adj-2-2
+ trans_en: uncolored
 
 -lexeme
  lex: pangjyrë
@@ -86321,6 +86412,13 @@
  trans_en: spinning one's wheels, making no progress
 
 -lexeme
+ lex: sorollatës
+ stem: sorollatës.|sorollatës.
+ gramm: A,borr,turk,deriv
+ paradigm: adj-1-2
+ trans_en: spinning one's wheels, making no progress
+
+-lexeme
  lex: sorrak
  stem: sorrak.
  gramm: A,alb,deriv
@@ -86356,6 +86454,13 @@
  trans_en: finished, gone
 
 -lexeme
+ lex: sotpërsotëm
+ stem: sotpërsotëm.|sotpërsotm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: of right now
+
+-lexeme
  lex: sotpërsotshëm
  stem: sotpërsotshëm.|sotpërsotshm.
  gramm: A,alb,deriv
@@ -86366,6 +86471,13 @@
  lex: sotshëm
  stem: sotshëm.|sotshm.
  gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: of today
+
+-lexeme
+ lex: sotshëm
+ stem: sotëshëm.|sotëshm.
+ gramm: A,nonst,alb,deriv
  paradigm: adj-1-2-a
  trans_en: of today
 

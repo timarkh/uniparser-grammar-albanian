@@ -1865,6 +1865,13 @@
  trans_en: stimulate extraordinary growth or development; leave uncontrolled
 
 -lexeme
+ lex: aziloj
+ stem: azilo.|azilua.|azilu.|azil.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: provide asylum 
+
+-lexeme
  lex: azhurnoj
  stem: azhorno.|azhornua.|azhornu.|azhorn.
  gramm: V,med,nonst,borr,fr,new
@@ -1889,6 +1896,13 @@
  lex: azhurnoj
  stem: azhurno.|azhurnua.|azhurnu.|azhurn.
  gramm: V,vt,borr,fr,new
+ paradigm: lexoj
+ trans_en: adjourn, postpone; update
+
+-lexeme
+ lex: azhurnoj
+ stem: azhuro.|azhurua.|azhuru.|azhur.
+ gramm: V,vt,nonst,borr,fr,new
  paradigm: lexoj
  trans_en: adjourn, postpone; update
 
@@ -2430,6 +2444,20 @@
  gramm: V,vi,borr,slav,deriv
  paradigm: lexoj
  trans_en: have a joint discussion
+
+-lexeme
+ lex: bashkëdrejtoj
+ stem: bashkëdrejto.|bashkëdrejtua.|bashkëdrejtu.|bashkëdrejt.
+ gramm: V,vt,borr,lat,deriv
+ paradigm: lexoj
+ trans_en: co-manage
+
+-lexeme
+ lex: bashkëfinancoj
+ stem: bashkëfinanco.|bashkëfinancua.|bashkëfinancu.|bashkëfinanc.
+ gramm: V,vt,borr,it,new,deriv
+ paradigm: lexoj
+ trans_en: co-finance
 
 -lexeme
  lex: bashkëfjalos
@@ -23191,6 +23219,13 @@
  trans_en: license
 
 -lexeme
+ lex: licencoj
+ stem: liçenco.//licenso.|liçencua.//licensua.|liçencu.//licensu.|liçenc.//licens.
+ gramm: V,vt,nonst,borr,it,new,deriv
+ paradigm: lexoj
+ trans_en: license
+
+-lexeme
  lex: lidh
  stem: lidh.
  gramm: V,med,alb
@@ -33168,6 +33203,13 @@
  gramm: V,vi,borr,greek,deriv
  paradigm: laj
  trans_en: suspect, suppose; think, presume
+
+-lexeme
+ lex: panelizoj
+ stem: panelizo.|panelizua.|panelizu.|paneliz.
+ gramm: V,vt,borr,en,new,deriv
+ paradigm: lexoj
+ trans_en: panelize
 
 -lexeme
  lex: panoramoj

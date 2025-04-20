@@ -15783,6 +15783,13 @@
  trans_en: today
 
 -lexeme
+ lex: sotpërsot
+ stem: sotpërsot.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: right now
+
+-lexeme
  lex: spanjisht
  stem: spanjisht.
  gramm: ADV
