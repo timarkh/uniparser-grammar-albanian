@@ -3954,6 +3954,13 @@
  trans_en: coldly
 
 -lexeme
+ lex: ftohtësisht
+ stem: ftohtësisht.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: coldly
+
+-lexeme
  lex: fugas
  stem: fugas.
  gramm: ADV,alb,deriv
@@ -4361,9 +4368,9 @@
  trans_en: along, during
 
 -lexeme
- lex: gjegjsisht
+ lex: gjegjësisht
  stem: gjegjsisht.
- gramm: ADV,alb,deriv
+ gramm: ADV,nonst,alb,deriv
  paradigm: unchangeable
  trans_en: respectively
 
@@ -4373,6 +4380,13 @@
  gramm: ADV,alb,deriv
  paradigm: unchangeable
  trans_en: correspondingly
+
+-lexeme
+ lex: gjeostrategjikisht
+ stem: gjeostrategjikisht.
+ gramm: ADV,borr,rom,new,deriv
+ paradigm: unchangeable
+ trans_en: geostrategically
 
 -lexeme
  lex: gjeku

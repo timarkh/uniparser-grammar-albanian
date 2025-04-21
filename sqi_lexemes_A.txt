@@ -4143,6 +4143,13 @@
  trans_en: balanced
 
 -lexeme
+ lex: balancuar
+ stem: ballancuar.|ballancuar.
+ gramm: A,nonst,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: balanced
+
+-lexeme
  lex: balash
  stem: balash.
  gramm: A,alb,deriv
@@ -18493,6 +18500,13 @@
  trans_en: European
 
 -lexeme
+ lex: ezaurues
+ stem: ezaurues.|ezaurues.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-1-2
+ trans_en: completing
+
+-lexeme
  lex: ezmer
  stem: ezmer.//esmer.
  gramm: A,borr,turk
@@ -19340,6 +19354,13 @@
  trans_en: Phoenician
 
 -lexeme
+ lex: fenomenal
+ stem: fenomenal.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-1
+ trans_en: phenomenal
+
+-lexeme
  lex: ferizajas
  stem: ferizajas.|ferizajas.
  gramm: A
@@ -19352,6 +19373,13 @@
  gramm: A,borr,rom,new,deriv
  paradigm: adj-2-2
  trans_en: fermented
+
+-lexeme
+ lex: fertilizues
+ stem: fertilizues.|fertilizues.
+ gramm: A,alb,borr,rom,new,deriv
+ paradigm: adj-1-2
+ trans_en: fertilizing
 
 -lexeme
  lex: ferracak
@@ -21125,6 +21153,13 @@
  trans_en: flagellatory
 
 -lexeme
+ lex: frustrues
+ stem: frustrues.|frustrues.
+ gramm: A,alb,borr,it,new,deriv
+ paradigm: adj-1-2
+ trans_en: frustrating
+
+-lexeme
  lex: frutdhënës
  stem: frutdhënës.|frutdhënës.
  gramm: A,alb,borr,it,deriv
@@ -21295,6 +21330,13 @@
 -lexeme
  lex: fshatarak
  stem: fshatarak.
+ gramm: A,alb,deriv
+ paradigm: adj-3-2
+ trans_en: rustic
+
+-lexeme
+ lex: fshataresk
+ stem: fshataresk.
  gramm: A,alb,deriv
  paradigm: adj-3-2
  trans_en: rustic
@@ -23391,6 +23433,13 @@
  stem: gjigant.
  gramm: A,borr,it,new
  paradigm: adj-3-1
+ trans_en: gigantic
+
+-lexeme
+ lex: gjigantesk
+ stem: gjigantesk.
+ gramm: A,borr,it,new,deriv
+ paradigm: adj-3-2
  trans_en: gigantic
 
 -lexeme
@@ -38012,6 +38061,13 @@
  trans_en: overcomable, traversable
 
 -lexeme
+ lex: kërcënonjës
+ stem: kërcënonjës.|kërcënonjës.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2
+ trans_en: threatening; endangering
+
+-lexeme
  lex: kërcënuar
  stem: kërcënuar.|kërcënuar.
  gramm: A,alb,deriv
@@ -38171,6 +38227,13 @@
  gramm: A,alb,deriv
  paradigm: adj-2-2
  trans_en: contorted
+
+-lexeme
+ lex: kësisojshëm
+ stem: kësisojshëm.|kësisojshm.
+ gramm: A,alb,borr,turk,deriv
+ paradigm: adj-1-2-a
+ trans_en: of this kind
 
 -lexeme
  lex: këshillimor
@@ -87091,6 +87154,13 @@
  trans_en: seasoned
 
 -lexeme
+ lex: staxhionuar
+ stem: stazhionuar.|stazhionuar.
+ gramm: A,borr,nonst,it,new,deriv
+ paradigm: adj-2-2
+ trans_en: seasoned
+
+-lexeme
  lex: stenografik
  stem: stenografik.
  gramm: A,borr,rom,new
@@ -87123,6 +87193,13 @@
  stem: stereotip.
  gramm: A,borr,inter
  paradigm: adj-3-1
+ trans_en: stereotypical
+
+-lexeme
+ lex: stereotipik
+ stem: stereotipik.
+ gramm: A,borr,inter,deriv
+ paradigm: adj-3-2
  trans_en: stereotypical
 
 -lexeme

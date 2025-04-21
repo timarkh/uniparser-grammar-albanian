@@ -1984,6 +1984,13 @@
  trans_en: balance
 
 -lexeme
+ lex: balancoj
+ stem: ballanco.|ballancua.|ballancu.|ballanc.
+ gramm: V,vt,vi,nonst,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: balance
+
+-lexeme
  lex: balcij
  stem: balci.
  gramm: V,vi,borr,it
@@ -10159,6 +10166,13 @@
  trans_en: evolve
 
 -lexeme
+ lex: ezauroj
+ stem: ezauro.|ezaurua.|ezauru.|ezaur.
+ gramm: V,vt,borr,it,new
+ paradigm: lexoj
+ trans_en: complete
+
+-lexeme
  lex: ezhektoj
  stem: ezhekto.|ezhektua.|ezhektu.|ezhekt.
  gramm: V,vt
@@ -10606,6 +10620,20 @@
  gramm: V,vt,alb,deriv
  paradigm: hap
  trans_en: enclose with a bramble fence
+
+-lexeme
+ lex: fertilizoj
+ stem: fertilizo.|fertilizua.|fertilizu.|fertiliz.
+ gramm: V,med,borr,rom,new
+ paradigm: lexoj-1
+ trans_en: get fertilized
+
+-lexeme
+ lex: fertilizoj
+ stem: fertilizo.|fertilizua.|fertilizu.|fertiliz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: fertilize
 
 -lexeme
  lex: festoj
@@ -11580,6 +11608,20 @@
  gramm: V,vi,alb,deriv
  paradigm: lexoj
  trans_en: swish, rustle
+
+-lexeme
+ lex: frustroj
+ stem: frustro.|frustrua.|frustru.|frustr.
+ gramm: V,med,borr,it,new
+ paradigm: lexoj-1
+ trans_en: get frustrated
+
+-lexeme
+ lex: frustroj
+ stem: frustro.|frustrua.|frustru.|frustr.
+ gramm: V,vt,borr,it,new
+ paradigm: lexoj
+ trans_en: frustrate
 
 -lexeme
  lex: fruton
@@ -13069,6 +13111,20 @@
  trans_en: be located, be situated, stand; be available, be present, exist; to find oneself in a position/situation/condition
 
 -lexeme
+ lex: gjeneralizoj
+ stem: gjeneralizo.|gjeneralizua.|gjeneralizu.|gjeneraliz.
+ gramm: V,med,borr,rom,new
+ paradigm: lexoj-1
+ trans_en: be generalized
+
+-lexeme
+ lex: gjeneralizoj
+ stem: gjeneralizo.|gjeneralizua.|gjeneralizu.|gjeneraliz.
+ gramm: V,vt,borr,rom,new
+ paradigm: lexoj
+ trans_en: generalize
+
+-lexeme
  lex: gjerb
  stem: gjerb.
  gramm: V,vt,alb
@@ -13086,7 +13142,6 @@
  lex: gjeroj
  stem: gjero.|gjerua.|gjeru.|gjer.
  gramm: V,med,alb,deriv
- lexref: zgjeroj
  paradigm: lexoj-1
  trans_en: widen (out); broaden (out)
 
@@ -13094,7 +13149,6 @@
  lex: gjeroj
  stem: gjero.|gjerua.|gjeru.|gjer.
  gramm: V,vt,alb,deriv
- lexref: zgjeroj
  paradigm: lexoj
  trans_en: widen, broaden
 
@@ -13102,7 +13156,6 @@
  lex: gjesh
  stem: gjesh.|gjish.
  gramm: V,med,alb
- lexref: ngjesh
  paradigm: zhvesh-1
  trans_en: become more compact, get denser; get very close
 
@@ -13110,7 +13163,6 @@
  lex: gjesh
  stem: gjesh.|gjish.
  gramm: V,vt,alb
- lexref: ngjesh
  paradigm: zhvesh
  trans_en: compress; squeeze; knead
 
@@ -13451,7 +13503,6 @@
  lex: glinj
  stem: gli.
  gramm: V,vt,nonst,alb
- lexref: ngij
  paradigm: laj
  trans_en: satiate, saturate
 
@@ -20698,6 +20749,20 @@
  gramm: V,vt,borr,it,new
  paradigm: lexoj
  trans_en: train for a higher step of qualification; qualify
+
+-lexeme
+ lex: kuantifikoj
+ stem: kuantifiko.|kuantifikua.|kuantifiku.|kuantifik.
+ gramm: V,med,borr,it,new
+ paradigm: lexoj-1
+ trans_en: quantify
+
+-lexeme
+ lex: kuantifikoj
+ stem: kuantifiko.|kuantifikua.|kuantifiku.|kuantifik.
+ gramm: V,vt,borr,it,new
+ paradigm: lexoj
+ trans_en: quantify
 
 -lexeme
  lex: kuat
@@ -51835,6 +51900,20 @@
  lex: staxhionoj
  stem: staxhiono.|staxhionua.|staxhionu.|staxhion.
  gramm: V,vt,borr,it,new
+ paradigm: lexoj
+ trans_en: season
+
+-lexeme
+ lex: staxhionoj
+ stem: stazhiono.|stazhionua.|stazhionu.|stazhion.
+ gramm: V,med,nonst,borr,it,new
+ paradigm: lexoj-1
+ trans_en: become seasoned
+
+-lexeme
+ lex: staxhionoj
+ stem: stazhiono.|stazhionua.|stazhionu.|stazhion.
+ gramm: V,vt,nonst,borr,it,new
  paradigm: lexoj
  trans_en: season
 
