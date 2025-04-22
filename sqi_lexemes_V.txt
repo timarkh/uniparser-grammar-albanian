@@ -33593,6 +33593,20 @@
  trans_en: present, exhibit; introduce
 
 -lexeme
+ lex: riparaqes
+ stem: riparaqes.|riparaqet.|riparaqit.//riparaqis.|riparaqit.
+ gramm: V,med,alb,deriv
+ paradigm: pres-wait-1
+ trans_en: re-appear; re-introduce oneself
+
+-lexeme
+ lex: riparaqes
+ stem: riparaqes.|riparaqet.|riparaqit.//riparaqis.|riparaqit.
+ gramm: V,vt,alb,deriv
+ paradigm: pres-wait
+ trans_en: re-present, re-exhibit; re-introduce
+
+-lexeme
  lex: pararend
  stem: pararend.
  gramm: V,vi,borr,greek,deriv
@@ -35602,9 +35616,16 @@
 -lexeme
  lex: postoj
  stem: posto.|postua.|postu.|post.
- gramm: V,vt,borr,it,new,deriv
+ gramm: V,vt,borr,en,new
  paradigm: lexoj
  trans_en: post
+
+-lexeme
+ lex: ripostoj
+ stem: riposto.|ripostua.|ripostu.|ripost.
+ gramm: V,vt,borr,en,new
+ paradigm: lexoj
+ trans_en: repost
 
 -lexeme
  lex: potencoj

@@ -3,7 +3,7 @@
  stem: <3>[.]ime.|<3>[.]im.
  paradigm: 1a
  paradigm: 5a
- gramm: NOUN,nmlz,mf,inanim
+ gramm: NOUN,mf,inanim,deriv
 -deriv-type: pa-A-1
  lex: pa[.]<0>.
  stem: pa[.]<0>.|pa[.]<1>.
@@ -13,13 +13,13 @@
  paradigm: adj-1-2-a
  paradigm: adj-2-1
  paradigm: adj-2-2
- gramm: A
+ gramm: A,deriv
 -deriv-type: pa-A-2
  lex: pa[.]<0>.
  stem: pa[.]<0>.
  paradigm: adj-3-1
  paradigm: adj-3-2
- gramm: A
+ gramm: A,deriv
 -deriv-type: mos-A-1
  lex: mos[.]<0>.
  stem: mos[.]<0>.|mos[.]<1>.
@@ -29,12 +29,51 @@
  paradigm: adj-1-2-a
  paradigm: adj-2-1
  paradigm: adj-2-2
- gramm: A
+ gramm: A,deriv
  trans_en: un-, in-, -less
 -deriv-type: mos-A-2
  lex: mos[.]<0>.
  stem: mos[.]<0>.
  paradigm: adj-3-1
  paradigm: adj-3-2
- gramm: A
+ gramm: A,deriv
  trans_en: un-, in-, -less
+-deriv-type: ri-A-1
+ lex: ri[.]<0>.
+ stem: ri[.]<0>.|ri[.]<1>.
+ paradigm: adj-1-1
+ paradigm: adj-1-1-a
+ paradigm: adj-1-2
+ paradigm: adj-1-2-a
+ paradigm: adj-2-1
+ paradigm: adj-2-2
+ gramm: A,deriv
+ trans_en: re-
+-deriv-type: ri-A-2
+ lex: ri[.]<0>.
+ stem: ri[.]<0>.
+ paradigm: adj-3-1
+ paradigm: adj-3-2
+ gramm: A,deriv
+ trans_en: re-
+-deriv-type: ri-V-j-1
+ lex: ri[.]<0>.j
+ stem: ri[.]<0>.
+ paradigm: lexoj
+ paradigm: kthej
+ gramm: V,deriv
+ trans_en: re-
+-deriv-type: ri-V-j-2
+ lex: ri[.]<0>.j
+ stem: ri[.]<0>.
+ paradigm: lexoj-1
+ paradigm: kthej-1
+ gramm: V,med,deriv
+ trans_en: re-
+-deriv-type: ri-NOUN-je
+ lex: ri[.]<0>.
+ stem: ri[.]<0>.|ri[.]<1>.|ri[.]<2>.|ri[.]<3>.
+ paradigm: 3b
+ paradigm: 5a
+ gramm: NOUN,f,inanim,deriv
+ trans_en: re-
