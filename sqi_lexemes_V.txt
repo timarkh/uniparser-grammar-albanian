@@ -7994,6 +7994,13 @@
  trans_en: disinform
 
 -lexeme
+ lex: dezinsektoj
+ stem: dezinsekto.|dezinsektua.|dezinsektu.|dezinsekt.
+ gramm: V,vt,nonst,borr,en,new
+ paradigm: lexoj
+ trans_en: disinsect
+
+-lexeme
  lex: dezintegroj
  stem: dizintegro.|dizintegrua.|dizintegru.|dizintegr.
  gramm: V,vt,nonst,borr,rom,new
@@ -14919,6 +14926,20 @@
  lex: gërmuq
  stem: gërmuq.
  gramm: V,vt,borr,slav,deriv
+ paradigm: hap
+ trans_en: cause to hunch over
+
+-lexeme
+ lex: gërmuq
+ stem: gërmuç.
+ gramm: V,med,nonst,borr,slav,deriv
+ paradigm: hap-1
+ trans_en: hunch over; cringe
+
+-lexeme
+ lex: gërmuq
+ stem: gërmuç.
+ gramm: V,vt,nonst,borr,slav,deriv
  paradigm: hap
  trans_en: cause to hunch over
 
@@ -45221,6 +45242,13 @@
  trans_en: select
 
 -lexeme
+ lex: selektoj
+ stem: selekto.|selektua.|selektu.|selekt.
+ gramm: V,vt,borr,en,new
+ paradigm: lexoj
+ trans_en: select
+
+-lexeme
  lex: selit
  stem: selit.//selis.|selit.
  gramm: V,med,borr,slav,deriv
@@ -45233,6 +45261,13 @@
  gramm: V,vt,borr,slav,deriv
  paradigm: mat
  trans_en: cultivate, upbring
+
+-lexeme
+ lex: semaforizoj
+ stem: semaforizo.|semaforizua.|semaforizu.|semaforiz.
+ gramm: V,vt,borr,rom,new,deriv
+ paradigm: lexoj
+ trans_en: semaphorize
 
 -lexeme
  lex: sendis
@@ -45296,6 +45331,20 @@
  gramm: V,vt
  paradigm: mat
  trans_en: pile up, stack
+
+-lexeme
+ lex: serbizoj
+ stem: serbizo.|serbizua.|serbizu.|serbiz.
+ gramm: V,med
+ paradigm: lexoj-1
+ trans_en: Serbianize
+
+-lexeme
+ lex: serbizoj
+ stem: serbizo.|serbizua.|serbizu.|serbiz.
+ gramm: V,vt
+ paradigm: lexoj
+ trans_en: Serbianize
 
 -lexeme
  lex: seroj

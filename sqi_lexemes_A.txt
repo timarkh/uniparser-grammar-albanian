@@ -26181,6 +26181,13 @@
  trans_en: digging
 
 -lexeme
+ lex: gërmueshëm
+ stem: gërmueshëm.|gërmueshm.
+ gramm: A,alb,deriv
+ paradigm: adj-1-2-a
+ trans_en: diggable
+
+-lexeme
  lex: gërmuq
  stem: gërmuq.
  gramm: A,borr,slav,deriv
@@ -77448,6 +77455,13 @@
  trans_en: having easily hurt pride
 
 -lexeme
+ lex: sedimentuar
+ stem: sedimentuar.|sedimentuar.
+ gramm: A,borr,inter
+ paradigm: adj-2-2
+ trans_en: sedimented
+
+-lexeme
  lex: segmentor
  stem: segmentor.
  gramm: A,borr,rom,new,deriv
@@ -77460,6 +77474,20 @@
  gramm: A,borr,it,new
  paradigm: adj-3-1
  trans_en: secondary
+
+-lexeme
+ lex: segreguar
+ stem: segreguar.|segreguar.
+ gramm: A,borr,it,new
+ paradigm: adj-2-2
+ trans_en: segregated
+
+-lexeme
+ lex: seizmik
+ stem: seizmik.
+ gramm: A,borr,rom,new
+ paradigm: adj-3-1
+ trans_en: seismic
 
 -lexeme
  lex: sekret
@@ -77539,6 +77567,13 @@
  trans_en: selective
 
 -lexeme
+ lex: selektueshëm
+ stem: selektueshëm.|selektueshm.
+ gramm: A,borr,en,new,deriv
+ paradigm: adj-1-2-a
+ trans_en: selectable
+
+-lexeme
  lex: selitur
  stem: selitur.|selitur.
  gramm: A,borr,slav,deriv
@@ -77551,6 +77586,20 @@
  gramm: A,borr,rom,new
  paradigm: adj-3-2
  trans_en: semantic
+
+-lexeme
+ lex: semaforik
+ stem: semaforik.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-3-2
+ trans_en: semaphoric
+
+-lexeme
+ lex: semaforizuar
+ stem: semaforizuar.|semaforizuar.
+ gramm: A,borr,rom,new,deriv
+ paradigm: adj-2-2
+ trans_en: semaphorized
 
 -lexeme
  lex: semestral
@@ -77635,6 +77684,13 @@
  gramm: A
  paradigm: adj-3-1
  trans_en: Senegalese
+
+-lexeme
+ lex: senior
+ stem: senior.
+ gramm: A,borr,en,new
+ paradigm: adj-3-1
+ trans_en: senior
 
 -lexeme
  lex: sensacional
