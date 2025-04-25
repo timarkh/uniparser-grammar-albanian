@@ -252,7 +252,7 @@
 
 -lexeme
  lex: ahmerrem
- stem: ahmarr.|ahmerr.|ahmir.|ahmor.
+ stem: ahmarr.|ahmerr.|ahmir.|ahmor.|ahmuar.
  gramm: V,med,nonst,alb,borr,turk,deriv
  lexref: hakmerrem
  paradigm: marr-1
@@ -32092,7 +32092,7 @@
 
 -lexeme
  lex: njësoj
- stem: njëso.|njësua.
+ stem: njëso.|njësua.|NONE.|NONE.
  gramm: V,med,alb,deriv
  paradigm: lexoj-1
  trans_en: become unified
@@ -40090,7 +40090,7 @@
 
 -lexeme
  lex: përthem
- stem: përthe.|përthua.|përtho.|përthën.|përthosh.|përtha.|përthu.
+ stem: përthe.|përthua.|përtho.|përthën.|përthosh.|përtha.|përthu.|përthue.|përthan.
  gramm: V,vi,alb,deriv
  paradigm: them
  trans_en: recite
@@ -49800,7 +49800,7 @@
 
 -lexeme
  lex: shthem
- stem: shthe.|shthua.|shtho.|shthën.|shthosh.|shtha.|shthu.
+ stem: shthe.|shthua.|shtho.|shthën.|shthosh.|shtha.|shthu.|shthue.|shthan.
  gramm: V,vi,alb,deriv
  paradigm: them
  trans_en: unsay

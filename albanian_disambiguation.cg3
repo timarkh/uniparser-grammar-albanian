@@ -555,4 +555,4 @@ SELECT (PRO) IF (0 ("<sa>"i))
 				(2 ("<parë>"i) OR ("<mirë>"i) OR ("<pak>"i) OR ("<shumë>"i));
 
 # Only use NMLZ derivation if word not already in the dictionary
-REMOVE (NOUN nmlz) IF (0 (NOUN nmlz deriv));
+REMOVE (NOUN deriv) IF (0 (NOUN inanim) - (deriv));

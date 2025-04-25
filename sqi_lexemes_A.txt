@@ -13053,7 +13053,7 @@
 
 -lexeme
  lex: dijekeq
- stem: dijekeq.|dijekeqe.|dijekëqij.|dijekëqija.
+ stem: dijekeq.|dijekeqe.|dijekëqij.|dijekëqija.|dijekëqinj.
  gramm: A,alb,deriv
  paradigm: keq
  trans_en: evil-intentioned
@@ -14195,7 +14195,7 @@
 
 -lexeme
  lex: dorëkeq
- stem: dorëkeq.|dorëkeqe.|dorëkëqij.|dorëkëqija.
+ stem: dorëkeq.|dorëkeqe.|dorëkëqij.|dorëkëqija.|dorëkëqinj.
  gramm: A,alb,deriv
  paradigm: keq
  trans_en: unlucky
@@ -20034,7 +20034,7 @@
 
 -lexeme
  lex: fjalëkeq
- stem: fjalëkeq.|fjalëkeqe.|fjalëkëqij.|fjalëkëqija.
+ stem: fjalëkeq.|fjalëkeqe.|fjalëkëqij.|fjalëkëqija.|fjalëkëqinj.
  gramm: A,alb,borr,lat,deriv
  paradigm: keq
  trans_en: that speaks ill of others
@@ -21049,7 +21049,7 @@
 
 -lexeme
  lex: frikakeq
- stem: frikakeq.|frikakeqe.|frikakëqij.|frikakëqija.
+ stem: frikakeq.|frikakeqe.|frikakëqij.|frikakëqija.|frikakëqinj.
  gramm: A,alb,borr,greek,deriv
  paradigm: keq
  trans_en: easily frightened
@@ -26469,7 +26469,7 @@
 
 -lexeme
  lex: hajekeq
- stem: hajekeq.|hajekeqe.|hajekëqij.|hajekëqija.
+ stem: hajekeq.|hajekeqe.|hajekëqij.|hajekëqija.|hajekëqinj.
  gramm: A,alb,deriv
  paradigm: keq
  trans_en: not hungry, with no appetite
