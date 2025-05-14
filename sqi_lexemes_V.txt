@@ -20509,8 +20509,15 @@
  lex: kryej
  stem: krye.|kry.|kre.
  gramm: V,med,alb,deriv
- paradigm: ndiej
+ paradigm: ndiej-1
  trans_en: terminate
+
+-lexeme
+ lex: kryej
+ stem: krye.|kry.|kre.
+ gramm: V,vt,alb,deriv
+ paradigm: ndiej
+ trans_en: complete, finish; perform
 
 -lexeme
  lex: kryekqyr
@@ -55432,7 +55439,7 @@
  stem: të.//t.
  gramm: VB_PART,alb
  paradigm: unchangeable
- trans_en: subjunctive particle
+ trans_en: subjunctive particle; analytical "infinitive" particle
 
 -lexeme
  lex: tëharr

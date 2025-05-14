@@ -7,6 +7,24 @@
  trans_en: NMLZ
  gramm: NOUN,mf,inanim,deriv
 
+-deriv-type: mos-N-im
+ lex: <3>mos[.]im
+ stem: <3>mos[.]ime.|<3>mos[.]im.
+ paradigm: 1a
+ paradigm: 5a
+ keep_lex_data: brackets
+ trans_en: non-, un-; NMLZ
+ gramm: NOUN,mf,inanim,deriv
+
+-deriv-type: de-N-im
+ lex: <3>de[.]im
+ stem: <3>de[.]ime.|<3>de[.]im.
+ paradigm: 1a
+ paradigm: 5a
+ keep_lex_data: brackets
+ trans_en: de-; NMLZ
+ gramm: NOUN,mf,inanim,deriv
+
 -deriv-type: pa-A-1
  lex: <0>pa[.]
  stem: <0>pa[.].|<1>pa[.].
@@ -70,23 +88,59 @@
  keep_lex_data: brackets
  trans_en: re-
 
--deriv-type: ri-V-j-1
- lex: <0>ri[.]j
- stem: <0>ri[.].
+-deriv-type: ri-V-j-vt-vi
+ lex: <0>ri[.]
+ stem: <0>ri[.].|<1>ri[.].|<2>ri[.].|<3>ri[.].
  paradigm: lexoj
  paradigm: kthej
  gramm: +deriv
  keep_lex_data: brackets
  trans_en: re-
 
--deriv-type: ri-V-j-2
- lex: <0>ri[.]j
- stem: <0>ri[.].
+-deriv-type: ri-V-j-med
+ lex: <0>ri[.]
+ stem: <0>ri[.].|<1>ri[.].|<2>ri[.].|<3>ri[.].
  paradigm: lexoj-1
  paradigm: kthej-1
  gramm: V,med,deriv
  keep_lex_data: brackets
  trans_en: re-
+
+-deriv-type: mos-V-j-vt-vi
+ lex: <0>mos[.]
+ stem: <0>mos[.].|<1>mos[.].|<2>mos[.].|<3>mos[.].
+ paradigm: lexoj
+ paradigm: kthej
+ gramm: +deriv
+ keep_lex_data: brackets
+ trans_en: non-, un-
+
+-deriv-type: mos-V-j-med
+ lex: <0>mos[.]
+ stem: <0>mos[.].|<1>mos[.].|<2>mos[.].|<3>mos[.].
+ paradigm: lexoj-1
+ paradigm: kthej-1
+ gramm: V,med,deriv
+ keep_lex_data: brackets
+ trans_en: non-, un-
+
+-deriv-type: de-V-j-vt-vi
+ lex: <0>de[.]
+ stem: <0>de[.].|<1>de[.].|<2>de[.].|<3>de[.].
+ paradigm: lexoj
+ paradigm: kthej
+ gramm: +deriv
+ keep_lex_data: brackets
+ trans_en: de-
+
+-deriv-type: de-V-j-med
+ lex: <0>de[.]
+ stem: <0>de[.].|<1>de[.].|<2>de[.].|<3>de[.].
+ paradigm: lexoj-1
+ paradigm: kthej-1
+ gramm: V,med,deriv
+ keep_lex_data: brackets
+ trans_en: de-
 
 -deriv-type: ri-NOUN-je
  lex: <0>ri[.]

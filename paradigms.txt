@@ -3074,31 +3074,23 @@
 
 -paradigm: article
  -flex: <0>.
-  gramm: m,sg,nom,cont
+  gramm: m,sg,nom
  -flex: <2>.
-  gramm: m,sg,gen_dat,cont
+  gramm: m,sg,gen_dat
  -flex: <1>.
   gramm: m,sg,acc,cont
  -flex: <2>.
-  gramm: m,sg,abl,cont
- -flex: <0>.
-  gramm: m,sg,nom,dist
- -flex: <2>.
-  gramm: m,sg,gen_dat,dist
+  gramm: m,sg,abl
  -flex: <2>.
   gramm: m,sg,acc,dist
- -flex: <2>.
-  gramm: m,sg,abl,dist
  -flex: <1>.
-  gramm: f,sg,nom,cont
+  gramm: f,sg,nom
  -flex: <3>.
   gramm: f,sg,gen_dat,cont
  -flex: <1>.
   gramm: f,sg,acc,cont
  -flex: <3>.
   gramm: f,sg,abl,cont
- -flex: <1>.
-  gramm: f,sg,nom,dist
  -flex: <2>.
   gramm: f,sg,gen_dat,dist
  -flex: <2>.
@@ -3108,39 +3100,31 @@
  -flex: <1>.
   gramm: n,sg,nom,cont
  -flex: <2>.
-  gramm: n,sg,gen_dat,cont 
+  gramm: n,sg,gen_dat
  -flex: <1>.
   gramm: n,sg,acc,cont
- -flex: <2>.
+ -flex: <3>.
   gramm: n,sg,abl,cont
+ -flex: <2>.
+  gramm: n,sg,abl
  -flex: <2>.
   gramm: n,sg,nom,dist
  -flex: <2>.
-  gramm: n,sg,gen_dat,dist
- -flex: <2>.
   gramm: n,sg,acc,dist
- -flex: <2>.
-  gramm: n,sg,abl,dist
  -flex: <1>.
   gramm: pl,nom,cont
  -flex: <2>.
-  gramm: pl,gen_dat,cont 
+  gramm: pl,gen_dat
  -flex: <1>.
   gramm: pl,acc,cont
  -flex: <2>.
-  gramm: pl,abl,cont
+  gramm: pl,abl
  -flex: <2>.
-  gramm: pl,abl2,cont
+  gramm: pl,abl2
  -flex: <2>.
   gramm: pl,nom,dist
  -flex: <2>.
-  gramm: pl,gen_dat,dist
- -flex: <2>.
   gramm: pl,acc,dist
- -flex: <2>.
-  gramm: pl,abl,dist
- -flex: <2>.
-  gramm: pl,abl2,dist
 
 
 

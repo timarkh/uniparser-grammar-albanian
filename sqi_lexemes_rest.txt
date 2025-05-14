@@ -4010,6 +4010,13 @@
  trans_en: in the end, after all
 
 -lexeme
+ lex: fundmi
+ stem: fundmi.
+ gramm: ADV,borr,lat,deriv
+ paradigm: unchangeable
+ trans_en: finally
+
+-lexeme
  lex: fuq
  stem: fuq.
  gramm: ADV,alb
@@ -6615,6 +6622,13 @@
  gramm: ADV,alb,deriv
  paradigm: unchangeable
  trans_en: in four parts
+
+-lexeme
+ lex: katërti
+ stem: katërti.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: the fourth
 
 -lexeme
  lex: kaçi
@@ -15426,6 +15440,13 @@
  trans_en: at most
 
 -lexeme
+ lex: shumti
+ stem: shumti.
+ gramm: ADV,borr,lat,deriv
+ paradigm: unchangeable
+ trans_en: at most
+
+-lexeme
  lex: shumë
  stem: shum.
  gramm: ADV,nonst,borr,lat
@@ -16011,7 +16032,7 @@
  stem: ta.
  gramm: VB_PART,CLIT_PRO,acc_3sg
  paradigm: unchangeable
- trans_en: subjunctive particle + him/her/it
+ trans_en: subjunctive particle + him/her/it; analytical "infinitive" particle + him/her/it
 
 -lexeme
  lex: ta
@@ -16884,6 +16905,13 @@
  gramm: ADV,alb,deriv
  paradigm: unchangeable
  trans_en: in three parts, three times
+
+-lexeme
+ lex: treti
+ stem: treti.
+ gramm: ADV,alb,deriv
+ paradigm: unchangeable
+ trans_en: the third
 
 -lexeme
  lex: tridhjetë
