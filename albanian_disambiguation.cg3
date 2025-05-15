@@ -25,7 +25,7 @@ SELECT (V ind pres act 1 sg) IF (0 Verbs)
 								(-1 (PRO 1 sg nom))
 								(NEGATE -2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
 SELECT (VB_PART) IF (0 ("<do>"i))
-					(-1 (PRO 1 sg nom) BARRIER CLB)
+					(-1* (PRO 1 sg nom) BARRIER CLB)
 					(NEGATE -2 ("<nga>"i) OR ("<tek>"i) OR ("<te>"i));
 SELECT (V ind pres act 2 sg) IF (0 Verbs)
 								(NEGATE 0 ("<mund>"i) OR ("<do>"i))
@@ -70,7 +70,7 @@ SELECT (ptcp) IF (-1 Clitics OR ("<mos>"i))
 				 (-2 ("<të>"i) OR ("<t>"i))
 				 (-3 ("<për>"i));
 SELECT (ptcp) IF (-1 Clitics OR ("<mos>"i))
-				 (-2 ("<'>"i))
+				 (-2 ("<['’`´ʹʻʼʽ′’]>"r))
 				 (-3 ("<t>"i))
 				 (-4 ("<për>"i));
 SELECT (ptcp) IF (-1 Clitics OR ("<e>"i))
@@ -79,7 +79,7 @@ SELECT (ptcp) IF (-1 Clitics OR ("<e>"i))
 				 (-4 ("<për>"i));
 SELECT (ptcp) IF (-1 Clitics OR ("<e>"i))
 				 (-2 ("<mos>"i))
-				 (-3 ("<'>"i))
+				 (-3 ("<['’`´ʹʻʼʽ′’]>"r))
 				 (-4 ("<t>"i))
 				 (-5 ("<për>"i));
 SELECT (ptcp) IF (-1 ("<i>"i) OR ("<e>"i))
@@ -88,7 +88,7 @@ SELECT (ptcp) IF (-1 ("<i>"i) OR ("<e>"i))
 				 (-4 ("<për>"i));
 SELECT (ptcp) IF (-1 ("<i>"i) OR ("<e>"i))
 				 (-2 ("<na>"i))
-				 (-3 ("<'>"i))
+				 (-3 ("<['’`´ʹʻʼʽ′’]>"r))
 				 (-4 ("<t>"i))
 				 (-5 ("<për>"i));
 SELECT (ptcp) IF (-1 ("<i>"i) OR ("<e>"i))
@@ -99,7 +99,7 @@ SELECT (ptcp) IF (-1 ("<i>"i) OR ("<e>"i))
 SELECT (ptcp) IF (-1 ("<i>"i) OR ("<e>"i) OR ("<u>"i))
 				 (-2 ("<na>"i))
 				 (-3 ("<mos>"i))
-				 (-4 ("<'>"i))
+				 (-4 ("<['’`´ʹʻʼʽ′’]>"r))
 				 (-5 ("<t>"i))
 				 (-6 ("<për>"i));
 REMOVE (A) IF (-1 ("<të>"i))
@@ -157,26 +157,26 @@ REMOVE (med) IF (0 (ptcp))
 # Alb Gheg infinitive or constructions of the type "me të bërë" vs. verb-sbjv.prs.3sg. Upd 14.05.2025
 REMOVE (V sbjv) IF (-1 ("<të>"i) OR ("<t>"i) OR ("<ta>"i))
 				   (-2 ("me"i));
-REMOVE (V sbjv) IF (-1 ("<'>"i))
+REMOVE (V sbjv) IF (-1 ("<['’`´ʹʻʼʽ′’]>"r))
 				   (-2 ("<t>"i))
 				   (-3 ("me"i));
 
 # Disambiguate 3sg pres Subjunctive and participle in some constructions with pronominal clitics. 14.05.2025
-SELECT (V sbjv 3 sg) IF (-1 ("<ta>"i));
-						(-2 ("<do>"i) OR (V) OR ("<që>"i));
-REMOVE (A) IF (0 (A) - (V));
+SELECT (V sbjv 3 sg) IF (-1 ("<ta>"i))
+						      (-2 ("<do>"i) OR (V) OR ("<që>"i));
+REMOVE (A) IF (0 (A) - (V))
 			  (-1 ("<do>"i));
-SELECT (V sbjv 3 sg) IF (-1 Clitics);
-						(-2 ("të"i));
-						(-3 ("<do>"i) OR (V) OR ("<që>"i));
-SELECT (V sbjv 3 sg) IF (-1 Clitics);
-						(-2 "<'>"i);
-						(-3 "<t>"i);
-						(-4 ("<do>"i) OR (V) OR ("<që>"i));
-SELECT (V sbjv 3 sg) IF (-1 ("<e>"i) OR ("<i>"i));
+SELECT (V sbjv 3 sg) IF (-1 Clitics)
+					      	(-2 ("të"i))
+						      (-3 ("<do>"i) OR (V) OR ("<që>"i));
+SELECT (V sbjv 3 sg) IF (-1 Clitics)
+						      (-2 ("<['’`´ʹʻʼʽ′’]>"r))
+						      (-3 ("<t>"i))
+						      (-4 ("<do>"i) OR (V) OR ("<që>"i));
+SELECT (V sbjv 3 sg) IF (-1 ("<e>"i) OR ("<i>"i))
 						(-2 ("<na>"i))
 						(-3 ("<do>"i) OR (V));
-SELECT (V sbjv 3 sg) IF (-1 ("<e>"i) OR ("<i>"i));
+SELECT (V sbjv 3 sg) IF (-1 ("<e>"i) OR ("<i>"i))
 						(-2 ("<na>"i))
 						(-3 ("<të>"i))
 						(-4 ("<do>"i) OR (V));
@@ -437,7 +437,7 @@ SELECT (acc_3pl) IF (0 ("<i>"i))
 
 # Clitics "u", "ua" are not interjections between verbs and in analytical constructions. 14.05.2025
 REMOVE (INTJ) IF (0 ("<u>"i) OR ("<ua>"i))
-				 (-1 ("<'>"i));
+				 (-1 ("<['’`´ʹʻʼʽ′’]>"r))
 				 (-2 ("<t>"i));
 				
 # Pronouns "tij", "saj", "tyre" are possessive pronouns after articles and personal pronouns after prepositions.
@@ -525,7 +525,7 @@ SELECT (CLIT_PRO) IF (0 Clitics OR ("<e>"i))
 SELECT (CLIT_PRO) IF (0 Clitics OR ("<e>"i))
 					 (NEGATE 0 ("<u>"i))
 				     (1 ("<ptcp>"i))
-					 (-1 ("<'>"i))
+					 (-1 ("<['’`´ʹʻʼʽ′’]>"r))
 					 (-2 ("<t>"i))
 					 (-3 ("<për>"i));
 SELECT (CLIT_PRO) IF (0 Clitics OR ("<e>"i))
@@ -548,7 +548,7 @@ SELECT (VB_PART) IF (0 ("<të>"i))
 				    (2 (ptcp))
 					(-1 ("<për>"i) OR ("<me>"i));
 SELECT (VB_PART) IF (0 ("<t>"i))
-					(1 ("<'>"i));
+					(1 ("<['’`´ʹʻʼʽ′’]>"r))
 					(2 Clitics OR ("<mos>"i))
 				    (2 (ptcp))
 					(-1 ("<për>"i) OR ("<me>"i));
@@ -557,7 +557,7 @@ SELECT (VB_PART) IF (0 ("<të>"i))
 				    (2 (ptcp))
 					(-1 ("<për>"i) OR ("<me>"i));
 SELECT (VB_PART) IF (0 ("<t>"i))
-					(1 ("<'>"i));
+					(1 ("<['’`´ʹʻʼʽ′’]>"r))
 					(2 Clitics OR ("<mos>"i))
 				    (3 (ptcp))
 					(-1 ("<për>"i) OR ("<me>"i));
@@ -566,7 +566,7 @@ SELECT (VB_PART) IF (0 ("<të>"i))
 					(2 ("<e>"i) OR ("<i>"i))
 					(-1 ("<për>"i) OR ("<me>"i));
 SELECT (VB_PART) IF (0 ("<t>"i))
-					(1 ("<'>"i));
+					(1 ("<['’`´ʹʻʼʽ′’]>"r))
 					(2 ("<na>"i))
 					(3 ("<e>"i) OR ("<i>"i))
 					(-1 ("<për>"i) OR ("<me>"i));
@@ -576,7 +576,7 @@ SELECT (VB_PART) IF (0 ("<të>"i))
 					(3 ("<e>"i) OR ("<i>"i))
 					(-1 ("<për>"i) OR ("<me>"i));
 SELECT (VB_PART) IF (0 ("<t>"i))
-					(1 ("<'>"i));
+					(1 ("<['’`´ʹʻʼʽ′’]>"r))
 					(1 ("<mos>"i))
 					(2 ("<na>"i))
 					(3 ("<e>"i) OR ("<i>"i))
@@ -610,7 +610,7 @@ SELECT (VB_PART) IF (0 ("të"i))
 SELECT (VB_PART) IF (0 ("<të>"i))
 					(1 ("<na>"i) OR ("<më>"i) OR ("<ma>"i));
 SELECT (VB_PART) IF (0 ("<t>"i))
-					(1 ("<'>"i));
+					(1 ("<['’`´ʹʻʼʽ′’]>"r))
 					(2 ("<iu>"i) OR ("<ua>"i) OR ("<ia>"i));
 					
 # Alb mund: particle vs. verb in aorist vs. noun (resolve in forms with "të", e.g. mund të shkoj, mundi të shpëtonte). Upd 14.05.2025
@@ -619,14 +619,14 @@ SELECT (VB_PART) IF (0 ("<mund>"i))
 					(NEGATE 2 (A) OR (NOUN));
 SELECT (VB_PART) IF (0 ("<mund>"i))
 				    (1 ("<t>"i))
-				    (2 ("<'>"i))
+				    (2 ("<['’`´ʹʻʼʽ′’]>"r))
 					(NEGATE 3 (A) OR (NOUN));
 SELECT (V aor) IF (0 ("<mundi>"i))
 				  (1 ("<të>"i) OR ("<t>"i) OR ("<ta>"i))
 				  (2 (V));
 SELECT (V aor) IF (0 ("<mundi>"i))
 				  (1 ("<t>"i))
-				  (2 ("<'>"i))
+				  (2 ("<['’`´ʹʻʼʽ′’]>"r))
 				  (3 (V));
 
 # Alb do: future particle vs. verb. Upd 09.04.2025
@@ -661,12 +661,12 @@ REMOVE (V) IF (0 ("<ajo>"i));
 
 # Alb verbs after negative particles s' and nuk. 14.05.2025
 SELECT (V) IF (-1 ("<nuk>"i));
-SELECT (V) IF (-1 Clitics OR ("<e>"i));
+SELECT (V) IF (-1 Clitics OR ("<e>"i))
 			  (-2 ("<nuk>"i));
-SELECT (V) IF (-1 ("<'>"i));
+SELECT (V) IF (-1 ("<['’`´ʹʻʼʽ′’]>"r))
 			  (-2 ("<s>"i));
-SELECT (V) IF (-1 Clitics OR ("<e>"i));
-			  (-2 ("<'>"i));
+SELECT (V) IF (-1 Clitics OR ("<e>"i))
+			  (-2 ("<['’`´ʹʻʼʽ′’]>"r))
 			  (-3 ("<s>"i));
 
 # Preposition nga is not a form of the verb ngas.
