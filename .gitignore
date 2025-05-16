@@ -39,3 +39,6 @@ venv/
 ENV/
 uniparser_albanian/data_strict/albanian_disambiguation.cg3
 uniparser_albanian/data_nodiacritics/albanian_disambiguation.cg3
+wordlist_analyzed_nodia.txt
+wordlist_unanalyzed_nodia.txt
+wordlist_nodia.csv

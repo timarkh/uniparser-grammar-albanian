@@ -27,8 +27,11 @@ class AlbanianAnalyzer(Analyzer):
              as_file(files(self.dirName) / 'clitics.txt') as self.cliticFile,\
              as_file(files(self.dirName) / 'bad_analyses.txt') as self.delAnaFile:
             self.load_grammar()
+        self.initialize_parser()
+        self.m.MIN_REPLACEMENT_WORD_LEN = 9
+        self.m.MIN_REPLACEMENT_STEM_LEN = 7
 
-    def analyze_words(self, words, format=None, disambiguate=False):
+    def analyze_words(self, words, format=None, disambiguate=False, replacementsAllowed=0):
         """
         Analyze a single word or a (possibly nested) list of words. Return either a list of
         analyses (all possible analyses of the word) or a nested list of lists
@@ -42,8 +45,8 @@ class AlbanianAnalyzer(Analyzer):
             with as_file(files(self.dirName) / 'albanian_disambiguation.cg3') as cgFile:
                 cgFilePath = str(cgFile)
                 return super().analyze_words(words, format=format, disambiguate=True,
-                                             cgFile=cgFilePath)
-        return super().analyze_words(words, format=format, disambiguate=False)
+                                             cgFile=cgFilePath, replacementsAllowed=replacementsAllowed)
+        return super().analyze_words(words, format=format, disambiguate=False, replacementsAllowed=replacementsAllowed)
 
 
 if __name__ == '__main__':
