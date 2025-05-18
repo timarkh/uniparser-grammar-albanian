@@ -5,7 +5,7 @@
  paradigm: 5a
  keep_lex_data: brackets
  trans_en: NMLZ
- gramm: NOUN,mf,inanim,deriv
+ gramm: NOUN,mf,inanim,deriv,autoderiv
 
 -deriv-type: mos-N-im
  lex: <3>mos[.]im
@@ -14,7 +14,7 @@
  paradigm: 5a
  keep_lex_data: brackets
  trans_en: non-, un-; NMLZ
- gramm: NOUN,mf,inanim,deriv
+ gramm: NOUN,mf,inanim,deriv,autoderiv
 
 -deriv-type: de-N-im
  lex: <3>de[.]im
@@ -23,7 +23,7 @@
  paradigm: 5a
  keep_lex_data: brackets
  trans_en: de-; NMLZ
- gramm: NOUN,mf,inanim,deriv
+ gramm: NOUN,mf,inanim,deriv,autoderiv
 
 -deriv-type: pa-A-1
  lex: <0>pa[.]
@@ -34,7 +34,7 @@
  paradigm: adj-1-2-a
  paradigm: adj-2-1
  paradigm: adj-2-2
- gramm: +deriv
+ gramm: +deriv,autoderiv
 
 -deriv-type: pa-A-2
  lex: <0>pa[.]
@@ -42,7 +42,7 @@
  paradigm: adj-3-1
  paradigm: adj-3-2
  keep_lex_data: brackets
- gramm: +deriv
+ gramm: +deriv,autoderiv
 
 -deriv-type: mos-A-1
  lex: <0>mos[.]
@@ -53,7 +53,7 @@
  paradigm: adj-1-2-a
  paradigm: adj-2-1
  paradigm: adj-2-2
- gramm: +deriv
+ gramm: +deriv,autoderiv
  keep_lex_data: brackets
  trans_en: un-, in-, -less
 
@@ -62,7 +62,7 @@
  stem: <0>mos[.].
  paradigm: adj-3-1
  paradigm: adj-3-2
- gramm: +deriv
+ gramm: +deriv,autoderiv
  keep_lex_data: brackets
  trans_en: un-, in-, -less
 
@@ -75,7 +75,7 @@
  paradigm: adj-1-2-a
  paradigm: adj-2-1
  paradigm: adj-2-2
- gramm: +deriv
+ gramm: +deriv,autoderiv
  keep_lex_data: brackets
  trans_en: re-
 
@@ -84,7 +84,7 @@
  stem: <0>ri[.].
  paradigm: adj-3-1
  paradigm: adj-3-2
- gramm: +deriv
+ gramm: +deriv,autoderiv
  keep_lex_data: brackets
  trans_en: re-
 
@@ -93,7 +93,7 @@
  stem: <0>ri[.].|<1>ri[.].|<2>ri[.].|<3>ri[.].
  paradigm: lexoj
  paradigm: kthej
- gramm: +deriv
+ gramm: +deriv,autoderiv
  keep_lex_data: brackets
  trans_en: re-
 
@@ -102,7 +102,7 @@
  stem: <0>ri[.].|<1>ri[.].|<2>ri[.].|<3>ri[.].
  paradigm: lexoj-1
  paradigm: kthej-1
- gramm: V,med,deriv
+ gramm: V,med,deriv,autoderiv
  keep_lex_data: brackets
  trans_en: re-
 
@@ -111,7 +111,7 @@
  stem: <0>mos[.].|<1>mos[.].|<2>mos[.].|<3>mos[.].
  paradigm: lexoj
  paradigm: kthej
- gramm: +deriv
+ gramm: +deriv,autoderiv
  keep_lex_data: brackets
  trans_en: non-, un-
 
@@ -120,7 +120,7 @@
  stem: <0>mos[.].|<1>mos[.].|<2>mos[.].|<3>mos[.].
  paradigm: lexoj-1
  paradigm: kthej-1
- gramm: V,med,deriv
+ gramm: V,med,deriv,autoderiv
  keep_lex_data: brackets
  trans_en: non-, un-
 
@@ -129,7 +129,7 @@
  stem: <0>de[.].|<1>de[.].|<2>de[.].|<3>de[.].
  paradigm: lexoj
  paradigm: kthej
- gramm: +deriv
+ gramm: +deriv,autoderiv
  keep_lex_data: brackets
  trans_en: de-
 
@@ -138,7 +138,7 @@
  stem: <0>de[.].|<1>de[.].|<2>de[.].|<3>de[.].
  paradigm: lexoj-1
  paradigm: kthej-1
- gramm: V,med,deriv
+ gramm: V,med,deriv,autoderiv
  keep_lex_data: brackets
  trans_en: de-
 
@@ -147,6 +147,6 @@
  stem: <0>ri[.].|<1>ri[.].|<2>ri[.].|<3>ri[.].
  paradigm: 3b
  paradigm: 5a
- gramm: NOUN,f,inanim,deriv
+ gramm: NOUN,f,inanim,deriv,autoderiv
  keep_lex_data: brackets
  trans_en: re-
